@@ -1,6 +1,1928 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 06 19:05:56 +0000 2018",
+		"id": 949718693948350500,
+		"id_str": "949718693948350464",
+		"text": "RT @samplereality: Or is it creepily right...Here’s Sarah Watson’s piece on the uncanny valley of personalization #MLA18 #s583 https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MLA18",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "s583",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samplereality",
+					"name": "Mark Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 19:04:46 +0000 2018",
+			"id": 949718400363843600,
+			"id_str": "949718400363843584",
+			"text": "Or is it creepily right...Here’s Sarah Watson’s piece on the uncanny valley of personalization #MLA18 #s583 https://t.co/xIRsfbjQTJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MLA18",
+						"indices": [
+							95,
+							101
+						]
+					},
+					{
+						"text": "s583",
+						"indices": [
+							102,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xIRsfbjQTJ",
+						"expanded_url": "https://www.theatlantic.com/technology/archive/2014/06/data-doppelgangers-and-the-uncanny-valley-of-personalization/372780/",
+						"display_url": "theatlantic.com/technology/arc…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+			"in_reply_to_status_id": 949717123110187000,
+			"in_reply_to_status_id_str": "949717123110187008",
+			"in_reply_to_user_id": 8497292,
+			"in_reply_to_user_id_str": "8497292",
+			"in_reply_to_screen_name": "samplereality",
+			"user": {
+				"id": 8497292,
+				"id_str": "8497292",
+				"name": "Mark Sample",
+				"screen_name": "samplereality",
+				"location": "This Land Is Your Land",
+				"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. Nazi hunter. I have 7 free New York Times articles left this month.",
+				"url": "https://t.co/jzW78xdOk4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jzW78xdOk4",
+								"expanded_url": "http://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8095,
+				"friends_count": 1090,
+				"listed_count": 509,
+				"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+				"favourites_count": 0,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3B3B3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433932341157691392/BvtY9evi.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+				"profile_link_color": "236299",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 19:03:37 +0000 2018",
+		"id": 949718110793322500,
+		"id_str": "949718110793322497",
+		"text": "So apparently companies will introduce wrong results into what it recommends you, so that it won’t feel too uncanny… https://t.co/5yX1da4XRp",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5yX1da4XRp",
+					"expanded_url": "https://twitter.com/i/web/status/949718110793322497",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 949717061340729300,
+		"quoted_status_id_str": "949717061340729346",
+		"quoted_status": {
+			"created_at": "Sat Jan 06 18:59:26 +0000 2018",
+			"id": 949717061340729300,
+			"id_str": "949717061340729346",
+			"text": "Hence why when big data gets *too* personal it verges into the uncanny and creepy. #MLA18 #s583",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MLA18",
+						"indices": [
+							83,
+							89
+						]
+					},
+					{
+						"text": "s583",
+						"indices": [
+							90,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 949716854758617100,
+			"in_reply_to_status_id_str": "949716854758617088",
+			"in_reply_to_user_id": 1478357942,
+			"in_reply_to_user_id_str": "1478357942",
+			"in_reply_to_screen_name": "jeffreymoro",
+			"user": {
+				"id": 1478357942,
+				"id_str": "1478357942",
+				"name": "Jeffrey Moro",
+				"screen_name": "jeffreymoro",
+				"location": "",
+				"description": "PhD student in digital studies at @UMDEnglish; infrastructure, ecology, textuality; previous: @5collDH",
+				"url": "https://t.co/uP6LfVBf0L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uP6LfVBf0L",
+								"expanded_url": "https://jeffreymoro.com",
+								"display_url": "jeffreymoro.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 451,
+				"friends_count": 539,
+				"listed_count": 23,
+				"created_at": "Sun Jun 02 22:34:06 +0000 2013",
+				"favourites_count": 1965,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6113,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918667468708679681/QEXi3_En_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918667468708679681/QEXi3_En_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1478357942/1507862619",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 19:01:14 +0000 2018",
+		"id": 949717513155366900,
+		"id_str": "949717513155366913",
+		"text": "@samplereality Wasn’t this her term when they get it too right, and so that’s why companies introduce deliberately… https://t.co/bkclTcb8xw",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samplereality",
+					"name": "Mark Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bkclTcb8xw",
+					"expanded_url": "https://twitter.com/i/web/status/949717513155366913",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 949717123110187000,
+		"in_reply_to_status_id_str": "949717123110187008",
+		"in_reply_to_user_id": 8497292,
+		"in_reply_to_user_id_str": "8497292",
+		"in_reply_to_screen_name": "samplereality",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 18:51:45 +0000 2018",
+		"id": 949715126751584300,
+		"id_str": "949715126751584256",
+		"text": "This is so incredibly disturbing. https://t.co/thAHIrtSBy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/thAHIrtSBy",
+					"expanded_url": "https://twitter.com/john_overholt/status/949676713197363200",
+					"display_url": "twitter.com/john_overholt/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 949676713197363200,
+		"quoted_status_id_str": "949676713197363200",
+		"quoted_status": {
+			"created_at": "Sat Jan 06 16:19:07 +0000 2018",
+			"id": 949676713197363200,
+			"id_str": "949676713197363200",
+			"text": "Yes but... that's the... *brain melts* https://t.co/d5fAYtExHS https://t.co/fr1nXZBmIh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d5fAYtExHS",
+						"expanded_url": "http://bgsucac.tumblr.com/post/167741385135/diy-folio-printing",
+						"display_url": "bgsucac.tumblr.com/post/167741385…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 949676662127505400,
+						"id_str": "949676662127505408",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DS3t5IGWsAAoEIi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS3t5IGWsAAoEIi.jpg",
+						"url": "https://t.co/fr1nXZBmIh",
+						"display_url": "pic.twitter.com/fr1nXZBmIh",
+						"expanded_url": "https://twitter.com/john_overholt/status/949676713197363200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 690,
+								"h": 597,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 690,
+								"h": 597,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949676662127505400,
+						"id_str": "949676662127505408",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DS3t5IGWsAAoEIi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS3t5IGWsAAoEIi.jpg",
+						"url": "https://t.co/fr1nXZBmIh",
+						"display_url": "pic.twitter.com/fr1nXZBmIh",
+						"expanded_url": "https://twitter.com/john_overholt/status/949676713197363200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 690,
+								"h": 597,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 690,
+								"h": 597,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89477148,
+				"id_str": "89477148",
+				"name": "John Overholt",
+				"screen_name": "john_overholt",
+				"location": "Cambridge, MA",
+				"description": "Curator of Early Modern Books & Manuscripts, Houghton Library, Harvard University. He/him",
+				"url": "https://t.co/d5qeDpYMtj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d5qeDpYMtj",
+								"expanded_url": "http://library.harvard.edu/hou",
+								"display_url": "library.harvard.edu/hou",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15404,
+				"friends_count": 574,
+				"listed_count": 674,
+				"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+				"favourites_count": 10938,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36542,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 18:51:02 +0000 2018",
+		"id": 949714946518126600,
+		"id_str": "949714946518126592",
+		"text": "@john_overholt But… I mean…. quarto…. omfg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_overholt",
+					"name": "John Overholt",
+					"id": 89477148,
+					"id_str": "89477148",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949712437619712000,
+		"in_reply_to_status_id_str": "949712437619712000",
+		"in_reply_to_user_id": 89477148,
+		"in_reply_to_user_id_str": "89477148",
+		"in_reply_to_screen_name": "john_overholt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 04:09:04 +0000 2018",
+		"id": 949492989201670100,
+		"id_str": "949492989201670144",
+		"text": "Oh thank god the thing I’ve been worrying about since 1:30 is now taken care of and I can finally relax and go the eff to sleep",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 04:07:41 +0000 2018",
+		"id": 949492642878054400,
+		"id_str": "949492642878054401",
+		"text": "@hels Ahahaaa omg this is awesome and also HAPPY EARLY BIRTHDAY 🐝 🐝 🐝",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949492353848561700,
+		"in_reply_to_status_id_str": "949492353848561664",
+		"in_reply_to_user_id": 15676413,
+		"in_reply_to_user_id_str": "15676413",
+		"in_reply_to_screen_name": "hels",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 03:51:33 +0000 2018",
+		"id": 949488585031471100,
+		"id_str": "949488585031471104",
+		"text": "I am very tired and I almost tweeted the most sappy thing but then I did not.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 03:46:22 +0000 2018",
+		"id": 949487278958792700,
+		"id_str": "949487278958792706",
+		"text": "@stephitaph Like all the best women",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephitaph",
+					"name": "Cool Ranch Baby, Associate Bastard",
+					"id": 276524792,
+					"id_str": "276524792",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949487047575789600,
+		"in_reply_to_status_id_str": "949487047575789568",
+		"in_reply_to_user_id": 276524792,
+		"in_reply_to_user_id_str": "276524792",
+		"in_reply_to_screen_name": "stephitaph",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 03:45:39 +0000 2018",
+		"id": 949487099580907500,
+		"id_str": "949487099580907520",
+		"text": "@sashax Ooh, no, will try it!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sashax",
+					"name": "sasha magee",
+					"id": 15732567,
+					"id_str": "15732567",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949482917436129300,
+		"in_reply_to_status_id_str": "949482917436129282",
+		"in_reply_to_user_id": 15732567,
+		"in_reply_to_user_id_str": "15732567",
+		"in_reply_to_screen_name": "sashax",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 03:22:06 +0000 2018",
+		"id": 949481171532083200,
+		"id_str": "949481171532083200",
+		"text": "@sashax I noticed that too! But at least we both read and liked Ancilalry Justice.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sashax",
+					"name": "sasha magee",
+					"id": 15732567,
+					"id_str": "15732567",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949480814982524900,
+		"in_reply_to_status_id_str": "949480814982524929",
+		"in_reply_to_user_id": 15732567,
+		"in_reply_to_user_id_str": "15732567",
+		"in_reply_to_screen_name": "sashax",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 03:14:21 +0000 2018",
+		"id": 949479219855282200,
+		"id_str": "949479219855282176",
+		"text": "@stephitaph Ahahaaa I am not Ian oops",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephitaph",
+					"name": "Cool Ranch Baby, Associate Bastard",
+					"id": 276524792,
+					"id_str": "276524792",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949478712503951400,
+		"in_reply_to_status_id_str": "949478712503951360",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 03:12:20 +0000 2018",
+		"id": 949478712503951400,
+		"id_str": "949478712503951360",
+		"text": "@stephitaph I love your 3yo and Ian glad I am not her mom",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephitaph",
+					"name": "Cool Ranch Baby, Associate Bastard",
+					"id": 276524792,
+					"id_str": "276524792",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949476594132881400,
+		"in_reply_to_status_id_str": "949476594132881410",
+		"in_reply_to_user_id": 276524792,
+		"in_reply_to_user_id_str": "276524792",
+		"in_reply_to_screen_name": "stephitaph",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 03:11:20 +0000 2018",
+		"id": 949478461407625200,
+		"id_str": "949478461407625216",
+		"text": "@sashax Really? I wanted to love this book and I did not. Maybe I was grumpy? Oh well.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sashax",
+					"name": "sasha magee",
+					"id": 15732567,
+					"id_str": "15732567",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 949462753835495400,
+		"in_reply_to_status_id_str": "949462753835495424",
+		"in_reply_to_user_id": 15732567,
+		"in_reply_to_user_id_str": "15732567",
+		"in_reply_to_screen_name": "sashax",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 06 02:58:46 +0000 2018",
+		"id": 949475299359645700,
+		"id_str": "949475299359645696",
+		"text": "@Jay_Moschella omg jay",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jay_Moschella",
+					"name": "Jay Moschella",
+					"id": 3012531179,
+					"id_str": "3012531179",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 949426446681993200,
+		"in_reply_to_status_id_str": "949426446681993216",
+		"in_reply_to_user_id": 3012531179,
+		"in_reply_to_user_id_str": "3012531179",
+		"in_reply_to_screen_name": "Jay_Moschella",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | distracted by volvelles",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7000,
+			"friends_count": 421,
+			"listed_count": 395,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9207,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 05 22:45:09 +0000 2018",
 		"id": 949411473293496300,
 		"id_str": "949411473293496322",
