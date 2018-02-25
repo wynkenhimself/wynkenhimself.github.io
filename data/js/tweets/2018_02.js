@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 24 21:22:34 +0000 2018",
+		"id": 967510087119056900,
+		"id_str": "967510087119056896",
+		"text": "RT @Jay_Moschella: Some things BPL Rare Books has digitized in recent weeks \n\nMedieval MSS leaves: https://t.co/PUjOdakYvy\nHebrew incunable…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jay_Moschella",
+					"name": "Jay Moschella",
+					"id": 3012531179,
+					"id_str": "3012531179",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PUjOdakYvy",
+					"expanded_url": "https://goo.gl/SFpS4C",
+					"display_url": "goo.gl/SFpS4C",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | “a book genie in a twitterbottle” | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7133,
+			"friends_count": 427,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9466,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 24 20:59:52 +0000 2018",
+			"id": 967504374770651100,
+			"id_str": "967504374770651136",
+			"text": "Some things BPL Rare Books has digitized in recent weeks \n\nMedieval MSS leaves: https://t.co/PUjOdakYvy\nHebrew incu… https://t.co/HdWaKOcagp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PUjOdakYvy",
+						"expanded_url": "https://goo.gl/SFpS4C",
+						"display_url": "goo.gl/SFpS4C",
+						"indices": [
+							80,
+							103
+						]
+					},
+					{
+						"url": "https://t.co/HdWaKOcagp",
+						"expanded_url": "https://twitter.com/i/web/status/967504374770651136",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3012531179,
+				"id_str": "3012531179",
+				"name": "Jay Moschella",
+				"screen_name": "Jay_Moschella",
+				"location": "Roslindale, Boston",
+				"description": "Curator of Rare Books at the Boston Public Library, banjo maker, bicycle commuter, scrabble addict, greyhound aficionado (opinions and typos are my own)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1714,
+				"friends_count": 271,
+				"listed_count": 47,
+				"created_at": "Mon Feb 02 16:49:42 +0000 2015",
+				"favourites_count": 1303,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 659,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760502468128243712/ogn5pSbC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760502468128243712/ogn5pSbC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3012531179/1469572867",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 24 21:21:50 +0000 2018",
+		"id": 967509901038768100,
+		"id_str": "967509901038768129",
+		"text": "RT @UNC_Librarian: Ms. Parker is an ardent supporter of @UNCLibrary and we appreciate that!   Her story is quite powerful. #dopeness  #insp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dopeness",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNC_Librarian",
+					"name": "Elaine L Westbrooks",
+					"id": 13021222,
+					"id_str": "13021222",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "UNCLibrary",
+					"name": "UNC Library",
+					"id": 40922306,
+					"id_str": "40922306",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, Shakespeare, early modern things meet digital tools | writing a handbook about hand-press books | “a book genie in a twitterbottle” | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7133,
+			"friends_count": 427,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 9466,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52527,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065495352/57e11aa1c5567b5d20bdeb1a657744fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 24 15:50:58 +0000 2018",
+			"id": 967426637074714600,
+			"id_str": "967426637074714626",
+			"text": "Ms. Parker is an ardent supporter of @UNCLibrary and we appreciate that!   Her story is quite powerful. #dopeness… https://t.co/wOrimlz30i",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dopeness",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UNCLibrary",
+						"name": "UNC Library",
+						"id": 40922306,
+						"id_str": "40922306",
+						"indices": [
+							37,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wOrimlz30i",
+						"expanded_url": "https://twitter.com/i/web/status/967426637074714626",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13021222,
+				"id_str": "13021222",
+				"name": "Elaine L Westbrooks",
+				"screen_name": "UNC_Librarian",
+				"location": "Chapel Hill, NC",
+				"description": "University Librarian, University of North Carolina Chapel Hill, bibliophile, jazz lover, OA proponent, gardener, bowler, hole in one golfer, Steeler Nation",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1442,
+				"friends_count": 3730,
+				"listed_count": 44,
+				"created_at": "Sun Feb 03 21:13:43 +0000 2008",
+				"favourites_count": 937,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1311,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885660190087016448/4o3tPeMR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885660190087016448/4o3tPeMR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13021222/1499992939",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 967398709855060000,
+			"quoted_status_id_str": "967398709855059968",
+			"quoted_status": {
+				"created_at": "Sat Feb 24 14:00:00 +0000 2018",
+				"id": 967398709855060000,
+				"id_str": "967398709855059968",
+				"text": "Karen Parker was the first black undergraduate woman to attend UNC Chapel Hill. The diary where she recorded her ex… https://t.co/MVge7ZQJu0",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/MVge7ZQJu0",
+							"expanded_url": "https://twitter.com/i/web/status/967398709855059968",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4871794468,
+					"id_str": "4871794468",
+					"name": "UNC Archives",
+					"screen_name": "uncarchives",
+					"location": "Chapel Hill, NC",
+					"description": "University Archives at UNC-Chapel Hill, part of UNC's Wilson Special Collections Library. Questions about Carolina history? Ask us!",
+					"url": "https://t.co/BK3Tk81cAy",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/BK3Tk81cAy",
+									"expanded_url": "http://library.unc.edu/wilson/uarms/",
+									"display_url": "library.unc.edu/wilson/uarms/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2541,
+					"friends_count": 293,
+					"listed_count": 39,
+					"created_at": "Tue Feb 02 13:30:54 +0000 2016",
+					"favourites_count": 505,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1300,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/879722961632153606/AMPpddkr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/879722961632153606/AMPpddkr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4871794468/1498577257",
+					"profile_link_color": "91D2FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 25,
+				"favorite_count": 75,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 967398709855060000,
+		"quoted_status_id_str": "967398709855059968",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 23 16:27:36 +0000 2018",
 		"id": 967073466666176500,
 		"id_str": "967073466666176514",
