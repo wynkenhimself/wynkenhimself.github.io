@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 11 23:08:46 +0000 2018",
+		"id": 1017183951184711700,
+		"id_str": "1017183951184711681",
+		"text": "@atrubek Oh, Anne. This world sometimes, even our own neighborhoods.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atrubek",
+					"name": "Anne Trubek",
+					"id": 25105016,
+					"id_str": "25105016",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1017178478096146400,
+		"in_reply_to_status_id_str": "1017178478096146434",
+		"in_reply_to_user_id": 25105016,
+		"in_reply_to_user_id_str": "25105016",
+		"in_reply_to_screen_name": "atrubek",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, facsimiles, early modern things meet digital tools | writing a handbook about hand-press books | https://t.co/FajoQ4YhUL | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FajoQ4YhUL",
+							"expanded_url": "http://earlyprintedbooks.com",
+							"display_url": "earlyprintedbooks.com",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7438,
+			"friends_count": 437,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 10738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 20:01:23 +0000 2018",
+		"id": 1017136794184355800,
+		"id_str": "1017136794184355840",
+		"text": "RT @paul_haine: I want to see this detective series https://t.co/8eyTOrwjIB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paul_haine",
+					"name": "Paul Haine",
+					"id": 84177126,
+					"id_str": "84177126",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015665603078651900,
+					"id_str": "1015665603078651904",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+					"url": "https://t.co/8eyTOrwjIB",
+					"display_url": "pic.twitter.com/8eyTOrwjIB",
+					"expanded_url": "https://twitter.com/paul_haine/status/1015665606878785537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015665606878785500,
+					"source_status_id_str": "1015665606878785537",
+					"source_user_id": 84177126,
+					"source_user_id_str": "84177126"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015665603078651900,
+					"id_str": "1015665603078651904",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+					"url": "https://t.co/8eyTOrwjIB",
+					"display_url": "pic.twitter.com/8eyTOrwjIB",
+					"expanded_url": "https://twitter.com/paul_haine/status/1015665606878785537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015665606878785500,
+					"source_status_id_str": "1015665606878785537",
+					"source_user_id": 84177126,
+					"source_user_id_str": "84177126"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, facsimiles, early modern things meet digital tools | writing a handbook about hand-press books | https://t.co/FajoQ4YhUL | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FajoQ4YhUL",
+							"expanded_url": "http://earlyprintedbooks.com",
+							"display_url": "earlyprintedbooks.com",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7438,
+			"friends_count": 437,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 10738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 07 18:35:25 +0000 2018",
+			"id": 1015665606878785500,
+			"id_str": "1015665606878785537",
+			"text": "I want to see this detective series https://t.co/8eyTOrwjIB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015665603078651900,
+						"id_str": "1015665603078651904",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+						"url": "https://t.co/8eyTOrwjIB",
+						"display_url": "pic.twitter.com/8eyTOrwjIB",
+						"expanded_url": "https://twitter.com/paul_haine/status/1015665606878785537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 384,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 384,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 384,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015665603078651900,
+						"id_str": "1015665603078651904",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhhefBoWAAAcsAv.jpg",
+						"url": "https://t.co/8eyTOrwjIB",
+						"display_url": "pic.twitter.com/8eyTOrwjIB",
+						"expanded_url": "https://twitter.com/paul_haine/status/1015665606878785537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 384,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 384,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 384,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84177126,
+				"id_str": "84177126",
+				"name": "Paul Haine",
+				"screen_name": "paul_haine",
+				"location": "London, UK",
+				"description": "Socially liberal, fiscally Millennial. Short film reviews on Monday. Longer things at my website",
+				"url": "https://t.co/JKWfQ45spj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JKWfQ45spj",
+								"expanded_url": "http://joeblade.com",
+								"display_url": "joeblade.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3491,
+				"friends_count": 267,
+				"listed_count": 238,
+				"created_at": "Wed Oct 21 22:18:56 +0000 2009",
+				"favourites_count": 4473,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57737,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798628680180318208/rpOdhmWR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798628680180318208/rpOdhmWR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84177126/1356804174",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1823,
+			"favorite_count": 6664,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1823,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 11 02:05:57 +0000 2018",
+		"id": 1016866151035539500,
+		"id_str": "1016866151035539456",
+		"text": "RT @subsublibrary: Join my team @Wikimedia! We’re thrilled to be creating this role entirely focused on underrepresented + marginalized kno…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "subsublibrary",
+					"name": "Ben Vershbow",
+					"id": 193063049,
+					"id_str": "193063049",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "Wikimedia",
+					"name": "Wikimedia",
+					"id": 86390762,
+					"id_str": "86390762",
+					"indices": [
+						32,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, facsimiles, early modern things meet digital tools | writing a handbook about hand-press books | https://t.co/FajoQ4YhUL | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FajoQ4YhUL",
+							"expanded_url": "http://earlyprintedbooks.com",
+							"display_url": "earlyprintedbooks.com",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7438,
+			"friends_count": 437,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 10738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 18:14:57 +0000 2018",
+			"id": 1016747620914683900,
+			"id_str": "1016747620914683905",
+			"text": "Join my team @Wikimedia! We’re thrilled to be creating this role entirely focused on underrepresented + marginalize… https://t.co/5CrLf0e3dQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Wikimedia",
+						"name": "Wikimedia",
+						"id": 86390762,
+						"id_str": "86390762",
+						"indices": [
+							13,
+							23
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5CrLf0e3dQ",
+						"expanded_url": "https://twitter.com/i/web/status/1016747620914683905",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193063049,
+				"id_str": "193063049",
+				"name": "Ben Vershbow",
+				"screen_name": "subsublibrary",
+				"location": "Brooklyn, NY",
+				"description": "Open knowledge advocate. New dad. Libraries, education, and cultural heritage guy @Wikimedia. Alum @nypl_labs, Institute for the Future of the Book. (views=own)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2448,
+				"friends_count": 1697,
+				"listed_count": 131,
+				"created_at": "Mon Sep 20 21:49:56 +0000 2010",
+				"favourites_count": 1175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2166,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1251454027/doppelganger_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251454027/doppelganger_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193063049/1476331198",
+				"profile_link_color": "0A7EBD",
+				"profile_sidebar_border_color": "0A7EBD",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "2B2A2B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 10 21:44:05 +0000 2018",
 		"id": 1016800250391093200,
 		"id_str": "1016800250391093254",
