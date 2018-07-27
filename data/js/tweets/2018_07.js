@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 26 09:31:35 +0000 2018",
+		"id": 1022414115426521100,
+		"id_str": "1022414115426521089",
+		"text": "A lovely account of @B4Shakes and the power and joy of engagement and outreach https://t.co/Ip46JYOTnK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "B4Shakes",
+					"name": "Before Shakespeare",
+					"id": 2885879248,
+					"id_str": "2885879248",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ip46JYOTnK",
+					"expanded_url": "https://twitter.com/lukemckernan/status/1022374564871987201",
+					"display_url": "twitter.com/lukemckernan/s…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, facsimiles, early modern things meet digital tools | writing a handbook about hand-press books | https://t.co/FajoQ4YhUL | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FajoQ4YhUL",
+							"expanded_url": "http://earlyprintedbooks.com",
+							"display_url": "earlyprintedbooks.com",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7468,
+			"friends_count": 441,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1022374564871987200,
+		"quoted_status_id_str": "1022374564871987201",
+		"quoted_status": {
+			"created_at": "Thu Jul 26 06:54:25 +0000 2018",
+			"id": 1022374564871987200,
+			"id_str": "1022374564871987201",
+			"text": "Before Shakespeare, and after https://t.co/pka1q2uiWM https://t.co/V5X3KPx9zQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pka1q2uiWM",
+						"expanded_url": "http://lukemckernan.com/2018/07/25/before-shakespeare-and-after/",
+						"display_url": "lukemckernan.com/2018/07/25/bef…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1022373842432520200,
+						"id_str": "1022373842432520192",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DjAzl8nXcAAPCJn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjAzl8nXcAAPCJn.jpg",
+						"url": "https://t.co/V5X3KPx9zQ",
+						"display_url": "pic.twitter.com/V5X3KPx9zQ",
+						"expanded_url": "https://twitter.com/lukemckernan/status/1022374564871987201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 566,
+								"h": 271,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 566,
+								"h": 271,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 566,
+								"h": 271,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022373842432520200,
+						"id_str": "1022373842432520192",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DjAzl8nXcAAPCJn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjAzl8nXcAAPCJn.jpg",
+						"url": "https://t.co/V5X3KPx9zQ",
+						"display_url": "pic.twitter.com/V5X3KPx9zQ",
+						"expanded_url": "https://twitter.com/lukemckernan/status/1022374564871987201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 566,
+								"h": 271,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 566,
+								"h": 271,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 566,
+								"h": 271,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1022373871113199600,
+						"id_str": "1022373871113199616",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DjAznndX4AApzYg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjAznndX4AApzYg.jpg",
+						"url": "https://t.co/V5X3KPx9zQ",
+						"display_url": "pic.twitter.com/V5X3KPx9zQ",
+						"expanded_url": "https://twitter.com/lukemckernan/status/1022374564871987201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 553,
+								"h": 310,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 553,
+								"h": 310,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 553,
+								"h": 310,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24355642,
+				"id_str": "24355642",
+				"name": "Luke McKernan",
+				"screen_name": "lukemckernan",
+				"location": "London & Rochester",
+				"description": "Moving images, news about news, and random stuff, from Luke McKernan,  Lead Curator, News & Moving Image, British Library",
+				"url": "http://t.co/rE9reWmjpC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rE9reWmjpC",
+								"expanded_url": "http://lukemckernan.com",
+								"display_url": "lukemckernan.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2340,
+				"friends_count": 789,
+				"listed_count": 126,
+				"created_at": "Sat Mar 14 10:57:41 +0000 2009",
+				"favourites_count": 338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13746,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/673372371/eye_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/673372371/eye_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24355642/1355441277",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 26 09:19:25 +0000 2018",
+		"id": 1022411054855462900,
+		"id_str": "1022411054855462913",
+		"text": "RT @readingroomjrnl: Librarians! Interested in publishing in an open-access journal about special collections? We're accepting proposals! h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "readingroomjrnl",
+					"name": "Reading Room Journal",
+					"id": 2800731268,
+					"id_str": "2800731268",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "books, libraries, facsimiles, early modern things meet digital tools | writing a handbook about hand-press books | https://t.co/FajoQ4YhUL | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FajoQ4YhUL",
+							"expanded_url": "http://earlyprintedbooks.com",
+							"display_url": "earlyprintedbooks.com",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7468,
+			"friends_count": 441,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 24 18:14:09 +0000 2018",
+			"id": 1021820850130047000,
+			"id_str": "1021820850130046977",
+			"text": "Librarians! Interested in publishing in an open-access journal about special collections? We're accepting proposals! https://t.co/GL8LLQDC8X",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GL8LLQDC8X",
+						"expanded_url": "http://readingroom.lib.buffalo.edu/readingroom/",
+						"display_url": "readingroom.lib.buffalo.edu/readingroom/",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2800731268,
+				"id_str": "2800731268",
+				"name": "Reading Room Journal",
+				"screen_name": "readingroomjrnl",
+				"location": "The internet (open access!)",
+				"description": "The Reading Room : A Journal of Special Collection",
+				"url": "http://t.co/Y5GeJo38x8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Y5GeJo38x8",
+								"expanded_url": "http://readingroom.lib.buffalo.edu/readingroom/",
+								"display_url": "readingroom.lib.buffalo.edu/readingroom/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175,
+				"friends_count": 49,
+				"listed_count": 9,
+				"created_at": "Thu Oct 02 19:59:27 +0000 2014",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522871620356956161/Ls4aBlev_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522871620356956161/Ls4aBlev_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2800731268/1413304746",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 25 12:07:08 +0000 2018",
 		"id": 1022090875147575300,
 		"id_str": "1022090875147575298",
