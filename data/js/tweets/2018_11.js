@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 10 15:40:22 +0000 2018",
+		"id": 1061282425051983900,
+		"id_str": "1061282425051983872",
+		"full_text": "One week from right now, the Proud Boys and other white supremacist groups are coming to rally in Philadelphia, right outside the National Museum of American Jewish History. This is unacceptable. https://t.co/FLGOux101H https://t.co/2reOv4xGs3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FLGOux101H",
+					"expanded_url": "https://www.facebook.com/events/171281213803986/?notif_t=plan_user_associated&notif_id=1541814112548077",
+					"display_url": "facebook.com/events/1712812…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061282115994574800,
+					"id_str": "1061282115994574849",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/DrpudipU4AEIMLG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrpudipU4AEIMLG.jpg",
+					"url": "https://t.co/2reOv4xGs3",
+					"display_url": "pic.twitter.com/2reOv4xGs3",
+					"expanded_url": "https://twitter.com/BigMeanInternet/status/1061282425051983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 930,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1186,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061282115994574800,
+					"id_str": "1061282115994574849",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/DrpudipU4AEIMLG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrpudipU4AEIMLG.jpg",
+					"url": "https://t.co/2reOv4xGs3",
+					"display_url": "pic.twitter.com/2reOv4xGs3",
+					"expanded_url": "https://twitter.com/BigMeanInternet/status/1061282425051983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 930,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1186,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 205360130,
+			"id_str": "205360130",
+			"name": "Malcolm Harris",
+			"screen_name": "BigMeanInternet",
+			"location": "Philadelphia, PA",
+			"description": "author of KIDS THESE DAYS: HUMAN CAPITAL AND THE MAKING OF MILLENNIALS malcolmpharris@gmail ☭  (not actually mean mostly)",
+			"url": "https://t.co/cc2wKv0VVa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cc2wKv0VVa",
+							"expanded_url": "https://www.amazon.com/Kids-These-Days-Capital-Millennials/dp/0316510866",
+							"display_url": "amazon.com/Kids-These-Day…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16070,
+			"friends_count": 1586,
+			"listed_count": 424,
+			"created_at": "Wed Oct 20 18:08:07 +0000 2010",
+			"favourites_count": 25781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039235767959080960/4EwRko3k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039235767959080960/4EwRko3k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/205360130/1401547719",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2001,
+		"favorite_count": 1663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One week from right now, the Proud Boys and other white supremacist groups are coming to rally in Philadelphia, right outside the National Museum of American Jewish History. This is unacceptable. https://t.co/FLGOux101H https://t.co/2reOv4xGs3"
+	},
+	{
+		"created_at": "Sat Nov 10 12:54:04 +0000 2018",
+		"id": 1061240573917462500,
+		"id_str": "1061240573917462528",
+		"full_text": "Sisters — and those who love us, Please read this full thread by the President of the NAACP Legal Defense Fund. #EnoughisEnough https://t.co/1bVhHqLqwD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EnoughisEnough",
+					"indices": [
+						112,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1bVhHqLqwD",
+					"expanded_url": "https://twitter.com/sifill_ldf/status/1061107885713903616",
+					"display_url": "twitter.com/sifill_ldf/sta…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14982804,
+			"id_str": "14982804",
+			"name": "Ava DuVernay",
+			"screen_name": "ava",
+			"location": "Los Angeles",
+			"description": "Mother of 10: Central Park 5, Wrinkle in Time, Queen Sugar, Selma, Middle of Nowhere, 13th, Venus VS, I Will Follow, My Mic Sounds Nice, This is The Life. xo",
+			"url": "https://t.co/UOD1aQDpG4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UOD1aQDpG4",
+							"expanded_url": "http://www.arraynow.com",
+							"display_url": "arraynow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2020649,
+			"friends_count": 12103,
+			"listed_count": 5087,
+			"created_at": "Mon Jun 02 17:53:54 +0000 2008",
+			"favourites_count": 135394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034692034190299136/F4wDq64O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034692034190299136/F4wDq64O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14982804/1541259351",
+			"profile_link_color": "333133",
+			"profile_sidebar_border_color": "696969",
+			"profile_sidebar_fill_color": "948B94",
+			"profile_text_color": "380538",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061107885713903600,
+		"quoted_status_id_str": "1061107885713903616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1bVhHqLqwD",
+			"expanded": "https://twitter.com/sifill_ldf/status/1061107885713903616",
+			"display": "twitter.com/sifill_ldf/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 04:06:49 +0000 2018",
+			"id": 1061107885713903600,
+			"id_str": "1061107885713903616",
+			"full_text": "The President of the United Stated speaks in our name and as leader of this country. It matters how he talks to and about us. What we heard this wk cannot be tolerated without us lifting our voices to say #EnoughIsEnough.  10/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EnoughIsEnough",
+						"indices": [
+							205,
+							220
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1061106788114841600,
+			"in_reply_to_status_id_str": "1061106788114841600",
+			"in_reply_to_user_id": 1507338108,
+			"in_reply_to_user_id_str": "1507338108",
+			"in_reply_to_screen_name": "Sifill_LDF",
+			"user": {
+				"id": 1507338108,
+				"id_str": "1507338108",
+				"name": "Sherrilyn Ifill",
+				"screen_name": "Sifill_LDF",
+				"location": "",
+				"description": "President & Director-Counsel of LDF (NAACP Legal Defense and Educational Fund), the nation's premier civil rights law organization. Tweets are my own.",
+				"url": "https://t.co/XAJAQLaTrd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XAJAQLaTrd",
+								"expanded_url": "http://www.naacpldf.org",
+								"display_url": "naacpldf.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96807,
+				"friends_count": 930,
+				"listed_count": 1185,
+				"created_at": "Tue Jun 11 23:10:03 +0000 2013",
+				"favourites_count": 3100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45268,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953037859430084608/MNTVkQGM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953037859430084608/MNTVkQGM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1507338108/1503627548",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1193,
+			"favorite_count": 5522,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1353,
+		"favorite_count": 3961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sisters — and those who love us, Please read this full thread by the President of the NAACP Legal Defense Fund. #EnoughisEnough https://t.co/1bVhHqLqwD"
+	},
+	{
+		"created_at": "Sat Nov 10 13:40:18 +0000 2018",
+		"id": 1061252209130770400,
+		"id_str": "1061252209130770432",
+		"full_text": "Attention Special Collections folks!\nhttps://t.co/XxPPbAeTBf https://t.co/H1R8P77grD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XxPPbAeTBf",
+					"expanded_url": "https://www.instagram.com/forkeepsbooks/",
+					"display_url": "instagram.com/forkeepsbooks/",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/H1R8P77grD",
+					"expanded_url": "https://twitter.com/jduffyrice/status/1061068940158349312",
+					"display_url": "twitter.com/jduffyrice/sta…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14307108,
+			"id_str": "14307108",
+			"name": "Shannon K. Supple ✨",
+			"screen_name": "mazarines",
+			"location": "Massachusetts, USA",
+			"description": "Imaginaria, libraries, archives, history of science, book history, social/environ. justice, art, music, trees, bicycles, coffee, funny things | Water creature",
+			"url": "https://t.co/OCjE7dp0R0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OCjE7dp0R0",
+							"expanded_url": "http://pronoun.is/she",
+							"display_url": "pronoun.is/she",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 986,
+			"listed_count": 129,
+			"created_at": "Fri Apr 04 23:25:18 +0000 2008",
+			"favourites_count": 28887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006573389853745152/VTuwWonm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006573389853745152/VTuwWonm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14307108/1407079520",
+			"profile_link_color": "A64C07",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "AAC2AC",
+			"profile_text_color": "254F0F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061068940158349300,
+		"quoted_status_id_str": "1061068940158349312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H1R8P77grD",
+			"expanded": "https://twitter.com/jduffyrice/status/1061068940158349312",
+			"display": "twitter.com/jduffyrice/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 01:32:03 +0000 2018",
+			"id": 1061068940158349300,
+			"id_str": "1061068940158349312",
+			"full_text": "It’s called For Keeps, and it’s a bookstore featuring black rare and used books. She has gone to the ends of the earth to find this collection. AND it’s on Auburn Ave. And people are encouraged to hang out and read. Like, is there anything better in this world?! https://t.co/aTK1rJ7OHz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1061068931270692900,
+						"id_str": "1061068931270692864",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/DrmskjqX0AA7D4g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrmskjqX0AA7D4g.jpg",
+						"url": "https://t.co/aTK1rJ7OHz",
+						"display_url": "pic.twitter.com/aTK1rJ7OHz",
+						"expanded_url": "https://twitter.com/jduffyrice/status/1061068940158349312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1061068931270692900,
+						"id_str": "1061068931270692864",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/DrmskjqX0AA7D4g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrmskjqX0AA7D4g.jpg",
+						"url": "https://t.co/aTK1rJ7OHz",
+						"display_url": "pic.twitter.com/aTK1rJ7OHz",
+						"expanded_url": "https://twitter.com/jduffyrice/status/1061068940158349312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1061068931270619100,
+						"id_str": "1061068931270619136",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/DrmskjqWsAAqMLu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrmskjqWsAAqMLu.jpg",
+						"url": "https://t.co/aTK1rJ7OHz",
+						"display_url": "pic.twitter.com/aTK1rJ7OHz",
+						"expanded_url": "https://twitter.com/jduffyrice/status/1061068940158349312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1061068931278999600,
+						"id_str": "1061068931278999553",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/DrmskjsWkAETyhu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrmskjsWkAETyhu.jpg",
+						"url": "https://t.co/aTK1rJ7OHz",
+						"display_url": "pic.twitter.com/aTK1rJ7OHz",
+						"expanded_url": "https://twitter.com/jduffyrice/status/1061068940158349312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1061068931274850300,
+						"id_str": "1061068931274850305",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/DrmskjrXQAEl5WI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrmskjrXQAEl5WI.jpg",
+						"url": "https://t.co/aTK1rJ7OHz",
+						"display_url": "pic.twitter.com/aTK1rJ7OHz",
+						"expanded_url": "https://twitter.com/jduffyrice/status/1061068940158349312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 886,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 502,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1512,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1061068109077975000,
+			"in_reply_to_status_id_str": "1061068109077975040",
+			"in_reply_to_user_id": 36261242,
+			"in_reply_to_user_id_str": "36261242",
+			"in_reply_to_screen_name": "jduffyrice",
+			"user": {
+				"id": 36261242,
+				"id_str": "36261242",
+				"name": "josie duffy rice",
+				"screen_name": "jduffyrice",
+				"location": "Atlanta, GA",
+				"description": "i write about prosecutors and prisons. writer @theappeal / host @justice_podcast / atlanta enthusiast / erstwhile lawyer. views mine. josie.duffy@gmail.com",
+				"url": "https://t.co/vAFZZ9dKph",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vAFZZ9dKph",
+								"expanded_url": "http://josieduffyrice.com",
+								"display_url": "josieduffyrice.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44586,
+				"friends_count": 2001,
+				"listed_count": 560,
+				"created_at": "Wed Apr 29 02:34:59 +0000 2009",
+				"favourites_count": 47327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28672,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046069995468451840/ezoVky0p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046069995468451840/ezoVky0p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36261242/1499009429",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FCAC64",
+				"profile_text_color": "F6604A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1507,
+			"favorite_count": 4528,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Attention Special Collections folks!\nhttps://t.co/XxPPbAeTBf https://t.co/H1R8P77grD"
+	},
+	{
 		"created_at": "Fri Nov 09 23:22:58 +0000 2018",
 		"id": 1061036456049889300,
 		"id_str": "1061036456049889281",
