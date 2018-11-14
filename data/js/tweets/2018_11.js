@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 19:03:09 +0000 2018",
+		"id": 1062420620128993300,
+		"id_str": "1062420620128993281",
+		"full_text": "#bookhistory #bibliography twitter, please RT! \n\nLetterpress survey: @umd_BookLab is looking to collect (and share!) info about various kinds of letterpress facilities in English departments (especially) and adjacent units with this short survey: \n\nhttps://t.co/mTPMiZO3Ne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bookhistory",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "bibliography",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "umd_BookLab",
+					"name": "BookLab at UMD English",
+					"id": 1039256136959094800,
+					"id_str": "1039256136959094785",
+					"indices": [
+						69,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mTPMiZO3Ne",
+					"expanded_url": "https://docs.google.com/forms/d/1kNKBeq9Bzxeez0kCqLcTHrgLrwY0V9PGbij0j7z33V0/edit?ts=5be9d48b",
+					"display_url": "docs.google.com/forms/d/1kNKBe…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13598262,
+			"id_str": "13598262",
+			"name": "Matthew Kirschenbaum",
+			"screen_name": "mkirschenbaum",
+			"location": "College Park, Maryland",
+			"description": "Dirty computers, bookish books, tabletop worlds. Author of Track Changes: A Literary History of Word Processing. Tweeting in a personal capacity only.",
+			"url": "https://t.co/47ge7aI23j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/47ge7aI23j",
+							"expanded_url": "http://www.mkirschenbaum.net",
+							"display_url": "mkirschenbaum.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10674,
+			"friends_count": 892,
+			"listed_count": 579,
+			"created_at": "Sun Feb 17 21:53:45 +0000 2008",
+			"favourites_count": 7735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "84BEBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13598262/1535589678",
+			"profile_link_color": "003300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#bookhistory #bibliography twitter, please RT! \n\nLetterpress survey: @umd_BookLab is looking to collect (and share!) info about various kinds of letterpress facilities in English departments (especially) and adjacent units with this short survey: \n\nhttps://t.co/mTPMiZO3Ne"
+	},
+	{
 		"created_at": "Mon Nov 12 21:34:06 +0000 2018",
 		"id": 1062096219021942800,
 		"id_str": "1062096219021942784",
