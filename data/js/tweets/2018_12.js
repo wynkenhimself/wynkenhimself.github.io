@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 16:21:06 +0000 2018",
+		"id": 1073613861885042700,
+		"id_str": "1073613861885042688",
+		"full_text": "I am grateful for this chance to work through something important to me that I’ve been struggling with. The talk was recorded &amp; I hope will be in print soon, and I look forward to more conversations! https://t.co/prDMx2Vvy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/prDMx2Vvy7",
+					"expanded_url": "https://twitter.com/bibli_be_us/status/1073560075325837312",
+					"display_url": "twitter.com/bibli_be_us/st…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Wiley, Feb 2019) | she/her | #TeamBacchae",
+			"url": "https://t.co/jOp8vwYZIg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jOp8vwYZIg",
+							"expanded_url": "http://www.EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7795,
+			"friends_count": 460,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 13522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073560075325837300,
+		"quoted_status_id_str": "1073560075325837312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/prDMx2Vvy7",
+			"expanded": "https://twitter.com/bibli_be_us/status/1073560075325837312",
+			"display": "twitter.com/bibli_be_us/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 14 12:47:22 +0000 2018",
+			"id": 1073560075325837300,
+			"id_str": "1073560075325837312",
+			"full_text": "A huge thank you and congrats to @wynkenhimself for delivering such a groundbreaking talk at yesterday's Lieberman Lecture. Embracing a feminist praxis for printing history is not just beneficial for the field but absolutely vital. https://t.co/SlPQuVeIkI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wynkenhimself",
+						"name": "Sarah Werner",
+						"id": 35384223,
+						"id_str": "35384223",
+						"indices": [
+							33,
+							47
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1073560050201956400,
+						"id_str": "1073560050201956358",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/DuYNLX1WkAYsrcW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuYNLX1WkAYsrcW.jpg",
+						"url": "https://t.co/SlPQuVeIkI",
+						"display_url": "pic.twitter.com/SlPQuVeIkI",
+						"expanded_url": "https://twitter.com/Bibli_be_Us/status/1073560075325837312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1746,
+								"h": 1192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1073560050201956400,
+						"id_str": "1073560050201956358",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/DuYNLX1WkAYsrcW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuYNLX1WkAYsrcW.jpg",
+						"url": "https://t.co/SlPQuVeIkI",
+						"display_url": "pic.twitter.com/SlPQuVeIkI",
+						"expanded_url": "https://twitter.com/Bibli_be_Us/status/1073560075325837312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1746,
+								"h": 1192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1073560065142128600,
+						"id_str": "1073560065142128640",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/DuYNMPfXgAAEAcf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuYNMPfXgAAEAcf.jpg",
+						"url": "https://t.co/SlPQuVeIkI",
+						"display_url": "pic.twitter.com/SlPQuVeIkI",
+						"expanded_url": "https://twitter.com/Bibli_be_Us/status/1073560075325837312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 816,
+								"h": 1056,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 816,
+								"h": 1056,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81071879,
+				"id_str": "81071879",
+				"name": "Jesse Erickson",
+				"screen_name": "Bibli_be_Us",
+				"location": "Newark, DE",
+				"description": "PhD in Information Studies. UD Postdoc in Special Collections and Digital Humanities. Books are my life, opinions are my own.",
+				"url": "https://t.co/Dgpl9Qezqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dgpl9Qezqy",
+								"expanded_url": "http://ouidaotaku.weebly.com/",
+								"display_url": "ouidaotaku.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 638,
+				"friends_count": 1329,
+				"listed_count": 38,
+				"created_at": "Fri Oct 09 09:43:29 +0000 2009",
+				"favourites_count": 4220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4695,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004177750087872513/UH387HRW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004177750087872513/UH387HRW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81071879/1528250002",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am grateful for this chance to work through something important to me that I’ve been struggling with. The talk was recorded &amp; I hope will be in print soon, and I look forward to more conversations! https://t.co/prDMx2Vvy7"
+	},
+	{
+		"created_at": "Fri Dec 14 16:18:37 +0000 2018",
+		"id": 1073613240498823200,
+		"id_str": "1073613240498823168",
+		"full_text": "@lmaruca Super well, I think! Mostly women who were there, of course, so the crowd was friendly and lots of nods while I was talking about the problems of our field being so full of white men",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lmaruca",
+					"name": "Lisa Maruca",
+					"id": 18087166,
+					"id_str": "18087166",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073433456225513500,
+		"in_reply_to_status_id_str": "1073433456225513472",
+		"in_reply_to_user_id": 18087166,
+		"in_reply_to_user_id_str": "18087166",
+		"in_reply_to_screen_name": "lmaruca",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Wiley, Feb 2019) | she/her | #TeamBacchae",
+			"url": "https://t.co/jOp8vwYZIg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jOp8vwYZIg",
+							"expanded_url": "http://www.EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7795,
+			"friends_count": 460,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 13522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lmaruca Super well, I think! Mostly women who were there, of course, so the crowd was friendly and lots of nods while I was talking about the problems of our field being so full of white men"
+	},
+	{
+		"created_at": "Fri Dec 14 03:32:43 +0000 2018",
+		"id": 1073420491636047900,
+		"id_str": "1073420491636047872",
+		"full_text": "@mkirschenbaum This is the incredibly high praise coming from you. Thank you for coming",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkirschenbaum",
+					"name": "Matthew Kirschenbaum",
+					"id": 13598262,
+					"id_str": "13598262",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073305364731478000,
+		"in_reply_to_status_id_str": "1073305364731478016",
+		"in_reply_to_user_id": 13598262,
+		"in_reply_to_user_id_str": "13598262",
+		"in_reply_to_screen_name": "mkirschenbaum",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Wiley, Feb 2019) | she/her | #TeamBacchae",
+			"url": "https://t.co/jOp8vwYZIg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jOp8vwYZIg",
+							"expanded_url": "http://www.EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7795,
+			"friends_count": 460,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 13522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mkirschenbaum This is the incredibly high praise coming from you. Thank you for coming"
+	},
+	{
+		"created_at": "Fri Dec 14 03:29:53 +0000 2018",
+		"id": 1073419780365918200,
+		"id_str": "1073419780365918208",
+		"full_text": "@mkirschenbaum 😘",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkirschenbaum",
+					"name": "Matthew Kirschenbaum",
+					"id": 13598262,
+					"id_str": "13598262",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073305364731478000,
+		"in_reply_to_status_id_str": "1073305364731478016",
+		"in_reply_to_user_id": 13598262,
+		"in_reply_to_user_id_str": "13598262",
+		"in_reply_to_screen_name": "mkirschenbaum",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Wiley, Feb 2019) | she/her | #TeamBacchae",
+			"url": "https://t.co/jOp8vwYZIg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jOp8vwYZIg",
+							"expanded_url": "http://www.EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7795,
+			"friends_count": 460,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 13522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@mkirschenbaum 😘"
+	},
+	{
+		"created_at": "Thu Dec 13 18:31:50 +0000 2018",
+		"id": 1073284374081273900,
+		"id_str": "1073284374081273856",
+		"full_text": "🚨NEW SERIES LAUNCH🚨\n\nOur Libraries &amp; Tech series kicks off TODAY with Meredith Broadway and Elisabeth Shook’s piece on the history of the gender wage gap in librarianship:\n\n“Technology does not correlate with pay and power in the library—gender does.”\nhttps://t.co/xx7gHa0JJw https://t.co/A2njzVgNu7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xx7gHa0JJw",
+					"expanded_url": "https://www.ladyscience.com/blog/the-pink-collar-library-technology-and-the-gender-wage-gap",
+					"display_url": "ladyscience.com/blog/the-pink-…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073284365117878300,
+					"id_str": "1073284365117878272",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DuUScY3U8AAd7qX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuUScY3U8AAd7qX.jpg",
+					"url": "https://t.co/A2njzVgNu7",
+					"display_url": "pic.twitter.com/A2njzVgNu7",
+					"expanded_url": "https://twitter.com/ladyxscience/status/1073284374081273856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073284365117878300,
+					"id_str": "1073284365117878272",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DuUScY3U8AAd7qX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuUScY3U8AAd7qX.jpg",
+					"url": "https://t.co/A2njzVgNu7",
+					"display_url": "pic.twitter.com/A2njzVgNu7",
+					"expanded_url": "https://twitter.com/ladyxscience/status/1073284374081273856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4598033713,
+			"id_str": "4598033713",
+			"name": "Lady Science",
+			"screen_name": "ladyxscience",
+			"location": "",
+			"description": "Independent magazine for women & gender in the history & popular culture of science | Podcast: #LadySciPod",
+			"url": "https://t.co/6Vt28Yjrho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Vt28Yjrho",
+							"expanded_url": "http://ladyscience.com",
+							"display_url": "ladyscience.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5106,
+			"friends_count": 238,
+			"listed_count": 121,
+			"created_at": "Fri Dec 18 23:34:00 +0000 2015",
+			"favourites_count": 1582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/913215238060654592/hVNpQBF5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/913215238060654592/hVNpQBF5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4598033713/1509638520",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨NEW SERIES LAUNCH🚨\n\nOur Libraries &amp; Tech series kicks off TODAY with Meredith Broadway and Elisabeth Shook’s piece on the history of the gender wage gap in librarianship:\n\n“Technology does not correlate with pay and power in the library—gender does.”\nhttps://t.co/xx7gHa0JJw https://t.co/A2njzVgNu7"
+	},
+	{
 		"created_at": "Thu Dec 13 18:31:50 +0000 2018",
 		"id": 1073284374081273900,
 		"id_str": "1073284374081273856",
