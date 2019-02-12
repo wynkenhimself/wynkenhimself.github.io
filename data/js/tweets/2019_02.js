@@ -1,6 +1,1379 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 03:32:03 +0000 2019",
+		"id": 1094076432446341100,
+		"id_str": "1095123542591619072",
+		"full_text": "Well-intentioned, helpful, and downright delightful, the comments section of #NYTCooking is the internet at its best. \n@aherman2006: https://t.co/A4ZWDIcWVX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NYTCooking",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aherman2006",
+					"name": "Alison Herman",
+					"id": 329413222,
+					"id_str": "329413222",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A4ZWDIcWVX",
+					"expanded_url": "http://therin.gr/0IbMpc6",
+					"display_url": "therin.gr/0IbMpc6",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4760694445,
+			"id_str": "4760694445",
+			"name": "The Ringer",
+			"screen_name": "ringer",
+			"location": "Los Angeles, CA",
+			"description": "Sports, pop culture, and tech.         🏀 Hoops @ @ringernba  🎧 Pods @ @TheBigPic, @binge_mode, @thewatchpod, @oneshiningpod, @BachPartyPod, @houseofcarbs",
+			"url": "https://t.co/CIR7zsReer",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CIR7zsReer",
+							"expanded_url": "http://theringer.com",
+							"display_url": "theringer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422661,
+			"friends_count": 612,
+			"listed_count": 4603,
+			"created_at": "Fri Jan 15 01:30:52 +0000 2016",
+			"favourites_count": 5388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052686811405807616/CWXGFYL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052686811405807616/CWXGFYL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4760694445/1539815026",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well-intentioned, helpful, and downright delightful, the comments section of #NYTCooking is the internet at its best. \n@aherman2006: https://t.co/A4ZWDIcWVX"
+	},
+	{
+		"created_at": "Tue Feb 12 00:33:43 +0000 2019",
+		"id": 1095118717929902100,
+		"id_str": "1095118717929902081",
+		"full_text": "@eviedc I would go to this talk",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eviedc",
+					"name": "eviedc",
+					"id": 16010765,
+					"id_str": "16010765",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1094986672951955500,
+		"in_reply_to_status_id_str": "1094986672951955456",
+		"in_reply_to_user_id": 16010765,
+		"in_reply_to_user_id_str": "16010765",
+		"in_reply_to_screen_name": "eviedc",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7912,
+			"friends_count": 370,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eviedc I would go to this talk"
+	},
+	{
+		"created_at": "Mon Feb 11 14:24:03 +0000 2019",
+		"id": 1094965290939703300,
+		"id_str": "1094965290939703296",
+		"full_text": "@SarahABendall @friede I keep a list of open-access early modern digital collections at https://t.co/XAZ26Zh70g that includes non-Anglophone sources",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahABendall",
+					"name": "Dr Sarah Bendall",
+					"id": 3232308634,
+					"id_str": "3232308634",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "friede",
+					"name": "Dr. Emily Friedman",
+					"id": 12237542,
+					"id_str": "12237542",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XAZ26Zh70g",
+					"expanded_url": "https://sarahwerner.net/blog/early-modern-digital-collections/",
+					"display_url": "sarahwerner.net/blog/early-mod…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1094833818404417500,
+		"in_reply_to_status_id_str": "1094833818404417537",
+		"in_reply_to_user_id": 3232308634,
+		"in_reply_to_user_id_str": "3232308634",
+		"in_reply_to_screen_name": "SarahABendall",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7912,
+			"friends_count": 370,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SarahABendall @friede I keep a list of open-access early modern digital collections at https://t.co/XAZ26Zh70g that includes non-Anglophone sources"
+	},
+	{
+		"created_at": "Mon Feb 11 14:09:29 +0000 2019",
+		"id": 1094961624157511700,
+		"id_str": "1094961624157511685",
+		"full_text": "@VulgarErrors @BookScribbler @UnaMcIlvenna @angela_mcshane Yeah, the asymmetry is puzzling. Maybe it was wrapped around something? @letterlocking does so much work through folding I’m hoping Jana will weigh I !",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VulgarErrors",
+					"name": "Harriet Phillips",
+					"id": 2884636528,
+					"id_str": "2884636528",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BookScribbler",
+					"name": "Matthew Daniel Eddy",
+					"id": 746724219837358100,
+					"id_str": "746724219837358080",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "UnaMcIlvenna",
+					"name": "Dr Una McIlvenna 💀🎶",
+					"id": 1195674578,
+					"id_str": "1195674578",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "angela_mcshane",
+					"name": "Dr Angela McShane",
+					"id": 2202110058,
+					"id_str": "2202110058",
+					"indices": [
+						43,
+						58
+					]
+				},
+				{
+					"screen_name": "letterlocking",
+					"name": "Letterlocking",
+					"id": 2610376856,
+					"id_str": "2610376856",
+					"indices": [
+						131,
+						145
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1094892348373381100,
+		"in_reply_to_status_id_str": "1094892348373381120",
+		"in_reply_to_user_id": 2884636528,
+		"in_reply_to_user_id_str": "2884636528",
+		"in_reply_to_screen_name": "VulgarErrors",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7912,
+			"friends_count": 370,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@VulgarErrors @BookScribbler @UnaMcIlvenna @angela_mcshane Yeah, the asymmetry is puzzling. Maybe it was wrapped around something? @letterlocking does so much work through folding I’m hoping Jana will weigh I !"
+	},
+	{
+		"created_at": "Mon Feb 11 12:41:40 +0000 2019",
+		"id": 1094939526710079500,
+		"id_str": "1094939526710079491",
+		"full_text": "@iangadd I would love that! I can send you mine once they’re done...... The stuff in the first part will be familiar but maybe the second might be fun",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iangadd",
+					"name": "Ian Gadd",
+					"id": 14292202,
+					"id_str": "14292202",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1094938240212222000,
+		"in_reply_to_status_id_str": "1094938240212221952",
+		"in_reply_to_user_id": 14292202,
+		"in_reply_to_user_id_str": "14292202",
+		"in_reply_to_screen_name": "iangadd",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7912,
+			"friends_count": 370,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iangadd I would love that! I can send you mine once they’re done...... The stuff in the first part will be familiar but maybe the second might be fun"
+	},
+	{
+		"created_at": "Mon Feb 11 12:03:21 +0000 2019",
+		"id": 1094929881794859000,
+		"id_str": "1094937825525538817",
+		"full_text": "#Stolpersteine is an art project for Europe. A social sculpture. The world's largest decentralized memorial. #Demnig\nhttps://t.co/gdNFnTHQQP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Stolpersteine",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Demnig",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gdNFnTHQQP",
+					"expanded_url": "https://twitter.com/alexdimaio/status/1094523833594376193",
+					"display_url": "twitter.com/alexdimaio/sta…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 572058881,
+			"id_str": "572058881",
+			"name": "Stolpersteine",
+			"screen_name": "_Stolpersteine_",
+			"location": "Berlin",
+			"description": "Twitter-Account des Projekts #Stolpersteine von Gunter #Demnig ///  Twitter account of the European art and remembrance project #Stolpersteine by Gunter #Demnig",
+			"url": "http://t.co/eU4akpxb3E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eU4akpxb3E",
+							"expanded_url": "http://www.stolpersteine.eu",
+							"display_url": "stolpersteine.eu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18089,
+			"friends_count": 104,
+			"listed_count": 271,
+			"created_at": "Sat May 05 20:48:25 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6296,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068076828487835649/QqkZwgRc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068076828487835649/QqkZwgRc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/572058881/1442932296",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094523833594376200,
+		"quoted_status_id_str": "1094523833594376193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gdNFnTHQQP",
+			"expanded": "https://twitter.com/alexdimaio/status/1094523833594376193",
+			"display": "twitter.com/alexdimaio/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 10 09:09:51 +0000 2019",
+			"id": 1094523833594376200,
+			"id_str": "1094523833594376193",
+			"full_text": "When I see one of these, I stop, read, pray, think. If #Stolpersteine give the same effect to other people, they are to be considered as one of the most successful tools to remember the victims of #Shoah and to commit not to make it happen again. #זוכר #brussels #Holocaust https://t.co/2IfdbckEFn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Stolpersteine",
+						"indices": [
+							55,
+							69
+						]
+					},
+					{
+						"text": "Shoah",
+						"indices": [
+							197,
+							203
+						]
+					},
+					{
+						"text": "זוכר",
+						"indices": [
+							247,
+							252
+						]
+					},
+					{
+						"text": "brussels",
+						"indices": [
+							253,
+							262
+						]
+					},
+					{
+						"text": "Holocaust",
+						"indices": [
+							263,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1094523821384761300,
+						"id_str": "1094523821384761346",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/DzCHndPXgAIm6bc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzCHndPXgAIm6bc.jpg",
+						"url": "https://t.co/2IfdbckEFn",
+						"display_url": "pic.twitter.com/2IfdbckEFn",
+						"expanded_url": "https://twitter.com/alexdimaio/status/1094523833594376193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1094523821384761300,
+						"id_str": "1094523821384761346",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/DzCHndPXgAIm6bc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzCHndPXgAIm6bc.jpg",
+						"url": "https://t.co/2IfdbckEFn",
+						"display_url": "pic.twitter.com/2IfdbckEFn",
+						"expanded_url": "https://twitter.com/alexdimaio/status/1094523833594376193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34303007,
+				"id_str": "34303007",
+				"name": "Alessandro Di Maio",
+				"screen_name": "alexdimaio",
+				"location": "Brussels - Sicily - Jerusalem - Sydney",
+				"description": "Journalist | Analyst on #MENA, #EU & #Mediterranean Political Affairs | @ComeceEU Communication Officer | Sicilian-Australian | #History & #Archaeology | RTs≠En",
+				"url": "http://t.co/epKNDUTzhO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/epKNDUTzhO",
+								"expanded_url": "http://www.alessandrodimaio.com",
+								"display_url": "alessandrodimaio.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2046,
+				"friends_count": 1348,
+				"listed_count": 99,
+				"created_at": "Wed Apr 22 15:33:37 +0000 2009",
+				"favourites_count": 1098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966278774621966336/mD8YrBmK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966278774621966336/mD8YrBmK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34303007/1399280066",
+				"profile_link_color": "307316",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 40,
+		"favorite_count": 128,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Stolpersteine is an art project for Europe. A social sculpture. The world's largest decentralized memorial. #Demnig\nhttps://t.co/gdNFnTHQQP"
+	},
+	{
+		"created_at": "Mon Feb 11 12:05:21 +0000 2019",
+		"id": 1094930385530732500,
+		"id_str": "1094937687822385152",
+		"full_text": "Come hear Professor  @iangadd talk about the history of dog-earing this Wed 13 Feb at the @Holburne! Book your free ticket: https://t.co/mceCZQgUKw https://t.co/gepUoyV9Xf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iangadd",
+					"name": "Ian Gadd",
+					"id": 14292202,
+					"id_str": "14292202",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "Holburne",
+					"name": "The Holburne Museum",
+					"id": 188775316,
+					"id_str": "188775316",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mceCZQgUKw",
+					"expanded_url": "https://bit.ly/2GkshyT",
+					"display_url": "bit.ly/2GkshyT",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/gepUoyV9Xf",
+					"expanded_url": "https://twitter.com/BathSpaAlumni/status/1086227976524566529",
+					"display_url": "twitter.com/BathSpaAlumni/…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893596038,
+			"id_str": "893596038",
+			"name": "Bath Spa Alumni",
+			"screen_name": "BathSpaAlumni",
+			"location": "Bath",
+			"description": "Bath Spa University Alumni",
+			"url": "http://t.co/8S0L0M79zq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8S0L0M79zq",
+							"expanded_url": "http://www.bathspa.ac.uk/alumni",
+							"display_url": "bathspa.ac.uk/alumni",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 697,
+			"listed_count": 35,
+			"created_at": "Sat Oct 20 16:46:18 +0000 2012",
+			"favourites_count": 995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFC4B2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876719976425680896/8qR8LR7z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876719976425680896/8qR8LR7z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893596038/1438851899",
+			"profile_link_color": "7A0F4A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1086227976524566500,
+		"quoted_status_id_str": "1086227976524566529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gepUoyV9Xf",
+			"expanded": "https://twitter.com/BathSpaAlumni/status/1086227976524566529",
+			"display": "twitter.com/BathSpaAlumni/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 18 11:45:05 +0000 2019",
+			"id": 1086227976524566500,
+			"id_str": "1086227976524566529",
+			"full_text": "Your Friday lunchtime read: Professor @iangadd has a lot of interesting things to say about the practice of 'dog-earing' books (and literally ripping on Hamlet). https://t.co/2UoOXxnRaP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "iangadd",
+						"name": "Ian Gadd",
+						"id": 14292202,
+						"id_str": "14292202",
+						"indices": [
+							38,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2UoOXxnRaP",
+						"expanded_url": "http://ow.ly/QGTg30nkXUR",
+						"display_url": "ow.ly/QGTg30nkXUR",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 893596038,
+				"id_str": "893596038",
+				"name": "Bath Spa Alumni",
+				"screen_name": "BathSpaAlumni",
+				"location": "Bath",
+				"description": "Bath Spa University Alumni",
+				"url": "http://t.co/8S0L0M79zq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8S0L0M79zq",
+								"expanded_url": "http://www.bathspa.ac.uk/alumni",
+								"display_url": "bathspa.ac.uk/alumni",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1885,
+				"friends_count": 697,
+				"listed_count": 35,
+				"created_at": "Sat Oct 20 16:46:18 +0000 2012",
+				"favourites_count": 995,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5860,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFC4B2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876719976425680896/8qR8LR7z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876719976425680896/8qR8LR7z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/893596038/1438851899",
+				"profile_link_color": "7A0F4A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come hear Professor  @iangadd talk about the history of dog-earing this Wed 13 Feb at the @Holburne! Book your free ticket: https://t.co/mceCZQgUKw https://t.co/gepUoyV9Xf"
+	},
+	{
+		"created_at": "Mon Feb 11 12:33:46 +0000 2019",
+		"id": 1094937537720844300,
+		"id_str": "1094937537720844288",
+		"full_text": "@iangadd This: https://t.co/ikdrS1DT0q",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iangadd",
+					"name": "Ian Gadd",
+					"id": 14292202,
+					"id_str": "14292202",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ikdrS1DT0q",
+					"expanded_url": "https://library.columbia.edu/news/events/event.html?guid=CAL-00bb9e25-68182067-0168-194d81f4-0000065devents%40columbia.edu&returnlinkurl=/content/libraryweb/locations/rbml/exhibitions/current&returnlinktext=Events%20Calendar",
+					"display_url": "library.columbia.edu/news/events/ev…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1094937402852941800,
+		"in_reply_to_status_id_str": "1094937402852941825",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7912,
+			"friends_count": 370,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@iangadd This: https://t.co/ikdrS1DT0q"
+	},
+	{
 		"created_at": "Sun Feb 10 19:17:33 +0000 2019",
 		"id": 1094676762980692000,
 		"id_str": "1094676762980691968",
