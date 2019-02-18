@@ -1,6 +1,1221 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 23:26:44 +0000 2019",
+		"id": 1097276189343928300,
+		"id_str": "1097276189343928321",
+		"full_text": "I still prefer my whiskey neat but ✋ https://t.co/gt5nC9Fvkr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gt5nC9Fvkr",
+					"expanded_url": "https://twitter.com/shmof16/status/1097251524168822784",
+					"display_url": "twitter.com/shmof16/status…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7941,
+			"friends_count": 338,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097251524168822800,
+		"quoted_status_id_str": "1097251524168822784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gt5nC9Fvkr",
+			"expanded": "https://twitter.com/shmof16/status/1097251524168822784",
+			"display": "twitter.com/shmof16/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 17 21:48:43 +0000 2019",
+			"id": 1097251524168822800,
+			"id_str": "1097251524168822784",
+			"full_text": "A visual story in 9 parts about @LakeSuperior and a glass of whisky. https://t.co/0xP7tAZktB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LakeSuperior",
+						"name": "Lake Superior",
+						"id": 25236245,
+						"id_str": "25236245",
+						"indices": [
+							32,
+							45
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1097251516673609700,
+						"id_str": "1097251516673609728",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzo4cOCW0AAuqGR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzo4cOCW0AAuqGR.jpg",
+						"url": "https://t.co/0xP7tAZktB",
+						"display_url": "pic.twitter.com/0xP7tAZktB",
+						"expanded_url": "https://twitter.com/ShmoF16/status/1097251524168822784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097251516673609700,
+						"id_str": "1097251516673609728",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzo4cOCW0AAuqGR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzo4cOCW0AAuqGR.jpg",
+						"url": "https://t.co/0xP7tAZktB",
+						"display_url": "pic.twitter.com/0xP7tAZktB",
+						"expanded_url": "https://twitter.com/ShmoF16/status/1097251524168822784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69701147,
+				"id_str": "69701147",
+				"name": "Eric Chandler",
+				"screen_name": "ShmoF16",
+				"location": "Duluth, MN",
+				"description": "Husband. Father. Pilot. XC Skier. Runner. Author of Hugging This Rock: https://t.co/nmHGGWlqZB Member | Lake Superior Writers, @MilWritersGuild,@OWAAonline.",
+				"url": "https://t.co/UnFnnG4xoW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UnFnnG4xoW",
+								"expanded_url": "http://ericchandler.wordpress.com",
+								"display_url": "ericchandler.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nmHGGWlqZB",
+								"expanded_url": "https://goo.gl/h7CfYh",
+								"display_url": "goo.gl/h7CfYh",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 697,
+				"friends_count": 773,
+				"listed_count": 54,
+				"created_at": "Fri Aug 28 21:35:26 +0000 2009",
+				"favourites_count": 9539,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/535638380839596032/XGW4JpgT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/535638380839596032/XGW4JpgT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69701147/1549648095",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I still prefer my whiskey neat but ✋ https://t.co/gt5nC9Fvkr"
+	},
+	{
+		"created_at": "Sun Feb 17 17:56:12 +0000 2019",
+		"id": 1097193006808084500,
+		"id_str": "1097206292282789888",
+		"full_text": "Betty Ballantine, Who Helped Introduce Paperbacks, Dies at 99 https://t.co/WQabLtghBc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WQabLtghBc",
+					"expanded_url": "https://www.nytimes.com/2019/02/15/obituaries/betty-ballantine-dead.html",
+					"display_url": "nytimes.com/2019/02/15/obi…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2820003021,
+			"id_str": "2820003021",
+			"name": "Rebecca Baumann",
+			"screen_name": "arkhamlibrarian",
+			"location": "Bloomington, IN",
+			"description": "Rare Book Librarian, Book Junkie, Devotee of the Weird, Friend to all Monsters. Head of Public Services @IULillyLibrary. Opinions and abominations my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3273,
+			"friends_count": 3125,
+			"listed_count": 62,
+			"created_at": "Thu Oct 09 17:22:55 +0000 2014",
+			"favourites_count": 23403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035927761955811329/a4wQUJ8f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035927761955811329/a4wQUJ8f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2820003021/1515621838",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Betty Ballantine, Who Helped Introduce Paperbacks, Dies at 99 https://t.co/WQabLtghBc"
+	},
+	{
+		"created_at": "Sun Feb 17 17:47:30 +0000 2019",
+		"id": 1097190819084292100,
+		"id_str": "1097191905429983232",
+		"full_text": "Happy #WorldWhaleDay! Like an Early Modern Ishmael, Adriaen Coenen collected images, facts and figures on whales in his Whale Book (1584-1585). This treasure, from the collection of @zooantwerpen, is now kept in @ehcantwerp. Browse online &amp; dowload: https://t.co/opgC4jzw4i https://t.co/qsmD2zbeKp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldWhaleDay",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zooantwerpen",
+					"name": "ZOO Antwerpen",
+					"id": 253109231,
+					"id_str": "253109231",
+					"indices": [
+						182,
+						195
+					]
+				},
+				{
+					"screen_name": "ehcantwerp",
+					"name": "Hendrik Conscience Heritage Library",
+					"id": 1040246840762028000,
+					"id_str": "1040246840762028033",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/opgC4jzw4i",
+					"expanded_url": "https://bit.ly/2NczEcu",
+					"display_url": "bit.ly/2NczEcu",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097189690682286100,
+					"id_str": "1097189690682286080",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DzoANeRWoAAjN8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzoANeRWoAAjN8k.jpg",
+					"url": "https://t.co/qsmD2zbeKp",
+					"display_url": "pic.twitter.com/qsmD2zbeKp",
+					"expanded_url": "https://twitter.com/ehcantwerp/status/1097190819084292096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 699,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 232,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097189690682286100,
+					"id_str": "1097189690682286080",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DzoANeRWoAAjN8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzoANeRWoAAjN8k.jpg",
+					"url": "https://t.co/qsmD2zbeKp",
+					"display_url": "pic.twitter.com/qsmD2zbeKp",
+					"expanded_url": "https://twitter.com/ehcantwerp/status/1097190819084292096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 699,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 232,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040246840762028000,
+			"id_str": "1040246840762028033",
+			"name": "Hendrik Conscience Heritage Library",
+			"screen_name": "ehcantwerp",
+			"location": "Antwerp, Belgium",
+			"description": "International social media account of the Hendrik Conscience Heritage Library. Nederlands: https://t.co/t5AasXHUb9",
+			"url": "https://t.co/3U2ofpTFAO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3U2ofpTFAO",
+							"expanded_url": "http://www.consciencebibliotheek.be",
+							"display_url": "consciencebibliotheek.be",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t5AasXHUb9",
+							"expanded_url": "https://www.facebook.com/Consciencebibliotheek",
+							"display_url": "facebook.com/Consciencebibl…",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 6,
+			"listed_count": 3,
+			"created_at": "Thu Sep 13 14:32:28 +0000 2018",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040247993532919808/3TnnLjOg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040247993532919808/3TnnLjOg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040246840762028033/1536849495",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #WorldWhaleDay! Like an Early Modern Ishmael, Adriaen Coenen collected images, facts and figures on whales in his Whale Book (1584-1585). This treasure, from the collection of @zooantwerpen, is now kept in @ehcantwerp. Browse online &amp; dowload: https://t.co/opgC4jzw4i https://t.co/qsmD2zbeKp"
+	},
+	{
+		"created_at": "Sun Feb 17 13:45:18 +0000 2019",
+		"id": 1097129866997219300,
+		"id_str": "1097134064467873792",
+		"full_text": "For MLA Seattle, the Forum on 17C English Literature is sponsoring THREE linked panels on 17th-Century Race Thinking.  Send abstracts and proposals by 15 March.   See attached for details. https://t.co/1pRQTePeSn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097129648473980900,
+					"id_str": "1097129648473980928",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/DznJmjnXQAAqHbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznJmjnXQAAqHbM.jpg",
+					"url": "https://t.co/1pRQTePeSn",
+					"display_url": "pic.twitter.com/1pRQTePeSn",
+					"expanded_url": "https://twitter.com/ChrisVVarren/status/1097129866997219333/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 778,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 610,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097129648473980900,
+					"id_str": "1097129648473980928",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/DznJmjnXQAAqHbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznJmjnXQAAqHbM.jpg",
+					"url": "https://t.co/1pRQTePeSn",
+					"display_url": "pic.twitter.com/1pRQTePeSn",
+					"expanded_url": "https://twitter.com/ChrisVVarren/status/1097129866997219333/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 778,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 610,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 358994048,
+			"id_str": "358994048",
+			"name": "Christopher Warren",
+			"screen_name": "ChrisVVarren",
+			"location": "Carnegie Mellon University",
+			"description": "Author of Literature and the Law of Nations, 1580-1680 (OUP, 2015).  Co-Founder of @6Bacon. Early Modern Literature, Legal and Political Thought.",
+			"url": "https://t.co/ZDz5h9TrUm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZDz5h9TrUm",
+							"expanded_url": "https://www.amazon.com/Literature-Nations-1580-1680-Christopher-Warren/dp/0198719345",
+							"display_url": "amazon.com/Literature-Nat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1293,
+			"friends_count": 920,
+			"listed_count": 53,
+			"created_at": "Sat Aug 20 21:09:32 +0000 2011",
+			"favourites_count": 2981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/414043655666532352/z8D3ApQO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/414043655666532352/z8D3ApQO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/358994048/1387551741",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For MLA Seattle, the Forum on 17C English Literature is sponsoring THREE linked panels on 17th-Century Race Thinking.  Send abstracts and proposals by 15 March.   See attached for details. https://t.co/1pRQTePeSn"
+	},
+	{
+		"created_at": "Sun Feb 17 13:36:48 +0000 2019",
+		"id": 1097127725989531600,
+		"id_str": "1097127725989531649",
+		"full_text": "@ZacharyLesser @luciascans @meganlcook 😂 same",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZacharyLesser",
+					"name": "Zachary Lesser",
+					"id": 1321493978,
+					"id_str": "1321493978",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1097127366139224000,
+		"in_reply_to_status_id_str": "1097127366139224064",
+		"in_reply_to_user_id": 1321493978,
+		"in_reply_to_user_id_str": "1321493978",
+		"in_reply_to_screen_name": "ZacharyLesser",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7941,
+			"friends_count": 338,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ZacharyLesser @luciascans @meganlcook 😂 same"
+	},
+	{
+		"created_at": "Sun Feb 17 13:35:04 +0000 2019",
+		"id": 1097127292457926700,
+		"id_str": "1097127292457926656",
+		"full_text": "@ZacharyLesser @luciascans @meganlcook It’s a bucketload of complicated stuff that requires so much digging",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZacharyLesser",
+					"name": "Zachary Lesser",
+					"id": 1321493978,
+					"id_str": "1321493978",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1097127047980335100,
+		"in_reply_to_status_id_str": "1097127047980335104",
+		"in_reply_to_user_id": 1321493978,
+		"in_reply_to_user_id_str": "1321493978",
+		"in_reply_to_screen_name": "ZacharyLesser",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7941,
+			"friends_count": 338,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ZacharyLesser @luciascans @meganlcook It’s a bucketload of complicated stuff that requires so much digging"
+	},
+	{
+		"created_at": "Sun Feb 17 13:32:52 +0000 2019",
+		"id": 1097126739258626000,
+		"id_str": "1097126739258626050",
+		"full_text": "@ZacharyLesser @luciascans @meganlcook I have been looking forward to reading this for ages!",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZacharyLesser",
+					"name": "Zachary Lesser",
+					"id": 1321493978,
+					"id_str": "1321493978",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1097126478414786600,
+		"in_reply_to_status_id_str": "1097126478414786560",
+		"in_reply_to_user_id": 1321493978,
+		"in_reply_to_user_id_str": "1321493978",
+		"in_reply_to_screen_name": "ZacharyLesser",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "#TeamBacchae",
+			"description": "libraries, facsimiles, early modern + digital | Studying Early Printed Books 1450-1800: A Practical Guide (Feb 2019) | https://t.co/cLyPOSZTtQ | she/her",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7941,
+			"friends_count": 338,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 15350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1441504228",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ZacharyLesser @luciascans @meganlcook I have been looking forward to reading this for ages!"
+	},
+	{
 		"created_at": "Sun Feb 17 01:52:09 +0000 2019",
 		"id": 1096950396843634700,
 		"id_str": "1096950396843634690",
