@@ -1,6 +1,920 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 20:54:23 +0000 2019",
+		"id": 1114631346708549600,
+		"id_str": "1114632467099549696",
+		"full_text": "This beats the hell out of using prison labor for digitization https://t.co/h8YBDxc3sq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h8YBDxc3sq",
+					"expanded_url": "https://twitter.com/joshclarkdavis/status/1114281877517545473",
+					"display_url": "twitter.com/joshclarkdavis…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2448732866,
+			"id_str": "2448732866",
+			"name": "Snowden Becker",
+			"screen_name": "snowdenbecker",
+			"location": "Los Angeles, CA",
+			"description": "audiovisual archivist and educator - all opinions my own",
+			"url": "https://t.co/SWBWaU7knw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SWBWaU7knw",
+							"expanded_url": "http://snowdenbecker.com",
+							"display_url": "snowdenbecker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1558,
+			"friends_count": 485,
+			"listed_count": 48,
+			"created_at": "Thu Apr 17 03:36:26 +0000 2014",
+			"favourites_count": 11567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/489066190967296001/fmskInEY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/489066190967296001/fmskInEY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2448732866/1545507123",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114281877517545500,
+		"quoted_status_id_str": "1114281877517545473",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h8YBDxc3sq",
+			"expanded": "https://twitter.com/joshclarkdavis/status/1114281877517545473",
+			"display": "twitter.com/joshclarkdavis…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 21:41:16 +0000 2019",
+			"id": 1114281877517545500,
+			"id_str": "1114281877517545473",
+			"full_text": "Several men currently incarcerated in Florida have created this very impressive public history project on the history of enslaved people on a plantation just 30 miles from their prison. https://t.co/jzlbylxRZ8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jzlbylxRZ8",
+						"expanded_url": "http://www.processhistory.org/pete-antonio-florida/",
+						"display_url": "processhistory.org/pete-antonio-f…",
+						"indices": [
+							186,
+							209
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2447764274,
+				"id_str": "2447764274",
+				"name": "Joshua Clark Davis",
+				"screen_name": "JoshClarkDavis",
+				"location": "Baltimore, Maryland",
+				"description": "U.Baltimore professor US,AfAm +public history. Author, From Head Shops to Whole Foods. Bylines @washingtonpost @theatlantic @AAIHS @slate @jacobin Tweets=my own",
+				"url": "https://t.co/Hb7ja6tXUW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hb7ja6tXUW",
+								"expanded_url": "http://JoshuaClarkDavis.com",
+								"display_url": "JoshuaClarkDavis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4680,
+				"friends_count": 1825,
+				"listed_count": 91,
+				"created_at": "Wed Apr 16 18:31:54 +0000 2014",
+				"favourites_count": 6559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11002,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073578559325790208/efPhvm___normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073578559325790208/efPhvm___normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2447764274/1545153743",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 295,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This beats the hell out of using prison labor for digitization https://t.co/h8YBDxc3sq"
+	},
+	{
+		"created_at": "Sat Apr 06 13:14:54 +0000 2019",
+		"id": 1114516834072649700,
+		"id_str": "1114516834072649728",
+		"full_text": "@iangadd So much so. I am continually grateful that my father was compulsively organized and that he made my sister the executor, not me. I hope your endless spreadsheets stop soon",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iangadd",
+					"name": "Ian Gadd",
+					"id": 14292202,
+					"id_str": "14292202",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1114516413203525600,
+		"in_reply_to_status_id_str": "1114516413203525632",
+		"in_reply_to_user_id": 14292202,
+		"in_reply_to_user_id_str": "14292202",
+		"in_reply_to_screen_name": "iangadd",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8222,
+			"friends_count": 343,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iangadd So much so. I am continually grateful that my father was compulsively organized and that he made my sister the executor, not me. I hope your endless spreadsheets stop soon"
+	},
+	{
+		"created_at": "Sat Apr 06 13:12:46 +0000 2019",
+		"id": 1114516298300624900,
+		"id_str": "1114516298300624896",
+		"full_text": "@iangadd The thing that would be super helpful is if the powers that be could let us know when our deadline is so that we can time the selling-off of goods appropriately",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iangadd",
+					"name": "Ian Gadd",
+					"id": 14292202,
+					"id_str": "14292202",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1114515885685973000,
+		"in_reply_to_status_id_str": "1114515885685972992",
+		"in_reply_to_user_id": 14292202,
+		"in_reply_to_user_id_str": "14292202",
+		"in_reply_to_screen_name": "iangadd",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8222,
+			"friends_count": 343,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iangadd The thing that would be super helpful is if the powers that be could let us know when our deadline is so that we can time the selling-off of goods appropriately"
+	},
+	{
+		"created_at": "Sat Apr 06 13:04:40 +0000 2019",
+		"id": 1114514257964609500,
+		"id_str": "1114514257964609538",
+		"full_text": "@iangadd Point number 2 really is the key to everything although 2a) if you can’t spend everything at least sell everything and talk to a tax attorney about the easiest way to pass the money down so there’s not a gazillion forms",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iangadd",
+					"name": "Ian Gadd",
+					"id": 14292202,
+					"id_str": "14292202",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1114513218699956200,
+		"in_reply_to_status_id_str": "1114513218699956225",
+		"in_reply_to_user_id": 14292202,
+		"in_reply_to_user_id_str": "14292202",
+		"in_reply_to_screen_name": "iangadd",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8222,
+			"friends_count": 343,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iangadd Point number 2 really is the key to everything although 2a) if you can’t spend everything at least sell everything and talk to a tax attorney about the easiest way to pass the money down so there’s not a gazillion forms"
+	},
+	{
+		"created_at": "Sat Apr 06 12:48:53 +0000 2019",
+		"id": 1114510284339728400,
+		"id_str": "1114510284339728386",
+		"full_text": "@leusavage Though I wonder if the value of accessibility could be used to persuade organizers/sponsors to pay for wired connections for speakers or more robust wifi",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leusavage",
+					"name": "Dr Elizabeth Savage",
+					"id": 3176124093,
+					"id_str": "3176124093",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1114495096362348500,
+		"in_reply_to_status_id_str": "1114495096362348544",
+		"in_reply_to_user_id": 3176124093,
+		"in_reply_to_user_id_str": "3176124093",
+		"in_reply_to_screen_name": "leusavage",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8222,
+			"friends_count": 343,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@leusavage Though I wonder if the value of accessibility could be used to persuade organizers/sponsors to pay for wired connections for speakers or more robust wifi"
+	},
+	{
+		"created_at": "Sat Apr 06 12:46:15 +0000 2019",
+		"id": 1114495096362348500,
+		"id_str": "1114509622956756993",
+		"full_text": "Academics, have you used PowerPoint with live captions and translations, including to languages each participant selects on their own device? Seems wonderful for accessibility and international engagement at conferences. But academic IT/AV can be quaint. Does it actually...work? https://t.co/bEW4LC9uc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bEW4LC9uc4",
+					"expanded_url": "https://twitter.com/elizabethsibert/status/1108180508977127426",
+					"display_url": "twitter.com/elizabethsiber…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3176124093,
+			"id_str": "3176124093",
+			"name": "Dr Elizabeth Savage",
+			"screen_name": "leusavage",
+			"location": "London, England",
+			"description": "Lecturer in book history & communications @IES_London. Runs @printcolourproj, @book_and_print. Early printing, illustrations, #printingcolour. Views mine.",
+			"url": "https://t.co/nQS4tFMAQC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nQS4tFMAQC",
+							"expanded_url": "https://sas.academia.edu/ElizabethSavageUpper",
+							"display_url": "sas.academia.edu/ElizabethSavag…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2408,
+			"friends_count": 3078,
+			"listed_count": 33,
+			"created_at": "Fri Apr 17 10:47:27 +0000 2015",
+			"favourites_count": 3192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065291798359220224/qc0Rfmsh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065291798359220224/qc0Rfmsh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3176124093/1542820413",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108180508977127400,
+		"quoted_status_id_str": "1108180508977127426",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bEW4LC9uc4",
+			"expanded": "https://twitter.com/elizabethsibert/status/1108180508977127426",
+			"display": "twitter.com/elizabethsiber…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 20 01:36:36 +0000 2019",
+			"id": 1108180508977127400,
+			"id_str": "1108180508977127426",
+			"full_text": "#Microsoft also has a tool, called \"Presentation Translator\" that works with most of its recent products (but not yet #office2019 - the one I have). They claim to caption real time, save transcripts, and broadcast translations to 60 languages. https://t.co/0T0njmNzBs 4/n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "office2019",
+						"indices": [
+							118,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0T0njmNzBs",
+						"expanded_url": "https://translator.microsoft.com/help/presentation-translator/",
+						"display_url": "translator.microsoft.com/help/presentat…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1108180231658094600,
+			"in_reply_to_status_id_str": "1108180231658094594",
+			"in_reply_to_user_id": 129267502,
+			"in_reply_to_user_id_str": "129267502",
+			"in_reply_to_screen_name": "elizabethsibert",
+			"user": {
+				"id": 129267502,
+				"id_str": "129267502",
+				"name": "Dr. Elizabeth Sibert",
+				"screen_name": "elizabethsibert",
+				"location": "",
+				"description": "Paleontologist & oceanographer; Harvard Society Junior Fellow; Fish teeth & ancient marine ecosystems. Also a circus artist - instagram is upsidedownelizabeth",
+				"url": "https://t.co/7uoREH3wYu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7uoREH3wYu",
+								"expanded_url": "http://elizabethsibert.com",
+								"display_url": "elizabethsibert.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 419,
+				"friends_count": 115,
+				"listed_count": 7,
+				"created_at": "Sat Apr 03 18:41:55 +0000 2010",
+				"favourites_count": 393,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 158,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615678980927062016/YxS2YLMz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615678980927062016/YxS2YLMz_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 229,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Academics, have you used PowerPoint with live captions and translations, including to languages each participant selects on their own device? Seems wonderful for accessibility and international engagement at conferences. But academic IT/AV can be quaint. Does it actually...work? https://t.co/bEW4LC9uc4"
+	},
+	{
 		"created_at": "Fri Apr 05 23:38:09 +0000 2019",
 		"id": 1114311293312356400,
 		"id_str": "1114311293312356352",
