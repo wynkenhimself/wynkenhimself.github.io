@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 02:02:46 +0000 2019",
+		"id": 1115014813346721800,
+		"id_str": "1115072461261950976",
+		"full_text": "If a man is on the same floor as me and I get off first, I either figure out a way to let them pass by me, or step to the side and fake call someone. Most men do not understand the temporary panic we feel in these situations. https://t.co/MKqZ1H2wQF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MKqZ1H2wQF",
+					"expanded_url": "https://twitter.com/minakimes/status/1114965436213260288",
+					"display_url": "twitter.com/minakimes/stat…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35586563,
+			"id_str": "35586563",
+			"name": "Jemele Hill",
+			"screen_name": "jemelehill",
+			"location": "",
+			"description": "Staff writer for The ATLANTIC. Host of the “Jemele Hill is Unbothered,” podcast for Spotify. Born and raised by Detroit. Grew up at Michigan State.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1124538,
+			"friends_count": 2404,
+			"listed_count": 8064,
+			"created_at": "Sun Apr 26 22:38:15 +0000 2009",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 114632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001715864926814209/UBT5Pg48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001715864926814209/UBT5Pg48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35586563/1519285054",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114965436213260300,
+		"quoted_status_id_str": "1114965436213260288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MKqZ1H2wQF",
+			"expanded": "https://twitter.com/minakimes/status/1114965436213260288",
+			"display": "twitter.com/minakimes/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 07 18:57:29 +0000 2019",
+			"id": 1114965436213260300,
+			"id_str": "1114965436213260288",
+			"full_text": "don't think this occurs to most guys, so: when you get into a hotel elevator with a strange woman, try to press your button first. and if you get off on the same floor, exit the elevator first.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95975081,
+				"id_str": "95975081",
+				"name": "Mina Kimes",
+				"screen_name": "minakimes",
+				"location": "Los Angeles, CA",
+				"description": "Senior Writer @ ESPN The Magazine, crossword enthusiast, hater of the goal line fade",
+				"url": "https://t.co/OIS0spxCLo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OIS0spxCLo",
+								"expanded_url": "http://minakimes.tumblr.com/sports",
+								"display_url": "minakimes.tumblr.com/sports",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 270211,
+				"friends_count": 1190,
+				"listed_count": 2836,
+				"created_at": "Thu Dec 10 20:18:22 +0000 2009",
+				"favourites_count": 66212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50273,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087525236025679874/bdtRIakT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087525236025679874/bdtRIakT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95975081/1529549060",
+				"profile_link_color": "13319E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "9EC3D9",
+				"profile_text_color": "030303",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2965,
+			"favorite_count": 15598,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1255,
+		"favorite_count": 7958,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If a man is on the same floor as me and I get off first, I either figure out a way to let them pass by me, or step to the side and fake call someone. Most men do not understand the temporary panic we feel in these situations. https://t.co/MKqZ1H2wQF"
+	},
+	{
 		"created_at": "Sat Apr 06 20:54:23 +0000 2019",
 		"id": 1114631346708549600,
 		"id_str": "1114632467099549696",
