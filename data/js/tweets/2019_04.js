@@ -1,6 +1,1531 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 15:59:41 +0000 2019",
+		"id": 1117095015837241300,
+		"id_str": "1117095015837241344",
+		"full_text": "@kzwa 🤖",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kzwa",
+					"name": "Kate Zwaard",
+					"id": 74541831,
+					"id_str": "74541831",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117094677331759100,
+		"in_reply_to_status_id_str": "1117094677331759105",
+		"in_reply_to_user_id": 74541831,
+		"in_reply_to_user_id_str": "74541831",
+		"in_reply_to_screen_name": "kzwa",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@kzwa 🤖"
+	},
+	{
+		"created_at": "Sat Apr 13 15:59:12 +0000 2019",
+		"id": 1117094896521896000,
+		"id_str": "1117094896521895936",
+		"full_text": "@cjp_still @atrubek Oof, that’s so hard. I feel lucky not to have that going on. Yet.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "atrubek",
+					"name": "Anne Trubek",
+					"id": 25105016,
+					"id_str": "25105016",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117094576236441600,
+		"in_reply_to_status_id_str": "1117094576236441605",
+		"in_reply_to_user_id": 77915683,
+		"in_reply_to_user_id_str": "77915683",
+		"in_reply_to_screen_name": "cjp_still",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjp_still @atrubek Oof, that’s so hard. I feel lucky not to have that going on. Yet."
+	},
+	{
+		"created_at": "Sat Apr 13 15:58:11 +0000 2019",
+		"id": 1117094639947931600,
+		"id_str": "1117094639947931652",
+		"full_text": "@SGUYBRAY I’m down for the kickstarter",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SGUYBRAY",
+					"name": "notoriousSGB",
+					"id": 2881264591,
+					"id_str": "2881264591",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117093562963808300,
+		"in_reply_to_status_id_str": "1117093562963808256",
+		"in_reply_to_user_id": 2881264591,
+		"in_reply_to_user_id_str": "2881264591",
+		"in_reply_to_screen_name": "SGUYBRAY",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SGUYBRAY I’m down for the kickstarter"
+	},
+	{
+		"created_at": "Sat Apr 13 15:57:19 +0000 2019",
+		"id": 1117094423538667500,
+		"id_str": "1117094423538667520",
+		"full_text": "@cjp_still @atrubek There was a lot going on! Praise be the therapist that helped me make it through",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "atrubek",
+					"name": "Anne Trubek",
+					"id": 25105016,
+					"id_str": "25105016",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117093854832885800,
+		"in_reply_to_status_id_str": "1117093854832885761",
+		"in_reply_to_user_id": 77915683,
+		"in_reply_to_user_id_str": "77915683",
+		"in_reply_to_screen_name": "cjp_still",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjp_still @atrubek There was a lot going on! Praise be the therapist that helped me make it through"
+	},
+	{
+		"created_at": "Sat Apr 13 15:51:47 +0000 2019",
+		"id": 1117093027930099700,
+		"id_str": "1117093027930099713",
+		"full_text": "@atrubek @cjp_still All of the above.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atrubek",
+					"name": "Anne Trubek",
+					"id": 25105016,
+					"id_str": "25105016",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117092898925895700,
+		"in_reply_to_status_id_str": "1117092898925895680",
+		"in_reply_to_user_id": 25105016,
+		"in_reply_to_user_id_str": "25105016",
+		"in_reply_to_screen_name": "atrubek",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@atrubek @cjp_still All of the above."
+	},
+	{
+		"created_at": "Sat Apr 13 15:48:36 +0000 2019",
+		"id": 1117092228806185000,
+		"id_str": "1117092228806184960",
+		"full_text": "@cjp_still @atrubek fwiw I think I hit the bottom of the curve early, between the miserable deaths of my folks and my rotten marriage, so I’m here to say that the up curve feels real to me",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "atrubek",
+					"name": "Anne Trubek",
+					"id": 25105016,
+					"id_str": "25105016",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117091592073035800,
+		"in_reply_to_status_id_str": "1117091592073035776",
+		"in_reply_to_user_id": 77915683,
+		"in_reply_to_user_id_str": "77915683",
+		"in_reply_to_screen_name": "cjp_still",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjp_still @atrubek fwiw I think I hit the bottom of the curve early, between the miserable deaths of my folks and my rotten marriage, so I’m here to say that the up curve feels real to me"
+	},
+	{
+		"created_at": "Sat Apr 13 15:43:17 +0000 2019",
+		"id": 1117090890403778600,
+		"id_str": "1117090890403778561",
+		"full_text": "@atrubek @cjp_still My take turned into: it’s coming no matter what, so what can I do to make what’s in front of me as best as possible? Glass half-full approach",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atrubek",
+					"name": "Anne Trubek",
+					"id": 25105016,
+					"id_str": "25105016",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117090438631120900,
+		"in_reply_to_status_id_str": "1117090438631120896",
+		"in_reply_to_user_id": 25105016,
+		"in_reply_to_user_id_str": "25105016",
+		"in_reply_to_screen_name": "atrubek",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@atrubek @cjp_still My take turned into: it’s coming no matter what, so what can I do to make what’s in front of me as best as possible? Glass half-full approach"
+	},
+	{
+		"created_at": "Sat Apr 13 15:41:52 +0000 2019",
+		"id": 1117090534244454400,
+		"id_str": "1117090534244454401",
+		"full_text": "@cjp_still It hit me maybe a year ago, as I saw 50 coming down the road and was reconsidering my life choices. It freaked me out, but by now I’ve mostly turned it into a productive way of making choices. Like: get divorced! And: when I buy my next place, I’m getting one that’s accessible",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117089527326236700,
+		"in_reply_to_status_id_str": "1117089527326236672",
+		"in_reply_to_user_id": 77915683,
+		"in_reply_to_user_id_str": "77915683",
+		"in_reply_to_screen_name": "cjp_still",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjp_still It hit me maybe a year ago, as I saw 50 coming down the road and was reconsidering my life choices. It freaked me out, but by now I’ve mostly turned it into a productive way of making choices. Like: get divorced! And: when I buy my next place, I’m getting one that’s accessible"
+	},
+	{
+		"created_at": "Sat Apr 13 15:34:07 +0000 2019",
+		"id": 1117088582429233200,
+		"id_str": "1117088582429233158",
+		"full_text": "Also I saw some man pick up a carton of eggs and walk away without checking to see if they were broken first and that might be the first sign of the Cylon invasion",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117088330389381100,
+		"in_reply_to_status_id_str": "1117088330389381120",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also I saw some man pick up a carton of eggs and walk away without checking to see if they were broken first and that might be the first sign of the Cylon invasion"
+	},
+	{
+		"created_at": "Sat Apr 13 15:33:07 +0000 2019",
+		"id": 1117088330389381100,
+		"id_str": "1117088330389381120",
+		"full_text": "When you’re going through menopause and a divorce, Saturday morning grocery shopping with all the gorgeous babies is a lot of feelings.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "When you’re going through menopause and a divorce, Saturday morning grocery shopping with all the gorgeous babies is a lot of feelings."
+	},
+	{
+		"created_at": "Sat Apr 13 15:31:50 +0000 2019",
+		"id": 1117088009567051800,
+		"id_str": "1117088009567051776",
+		"full_text": "@cjp_still I of course don’t have CP and my mom’s Alzheimer’s doesn’t seem to be the hereditary kind. But not having a model of old age makes me plan for it coming sooner rather than later.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117087548311003100,
+		"in_reply_to_status_id_str": "1117087548311003137",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjp_still I of course don’t have CP and my mom’s Alzheimer’s doesn’t seem to be the hereditary kind. But not having a model of old age makes me plan for it coming sooner rather than later."
+	},
+	{
+		"created_at": "Sat Apr 13 15:30:00 +0000 2019",
+		"id": 1117087548311003100,
+		"id_str": "1117087548311003137",
+		"full_text": "@cjp_still My dad died at 68 (after 3-5 years of painful cerebral palsy decline), my mom at 71 (after starting her dementia decline in her early 60s); my dad’s dad made it without much difficulty to 86. But I tend to think of myself as having only 15-20 good years left if I’m lucky.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjp_still",
+					"name": "Dr. Catherine Prendergast",
+					"id": 77915683,
+					"id_str": "77915683",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117079065587081200,
+		"in_reply_to_status_id_str": "1117079065587081216",
+		"in_reply_to_user_id": 77915683,
+		"in_reply_to_user_id_str": "77915683",
+		"in_reply_to_screen_name": "cjp_still",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8257,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 17278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjp_still My dad died at 68 (after 3-5 years of painful cerebral palsy decline), my mom at 71 (after starting her dementia decline in her early 60s); my dad’s dad made it without much difficulty to 86. But I tend to think of myself as having only 15-20 good years left if I’m lucky."
+	},
+	{
+		"created_at": "Sat Apr 13 12:37:33 +0000 2019",
+		"id": 1117042237416800300,
+		"id_str": "1117044150199889920",
+		"full_text": "Half an hour later, still feeling traumatized by Chaucer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1345637737,
+			"id_str": "1345637737",
+			"name": "Jordan Davis",
+			"screen_name": "JordanDavisPoet",
+			"location": "Brooklyn, NY",
+			"description": "Former poetry editor of @thenation. *Shell Game* out from Edge Books https://t.co/IDhVOzllgB I read everybody",
+			"url": "https://t.co/cniyFT2Liv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cniyFT2Liv",
+							"expanded_url": "http://jordandavis.com/",
+							"display_url": "jordandavis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IDhVOzllgB",
+							"expanded_url": "https://www.spdbooks.org/Products/9781890311452/shell-game.aspx",
+							"display_url": "spdbooks.org/Products/97818…",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2851,
+			"friends_count": 1546,
+			"listed_count": 63,
+			"created_at": "Fri Apr 12 00:40:44 +0000 2013",
+			"favourites_count": 64916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49743,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020264451591868416/Piz7GIcf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020264451591868416/Piz7GIcf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1345637737/1549115076",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Half an hour later, still feeling traumatized by Chaucer"
+	},
+	{
 		"created_at": "Sat Apr 13 00:27:37 +0000 2019",
 		"id": 1116860457212620800,
 		"id_str": "1116860457212620801",
