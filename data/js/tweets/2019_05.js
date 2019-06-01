@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 22:51:28 +0000 2019",
+		"id": 1134593263992791000,
+		"id_str": "1134593263992791040",
+		"full_text": "@jmhuculak @AmyHildrethChen you go over there and tell them I said to return it stat!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jmhuculak",
+					"name": "Matt Huculak",
+					"id": 19251811,
+					"id_str": "19251811",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "AmyHildrethChen",
+					"name": "Amy Hildreth Chen",
+					"id": 850346124,
+					"id_str": "850346124",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1134583336922468400,
+		"in_reply_to_status_id_str": "1134583336922468352",
+		"in_reply_to_user_id": 19251811,
+		"in_reply_to_user_id_str": "19251811",
+		"in_reply_to_screen_name": "jmhuculak",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8364,
+			"friends_count": 348,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 18580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jmhuculak @AmyHildrethChen you go over there and tell them I said to return it stat!"
+	},
+	{
+		"created_at": "Fri May 31 14:34:32 +0000 2019",
+		"id": 1134468208512110600,
+		"id_str": "1134468208512110592",
+		"full_text": "my 6-day schedule: today: switch into DC apartment, Sunday: fly to TAMU; Tuesday: fly back to DC; Weds: switch back into Maryland house. This is why my brain is rattled.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8364,
+			"friends_count": 348,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 18580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "my 6-day schedule: today: switch into DC apartment, Sunday: fly to TAMU; Tuesday: fly back to DC; Weds: switch back into Maryland house. This is why my brain is rattled."
+	},
+	{
+		"created_at": "Fri May 31 14:26:53 +0000 2019",
+		"id": 1134466281002938400,
+		"id_str": "1134466281002938369",
+		"full_text": "See you there, DC friends? https://t.co/1tMMQRIppI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1tMMQRIppI",
+					"expanded_url": "https://twitter.com/silibraries/status/1133879468014149632",
+					"display_url": "twitter.com/silibraries/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8364,
+			"friends_count": 348,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 18580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133879468014149600,
+		"quoted_status_id_str": "1133879468014149632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1tMMQRIppI",
+			"expanded": "https://twitter.com/silibraries/status/1133879468014149632",
+			"display": "twitter.com/silibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 23:35:06 +0000 2019",
+			"id": 1133879468014149600,
+			"id_str": "1133879468014149632",
+			"full_text": "We're just *TWO* days away from a great chat about women book collectors! Join us as we host Heather O'Donnell and Rebeccca Romney of @honeyandwaxbks Friday, May 31st at 1pm: https://t.co/HDbFg4Txq5 https://t.co/CLetKKzvjm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "honeyandwaxbks",
+						"name": "Heather O'Donnell",
+						"id": 264549397,
+						"id_str": "264549397",
+						"indices": [
+							134,
+							149
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HDbFg4Txq5",
+						"expanded_url": "https://s.si.edu/2vyWwL0",
+						"display_url": "s.si.edu/2vyWwL0",
+						"indices": [
+							175,
+							198
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1133879466369933300,
+						"id_str": "1133879466369933312",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/D7xZXfsW4AAJWH4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7xZXfsW4AAJWH4.jpg",
+						"url": "https://t.co/CLetKKzvjm",
+						"display_url": "pic.twitter.com/CLetKKzvjm",
+						"expanded_url": "https://twitter.com/SILibraries/status/1133879468014149632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 820,
+								"h": 312,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 259,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 820,
+								"h": 312,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133879466369933300,
+						"id_str": "1133879466369933312",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/D7xZXfsW4AAJWH4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7xZXfsW4AAJWH4.jpg",
+						"url": "https://t.co/CLetKKzvjm",
+						"display_url": "pic.twitter.com/CLetKKzvjm",
+						"expanded_url": "https://twitter.com/SILibraries/status/1133879468014149632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 820,
+								"h": 312,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 259,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 820,
+								"h": 312,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15092914,
+				"id_str": "15092914",
+				"name": "SmithsonianLibraries",
+				"screen_name": "SILibraries",
+				"location": "Washington, DC",
+				"description": "The world's largest museum library, based at the Smithsonian Institution. Legal: https://t.co/I5q5Tub1PR",
+				"url": "http://t.co/kbq7XhTeE7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kbq7XhTeE7",
+								"expanded_url": "http://library.si.edu/",
+								"display_url": "library.si.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/I5q5Tub1PR",
+								"expanded_url": "http://www.si.edu/Termsofuse",
+								"display_url": "si.edu/Termsofuse",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 65483,
+				"friends_count": 922,
+				"listed_count": 1946,
+				"created_at": "Thu Jun 12 03:57:19 +0000 2008",
+				"favourites_count": 3619,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13388,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522032392748277760/4uCgF7UF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522032392748277760/4uCgF7UF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15092914/1546007688",
+				"profile_link_color": "0592A5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A6E05C",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See you there, DC friends? https://t.co/1tMMQRIppI"
+	},
+	{
 		"created_at": "Thu May 30 19:35:34 +0000 2019",
 		"id": 1134181574252126200,
 		"id_str": "1134181574252126208",
