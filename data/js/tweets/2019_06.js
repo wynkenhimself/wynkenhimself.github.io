@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 23:42:18 +0000 2019",
+		"id": 1140393393668988900,
+		"id_str": "1140404263379755010",
+		"full_text": "This is one of the most ninja things I've ever seen. h/t @matthewdlincoln https://t.co/PNfPDO96wZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matthewdlincoln",
+					"name": "Matthew Lincoln",
+					"id": 79271706,
+					"id_str": "79271706",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PNfPDO96wZ",
+					"expanded_url": "https://twitter.com/randfish/status/1140334649412947968",
+					"display_url": "twitter.com/randfish/statu…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13598262,
+			"id_str": "13598262",
+			"name": "Matthew Kirschenbaum",
+			"screen_name": "mkirschenbaum",
+			"location": "College Park, Maryland",
+			"description": "Dirty computers, bookish books, tabletop worlds. Author of Track Changes: A Literary History of Word Processing. Tweeting in a personal capacity only.",
+			"url": "https://t.co/47ge7aI23j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/47ge7aI23j",
+							"expanded_url": "http://www.mkirschenbaum.net",
+							"display_url": "mkirschenbaum.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11041,
+			"friends_count": 954,
+			"listed_count": 598,
+			"created_at": "Sun Feb 17 21:53:45 +0000 2008",
+			"favourites_count": 8985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "84BEBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13598262/1535589678",
+			"profile_link_color": "003300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1140334649412948000,
+		"quoted_status_id_str": "1140334649412947968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PNfPDO96wZ",
+			"expanded": "https://twitter.com/randfish/status/1140334649412947968",
+			"display": "twitter.com/randfish/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 16 19:05:41 +0000 2019",
+			"id": 1140334649412948000,
+			"id_str": "1140334649412947968",
+			"full_text": "1: Google scrapes &amp; republishes https://t.co/B8eAvFMYUv's lyrics in full in the SERPs\n2: Genius tells Google to quit it\n3: Google denies &amp; ignores\n4: Genius puts \"red handed\" in Morse code of their apostrophes\n5: Proof is in the SERPs. And now in the WSJ\nhttps://t.co/D2Hptz4jCT https://t.co/29PEe5ud52",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				286
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B8eAvFMYUv",
+						"expanded_url": "http://Genius.com",
+						"display_url": "Genius.com",
+						"indices": [
+							36,
+							59
+						]
+					},
+					{
+						"url": "https://t.co/D2Hptz4jCT",
+						"expanded_url": "https://www.wsj.com/amp/articles/lyrics-site-genius-com-accuses-google-of-lifting-its-content-11560677400",
+						"display_url": "wsj.com/amp/articles/l…",
+						"indices": [
+							263,
+							286
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1140334645063536600,
+						"id_str": "1140334645063536640",
+						"indices": [
+							287,
+							310
+						],
+						"media_url": "http://pbs.twimg.com/media/D9NIUWQVUAABZny.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9NIUWQVUAABZny.jpg",
+						"url": "https://t.co/29PEe5ud52",
+						"display_url": "pic.twitter.com/29PEe5ud52",
+						"expanded_url": "https://twitter.com/randfish/status/1140334649412947968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1140334645063536600,
+						"id_str": "1140334645063536640",
+						"indices": [
+							287,
+							310
+						],
+						"media_url": "http://pbs.twimg.com/media/D9NIUWQVUAABZny.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9NIUWQVUAABZny.jpg",
+						"url": "https://t.co/29PEe5ud52",
+						"display_url": "pic.twitter.com/29PEe5ud52",
+						"expanded_url": "https://twitter.com/randfish/status/1140334649412947968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 365,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6527972,
+				"id_str": "6527972",
+				"name": "Rand Fishkin",
+				"screen_name": "randfish",
+				"location": "Seattle, WA",
+				"description": "Founder @SparkToro, husband to @everywhereist, feminist, he/him, author of Lost & Founder. Formerly @Moz. I tweet ~40X/wk on marketing, tech, & startups.",
+				"url": "https://t.co/ftYJ3kAoX8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ftYJ3kAoX8",
+								"expanded_url": "https://sparktoro.com",
+								"display_url": "sparktoro.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 423727,
+				"friends_count": 156,
+				"listed_count": 17373,
+				"created_at": "Sat Jun 02 19:28:10 +0000 2007",
+				"favourites_count": 73046,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 51128,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/858074513438683136/9Ad9myFy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/858074513438683136/9Ad9myFy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6527972/1398234270",
+				"profile_link_color": "1495FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CBDE50",
+				"profile_text_color": "2F6AD8",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 787,
+			"favorite_count": 1938,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is one of the most ninja things I've ever seen. h/t @matthewdlincoln https://t.co/PNfPDO96wZ"
+	},
+	{
+		"created_at": "Sun Jun 16 19:46:02 +0000 2019",
+		"id": 1140344804875874300,
+		"id_str": "1140344804875874305",
+		"full_text": "@KimberlyTully I did! The guy at the counter suggested something to me, but I really just wanted to browse and was hoping for some weird out-of-print ones. I told him to tell the powers-that-be to get on it",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KimberlyTully",
+					"name": "Kimberly Tully",
+					"id": 468501098,
+					"id_str": "468501098",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140344460783554600,
+		"in_reply_to_status_id_str": "1140344460783554561",
+		"in_reply_to_user_id": 468501098,
+		"in_reply_to_user_id_str": "468501098",
+		"in_reply_to_screen_name": "KimberlyTully",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8376,
+			"friends_count": 350,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 18865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KimberlyTully I did! The guy at the counter suggested something to me, but I really just wanted to browse and was hoping for some weird out-of-print ones. I told him to tell the powers-that-be to get on it"
+	},
+	{
+		"created_at": "Sun Jun 16 19:44:47 +0000 2019",
+		"id": 1140344491280347100,
+		"id_str": "1140344491280347137",
+		"full_text": "I was in a funk about father’s day but now I’m back in my natural state of feminist killjoy and I feel great if also angry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140341935984582700,
+		"in_reply_to_status_id_str": "1140341935984582656",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8376,
+			"friends_count": 350,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 18865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I was in a funk about father’s day but now I’m back in my natural state of feminist killjoy and I feel great if also angry"
+	},
+	{
+		"created_at": "Sun Jun 16 19:38:26 +0000 2019",
+		"id": 1140342890431950800,
+		"id_str": "1140342890431950849",
+		"full_text": "@Millicentsomer @zunguzungu ahhhhahahaaaaa I didn’t realize from A’s tweets that he meant he got INSIDE the duvet cover to do this!! I love it. It’s weird af but I love it.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Millicentsomer",
+					"name": "Lili Loofbourow",
+					"id": 108370814,
+					"id_str": "108370814",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "zunguzungu",
+					"name": "Aaron Bady",
+					"id": 47951511,
+					"id_str": "47951511",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140320125213532200,
+		"in_reply_to_status_id_str": "1140320125213532160",
+		"in_reply_to_user_id": 108370814,
+		"in_reply_to_user_id_str": "108370814",
+		"in_reply_to_screen_name": "Millicentsomer",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | she/hers",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8376,
+			"friends_count": 350,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 18865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Millicentsomer @zunguzungu ahhhhahahaaaaa I didn’t realize from A’s tweets that he meant he got INSIDE the duvet cover to do this!! I love it. It’s weird af but I love it."
+	},
+	{
 		"created_at": "Sat Jun 15 21:08:25 +0000 2019",
 		"id": 1140003147366174700,
 		"id_str": "1140003147366174726",
