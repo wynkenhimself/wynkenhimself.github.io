@@ -1,6 +1,1070 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 02:08:16 +0000 2019",
+		"id": 1157470478337839000,
+		"id_str": "1157473226982735872",
+		"full_text": "To help #FindMillie, please call small hotels/motels along the way (Nebraska, Kansas, Oklahoma, North Texas) to let them to know to keep an eye out. Also alert truck stops and gas stations.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FindMillie",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157459322894344200,
+		"in_reply_to_status_id_str": "1157459322894344192",
+		"in_reply_to_user_id": 34153224,
+		"in_reply_to_user_id_str": "34153224",
+		"in_reply_to_screen_name": "jessicajin_",
+		"user": {
+			"id": 34153224,
+			"id_str": "34153224",
+			"name": "jessica jin",
+			"screen_name": "jessicajin_",
+			"location": "SF, ATX, SATX",
+			"description": "Founder @CocksNotGlocks and Chief Sadness Officer at https://t.co/hmvpB6RUMF. Squatting at the intersection of tech, politics, art, cats. Hell-raising Texan.",
+			"url": "https://t.co/4svH15v1vY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4svH15v1vY",
+							"expanded_url": "http://Instagram.com/jeffacat",
+							"display_url": "Instagram.com/jeffacat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hmvpB6RUMF",
+							"expanded_url": "http://sadviolinmusic.com",
+							"display_url": "sadviolinmusic.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2578,
+			"friends_count": 2940,
+			"listed_count": 88,
+			"created_at": "Wed Apr 22 02:44:52 +0000 2009",
+			"favourites_count": 45644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34153224/1428706057",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To help #FindMillie, please call small hotels/motels along the way (Nebraska, Kansas, Oklahoma, North Texas) to let them to know to keep an eye out. Also alert truck stops and gas stations."
+	},
+	{
+		"created_at": "Sat Aug 03 02:08:13 +0000 2019",
+		"id": 1157459322894344200,
+		"id_str": "1157473214953431040",
+		"full_text": "Update: She may be headed to Texas. This is a multi-state effort now, being classified as an \"endangered persons case.\" @TxDOT https://t.co/l75nFinUgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TxDOT",
+					"name": "Texas Department of Transportation",
+					"id": 16912739,
+					"id_str": "16912739",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157459318020513800,
+					"id_str": "1157459318020513793",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EBAfHgSUIAEk0cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBAfHgSUIAEk0cy.jpg",
+					"url": "https://t.co/l75nFinUgq",
+					"display_url": "pic.twitter.com/l75nFinUgq",
+					"expanded_url": "https://twitter.com/jessicajin_/status/1157459322894344192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157459318020513800,
+					"id_str": "1157459318020513793",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EBAfHgSUIAEk0cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBAfHgSUIAEk0cy.jpg",
+					"url": "https://t.co/l75nFinUgq",
+					"display_url": "pic.twitter.com/l75nFinUgq",
+					"expanded_url": "https://twitter.com/jessicajin_/status/1157459322894344192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157437030214688800,
+		"in_reply_to_status_id_str": "1157437030214688768",
+		"in_reply_to_user_id": 34153224,
+		"in_reply_to_user_id_str": "34153224",
+		"in_reply_to_screen_name": "jessicajin_",
+		"user": {
+			"id": 34153224,
+			"id_str": "34153224",
+			"name": "jessica jin",
+			"screen_name": "jessicajin_",
+			"location": "SF, ATX, SATX",
+			"description": "Founder @CocksNotGlocks and Chief Sadness Officer at https://t.co/hmvpB6RUMF. Squatting at the intersection of tech, politics, art, cats. Hell-raising Texan.",
+			"url": "https://t.co/4svH15v1vY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4svH15v1vY",
+							"expanded_url": "http://Instagram.com/jeffacat",
+							"display_url": "Instagram.com/jeffacat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hmvpB6RUMF",
+							"expanded_url": "http://sadviolinmusic.com",
+							"display_url": "sadviolinmusic.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2578,
+			"friends_count": 2940,
+			"listed_count": 88,
+			"created_at": "Wed Apr 22 02:44:52 +0000 2009",
+			"favourites_count": 45644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34153224/1428706057",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Update: She may be headed to Texas. This is a multi-state effort now, being classified as an \"endangered persons case.\" @TxDOT https://t.co/l75nFinUgq"
+	},
+	{
+		"created_at": "Sat Aug 03 00:10:40 +0000 2019",
+		"id": 1157443629016854500,
+		"id_str": "1157443629016854534",
+		"full_text": "This is an abduction by a stranger of the daughter of friends in SE Lincoln, Nebraska. Just happened; please spread the word, Nebraskans, and help #FindMillie https://t.co/dMWOFw2d1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FindMillie",
+					"indices": [
+						147,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dMWOFw2d1B",
+					"expanded_url": "https://twitter.com/jessicajin_/status/1157429928385581057?s=21",
+					"display_url": "twitter.com/jessicajin_/st…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8530,
+			"friends_count": 357,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1157429928385581000,
+		"quoted_status_id_str": "1157429928385581057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dMWOFw2d1B",
+			"expanded": "https://twitter.com/jessicajin_/status/1157429928385581057?s=21",
+			"display": "twitter.com/jessicajin_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 02 23:16:13 +0000 2019",
+			"id": 1157429928385581000,
+			"id_str": "1157429928385581057",
+			"full_text": "If you're in or near Lincoln, NE please look out for Millie, a 14yo abducted by someone in a red SUV. 5’8\", 105 lbs. Last seen 5pm central in SW Lincoln in a short-sleeved black dress w/ a hot pink pattern. She's the most brilliant kid I've ever met. Please RT. #FindMillie https://t.co/Gro3AlpyZJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FindMillie",
+						"indices": [
+							262,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1157429901428809700,
+						"id_str": "1157429901428809729",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+						"url": "https://t.co/Gro3AlpyZJ",
+						"display_url": "pic.twitter.com/Gro3AlpyZJ",
+						"expanded_url": "https://twitter.com/jessicajin_/status/1157429928385581057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 990,
+								"h": 1330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 893,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1157429901428809700,
+						"id_str": "1157429901428809729",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+						"url": "https://t.co/Gro3AlpyZJ",
+						"display_url": "pic.twitter.com/Gro3AlpyZJ",
+						"expanded_url": "https://twitter.com/jessicajin_/status/1157429928385581057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 990,
+								"h": 1330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 893,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34153224,
+				"id_str": "34153224",
+				"name": "jessica jin",
+				"screen_name": "jessicajin_",
+				"location": "SF, ATX, SATX",
+				"description": "Founder @CocksNotGlocks and Chief Sadness Officer at https://t.co/hmvpB6RUMF. Squatting at the intersection of tech, politics, art, cats. Hell-raising Texan.",
+				"url": "https://t.co/4svH15v1vY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4svH15v1vY",
+								"expanded_url": "http://Instagram.com/jeffacat",
+								"display_url": "Instagram.com/jeffacat",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hmvpB6RUMF",
+								"expanded_url": "http://sadviolinmusic.com",
+								"display_url": "sadviolinmusic.com",
+								"indices": [
+									53,
+									76
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2578,
+				"friends_count": 2940,
+				"listed_count": 88,
+				"created_at": "Wed Apr 22 02:44:52 +0000 2009",
+				"favourites_count": 45644,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32891,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34153224/1428706057",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 259,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an abduction by a stranger of the daughter of friends in SE Lincoln, Nebraska. Just happened; please spread the word, Nebraskans, and help #FindMillie https://t.co/dMWOFw2d1B"
+	},
+	{
+		"created_at": "Sat Aug 03 00:07:28 +0000 2019",
+		"id": 1157429928385581000,
+		"id_str": "1157442825656492032",
+		"full_text": "If you're in or near Lincoln, NE please look out for Millie, a 14yo abducted by someone in a red SUV. 5’8\", 105 lbs. Last seen 5pm central in SW Lincoln in a short-sleeved black dress w/ a hot pink pattern. She's the most brilliant kid I've ever met. Please RT. #FindMillie https://t.co/Gro3AlpyZJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FindMillie",
+					"indices": [
+						262,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157429901428809700,
+					"id_str": "1157429901428809729",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+					"url": "https://t.co/Gro3AlpyZJ",
+					"display_url": "pic.twitter.com/Gro3AlpyZJ",
+					"expanded_url": "https://twitter.com/jessicajin_/status/1157429928385581057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 1330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157429901428809700,
+					"id_str": "1157429901428809729",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBAEXO8UYAE0PDT.jpg",
+					"url": "https://t.co/Gro3AlpyZJ",
+					"display_url": "pic.twitter.com/Gro3AlpyZJ",
+					"expanded_url": "https://twitter.com/jessicajin_/status/1157429928385581057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 1330,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34153224,
+			"id_str": "34153224",
+			"name": "jessica jin",
+			"screen_name": "jessicajin_",
+			"location": "SF, ATX, SATX",
+			"description": "Founder @CocksNotGlocks and Chief Sadness Officer at https://t.co/hmvpB6RUMF. Squatting at the intersection of tech, politics, art, cats. Hell-raising Texan.",
+			"url": "https://t.co/4svH15v1vY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4svH15v1vY",
+							"expanded_url": "http://Instagram.com/jeffacat",
+							"display_url": "Instagram.com/jeffacat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hmvpB6RUMF",
+							"expanded_url": "http://sadviolinmusic.com",
+							"display_url": "sadviolinmusic.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2578,
+			"friends_count": 2940,
+			"listed_count": 88,
+			"created_at": "Wed Apr 22 02:44:52 +0000 2009",
+			"favourites_count": 45644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871280423300616192/P8neaouK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34153224/1428706057",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're in or near Lincoln, NE please look out for Millie, a 14yo abducted by someone in a red SUV. 5’8\", 105 lbs. Last seen 5pm central in SW Lincoln in a short-sleeved black dress w/ a hot pink pattern. She's the most brilliant kid I've ever met. Please RT. #FindMillie https://t.co/Gro3AlpyZJ"
+	},
+	{
+		"created_at": "Fri Aug 02 14:46:15 +0000 2019",
+		"id": 1157301589239054300,
+		"id_str": "1157301589239054336",
+		"full_text": "@SGUYBRAY Oooh, they are the best poets! Looking forward to reading this. 🙌",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SGUYBRAY",
+					"name": "notoriousSGB",
+					"id": 2881264591,
+					"id_str": "2881264591",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157299580607713300,
+		"in_reply_to_status_id_str": "1157299580607713280",
+		"in_reply_to_user_id": 2881264591,
+		"in_reply_to_user_id_str": "2881264591",
+		"in_reply_to_screen_name": "SGUYBRAY",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8530,
+			"friends_count": 357,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SGUYBRAY Oooh, they are the best poets! Looking forward to reading this. 🙌"
+	},
+	{
+		"created_at": "Fri Aug 02 13:54:56 +0000 2019",
+		"id": 1157288675190775800,
+		"id_str": "1157288675190775809",
+		"full_text": "@j_zimms @men_write_women I’m super cringing about that vagina purse!!!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "j_zimms",
+					"name": "Jess Zimmerman",
+					"id": 14714760,
+					"id_str": "14714760",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "men_write_women",
+					"name": "Men Writing Women",
+					"id": 1128295781499375600,
+					"id_str": "1128295781499375621",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157284927584559000,
+		"in_reply_to_status_id_str": "1157284927584559105",
+		"in_reply_to_user_id": 14714760,
+		"in_reply_to_user_id_str": "14714760",
+		"in_reply_to_screen_name": "j_zimms",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8530,
+			"friends_count": 357,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@j_zimms @men_write_women I’m super cringing about that vagina purse!!!"
+	},
+	{
 		"created_at": "Thu Aug 01 22:58:25 +0000 2019",
 		"id": 1157063058713448400,
 		"id_str": "1157063058713448449",
@@ -357,7 +1421,7 @@ Grailbird.data.tweets_2019_08 =
 				"name": "Trevor Owens 💾🗄🕚",
 				"screen_name": "tjowens",
 				"location": "Hyattsville, MD",
-				"description": "Head of Digital Content Management @librarycongress, 👨‍🏫 @iSchoolUMD & @AmericanU. intersectional feminist/violinist/❤️small 🐶s & cardigans | unofficial",
+				"description": "Head of Digital Content Management @librarycongress, 👨🏫 @iSchoolUMD & @AmericanU. intersectional feminist/violinist/❤️small 🐶s & cardigans | unofficial",
 				"url": "https://t.co/RO0ERAupdh",
 				"entities": {
 					"url": {
