@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 14:05:22 +0000 2019",
+		"id": 1157653691425415200,
+		"id_str": "1157653691425415169",
+		"full_text": "Now that Millie has been located, I’m deleting the pleas, since they’re still being RTd and no need to panic anyone. https://t.co/6mqizxSMhB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6mqizxSMhB",
+					"expanded_url": "https://twitter.com/lincoln_police/status/1157541909679738881?s=21",
+					"display_url": "twitter.com/lincoln_police…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157443629016854500,
+		"in_reply_to_status_id_str": "1157443629016854534",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8535,
+			"friends_count": 357,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1157541909679739000,
+		"quoted_status_id_str": "1157541909679738881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6mqizxSMhB",
+			"expanded": "https://twitter.com/lincoln_police/status/1157541909679738881?s=21",
+			"display": "twitter.com/lincoln_police…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 03 06:41:12 +0000 2019",
+			"id": 1157541909679739000,
+			"id_str": "1157541909679738881",
+			"full_text": "UPDATE: Camille was safely located. Thank you to everyone who helped quickly spread this information across the country. We will continue gathering all the facts and provide details soon but she is safe!! #LNK https://t.co/bhC8GFDC0Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LNK",
+						"indices": [
+							205,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1157541906039095300,
+						"id_str": "1157541906039095296",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"url": "https://t.co/bhC8GFDC0Q",
+						"display_url": "pic.twitter.com/bhC8GFDC0Q",
+						"expanded_url": "https://twitter.com/Lincoln_Police/status/1157541909679738881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1157541906039095300,
+						"id_str": "1157541906039095296",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"url": "https://t.co/bhC8GFDC0Q",
+						"display_url": "pic.twitter.com/bhC8GFDC0Q",
+						"expanded_url": "https://twitter.com/Lincoln_Police/status/1157541909679738881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482494430,
+				"id_str": "1482494430",
+				"name": "Lincoln Police",
+				"screen_name": "Lincoln_Police",
+				"location": "Lincoln, Nebraska",
+				"description": "Official twitter account of Lincoln (NE) Police Department. Not monitored 24/7. For emergency assistance call 911.",
+				"url": "https://t.co/gsa7S41cV9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gsa7S41cV9",
+								"expanded_url": "http://www.lincoln.ne.gov/city/police",
+								"display_url": "lincoln.ne.gov/city/police",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21491,
+				"friends_count": 1074,
+				"listed_count": 191,
+				"created_at": "Tue Jun 04 15:11:35 +0000 2013",
+				"favourites_count": 36035,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14318,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998587812541743105/3d2lHzjs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998587812541743105/3d2lHzjs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482494430/1505214269",
+				"profile_link_color": "305D83",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 556,
+			"favorite_count": 2245,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now that Millie has been located, I’m deleting the pleas, since they’re still being RTd and no need to panic anyone. https://t.co/6mqizxSMhB"
+	},
+	{
+		"created_at": "Sat Aug 03 14:03:26 +0000 2019",
+		"id": 1157653201312600000,
+		"id_str": "1157653201312600064",
+		"full_text": "Great news: Millie was found! 🎉 #FindMillie https://t.co/6mqizxSMhB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FindMillie",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6mqizxSMhB",
+					"expanded_url": "https://twitter.com/lincoln_police/status/1157541909679738881?s=21",
+					"display_url": "twitter.com/lincoln_police…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157480688846721000,
+		"in_reply_to_status_id_str": "1157480688846721024",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8535,
+			"friends_count": 357,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1157541909679739000,
+		"quoted_status_id_str": "1157541909679738881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6mqizxSMhB",
+			"expanded": "https://twitter.com/lincoln_police/status/1157541909679738881?s=21",
+			"display": "twitter.com/lincoln_police…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 03 06:41:12 +0000 2019",
+			"id": 1157541909679739000,
+			"id_str": "1157541909679738881",
+			"full_text": "UPDATE: Camille was safely located. Thank you to everyone who helped quickly spread this information across the country. We will continue gathering all the facts and provide details soon but she is safe!! #LNK https://t.co/bhC8GFDC0Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LNK",
+						"indices": [
+							205,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1157541906039095300,
+						"id_str": "1157541906039095296",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"url": "https://t.co/bhC8GFDC0Q",
+						"display_url": "pic.twitter.com/bhC8GFDC0Q",
+						"expanded_url": "https://twitter.com/Lincoln_Police/status/1157541909679738881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1157541906039095300,
+						"id_str": "1157541906039095296",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBBqOwoWwAAc4V2.jpg",
+						"url": "https://t.co/bhC8GFDC0Q",
+						"display_url": "pic.twitter.com/bhC8GFDC0Q",
+						"expanded_url": "https://twitter.com/Lincoln_Police/status/1157541909679738881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482494430,
+				"id_str": "1482494430",
+				"name": "Lincoln Police",
+				"screen_name": "Lincoln_Police",
+				"location": "Lincoln, Nebraska",
+				"description": "Official twitter account of Lincoln (NE) Police Department. Not monitored 24/7. For emergency assistance call 911.",
+				"url": "https://t.co/gsa7S41cV9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gsa7S41cV9",
+								"expanded_url": "http://www.lincoln.ne.gov/city/police",
+								"display_url": "lincoln.ne.gov/city/police",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21491,
+				"friends_count": 1074,
+				"listed_count": 191,
+				"created_at": "Tue Jun 04 15:11:35 +0000 2013",
+				"favourites_count": 36035,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14318,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998587812541743105/3d2lHzjs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998587812541743105/3d2lHzjs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482494430/1505214269",
+				"profile_link_color": "305D83",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 556,
+			"favorite_count": 2245,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great news: Millie was found! 🎉 #FindMillie https://t.co/6mqizxSMhB"
+	},
+	{
 		"created_at": "Sat Aug 03 02:08:16 +0000 2019",
 		"id": 1157470478337839000,
 		"id_str": "1157473226982735872",
