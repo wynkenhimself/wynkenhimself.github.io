@@ -1,6 +1,1004 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 04 18:28:07 +0000 2019",
+		"id": 1158082202871054300,
+		"id_str": "1158082202871054336",
+		"full_text": "@melusinagr Oh that’s horrifying timing. It really is heartbreaking",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melusinagr",
+					"name": "melusina",
+					"id": 14921494,
+					"id_str": "14921494",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158074891679277000,
+		"in_reply_to_status_id_str": "1158074891679277058",
+		"in_reply_to_user_id": 14921494,
+		"in_reply_to_user_id_str": "14921494",
+		"in_reply_to_screen_name": "melusinagr",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8539,
+			"friends_count": 357,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melusinagr Oh that’s horrifying timing. It really is heartbreaking"
+	},
+	{
+		"created_at": "Sun Aug 04 15:17:41 +0000 2019",
+		"id": 1158030680808394800,
+		"id_str": "1158034278350934017",
+		"full_text": "I don't discount your #thoughtsandprayers because I'm not a believer. It's because using \"thoughts and prayers\" to avoid taking action grossly disrespects God. \n1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thoughtsandprayers",
+					"indices": [
+						22,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117313502,
+			"id_str": "117313502",
+			"name": "Jim Marino",
+			"screen_name": "doctorcleveland",
+			"location": "The Great Lakes",
+			"description": "Shakespearean & early modernist. Fiction at @apexmag; scholarship at @PennPress, @EnglishLitHist & elsewhere; furious opinion at @dagblog.",
+			"url": "https://t.co/F7hJxuLVzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F7hJxuLVzO",
+							"expanded_url": "https://jamesjmarino.com/",
+							"display_url": "jamesjmarino.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 777,
+			"friends_count": 1024,
+			"listed_count": 28,
+			"created_at": "Thu Feb 25 05:36:08 +0000 2010",
+			"favourites_count": 4116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143715796188901376/bTboCPeK_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143715796188901376/bTboCPeK_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117313502/1502132066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I don't discount your #thoughtsandprayers because I'm not a believer. It's because using \"thoughts and prayers\" to avoid taking action grossly disrespects God. \n1/"
+	},
+	{
+		"created_at": "Sun Aug 04 14:47:27 +0000 2019",
+		"id": 1158026666486227000,
+		"id_str": "1158026666486226944",
+		"full_text": "I learn a lot from following @loisbeckett. Below is an old tweet (pinned) about why it’s not hopeless. Follow her to get insightful and actionable thoughts on guns in America. https://t.co/vO2xPpzAYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loisbeckett",
+					"name": "Lois Beckett",
+					"id": 21134925,
+					"id_str": "21134925",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vO2xPpzAYm",
+					"expanded_url": "https://twitter.com/loisbeckett/status/1061260026554142720",
+					"display_url": "twitter.com/loisbeckett/st…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8539,
+			"friends_count": 357,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061260026554142700,
+		"quoted_status_id_str": "1061260026554142720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vO2xPpzAYm",
+			"expanded": "https://twitter.com/loisbeckett/status/1061260026554142720",
+			"display": "twitter.com/loisbeckett/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 14:11:22 +0000 2018",
+			"id": 1061260026554142700,
+			"id_str": "1061260026554142720",
+			"full_text": "I am sick of media outlets making a case for hopelessness and stalemate after the latest mass shooting. \n\nThere are ways to prevent some of these these shootings. But people don't know about them because WE DON'T COVER THEM.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21134925,
+				"id_str": "21134925",
+				"name": "Lois Beckett",
+				"screen_name": "loisbeckett",
+				"location": "Oakland, CA",
+				"description": "Senior reporter @GuardianUS. I cover guns & gun violence prevention. Views=mine. 🇺🇸lois.beckett@theguardian.com. DM for tips/Signal/WhatsApp #.",
+				"url": "https://t.co/WPfkaewiqp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WPfkaewiqp",
+								"expanded_url": "https://www.theguardian.com/profile/lois-beckett",
+								"display_url": "theguardian.com/profile/lois-b…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31693,
+				"friends_count": 8888,
+				"listed_count": 1062,
+				"created_at": "Tue Feb 17 21:48:57 +0000 2009",
+				"favourites_count": 27275,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/551921299992236032/BeRvU8hZ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/551921299992236032/BeRvU8hZ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21134925/1468853933",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1670,
+			"favorite_count": 5144,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I learn a lot from following @loisbeckett. Below is an old tweet (pinned) about why it’s not hopeless. Follow her to get insightful and actionable thoughts on guns in America. https://t.co/vO2xPpzAYm"
+	},
+	{
+		"created_at": "Sun Aug 04 14:45:38 +0000 2019",
+		"id": 1158024526812209200,
+		"id_str": "1158026211987091457",
+		"full_text": "This take is bullshit, and I am tired of seeing it. \n\nNothing is over.\n\nNone of this is over.\nhttps://t.co/YGBZp80ss2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YGBZp80ss2",
+					"expanded_url": "https://twitter.com/dpjhodges/status/611943312401002496?s=21",
+					"display_url": "twitter.com/dpjhodges/stat…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21134925,
+			"id_str": "21134925",
+			"name": "Lois Beckett",
+			"screen_name": "loisbeckett",
+			"location": "Oakland, CA",
+			"description": "Senior reporter @GuardianUS. I cover guns & gun violence prevention. Views=mine. 🇺🇸lois.beckett@theguardian.com. DM for tips/Signal/WhatsApp #.",
+			"url": "https://t.co/WPfkaewiqp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPfkaewiqp",
+							"expanded_url": "https://www.theguardian.com/profile/lois-beckett",
+							"display_url": "theguardian.com/profile/lois-b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31693,
+			"friends_count": 8888,
+			"listed_count": 1062,
+			"created_at": "Tue Feb 17 21:48:57 +0000 2009",
+			"favourites_count": 27275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551921299992236032/BeRvU8hZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551921299992236032/BeRvU8hZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21134925/1468853933",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 611943312401002500,
+		"quoted_status_id_str": "611943312401002496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YGBZp80ss2",
+			"expanded": "https://twitter.com/dpjhodges/status/611943312401002496?s=21",
+			"display": "twitter.com/dpjhodges/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 17:07:09 +0000 2015",
+			"id": 611943312401002500,
+			"id_str": "611943312401002496",
+			"full_text": "In retrospect Sandy Hook marked the end of the US gun control debate. Once America decided killing children was bearable, it was over.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62123765,
+				"id_str": "62123765",
+				"name": "(((Dan Hodges)))",
+				"screen_name": "DPJHodges",
+				"location": "",
+				"description": "Commentator Mail on Sunday. 'Worst political pundit in the West' - Glenn Greenwald. Didn't attend private school. Mingled with Tories.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124473,
+				"friends_count": 10631,
+				"listed_count": 1765,
+				"created_at": "Sat Aug 01 21:35:56 +0000 2009",
+				"favourites_count": 175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 129083,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1018744149053526016/9fvmUEGq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018744149053526016/9fvmUEGq_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 172346,
+			"favorite_count": 214444,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 153,
+		"favorite_count": 749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This take is bullshit, and I am tired of seeing it. \n\nNothing is over.\n\nNone of this is over.\nhttps://t.co/YGBZp80ss2"
+	},
+	{
+		"created_at": "Sun Aug 04 14:43:58 +0000 2019",
+		"id": 1158025793202610200,
+		"id_str": "1158025793202610177",
+		"full_text": "On vacation and the news of the world trickles to me slowly. Spent last night thinking about my friends in El Paso. Woke up this morning to see I need also to be thinking about my friends in Dayton. And by friends I mean all of us, I am mourning and outraged for all of us.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8539,
+			"friends_count": 357,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "On vacation and the news of the world trickles to me slowly. Spent last night thinking about my friends in El Paso. Woke up this morning to see I need also to be thinking about my friends in Dayton. And by friends I mean all of us, I am mourning and outraged for all of us."
+	},
+	{
+		"created_at": "Sun Aug 04 14:41:52 +0000 2019",
+		"id": 1158020450628198400,
+		"id_str": "1158025262669283328",
+		"full_text": "I haven't been able to stop thinking about this sentence: \"…your job is not to consign your constituents to God, but to govern through law.\" https://t.co/azDA0KKvYw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/azDA0KKvYw",
+					"expanded_url": "https://twitter.com/cdespinosa/status/1157833796458123264",
+					"display_url": "twitter.com/cdespinosa/sta…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13919072,
+			"id_str": "13919072",
+			"name": "Robin Sloan",
+			"screen_name": "robinsloan",
+			"location": "",
+			"description": "I write novels: https://t.co/wwEXoFfbZY 📚 and send a weekly newsletter: https://t.co/ptb9bDauUT 💌 and make California extra virgin olive oil: https://t.co/FqAOoTwN9h 🌳",
+			"url": "https://t.co/0nj1xwj4rX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0nj1xwj4rX",
+							"expanded_url": "https://www.robinsloan.com",
+							"display_url": "robinsloan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wwEXoFfbZY",
+							"expanded_url": "http://robinsloan.com",
+							"display_url": "robinsloan.com",
+							"indices": [
+								16,
+								39
+							]
+						},
+						{
+							"url": "https://t.co/ptb9bDauUT",
+							"expanded_url": "http://desert.glass",
+							"display_url": "desert.glass",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/FqAOoTwN9h",
+							"expanded_url": "http://fat.gold",
+							"display_url": "fat.gold",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 290464,
+			"friends_count": 244,
+			"listed_count": 2282,
+			"created_at": "Sun Feb 24 23:32:31 +0000 2008",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134265934238035968/8KsI1KZH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134265934238035968/8KsI1KZH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13919072/1555033034",
+			"profile_link_color": "7A674C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1157833796458123300,
+		"quoted_status_id_str": "1157833796458123264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/azDA0KKvYw",
+			"expanded": "https://twitter.com/cdespinosa/status/1157833796458123264",
+			"display": "twitter.com/cdespinosa/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 04 02:01:03 +0000 2019",
+			"id": 1157833796458123300,
+			"id_str": "1157833796458123264",
+			"full_text": "Do something. Your words are hollow. As a Governor your job is not to consign your constituents to God, but to govern through law. https://t.co/Cy627z7HXk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Cy627z7HXk",
+						"expanded_url": "https://twitter.com/GregAbbott_TX/status/1157782944972464128",
+						"display_url": "twitter.com/GregAbbott_TX/…",
+						"indices": [
+							131,
+							154
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 1157833157623681000,
+			"in_reply_to_status_id_str": "1157833157623681024",
+			"in_reply_to_user_id": 7415132,
+			"in_reply_to_user_id_str": "7415132",
+			"in_reply_to_screen_name": "cdespinosa",
+			"user": {
+				"id": 7415132,
+				"id_str": "7415132",
+				"name": "Chris Espinosa",
+				"screen_name": "cdespinosa",
+				"location": "",
+				"description": "#8",
+				"url": "https://t.co/csaEqBQh9p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/csaEqBQh9p",
+								"expanded_url": "http://cdespinosa.tumblr.com",
+								"display_url": "cdespinosa.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11107,
+				"friends_count": 908,
+				"listed_count": 507,
+				"created_at": "Wed Jul 11 23:23:34 +0000 2007",
+				"favourites_count": 2122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19994,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000651297071/fe954ae4bebbf2c3532eb44212e0f39c_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000651297071/fe954ae4bebbf2c3532eb44212e0f39c_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7415132/1416346862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1157782944972464000,
+			"quoted_status_id_str": "1157782944972464128",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Cy627z7HXk",
+				"expanded": "https://twitter.com/GregAbbott_TX/status/1157782944972464128",
+				"display": "twitter.com/GregAbbott_TX/…"
+			},
+			"retweet_count": 26,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I haven't been able to stop thinking about this sentence: \"…your job is not to consign your constituents to God, but to govern through law.\" https://t.co/azDA0KKvYw"
+	},
+	{
 		"created_at": "Sat Aug 03 14:05:22 +0000 2019",
 		"id": 1157653691425415200,
 		"id_str": "1157653691425415169",
