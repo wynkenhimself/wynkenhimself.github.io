@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 00:11:24 +0000 2019",
+		"id": 1159980531079176200,
+		"id_str": "1159980531079176195",
+		"full_text": "I had a good day and now I’m watching the second season of Derry Girls and life of pretty grand at the moment.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8545,
+			"friends_count": 357,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I had a good day and now I’m watching the second season of Derry Girls and life of pretty grand at the moment."
+	},
+	{
+		"created_at": "Fri Aug 09 13:14:04 +0000 2019",
+		"id": 1159814419934830600,
+		"id_str": "1159815108622782464",
+		"full_text": "This bilingual version of lotería (Mexican bingo, essentially) leverages a familiar game to teach children Kumiai, an endangered #Indigenous language spoken in parts of N. Mexico &amp; S. California.  #IndigenousLanguages #IndigenousDay #IYIL2019 https://t.co/IoNWGUbXlb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Indigenous",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "IndigenousLanguages",
+					"indices": [
+						201,
+						221
+					]
+				},
+				{
+					"text": "IndigenousDay",
+					"indices": [
+						222,
+						236
+					]
+				},
+				{
+					"text": "IYIL2019",
+					"indices": [
+						237,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159814414935240700,
+					"id_str": "1159814414935240705",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EBh9EL-XsAER_5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBh9EL-XsAER_5O.jpg",
+					"url": "https://t.co/IoNWGUbXlb",
+					"display_url": "pic.twitter.com/IoNWGUbXlb",
+					"expanded_url": "https://twitter.com/NewberryLibrary/status/1159814419934830593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159814414935240700,
+					"id_str": "1159814414935240705",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EBh9EL-XsAER_5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBh9EL-XsAER_5O.jpg",
+					"url": "https://t.co/IoNWGUbXlb",
+					"display_url": "pic.twitter.com/IoNWGUbXlb",
+					"expanded_url": "https://twitter.com/NewberryLibrary/status/1159814419934830593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23824100,
+			"id_str": "23824100",
+			"name": "Newberry Library",
+			"screen_name": "NewberryLibrary",
+			"location": "Chicago",
+			"description": "Bringing readers straight to the source of history, literature, and other endlessly fascinating subjects since 1887. Free and open to all.",
+			"url": "https://t.co/6FWjOzDydf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6FWjOzDydf",
+							"expanded_url": "http://www.newberry.org",
+							"display_url": "newberry.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14990,
+			"friends_count": 574,
+			"listed_count": 777,
+			"created_at": "Wed Mar 11 20:31:44 +0000 2009",
+			"favourites_count": 10241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CABE96",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145699002190577669/qam9UyrP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145699002190577669/qam9UyrP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23824100/1523640399",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1d9a5370a355ab0c",
+			"url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+			"place_type": "city",
+			"name": "Chicago",
+			"full_name": "Chicago, IL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-87.940033,
+							41.644102
+						],
+						[
+							-87.523993,
+							41.644102
+						],
+						[
+							-87.523993,
+							42.0230669
+						],
+						[
+							-87.940033,
+							42.0230669
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This bilingual version of lotería (Mexican bingo, essentially) leverages a familiar game to teach children Kumiai, an endangered #Indigenous language spoken in parts of N. Mexico &amp; S. California.  #IndigenousLanguages #IndigenousDay #IYIL2019 https://t.co/IoNWGUbXlb"
+	},
+	{
+		"created_at": "Fri Aug 09 11:03:42 +0000 2019",
+		"id": 1159782298700714000,
+		"id_str": "1159782298700713984",
+		"full_text": "@debcha @yayitsrob I’d missed that news. It’s hard to think of an area in which this administration has not mangled crucial administrative infrastructure",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debcha",
+					"name": "Deb Chachra",
+					"id": 16284697,
+					"id_str": "16284697",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "yayitsrob",
+					"name": "Robinson Meyer",
+					"id": 2400631,
+					"id_str": "2400631",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1159773419086504000,
+		"in_reply_to_status_id_str": "1159773419086503937",
+		"in_reply_to_user_id": 16284697,
+		"in_reply_to_user_id_str": "16284697",
+		"in_reply_to_screen_name": "debcha",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8545,
+			"friends_count": 357,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@debcha @yayitsrob I’d missed that news. It’s hard to think of an area in which this administration has not mangled crucial administrative infrastructure"
+	},
+	{
 		"created_at": "Fri Aug 09 02:14:10 +0000 2019",
 		"id": 1159649039257878500,
 		"id_str": "1159649039257878528",
@@ -3095,7 +3562,7 @@ Grailbird.data.tweets_2019_08 =
 		"created_at": "Thu Aug 08 14:18:33 +0000 2019",
 		"id": 1159468945516224500,
 		"id_str": "1159468945516224514",
-		"full_text": "@hralperta 🤣📈📉😭🔥🤪🤬📈🍆🎉🍑🌞📉⁉️☄️⬇️⬇️💥🔁💬🤷‍♀️ (a very rough approximation of my perimenopause)",
+		"full_text": "@hralperta 🤣📈📉😭🔥🤪🤬📈🍆🎉🍑🌞📉⁉️☄️⬇️⬇️💥🔁💬🤷♀️ (a very rough approximation of my perimenopause)",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -3205,7 +3672,7 @@ Grailbird.data.tweets_2019_08 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@hralperta 🤣📈📉😭🔥🤪🤬📈🍆🎉🍑🌞📉⁉️☄️⬇️⬇️💥🔁💬🤷‍♀️ (a very rough approximation of my perimenopause)"
+		"text": "@hralperta 🤣📈📉😭🔥🤪🤬📈🍆🎉🍑🌞📉⁉️☄️⬇️⬇️💥🔁💬🤷♀️ (a very rough approximation of my perimenopause)"
 	},
 	{
 		"created_at": "Thu Aug 08 14:13:10 +0000 2019",
