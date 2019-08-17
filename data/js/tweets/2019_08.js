@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 16 21:29:02 +0000 2019",
+		"id": 1162476386264789000,
+		"id_str": "1162476386264788996",
+		"full_text": "Want to teach with The 1619 project? Tons of resources including a pdf of the full thing here: https://t.co/qCdy223clL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qCdy223clL",
+					"expanded_url": "http://pulitzercenter.org/builder/lesson/reading-guide-quotes-key-terms-and-questions-26504",
+					"display_url": "pulitzercenter.org/builder/lesson…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8556,
+			"friends_count": 358,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to teach with The 1619 project? Tons of resources including a pdf of the full thing here: https://t.co/qCdy223clL"
+	},
+	{
+		"created_at": "Fri Aug 16 17:13:52 +0000 2019",
+		"id": 1162398008509632500,
+		"id_str": "1162412167964049410",
+		"full_text": "#shax2020 friends, I'm chairing @SAAupdates' Digital Strategies Subcommittee this year, and I'm excited to share our CFP for the 2020 Digital Exhibit! Please spread the word and think about proposing a digital project (deadline 11/1/19)! https://t.co/sTQG6xUj9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shax2020",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SAAupdates",
+					"name": "Shakespeare Association of America",
+					"id": 1154494979085131800,
+					"id_str": "1154494979085131789",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sTQG6xUj9S",
+					"expanded_url": "https://bit.ly/2z2pPYb",
+					"display_url": "bit.ly/2z2pPYb",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17056955,
+			"id_str": "17056955",
+			"name": "Geoff Way",
+			"screen_name": "gwayvt",
+			"location": "Lawrence, KS",
+			"description": "Washburn English; Shakespeare/adaptation/performance/digital; hard-g gif lover; Brinkley doggo; video games; @humanitiesremix; #SAAllies; #gohokies; he/him",
+			"url": "https://t.co/5jmNUMapBB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5jmNUMapBB",
+							"expanded_url": "https://www.spreaker.com/show/remixing-the-humanities",
+							"display_url": "spreaker.com/show/remixing-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1446,
+			"friends_count": 1604,
+			"listed_count": 24,
+			"created_at": "Thu Oct 30 01:13:21 +0000 2008",
+			"favourites_count": 39649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094421251077144576/bXTwbUNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094421251077144576/bXTwbUNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17056955/1529521630",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#shax2020 friends, I'm chairing @SAAupdates' Digital Strategies Subcommittee this year, and I'm excited to share our CFP for the 2020 Digital Exhibit! Please spread the word and think about proposing a digital project (deadline 11/1/19)! https://t.co/sTQG6xUj9S"
+	},
+	{
+		"created_at": "Fri Aug 16 17:13:34 +0000 2019",
+		"id": 1162412095457190000,
+		"id_str": "1162412095457189890",
+		"full_text": "@gwayvt @SAAupdates Thank you for the transparency in naming your committee members! It’s much needed and long overdue. And thank you for chairing!",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gwayvt",
+					"name": "Geoff Way",
+					"id": 17056955,
+					"id_str": "17056955",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "SAAupdates",
+					"name": "Shakespeare Association of America",
+					"id": 1154494979085131800,
+					"id_str": "1154494979085131789",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1162398008509632500,
+		"in_reply_to_status_id_str": "1162398008509632512",
+		"in_reply_to_user_id": 17056955,
+		"in_reply_to_user_id_str": "17056955",
+		"in_reply_to_screen_name": "gwayvt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8556,
+			"friends_count": 358,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gwayvt @SAAupdates Thank you for the transparency in naming your committee members! It’s much needed and long overdue. And thank you for chairing!"
+	},
+	{
+		"created_at": "Fri Aug 16 13:03:03 +0000 2019",
+		"id": 1162279813161218000,
+		"id_str": "1162349051293184001",
+		"full_text": "500 years ago today a combined Spanish-indigenous invasion force begins its advance towards #Tenochtitlan. The Spaniards are accompanied by #Tainós, #Mayas, and #Nahuas, and outnumbered by #Totonacs. Follow here https://t.co/u43BISvIGp Pic: Miguel Covarrubias https://t.co/yRr5kMdy30",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tenochtitlan",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"text": "Tainós",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "Mayas",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "Nahuas",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "Totonacs",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u43BISvIGp",
+					"expanded_url": "https://www.mexicolore.co.uk/aztecs/spanish-invasion/encounters-countdown",
+					"display_url": "mexicolore.co.uk/aztecs/spanish…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1162279791380160500,
+					"id_str": "1162279791380160516",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ECE_T-7UYAQlz7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECE_T-7UYAQlz7P.jpg",
+					"url": "https://t.co/yRr5kMdy30",
+					"display_url": "pic.twitter.com/yRr5kMdy30",
+					"expanded_url": "https://twitter.com/Mexicolore/status/1162279813161218051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 565,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 565,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 565,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1162279791380160500,
+					"id_str": "1162279791380160516",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ECE_T-7UYAQlz7P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECE_T-7UYAQlz7P.jpg",
+					"url": "https://t.co/yRr5kMdy30",
+					"display_url": "pic.twitter.com/yRr5kMdy30",
+					"expanded_url": "https://twitter.com/Mexicolore/status/1162279813161218051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 565,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 565,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 565,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847480813,
+			"id_str": "847480813",
+			"name": "Mexicolore",
+			"screen_name": "Mexicolore",
+			"location": "London, UK",
+			"description": "Living History workshops on Mexico, the Mexica/Aztecs and the Maya, in over 3,000 schools and museums since 1980.",
+			"url": "http://t.co/cI6ykKJIlk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cI6ykKJIlk",
+							"expanded_url": "http://www.aztecs.org",
+							"display_url": "aztecs.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 478,
+			"listed_count": 28,
+			"created_at": "Wed Sep 26 14:10:23 +0000 2012",
+			"favourites_count": 346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "091304",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2658904753/a65292b08756f5d8663f67e7ad5b5b20_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2658904753/a65292b08756f5d8663f67e7ad5b5b20_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847480813/1349118672",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "262626",
+			"profile_text_color": "696545",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "500 years ago today a combined Spanish-indigenous invasion force begins its advance towards #Tenochtitlan. The Spaniards are accompanied by #Tainós, #Mayas, and #Nahuas, and outnumbered by #Totonacs. Follow here https://t.co/u43BISvIGp Pic: Miguel Covarrubias https://t.co/yRr5kMdy30"
+	},
+	{
+		"created_at": "Fri Aug 16 12:58:47 +0000 2019",
+		"id": 1162332020342763500,
+		"id_str": "1162347976653774849",
+		"full_text": "A journal article of mine on Golden Age detective fiction and Jacobean drama has been accepted for publication - I thought people might be interested in a PDF and a quick discussion of why I wrote it.\nhttps://t.co/EHERHsHroM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EHERHsHroM",
+					"expanded_url": "https://quiteirregular.wordpress.com/2019/08/16/midcentury-jacobeans-agatha-christie-ngaio-marsh-p-d-james-and-the-duchess-of-malfi/",
+					"display_url": "quiteirregular.wordpress.com/2019/08/16/mid…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236543863,
+			"id_str": "236543863",
+			"name": "Jem Bloomfield",
+			"screen_name": "jembloomfield",
+			"location": "Nottingham",
+			"description": "Academic, writer, high corduroy content with added kitten. Author of Words of Power: Reading Shakespeare and the Bible, and Shakespeare & the Psalms Mystery",
+			"url": "https://t.co/niEkL896X4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/niEkL896X4",
+							"expanded_url": "https://www.amazon.co.uk/Words-Power-Reading-Shakespeare-Bible-ebook/dp/B01GGL2NMY/ref=sr_1_2?s=book",
+							"display_url": "amazon.co.uk/Words-Power-Re…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3248,
+			"friends_count": 714,
+			"listed_count": 114,
+			"created_at": "Mon Jan 10 20:51:07 +0000 2011",
+			"favourites_count": 18776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116213807829983233/B4m2TtHe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116213807829983233/B4m2TtHe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236543863/1512940858",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A journal article of mine on Golden Age detective fiction and Jacobean drama has been accepted for publication - I thought people might be interested in a PDF and a quick discussion of why I wrote it.\nhttps://t.co/EHERHsHroM"
+	},
+	{
+		"created_at": "Fri Aug 16 12:58:39 +0000 2019",
+		"id": 1162347943954985000,
+		"id_str": "1162347943954984962",
+		"full_text": "@jembloomfield @SgWingo Ooh this looks really interesting—thanks for sharing!",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jembloomfield",
+					"name": "Jem Bloomfield",
+					"id": 236543863,
+					"id_str": "236543863",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SgWingo",
+					"name": "Sarah Wingo",
+					"id": 259295580,
+					"id_str": "259295580",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1162332020342763500,
+		"in_reply_to_status_id_str": "1162332020342763520",
+		"in_reply_to_user_id": 236543863,
+		"in_reply_to_user_id_str": "236543863",
+		"in_reply_to_screen_name": "jembloomfield",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "libraries, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | never not feminist",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8556,
+			"friends_count": 358,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 20532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jembloomfield @SgWingo Ooh this looks really interesting—thanks for sharing!"
+	},
+	{
 		"created_at": "Fri Aug 16 01:10:51 +0000 2019",
 		"id": 1162169820701429800,
 		"id_str": "1162169820701429760",
@@ -624,7 +1443,7 @@ Grailbird.data.tweets_2019_08 =
 		"created_at": "Fri Aug 16 00:58:23 +0000 2019",
 		"id": 1162166681915015200,
 		"id_str": "1162166681915015168",
-		"full_text": "@jbj Having said that I also just don’t cook dinner on some nights and eat cheese and crackers 🤷‍♀️",
+		"full_text": "@jbj Having said that I also just don’t cook dinner on some nights and eat cheese and crackers 🤷♀️",
 		"truncated": false,
 		"display_text_range": [
 			5,
@@ -734,7 +1553,7 @@ Grailbird.data.tweets_2019_08 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@jbj Having said that I also just don’t cook dinner on some nights and eat cheese and crackers 🤷‍♀️"
+		"text": "@jbj Having said that I also just don’t cook dinner on some nights and eat cheese and crackers 🤷♀️"
 	},
 	{
 		"created_at": "Fri Aug 16 00:54:38 +0000 2019",
@@ -2492,7 +3311,7 @@ Grailbird.data.tweets_2019_08 =
 			"user_mentions": [
 				{
 					"screen_name": "ReadColleenK",
-					"name": "Dr. Colleen Kennedy👩🏻‍🦰📚🎭",
+					"name": "Dr. Colleen Kennedy👩🏻🦰📚🎭",
 					"id": 552314401,
 					"id_str": "552314401",
 					"indices": [
