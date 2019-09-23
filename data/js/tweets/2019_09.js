@@ -1,6 +1,917 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 01:37:59 +0000 2019",
+		"id": 1175947384230166500,
+		"id_str": "1175947384230166530",
+		"full_text": "Gonna go with white lady no thank you to that speech. There were actual black women deserving. Again.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8676,
+			"friends_count": 360,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Gonna go with white lady no thank you to that speech. There were actual black women deserving. Again."
+	},
+	{
+		"created_at": "Mon Sep 23 01:20:28 +0000 2019",
+		"id": 1175942977182679000,
+		"id_str": "1175942977182679040",
+		"full_text": "I was just about to say, there’s a lot of When They See Us not winning, and I think I still feel that way.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8676,
+			"friends_count": 360,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I was just about to say, there’s a lot of When They See Us not winning, and I think I still feel that way."
+	},
+	{
+		"created_at": "Sun Sep 22 20:03:39 +0000 2019",
+		"id": 1175822653845729300,
+		"id_str": "1175863249511862275",
+		"full_text": "“no one had seen before”\nhttps://t.co/PPP1kkRK16 https://t.co/KP4IzCYnpy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PPP1kkRK16",
+					"expanded_url": "https://www.washingtonpost.com/local/education/a-mystery-centuries-in-the-making-is-solved-amid-the-rare-books-at-st-johns-college/2019/09/19/ff9319bc-d5a3-11e9-9610-fb56c5522e1c_story.html",
+					"display_url": "washingtonpost.com/local/educatio…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1175822649903190000,
+					"id_str": "1175822649903190018",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EFFceGZWkAIs9vM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFFceGZWkAIs9vM.jpg",
+					"url": "https://t.co/KP4IzCYnpy",
+					"display_url": "pic.twitter.com/KP4IzCYnpy",
+					"expanded_url": "https://twitter.com/john_overholt/status/1175822653845729280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 235,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175822649903190000,
+					"id_str": "1175822649903190018",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EFFceGZWkAIs9vM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFFceGZWkAIs9vM.jpg",
+					"url": "https://t.co/KP4IzCYnpy",
+					"display_url": "pic.twitter.com/KP4IzCYnpy",
+					"expanded_url": "https://twitter.com/john_overholt/status/1175822653845729280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 235,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 259,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1175822649915842600,
+					"id_str": "1175822649915842560",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EFFceGcXoAAcoUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFFceGcXoAAcoUE.jpg",
+					"url": "https://t.co/KP4IzCYnpy",
+					"display_url": "pic.twitter.com/KP4IzCYnpy",
+					"expanded_url": "https://twitter.com/john_overholt/status/1175822653845729280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 321,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 321,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89477148,
+			"id_str": "89477148",
+			"name": "John Overholt",
+			"screen_name": "john_overholt",
+			"location": "Cambridge/Medford, MA",
+			"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+			"url": "https://t.co/d5qeDpYMtj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d5qeDpYMtj",
+							"expanded_url": "http://library.harvard.edu/hou",
+							"display_url": "library.harvard.edu/hou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19808,
+			"friends_count": 632,
+			"listed_count": 760,
+			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+			"favourites_count": 16805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“no one had seen before”\nhttps://t.co/PPP1kkRK16 https://t.co/KP4IzCYnpy"
+	},
+	{
+		"created_at": "Sun Sep 22 14:20:30 +0000 2019",
+		"id": 1175775315580412000,
+		"id_str": "1175776889698430977",
+		"full_text": "Hey there Stella, tell me: what's a fella\nGot to do for you to pity and grace obtain?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1175774080391426000,
+		"in_reply_to_status_id_str": "1175774080391426048",
+		"in_reply_to_user_id": 53241810,
+		"in_reply_to_user_id_str": "53241810",
+		"in_reply_to_screen_name": "c_perry",
+		"user": {
+			"id": 53241810,
+			"id_str": "53241810",
+			"name": "(((Curtis Perry)))",
+			"screen_name": "c_perry",
+			"location": "Champaign",
+			"description": "A mute, inglorious Milton Berle. Literature, I profess. He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2198,
+			"friends_count": 2072,
+			"listed_count": 37,
+			"created_at": "Fri Jul 03 00:40:09 +0000 2009",
+			"favourites_count": 49549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175389631245967360/pvjOB1gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175389631245967360/pvjOB1gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53241810/1510896527",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey there Stella, tell me: what's a fella\nGot to do for you to pity and grace obtain?"
+	},
+	{
+		"created_at": "Sun Sep 22 14:19:25 +0000 2019",
+		"id": 1175774269793538000,
+		"id_str": "1175776618486407173",
+		"full_text": "I am not kidding when I say today would be an extra good day for Dem candidates to pitch to swing voters in Michigan. Bad optics; what sort of person *wants* to be in a car on Mackinac Island?? https://t.co/XyYlB4rJ3j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XyYlB4rJ3j",
+					"expanded_url": "https://twitter.com/paulegan4/status/1175485632883363842",
+					"display_url": "twitter.com/paulegan4/stat…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10098362,
+			"id_str": "10098362",
+			"name": "Megan L. Cook",
+			"screen_name": "meganlcook",
+			"location": "Maine, USA / Abenaki Land",
+			"description": "Assistant prof in English at Colby College. Adventures with medieval literature and/in Renaissance books + teaching + scholarly editing. She/her.",
+			"url": "https://t.co/xibJI13WYU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xibJI13WYU",
+							"expanded_url": "http://www.upenn.edu/pennpress/book/15972.html",
+							"display_url": "upenn.edu/pennpress/book…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2931,
+			"friends_count": 929,
+			"listed_count": 41,
+			"created_at": "Fri Nov 09 13:59:32 +0000 2007",
+			"favourites_count": 12946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958917382524887040/SqsvXPRO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958917382524887040/SqsvXPRO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10098362/1493135528",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1175485632883363800,
+		"quoted_status_id_str": "1175485632883363842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XyYlB4rJ3j",
+			"expanded": "https://twitter.com/paulegan4/status/1175485632883363842",
+			"display": "twitter.com/paulegan4/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 21 19:03:09 +0000 2019",
+			"id": 1175485632883363800,
+			"id_str": "1175485632883363842",
+			"full_text": "Vice President Mike Pence leaves the Grand Hotel on Mackinac Island Saturday in an eight-vehicle motorcade — the island’s first ever. https://t.co/p0IgewX09K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1175485492349067300,
+						"id_str": "1175485492349067264",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175485492349067264/pu/img/7ve-NpjQ3crljve7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175485492349067264/pu/img/7ve-NpjQ3crljve7.jpg",
+						"url": "https://t.co/p0IgewX09K",
+						"display_url": "pic.twitter.com/p0IgewX09K",
+						"expanded_url": "https://twitter.com/paulegan4/status/1175485632883363842/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1175485492349067300,
+						"id_str": "1175485492349067264",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175485492349067264/pu/img/7ve-NpjQ3crljve7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175485492349067264/pu/img/7ve-NpjQ3crljve7.jpg",
+						"url": "https://t.co/p0IgewX09K",
+						"display_url": "pic.twitter.com/p0IgewX09K",
+						"expanded_url": "https://twitter.com/paulegan4/status/1175485632883363842/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 13000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1175485492349067264/pu/vid/480x270/9EJGi7Rxg6_i6HYs.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1175485492349067264/pu/pl/4Zbn3v0qlquShqFS.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1175485492349067264/pu/vid/640x360/aRejl0SaBiUm2g8V.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1175485492349067264/pu/vid/1280x720/FpzsDP39RQuI9Cx6.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98687810,
+				"id_str": "98687810",
+				"name": "Paul Egan",
+				"screen_name": "paulegan4",
+				"location": "Lansing",
+				"description": "Covering #MI government for Detroit Free Press. Watchdog coverage of how state taxes, spends, & treats citizens. Contracts. Conflicts. Not a good ole boy",
+				"url": "http://t.co/QaxDebokoT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QaxDebokoT",
+								"expanded_url": "http://www.freep.com",
+								"display_url": "freep.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9282,
+				"friends_count": 2762,
+				"listed_count": 423,
+				"created_at": "Tue Dec 22 18:07:28 +0000 2009",
+				"favourites_count": 821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8391,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1642948744/paul_egan_for_twitter_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642948744/paul_egan_for_twitter_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98687810/1357504713",
+				"profile_link_color": "C34242",
+				"profile_sidebar_border_color": "BFBFBF",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 404,
+			"favorite_count": 674,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 41,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am not kidding when I say today would be an extra good day for Dem candidates to pitch to swing voters in Michigan. Bad optics; what sort of person *wants* to be in a car on Mackinac Island?? https://t.co/XyYlB4rJ3j"
+	},
+	{
+		"created_at": "Sun Sep 22 14:10:30 +0000 2019",
+		"id": 1175774080391426000,
+		"id_str": "1175774375078969344",
+		"full_text": "Hank Williams is not 'the hillbilly Shakespeare'. He's the Sir Philip Sidney of post-WW2 US.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53241810,
+			"id_str": "53241810",
+			"name": "(((Curtis Perry)))",
+			"screen_name": "c_perry",
+			"location": "Champaign",
+			"description": "A mute, inglorious Milton Berle. Literature, I profess. He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2198,
+			"friends_count": 2072,
+			"listed_count": 37,
+			"created_at": "Fri Jul 03 00:40:09 +0000 2009",
+			"favourites_count": 49549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175389631245967360/pvjOB1gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175389631245967360/pvjOB1gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53241810/1510896527",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hank Williams is not 'the hillbilly Shakespeare'. He's the Sir Philip Sidney of post-WW2 US."
+	},
+	{
 		"created_at": "Sat Sep 21 16:28:47 +0000 2019",
 		"id": 1175446786690998300,
 		"id_str": "1175446786690998272",
