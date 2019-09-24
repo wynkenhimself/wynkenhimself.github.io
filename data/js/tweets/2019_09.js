@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 20:30:25 +0000 2019",
+		"id": 1176232374008520700,
+		"id_str": "1176232374008520708",
+		"full_text": "@john_overholt It’s really so disappointing. I can’t imagine how she must feel. But I’m glad you’re going to bring it up at your institution. Weirdly the end of the talk I’m about to give about feminist bibliography has just changed....",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_overholt",
+					"name": "John Overholt",
+					"id": 89477148,
+					"id_str": "89477148",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1176220477649375200,
+		"in_reply_to_status_id_str": "1176220477649375232",
+		"in_reply_to_user_id": 89477148,
+		"in_reply_to_user_id_str": "89477148",
+		"in_reply_to_screen_name": "john_overholt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8675,
+			"friends_count": 360,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@john_overholt It’s really so disappointing. I can’t imagine how she must feel. But I’m glad you’re going to bring it up at your institution. Weirdly the end of the talk I’m about to give about feminist bibliography has just changed...."
+	},
+	{
+		"created_at": "Mon Sep 23 20:15:45 +0000 2019",
+		"id": 1176220477649375200,
+		"id_str": "1176228682370834432",
+		"full_text": "A disappointing update: the post has been deleted and replaced with the statement \"An earlier blog post incorrectly described University policy for acquiring material.\" \n\nI still believe this was an ethical and responsible acquisition policy and I still intend to raise it here. https://t.co/xbfpsM52gw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xbfpsM52gw",
+					"expanded_url": "https://twitter.com/john_overholt/status/1173642455176110080",
+					"display_url": "twitter.com/john_overholt/…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89477148,
+			"id_str": "89477148",
+			"name": "John Overholt",
+			"screen_name": "john_overholt",
+			"location": "Cambridge/Medford, MA",
+			"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+			"url": "https://t.co/d5qeDpYMtj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d5qeDpYMtj",
+							"expanded_url": "http://library.harvard.edu/hou",
+							"display_url": "library.harvard.edu/hou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19815,
+			"friends_count": 633,
+			"listed_count": 760,
+			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+			"favourites_count": 16825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173642455176110000,
+		"quoted_status_id_str": "1173642455176110080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xbfpsM52gw",
+			"expanded": "https://twitter.com/john_overholt/status/1173642455176110080",
+			"display": "twitter.com/john_overholt/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 16 16:59:01 +0000 2019",
+			"id": 1173642455176110000,
+			"id_str": "1173642455176110080",
+			"full_text": "“Beginning today new acquisitions for the Graphic Arts Collection will no longer be purchased from collectors or dealers who belong to the restricted bibliographic societies in America, such as the Club of Odd Volumes or the Rowfant Club.” https://t.co/mbs1AcPdt6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mbs1AcPdt6",
+						"expanded_url": "https://graphicarts.princeton.edu/2019/09/11/men-only/",
+						"display_url": "graphicarts.princeton.edu/2019/09/11/men…",
+						"indices": [
+							240,
+							263
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89477148,
+				"id_str": "89477148",
+				"name": "John Overholt",
+				"screen_name": "john_overholt",
+				"location": "Cambridge/Medford, MA",
+				"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+				"url": "https://t.co/d5qeDpYMtj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d5qeDpYMtj",
+								"expanded_url": "http://library.harvard.edu/hou",
+								"display_url": "library.harvard.edu/hou",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19815,
+				"friends_count": 633,
+				"listed_count": 760,
+				"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+				"favourites_count": 16825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45967,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 22,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A disappointing update: the post has been deleted and replaced with the statement \"An earlier blog post incorrectly described University policy for acquiring material.\" \n\nI still believe this was an ethical and responsible acquisition policy and I still intend to raise it here. https://t.co/xbfpsM52gw"
+	},
+	{
+		"created_at": "Mon Sep 23 13:12:52 +0000 2019",
+		"id": 1176122257174868000,
+		"id_str": "1176122257174867972",
+		"full_text": "I'm really looking forward to this conversation! There will definitely be errors (because I'm a person who is alive and that's the nature of being) and a ton of feminism (because I'm me and that's my nature). And I'll have stickers! https://t.co/4iwWBRFUx9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4iwWBRFUx9",
+					"expanded_url": "https://twitter.com/CenterPNP/status/1176115155765252102",
+					"display_url": "twitter.com/CenterPNP/stat…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8675,
+			"friends_count": 360,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176115155765252000,
+		"quoted_status_id_str": "1176115155765252102",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4iwWBRFUx9",
+			"expanded": "https://twitter.com/CenterPNP/status/1176115155765252102",
+			"display": "twitter.com/CenterPNP/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 23 12:44:38 +0000 2019",
+			"id": 1176115155765252000,
+			"id_str": "1176115155765252102",
+			"full_text": "This afternoon at 4:30 p.m. we will host Sarah Werner (@wynkenhimself) for our second event of the semester at @English_CMU. Werner will give a paper entitled, \"Embracing the mass production of error: A feminist approach to early modern printing”. Hope to see some of you there! https://t.co/k6z00L5huE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wynkenhimself",
+						"name": "Sarah Werner",
+						"id": 35384223,
+						"id_str": "35384223",
+						"indices": [
+							55,
+							69
+						]
+					},
+					{
+						"screen_name": "English_CMU",
+						"name": "CMU English",
+						"id": 3164987458,
+						"id_str": "3164987458",
+						"indices": [
+							111,
+							123
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1176115106373148700,
+						"id_str": "1176115106373148674",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EFJmdTpXoAILYzz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFJmdTpXoAILYzz.jpg",
+						"url": "https://t.co/k6z00L5huE",
+						"display_url": "pic.twitter.com/k6z00L5huE",
+						"expanded_url": "https://twitter.com/CenterPNP/status/1176115155765252102/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176115106373148700,
+						"id_str": "1176115106373148674",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EFJmdTpXoAILYzz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFJmdTpXoAILYzz.jpg",
+						"url": "https://t.co/k6z00L5huE",
+						"display_url": "pic.twitter.com/k6z00L5huE",
+						"expanded_url": "https://twitter.com/CenterPNP/status/1176115155765252102/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1167972884217835500,
+				"id_str": "1167972884217835520",
+				"name": "CPNP",
+				"screen_name": "CenterPNP",
+				"location": "Pittsburgh, Pennsylvania",
+				"description": "Center for Early Modern Print, Networks, and Performance at @English_CMU. Tweets by @Nathan_Pensky.",
+				"url": "https://t.co/DALNsrC8JA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DALNsrC8JA",
+								"expanded_url": "https://centerpnp.tumblr.com/",
+								"display_url": "centerpnp.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38,
+				"friends_count": 99,
+				"listed_count": 0,
+				"created_at": "Sun Sep 01 01:30:25 +0000 2019",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171066201923117057/IBauqs6l_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171066201923117057/IBauqs6l_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1167972884217835520/1567307277",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm really looking forward to this conversation! There will definitely be errors (because I'm a person who is alive and that's the nature of being) and a ton of feminism (because I'm me and that's my nature). And I'll have stickers! https://t.co/4iwWBRFUx9"
+	},
+	{
+		"created_at": "Mon Sep 23 13:11:12 +0000 2019",
+		"id": 1176118528195399700,
+		"id_str": "1176121838251982854",
+		"full_text": "Retweeting myself because this misconception bothers me. Curators and other spec coll librarians put in long hours to develop subject knowledge. The implication that we're just handmaidens caring for sleeping books that need a historian prince to wake them is wrong. https://t.co/3nhZul0g8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3nhZul0g8O",
+					"expanded_url": "https://twitter.com/melissa_hubbard/status/1176113114204577793",
+					"display_url": "twitter.com/melissa_hubbar…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164796788,
+			"id_str": "164796788",
+			"name": "Melissa Hubbard",
+			"screen_name": "melissa_hubbard",
+			"location": "Buffalo, NY",
+			"description": "interdisciplinary af | southerner in the rust belt | libraries, archives, education, intersectional feminism, general nerdery | she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2304,
+			"friends_count": 1396,
+			"listed_count": 77,
+			"created_at": "Fri Jul 09 19:49:04 +0000 2010",
+			"favourites_count": 8098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/486852840237711360/3nb1sdL5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/486852840237711360/3nb1sdL5_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164796788/1558144026",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176113114204577800,
+		"quoted_status_id_str": "1176113114204577793",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3nhZul0g8O",
+			"expanded": "https://twitter.com/melissa_hubbard/status/1176113114204577793",
+			"display": "twitter.com/melissa_hubbar…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 23 12:36:32 +0000 2019",
+			"id": 1176113114204577800,
+			"id_str": "1176113114204577793",
+			"full_text": "@dennistclark Just because I know how important the items in my collections are doesn't make me the appropriate person to write about them, but the implication in this article that I need a historian to tell me why they're important is absurd. Curatorial knowledge is both broad AND deep.",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dennistclark",
+						"name": "Dennis Clark",
+						"id": 386082839,
+						"id_str": "386082839",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1176112297112166400,
+			"in_reply_to_status_id_str": "1176112297112166400",
+			"in_reply_to_user_id": 164796788,
+			"in_reply_to_user_id_str": "164796788",
+			"in_reply_to_screen_name": "melissa_hubbard",
+			"user": {
+				"id": 164796788,
+				"id_str": "164796788",
+				"name": "Melissa Hubbard",
+				"screen_name": "melissa_hubbard",
+				"location": "Buffalo, NY",
+				"description": "interdisciplinary af | southerner in the rust belt | libraries, archives, education, intersectional feminism, general nerdery | she/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2304,
+				"friends_count": 1396,
+				"listed_count": 77,
+				"created_at": "Fri Jul 09 19:49:04 +0000 2010",
+				"favourites_count": 8098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9188,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/486852840237711360/3nb1sdL5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/486852840237711360/3nb1sdL5_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/164796788/1558144026",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 68,
+		"favorite_count": 203,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweeting myself because this misconception bothers me. Curators and other spec coll librarians put in long hours to develop subject knowledge. The implication that we're just handmaidens caring for sleeping books that need a historian prince to wake them is wrong. https://t.co/3nhZul0g8O"
+	},
+	{
 		"created_at": "Mon Sep 23 01:37:59 +0000 2019",
 		"id": 1175947384230166500,
 		"id_str": "1175947384230166530",
