@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 22:08:44 +0000 2019",
+		"id": 1177680077468967000,
+		"id_str": "1177706664897765382",
+		"full_text": "Scenario: dad yells at Alexa in frustration. Alexa apologizes. Daughter (or child of any gender) watches. \n\nWe train our AIs but they also train us. Is this really the training we want? https://t.co/a7vW8ap85G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a7vW8ap85G",
+					"expanded_url": "https://twitter.com/histoftech/status/1177658291024994305",
+					"display_url": "twitter.com/histoftech/sta…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401773648,
+			"id_str": "401773648",
+			"name": "Mar Hicks",
+			"screen_name": "histoftech",
+			"location": "Chicago, IL",
+			"description": "historian of tech | former sysadmin | they/genderqueer/nb. Programmed Inequality: https://t.co/wKyeCJGc0R",
+			"url": "https://t.co/ejqfFYiE25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejqfFYiE25",
+							"expanded_url": "http://bit.ly/marhicksdotcom",
+							"display_url": "bit.ly/marhicksdotcom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wKyeCJGc0R",
+							"expanded_url": "http://bit.ly/paperbackproginequal",
+							"display_url": "bit.ly/paperbackprogi…",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21263,
+			"friends_count": 998,
+			"listed_count": 587,
+			"created_at": "Mon Oct 31 02:11:48 +0000 2011",
+			"favourites_count": 101399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 48060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167355268755337216/pOc2p5HO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167355268755337216/pOc2p5HO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401773648/1555697738",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177658291024994300,
+		"quoted_status_id_str": "1177658291024994305",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a7vW8ap85G",
+			"expanded": "https://twitter.com/histoftech/status/1177658291024994305",
+			"display": "twitter.com/histoftech/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 27 18:56:31 +0000 2019",
+			"id": 1177658291024994300,
+			"id_str": "1177658291024994305",
+			"full_text": "“This feature is practically a cry for help for Amazon to hire humanists &amp;workers who understand the ripple effects of social engineering like this.” Our lady-voiced wiretaps are being trained to be more submissive when yelled at. Cool cool. Cool cool cool https://t.co/qjc7cRj8CZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qjc7cRj8CZ",
+						"expanded_url": "https://onezero.medium.com/heres-how-amazon-alexa-will-recognize-when-you-re-frustrated-a9e31751daf7",
+						"display_url": "onezero.medium.com/heres-how-amaz…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 401773648,
+				"id_str": "401773648",
+				"name": "Mar Hicks",
+				"screen_name": "histoftech",
+				"location": "Chicago, IL",
+				"description": "historian of tech | former sysadmin | they/genderqueer/nb. Programmed Inequality: https://t.co/wKyeCJGc0R",
+				"url": "https://t.co/ejqfFYiE25",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ejqfFYiE25",
+								"expanded_url": "http://bit.ly/marhicksdotcom",
+								"display_url": "bit.ly/marhicksdotcom",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wKyeCJGc0R",
+								"expanded_url": "http://bit.ly/paperbackproginequal",
+								"display_url": "bit.ly/paperbackprogi…",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21263,
+				"friends_count": 998,
+				"listed_count": 587,
+				"created_at": "Mon Oct 31 02:11:48 +0000 2011",
+				"favourites_count": 101399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 48060,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167355268755337216/pOc2p5HO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167355268755337216/pOc2p5HO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/401773648/1555697738",
+				"profile_link_color": "666666",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 520,
+			"favorite_count": 848,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 283,
+		"favorite_count": 652,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scenario: dad yells at Alexa in frustration. Alexa apologizes. Daughter (or child of any gender) watches. \n\nWe train our AIs but they also train us. Is this really the training we want? https://t.co/a7vW8ap85G"
+	},
+	{
 		"created_at": "Thu Sep 26 23:11:22 +0000 2019",
 		"id": 1177360039113347000,
 		"id_str": "1177360039113347073",
