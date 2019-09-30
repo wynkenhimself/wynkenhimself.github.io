@@ -1,6 +1,1439 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 16:27:51 +0000 2019",
+		"id": 1178322782159020000,
+		"id_str": "1178345657398108160",
+		"full_text": "May we all be inscribed for good. \n\nMay we all be inscribed for joy. \n\nMay we all be inscribed for justice. \n\nMay we all be inscribed for liberation. \n\nMay we all be inscribed for inspiration. \n\nMay we all be inscribed for love.\n\nMay we all be inscribed for hope. \n\n❤️ Shana tova.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61802282,
+			"id_str": "61802282",
+			"name": "Rabbi Danya Ruttenberg",
+			"screen_name": "TheRaDR",
+			"location": "",
+			"description": "Rabbi & author, most recently: https://t.co/NzKZt3n72P. Bylines  NYT, WaPo, Time, The Atlantic etc. Story behind my handle: https://t.co/p0GPJeiyRJ",
+			"url": "https://t.co/DOtc0Iywky",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DOtc0Iywky",
+							"expanded_url": "http://danyaruttenberg.net",
+							"display_url": "danyaruttenberg.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NzKZt3n72P",
+							"expanded_url": "http://amzn.to/2fEMwps",
+							"display_url": "amzn.to/2fEMwps",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/p0GPJeiyRJ",
+							"expanded_url": "https://bit.ly/2JmO2A4",
+							"display_url": "bit.ly/2JmO2A4",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 85805,
+			"friends_count": 849,
+			"listed_count": 888,
+			"created_at": "Fri Jul 31 15:58:03 +0000 2009",
+			"favourites_count": 77020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164244359966941184/GXXuf_z8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164244359966941184/GXXuf_z8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61802282/1517180942",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2154,
+		"favorite_count": 8007,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "May we all be inscribed for good. \n\nMay we all be inscribed for joy. \n\nMay we all be inscribed for justice. \n\nMay we all be inscribed for liberation. \n\nMay we all be inscribed for inspiration. \n\nMay we all be inscribed for love.\n\nMay we all be inscribed for hope. \n\n❤️ Shana tova."
+	},
+	{
+		"created_at": "Sun Sep 29 15:47:27 +0000 2019",
+		"id": 1178335488589078500,
+		"id_str": "1178335488589078529",
+		"full_text": "@mhkeller Oh, Michael, how horrifying. That must have been—must be—such a hard story to live with. I’m sorry. But also thank you.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhkeller",
+					"name": "Michael Keller",
+					"id": 21634541,
+					"id_str": "21634541",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1178327761603235800,
+		"in_reply_to_status_id_str": "1178327761603235845",
+		"in_reply_to_user_id": 21634541,
+		"in_reply_to_user_id_str": "21634541",
+		"in_reply_to_screen_name": "mhkeller",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8679,
+			"friends_count": 362,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mhkeller Oh, Michael, how horrifying. That must have been—must be—such a hard story to live with. I’m sorry. But also thank you."
+	},
+	{
+		"created_at": "Sun Sep 29 15:29:12 +0000 2019",
+		"id": 1178320737565732900,
+		"id_str": "1178330896623132679",
+		"full_text": "This Page One story in today's Arizona Republic is so \"Legends of Springsteen\" it hurts: https://t.co/HmWmEdZTVs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HmWmEdZTVs",
+					"expanded_url": "https://www.azcentral.com/story/entertainment/life/2019/09/29/bruce-springsteen-paid-bartenders-medical-expenses-matts-saloon-prescott-arizona/2222859001/",
+					"display_url": "azcentral.com/story/entertai…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11810892,
+			"id_str": "11810892",
+			"name": "Mark Athitakis",
+			"screen_name": "mathitak",
+			"location": "Phoenix",
+			"description": "Writer: @usatoday, @washingtonpost, @humanitiesmag, etc. @bookcritics board member. I have a newsletter: https://t.co/Ph5wUq9vdO",
+			"url": "http://t.co/zHXu658swA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/zHXu658swA",
+							"expanded_url": "http://www.markathitakis.com",
+							"display_url": "markathitakis.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ph5wUq9vdO",
+							"expanded_url": "https://markathitakis.substack.com/",
+							"display_url": "markathitakis.substack.com",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7149,
+			"friends_count": 693,
+			"listed_count": 358,
+			"created_at": "Thu Jan 03 19:51:32 +0000 2008",
+			"favourites_count": 15493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893551620188905472/pZFtDH65_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893551620188905472/pZFtDH65_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11810892/1353972284",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Page One story in today's Arizona Republic is so \"Legends of Springsteen\" it hurts: https://t.co/HmWmEdZTVs"
+	},
+	{
+		"created_at": "Sun Sep 29 15:19:22 +0000 2019",
+		"id": 1178328423032348700,
+		"id_str": "1178328423032348672",
+		"full_text": "@RareBookLibAntw @mazarines I like “remeditation” a lot as a way of thinking about how we are constantly returning to things. I do agree that we can’t fully anticipate future needs or norms. But I also agree that it would be helpful now to build in future changes in hopes of making those easier",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RareBookLibAntw",
+					"name": "Steven Van Impe 📚",
+					"id": 1897955869,
+					"id_str": "1897955869",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1178320041206521900,
+		"in_reply_to_status_id_str": "1178320041206521857",
+		"in_reply_to_user_id": 1897955869,
+		"in_reply_to_user_id_str": "1897955869",
+		"in_reply_to_screen_name": "RareBookLibAntw",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8679,
+			"friends_count": 362,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RareBookLibAntw @mazarines I like “remeditation” a lot as a way of thinking about how we are constantly returning to things. I do agree that we can’t fully anticipate future needs or norms. But I also agree that it would be helpful now to build in future changes in hopes of making those easier"
+	},
+	{
+		"created_at": "Sun Sep 29 14:43:02 +0000 2019",
+		"id": 1178319275855143000,
+		"id_str": "1178319275855142912",
+		"full_text": "Also I’m seeing out 5779 with an enervating cold and fever and really hoping it’s gone by 5880 because we need all the strength we have for a sweet and just new year 🍎 🍯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8679,
+			"friends_count": 362,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also I’m seeing out 5779 with an enervating cold and fever and really hoping it’s gone by 5880 because we need all the strength we have for a sweet and just new year 🍎 🍯"
+	},
+	{
+		"created_at": "Sun Sep 29 14:38:32 +0000 2019",
+		"id": 1178318144789766100,
+		"id_str": "1178318144789766145",
+		"full_text": "Last night I saw Fairview at @woollymammothtc (amazing) and today’s Poem-A-Day is “White Things” and it’s always good to remember that whiteness is a thing and not everything is addressed to white people. https://t.co/B6PmtIsyEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "woollymammothtc",
+					"name": "Woolly Mammoth",
+					"id": 70754730,
+					"id_str": "70754730",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178318138460590000,
+					"id_str": "1178318138460590080",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EFo6GptX0AA91bP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFo6GptX0AA91bP.jpg",
+					"url": "https://t.co/B6PmtIsyEO",
+					"display_url": "pic.twitter.com/B6PmtIsyEO",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1178318144789766145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 681,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178318138460590000,
+					"id_str": "1178318138460590080",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EFo6GptX0AA91bP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFo6GptX0AA91bP.jpg",
+					"url": "https://t.co/B6PmtIsyEO",
+					"display_url": "pic.twitter.com/B6PmtIsyEO",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1178318144789766145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 681,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8679,
+			"friends_count": 362,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 21768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last night I saw Fairview at @woollymammothtc (amazing) and today’s Poem-A-Day is “White Things” and it’s always good to remember that whiteness is a thing and not everything is addressed to white people. https://t.co/B6PmtIsyEO"
+	},
+	{
+		"created_at": "Sun Sep 29 14:22:31 +0000 2019",
+		"id": 1178309063748309000,
+		"id_str": "1178314115347079170",
+		"full_text": "Wishing everyone celebrating a happy, healthy New Year. May it be a year when good people everywhere fix some of the things that are most deeply broken in this imperfect but beautiful world. https://t.co/qLfx8gMhqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178309059881181200,
+					"id_str": "1178309059881181185",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EFox2NXXoAEPgcm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFox2NXXoAEPgcm.jpg",
+					"url": "https://t.co/qLfx8gMhqG",
+					"display_url": "pic.twitter.com/qLfx8gMhqG",
+					"expanded_url": "https://twitter.com/JoelBerkowitz/status/1178309063748308992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 647,
+							"h": 428,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 428,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178309059881181200,
+					"id_str": "1178309059881181185",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EFox2NXXoAEPgcm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFox2NXXoAEPgcm.jpg",
+					"url": "https://t.co/qLfx8gMhqG",
+					"display_url": "pic.twitter.com/qLfx8gMhqG",
+					"expanded_url": "https://twitter.com/JoelBerkowitz/status/1178309063748308992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 647,
+							"h": 428,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 428,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 294248325,
+			"id_str": "294248325",
+			"name": "Joel Berkowitz",
+			"screen_name": "JoelBerkowitz",
+			"location": "Milwaukee, WI",
+			"description": "Theatre historian, teacher, translator. Co-founder of @yiddishstage. Director, @uwmjewish. President, @uwmaaup. Proud supporter of the Wisconsin Idea.",
+			"url": "http://t.co/z2uWEJM7Pw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/z2uWEJM7Pw",
+							"expanded_url": "http://www.yiddishstage.org",
+							"display_url": "yiddishstage.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 517,
+			"listed_count": 57,
+			"created_at": "Fri May 06 20:02:34 +0000 2011",
+			"favourites_count": 12623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/738765560280977408/tf9qmbb1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/738765560280977408/tf9qmbb1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/294248325/1554731344",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wishing everyone celebrating a happy, healthy New Year. May it be a year when good people everywhere fix some of the things that are most deeply broken in this imperfect but beautiful world. https://t.co/qLfx8gMhqG"
+	},
+	{
+		"created_at": "Sun Sep 29 14:22:27 +0000 2019",
+		"id": 1178284387852603400,
+		"id_str": "1178314096007102464",
+		"full_text": "Blowing the shofar @BLMedieval @BL_HebrewMSS Add 26968 f. 244 https://t.co/nCebVyy7Qo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLMedieval",
+					"name": "Medieval Manuscripts",
+					"id": 468249929,
+					"id_str": "468249929",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"screen_name": "BL_HebrewMSS",
+					"name": "BL Hebrew Project",
+					"id": 801386634637877200,
+					"id_str": "801386634637877248",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178284379363254300,
+					"id_str": "1178284379363254272",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EFobZnRWoAA711D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFobZnRWoAA711D.jpg",
+					"url": "https://t.co/nCebVyy7Qo",
+					"display_url": "pic.twitter.com/nCebVyy7Qo",
+					"expanded_url": "https://twitter.com/melibeus1/status/1178284387852603392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1071,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178284379363254300,
+					"id_str": "1178284379363254272",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EFobZnRWoAA711D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFobZnRWoAA711D.jpg",
+					"url": "https://t.co/nCebVyy7Qo",
+					"display_url": "pic.twitter.com/nCebVyy7Qo",
+					"expanded_url": "https://twitter.com/melibeus1/status/1178284387852603392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1071,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 385427999,
+			"id_str": "385427999",
+			"name": "Melibeus",
+			"screen_name": "melibeus1",
+			"location": "",
+			"description": "myghty and riche - with a PhD in Medieval English Literature",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10554,
+			"friends_count": 596,
+			"listed_count": 272,
+			"created_at": "Wed Oct 05 13:49:46 +0000 2011",
+			"favourites_count": 21277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/701105963626065921/rra7JlS7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/701105963626065921/rra7JlS7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/385427999/1399727368",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blowing the shofar @BLMedieval @BL_HebrewMSS Add 26968 f. 244 https://t.co/nCebVyy7Qo"
+	},
+	{
+		"created_at": "Sun Sep 29 14:16:20 +0000 2019",
+		"id": 1178219132619300900,
+		"id_str": "1178312559612616710",
+		"full_text": "#OTD on the eve of #RoshHashana, 29 September 1943, a last manhunt was conducted in Amsterdam, and some 2,000 Jews, were deported to Westerbork.  Among them was 12-year-old Rudolph de Roos. \nHe wrote this New Year's card prior to his incarceration. \nhttps://t.co/cfwnku3qfr https://t.co/yg69dyY6cG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OTD",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "RoshHashana",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cfwnku3qfr",
+					"expanded_url": "http://ow.ly/jeat50wnR5o",
+					"display_url": "ow.ly/jeat50wnR5o",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178219131113541600,
+					"id_str": "1178219131113541637",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EFngDqmXkAU3Oic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFngDqmXkAU3Oic.jpg",
+					"url": "https://t.co/yg69dyY6cG",
+					"display_url": "pic.twitter.com/yg69dyY6cG",
+					"expanded_url": "https://twitter.com/yadvashem/status/1178219132619300865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178219131113541600,
+					"id_str": "1178219131113541637",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EFngDqmXkAU3Oic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFngDqmXkAU3Oic.jpg",
+					"url": "https://t.co/yg69dyY6cG",
+					"display_url": "pic.twitter.com/yg69dyY6cG",
+					"expanded_url": "https://twitter.com/yadvashem/status/1178219132619300865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33189473,
+			"id_str": "33189473",
+			"name": "Yad Vashem",
+			"screen_name": "yadvashem",
+			"location": "Jerusalem, Israel",
+			"description": "World center for Holocaust research, documentation, education and commemoration. A dynamic place of inter-generational and international encounter.",
+			"url": "http://t.co/325f216tDV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/325f216tDV",
+							"expanded_url": "http://www.yadvashem.org",
+							"display_url": "yadvashem.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61959,
+			"friends_count": 338,
+			"listed_count": 714,
+			"created_at": "Sun Apr 19 12:33:14 +0000 2009",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709345162577760256/MVyrKSI9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709345162577760256/MVyrKSI9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33189473/1398330509",
+			"profile_link_color": "A3A3A3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OTD on the eve of #RoshHashana, 29 September 1943, a last manhunt was conducted in Amsterdam, and some 2,000 Jews, were deported to Westerbork.  Among them was 12-year-old Rudolph de Roos. \nHe wrote this New Year's card prior to his incarceration. \nhttps://t.co/cfwnku3qfr https://t.co/yg69dyY6cG"
+	},
+	{
+		"created_at": "Sun Sep 29 14:14:19 +0000 2019",
+		"id": 1178036404195971000,
+		"id_str": "1178312050214350848",
+		"full_text": "Perhaps of interest to some on here: \"https://t.co/kSJHyRrIOS is a new resource that enables scholars…, book professionals, and collectors to search across and within the full text of over 100 rare book bibliographies, library catalogs and sales catalogs in many discipline.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kSJHyRrIOS",
+					"expanded_url": "http://Rarebooks.stanford.edu",
+					"display_url": "Rarebooks.stanford.edu",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102281067,
+			"id_str": "102281067",
+			"name": "Dr. Erik Johnson",
+			"screen_name": "erikj0",
+			"location": "Redwood City, CA",
+			"description": "Lecturer @sjsu_English & in @SJSU Humanities Honors Program; PhD'ed @StanfordEnglish, long c18 drama & prose fiction, Engl & French. He/him. CA/NYC/Paris. INTJ.",
+			"url": "https://t.co/HNbqN4T1X5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HNbqN4T1X5",
+							"expanded_url": "https://sjsu.academia.edu/ErikJohnson",
+							"display_url": "sjsu.academia.edu/ErikJohnson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 621,
+			"friends_count": 1434,
+			"listed_count": 7,
+			"created_at": "Wed Jan 06 05:19:59 +0000 2010",
+			"favourites_count": 4970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/749776330527379460/uN-vQMw1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/749776330527379460/uN-vQMw1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102281067/1467609594",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Perhaps of interest to some on here: \"https://t.co/kSJHyRrIOS is a new resource that enables scholars…, book professionals, and collectors to search across and within the full text of over 100 rare book bibliographies, library catalogs and sales catalogs in many discipline.\""
+	},
+	{
 		"created_at": "Fri Sep 27 22:08:44 +0000 2019",
 		"id": 1177680077468967000,
 		"id_str": "1177706664897765382",
