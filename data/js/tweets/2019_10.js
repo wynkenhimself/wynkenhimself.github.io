@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 14:28:41 +0000 2019",
+		"id": 1185563421602914300,
+		"id_str": "1185563421602914304",
+		"full_text": "@roseveleth omg ❣️",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roseveleth",
+					"name": "Rose Eveleth ▷▷",
+					"id": 44903491,
+					"id_str": "44903491",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185550764292358100,
+		"in_reply_to_status_id_str": "1185550764292358144",
+		"in_reply_to_user_id": 44903491,
+		"in_reply_to_user_id_str": "44903491",
+		"in_reply_to_screen_name": "roseveleth",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8766,
+			"friends_count": 365,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@roseveleth omg ❣️"
+	},
+	{
+		"created_at": "Sat Oct 19 14:27:58 +0000 2019",
+		"id": 1185550764292358100,
+		"id_str": "1185563242434891776",
+		"full_text": "p.s. happy Saturday I'm about to send out the first edition of my new newsletter which will literally just be a bad podcast idea every week https://t.co/j2HbWImo5M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j2HbWImo5M",
+					"expanded_url": "https://podcastidea.substack.com",
+					"display_url": "podcastidea.substack.com",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44903491,
+			"id_str": "44903491",
+			"name": "Rose Eveleth ▷▷",
+			"screen_name": "roseveleth",
+			"location": "",
+			"description": "I make @flashforwardpod 〰〰 futures critic 〰〰 skeptical optimist 〰〰  formerly @30for30 〰〰 she/her 〰〰 Tweets 🗑 in 30 days 〰〰 👽 🤖 ⚡️ 🚀 rose.eveleth@protonmail.com",
+			"url": "https://t.co/mKNGzU0rHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mKNGzU0rHh",
+							"expanded_url": "http://roseveleth.com",
+							"display_url": "roseveleth.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22686,
+			"friends_count": 2253,
+			"listed_count": 869,
+			"created_at": "Fri Jun 05 14:29:35 +0000 2009",
+			"favourites_count": 14152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098705688757301248/NOYUPVcU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098705688757301248/NOYUPVcU_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44903491/1504281029",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "p.s. happy Saturday I'm about to send out the first edition of my new newsletter which will literally just be a bad podcast idea every week https://t.co/j2HbWImo5M"
+	},
+	{
+		"created_at": "Sat Oct 19 14:25:25 +0000 2019",
+		"id": 1185550110077444000,
+		"id_str": "1185562602908323840",
+		"full_text": "Someone has sent me some images of a mystery film negative, with a set of action shots set in a spiral. Anyone got any ideas what camera might have been used or what format this is? https://t.co/z9aubwThIm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185549532819579000,
+					"id_str": "1185549532819578880",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EHPrBM9XYAADvPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHPrBM9XYAADvPA.jpg",
+					"url": "https://t.co/z9aubwThIm",
+					"display_url": "pic.twitter.com/z9aubwThIm",
+					"expanded_url": "https://twitter.com/ObsoleteMediaUK/status/1185550110077444097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185549532819579000,
+					"id_str": "1185549532819578880",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EHPrBM9XYAADvPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHPrBM9XYAADvPA.jpg",
+					"url": "https://t.co/z9aubwThIm",
+					"display_url": "pic.twitter.com/z9aubwThIm",
+					"expanded_url": "https://twitter.com/ObsoleteMediaUK/status/1185550110077444097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1185549532995752000,
+					"id_str": "1185549532995751938",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EHPrBNnXkAITpME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHPrBNnXkAITpME.jpg",
+					"url": "https://t.co/z9aubwThIm",
+					"display_url": "pic.twitter.com/z9aubwThIm",
+					"expanded_url": "https://twitter.com/ObsoleteMediaUK/status/1185550110077444097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 881,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4869152499,
+			"id_str": "4869152499",
+			"name": "Museum of Obsolete Media",
+			"screen_name": "ObsoleteMediaUK",
+			"location": "Shropshire, England",
+			"description": "News and updates from the museum that preserves the memory of the objects that held our memories. Curated by @librarian_jason",
+			"url": "https://t.co/PERWnfngGE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PERWnfngGE",
+							"expanded_url": "https://obsoletemedia.org",
+							"display_url": "obsoletemedia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2733,
+			"friends_count": 153,
+			"listed_count": 49,
+			"created_at": "Mon Feb 01 13:37:45 +0000 2016",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029704849892536320/PXgLRbUm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029704849892536320/PXgLRbUm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4869152499/1533478964",
+			"profile_link_color": "607D8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone has sent me some images of a mystery film negative, with a set of action shots set in a spiral. Anyone got any ideas what camera might have been used or what format this is? https://t.co/z9aubwThIm"
+	},
+	{
 		"created_at": "Fri Oct 18 14:18:46 +0000 2019",
 		"id": 1185198541708370000,
 		"id_str": "1185198541708369922",
