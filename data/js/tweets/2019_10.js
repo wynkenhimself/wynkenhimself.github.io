@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 23:04:57 +0000 2019",
+		"id": 1187383488313483300,
+		"id_str": "1187505286350807040",
+		"full_text": "We are proud to have published @historikat's \"Migraine: A History\" simultaneously as an #OpenAccess e-book and a paperback edition this year. \"Migraine\" is available to read free at @ProjectMUSE. #OAWeek \nFind out more and read here: https://t.co/7AvQPm2HZF https://t.co/CWpdzAQCNJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenAccess",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "OAWeek",
+					"indices": [
+						196,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historikat",
+					"name": "Dr Katherine Foxhall",
+					"id": 2573079415,
+					"id_str": "2573079415",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "ProjectMUSE",
+					"name": "Project MUSE",
+					"id": 19000141,
+					"id_str": "19000141",
+					"indices": [
+						182,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7AvQPm2HZF",
+					"expanded_url": "http://ow.ly/yr4d50wShHX",
+					"display_url": "ow.ly/yr4d50wShHX",
+					"indices": [
+						234,
+						257
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187383484299563000,
+					"id_str": "1187383484299563008",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EHpu_OnXUAAiqGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHpu_OnXUAAiqGA.jpg",
+					"url": "https://t.co/CWpdzAQCNJ",
+					"display_url": "pic.twitter.com/CWpdzAQCNJ",
+					"expanded_url": "https://twitter.com/JHUPress/status/1187383488313483265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187383484299563000,
+					"id_str": "1187383484299563008",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EHpu_OnXUAAiqGA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHpu_OnXUAAiqGA.jpg",
+					"url": "https://t.co/CWpdzAQCNJ",
+					"display_url": "pic.twitter.com/CWpdzAQCNJ",
+					"expanded_url": "https://twitter.com/JHUPress/status/1187383488313483265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29731124,
+			"id_str": "29731124",
+			"name": "Johns Hopkins Press",
+			"screen_name": "JHUPress",
+			"location": "Baltimore, MD",
+			"description": "Johns Hopkins University Press. Publishing cutting-edge books and journals since 1878. Tweeting since 2009. Home of @ProjectMUSE.",
+			"url": "https://t.co/HmAC3AEXHK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HmAC3AEXHK",
+							"expanded_url": "http://www.press.jhu.edu/",
+							"display_url": "press.jhu.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14789,
+			"friends_count": 1179,
+			"listed_count": 602,
+			"created_at": "Wed Apr 08 14:50:18 +0000 2009",
+			"favourites_count": 4454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/666258588776591360/CbjPccui_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/666258588776591360/CbjPccui_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29731124/1555100734",
+			"profile_link_color": "1C4073",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are proud to have published @historikat's \"Migraine: A History\" simultaneously as an #OpenAccess e-book and a paperback edition this year. \"Migraine\" is available to read free at @ProjectMUSE. #OAWeek \nFind out more and read here: https://t.co/7AvQPm2HZF https://t.co/CWpdzAQCNJ"
+	},
+	{
+		"created_at": "Thu Oct 24 16:51:22 +0000 2019",
+		"id": 1187382408351494100,
+		"id_str": "1187411270372331520",
+		"full_text": "Printing press #vastearlyamerica #twitterstorians might find interesting this ad for printed material and writing paraphernalia sold at the offices of #TheBarbadian newspaper. July 19, 1825. \n\nIncluding \"Forms of Prayer for the Use of Slaves.\" https://t.co/xxaU9DI7MB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vastearlyamerica",
+					"indices": [
+						15,
+						32
+					]
+				},
+				{
+					"text": "twitterstorians",
+					"indices": [
+						33,
+						49
+					]
+				},
+				{
+					"text": "TheBarbadian",
+					"indices": [
+						151,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1187382404828319700,
+					"id_str": "1187382404828319744",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EHpuAZRXUAASZzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHpuAZRXUAASZzv.jpg",
+					"url": "https://t.co/xxaU9DI7MB",
+					"display_url": "pic.twitter.com/xxaU9DI7MB",
+					"expanded_url": "https://twitter.com/amaliasl/status/1187382408351494145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 359,
+							"h": 286,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 359,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 359,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187382404828319700,
+					"id_str": "1187382404828319744",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EHpuAZRXUAASZzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHpuAZRXUAASZzv.jpg",
+					"url": "https://t.co/xxaU9DI7MB",
+					"display_url": "pic.twitter.com/xxaU9DI7MB",
+					"expanded_url": "https://twitter.com/amaliasl/status/1187382408351494145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 359,
+							"h": 286,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 359,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 359,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33383694,
+			"id_str": "33383694",
+			"name": "Amalia Skarlatou Levi",
+			"screen_name": "amaliasl",
+			"location": "Eternal itinerant, all over the world. Now in the Caribbean.",
+			"description": "Archivist. #archives + #data; #digitization; #heritage; #GlobalDH; Jewish history. Chair Ref/Bibl Awards comm @JewishLibraries. Chair https://t.co/D3EluG73za.",
+			"url": "https://t.co/AdgfMSb34c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AdgfMSb34c",
+							"expanded_url": "http://www.archiveland.com",
+							"display_url": "archiveland.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/D3EluG73za",
+							"expanded_url": "http://heritedge.foundation",
+							"display_url": "heritedge.foundation",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1267,
+			"friends_count": 1517,
+			"listed_count": 42,
+			"created_at": "Mon Apr 20 02:17:45 +0000 2009",
+			"favourites_count": 13760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859788343604899840/Ef0vHJoh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859788343604899840/Ef0vHJoh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33383694/1493827885",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Printing press #vastearlyamerica #twitterstorians might find interesting this ad for printed material and writing paraphernalia sold at the offices of #TheBarbadian newspaper. July 19, 1825. \n\nIncluding \"Forms of Prayer for the Use of Slaves.\" https://t.co/xxaU9DI7MB"
+	},
+	{
+		"created_at": "Thu Oct 24 13:48:49 +0000 2019",
+		"id": 1187365331477684200,
+		"id_str": "1187365331477684224",
+		"full_text": "@hels fwiw Baa Baa Black Sheep, aka Twinkle Twinkle Little Star, aka the ABC song, makes a really good ear worm scrubber should you ever need it 🎵",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1187362683949109200,
+		"in_reply_to_status_id_str": "1187362683949109249",
+		"in_reply_to_user_id": 15676413,
+		"in_reply_to_user_id_str": "15676413",
+		"in_reply_to_screen_name": "hels",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8788,
+			"friends_count": 366,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hels fwiw Baa Baa Black Sheep, aka Twinkle Twinkle Little Star, aka the ABC song, makes a really good ear worm scrubber should you ever need it 🎵"
+	},
+	{
+		"created_at": "Thu Oct 24 13:40:48 +0000 2019",
+		"id": 1187363311018545200,
+		"id_str": "1187363311018545152",
+		"full_text": "@hels omg I’m tapping out my fingers now and that would kill me if it was my card",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1187362683949109200,
+		"in_reply_to_status_id_str": "1187362683949109249",
+		"in_reply_to_user_id": 15676413,
+		"in_reply_to_user_id_str": "15676413",
+		"in_reply_to_screen_name": "hels",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8788,
+			"friends_count": 366,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hels omg I’m tapping out my fingers now and that would kill me if it was my card"
+	},
+	{
 		"created_at": "Thu Oct 24 02:10:19 +0000 2019",
 		"id": 1187189546586382300,
 		"id_str": "1187189546586382337",
