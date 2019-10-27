@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 26 15:41:24 +0000 2019",
+		"id": 1188118437291270100,
+		"id_str": "1188118437291270145",
+		"full_text": "Learning a lot and enjoying this talk from @IAmDylanLewis a great deal. It’s generating so many ideas for me! #OnePressManyHands https://t.co/TXvehJ7pef",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnePressManyHands",
+					"indices": [
+						110,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IAmDylanLewis",
+					"name": "Dylan Lewis",
+					"id": 168566657,
+					"id_str": "168566657",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TXvehJ7pef",
+					"expanded_url": "https://twitter.com/iamdylanlewis/status/1188103670069641216",
+					"display_url": "twitter.com/iamdylanlewis/…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8801,
+			"friends_count": 366,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188103670069641200,
+		"quoted_status_id_str": "1188103670069641216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TXvehJ7pef",
+			"expanded": "https://twitter.com/iamdylanlewis/status/1188103670069641216",
+			"display": "twitter.com/iamdylanlewis/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 26 14:42:43 +0000 2019",
+			"id": 1188103670069641200,
+			"id_str": "1188103670069641216",
+			"full_text": "Presenting at 11am at the #APHA19 #OnePressManyHands conference! \n\nExcited to talk about the impact German immigrants had on colonial Pennsylvania and its print culture! \n(I also have a paragraph called “Benjamin Franklin’s REVENGE!”) https://t.co/xM0wInIVb0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "APHA19",
+						"indices": [
+							26,
+							33
+						]
+					},
+					{
+						"text": "OnePressManyHands",
+						"indices": [
+							34,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1188103501446025200,
+						"id_str": "1188103501446025219",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/EHz91vgWkAMrnyu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHz91vgWkAMrnyu.jpg",
+						"url": "https://t.co/xM0wInIVb0",
+						"display_url": "pic.twitter.com/xM0wInIVb0",
+						"expanded_url": "https://twitter.com/IAmDylanLewis/status/1188103670069641216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 407,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1227,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 719,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188103501446025200,
+						"id_str": "1188103501446025219",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/EHz91vgWkAMrnyu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHz91vgWkAMrnyu.jpg",
+						"url": "https://t.co/xM0wInIVb0",
+						"display_url": "pic.twitter.com/xM0wInIVb0",
+						"expanded_url": "https://twitter.com/IAmDylanLewis/status/1188103670069641216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 407,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1227,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 719,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1188103501429252000,
+						"id_str": "1188103501429252097",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/EHz91vcWoAEHnZT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHz91vcWoAEHnZT.jpg",
+						"url": "https://t.co/xM0wInIVb0",
+						"display_url": "pic.twitter.com/xM0wInIVb0",
+						"expanded_url": "https://twitter.com/IAmDylanLewis/status/1188103670069641216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 807,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1188103501446025200,
+						"id_str": "1188103501446025218",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/EHz91vgWkAIEpoz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHz91vgWkAIEpoz.jpg",
+						"url": "https://t.co/xM0wInIVb0",
+						"display_url": "pic.twitter.com/xM0wInIVb0",
+						"expanded_url": "https://twitter.com/IAmDylanLewis/status/1188103670069641216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1478,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 866,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 168566657,
+				"id_str": "168566657",
+				"name": "Dylan Lewis",
+				"screen_name": "IAmDylanLewis",
+				"location": "Washington, DC",
+				"description": "PhD student | Book history and bibliography | Eighteenth-century English and German literature | Translation | Horror films | He/Him/His |🇺🇸🇩🇪🏳️‍🌈",
+				"url": "https://t.co/FPIRq90ASq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FPIRq90ASq",
+								"expanded_url": "https://umcp.academia.edu/DylanLewis",
+								"display_url": "umcp.academia.edu/DylanLewis",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2890,
+				"friends_count": 1833,
+				"listed_count": 13,
+				"created_at": "Tue Jul 20 07:15:21 +0000 2010",
+				"favourites_count": 62915,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14694,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184495333608493059/FYyF4ySx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184495333608493059/FYyF4ySx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168566657/1571411424",
+				"profile_link_color": "7791B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learning a lot and enjoying this talk from @IAmDylanLewis a great deal. It’s generating so many ideas for me! #OnePressManyHands https://t.co/TXvehJ7pef"
+	},
+	{
 		"created_at": "Fri Oct 25 21:00:33 +0000 2019",
 		"id": 1187836367713292300,
 		"id_str": "1187836367713292288",
