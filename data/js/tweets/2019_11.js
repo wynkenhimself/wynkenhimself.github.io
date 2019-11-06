@@ -1,6 +1,826 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 16:05:32 +0000 2019",
+		"id": 1191748391476375600,
+		"id_str": "1191748391476375554",
+		"full_text": "Just because we have a president who refuses to understand the concept of history doesn’t mean our national history preservation institutions have to go along with his white supremacy. #NativeAmericanHeritageMonth #SubtweetingArchives",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NativeAmericanHeritageMonth",
+					"indices": [
+						185,
+						213
+					]
+				},
+				{
+					"text": "SubtweetingArchives",
+					"indices": [
+						214,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8837,
+			"friends_count": 366,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Just because we have a president who refuses to understand the concept of history doesn’t mean our national history preservation institutions have to go along with his white supremacy. #NativeAmericanHeritageMonth #SubtweetingArchives"
+	},
+	{
+		"created_at": "Tue Nov 05 16:03:52 +0000 2019",
+		"id": 1191744192206319600,
+		"id_str": "1191747970254954497",
+		"full_text": "In celebration of #NativeAmericanHeritageMonth , watch the @nehgov funded @AnneMakepeace Tribal Justice, the story of two Native American judges who use traditional concepts of justice to reduce incarceration rates + create a better future for their youth: https://t.co/q9TGshZHxt https://t.co/yms1PfPFlA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NativeAmericanHeritageMonth",
+					"indices": [
+						18,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NEHgov",
+					"name": "NEH",
+					"id": 155987003,
+					"id_str": "155987003",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"screen_name": "AnneMakepeace",
+					"name": "MakepeaceProductions",
+					"id": 235660324,
+					"id_str": "235660324",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q9TGshZHxt",
+					"expanded_url": "http://www.pbs.org/pov/watch/tribaljustice/",
+					"display_url": "pbs.org/pov/watch/trib…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191744187957420000,
+					"id_str": "1191744187957420034",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EIntBlpWoAIRE6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIntBlpWoAIRE6X.jpg",
+					"url": "https://t.co/yms1PfPFlA",
+					"display_url": "pic.twitter.com/yms1PfPFlA",
+					"expanded_url": "https://twitter.com/NEH_PubPrograms/status/1191744192206319616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 902,
+									"y": 451,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 127,
+									"y": 11,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 511,
+									"y": 256,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 72,
+									"y": 6,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 963,
+									"y": 482,
+									"h": 182,
+									"w": 182
+								},
+								{
+									"x": 136,
+									"y": 12,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 963,
+									"y": 482,
+									"h": 182,
+									"w": 182
+								},
+								{
+									"x": 136,
+									"y": 12,
+									"h": 190,
+									"w": 190
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191744187957420000,
+					"id_str": "1191744187957420034",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EIntBlpWoAIRE6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIntBlpWoAIRE6X.jpg",
+					"url": "https://t.co/yms1PfPFlA",
+					"display_url": "pic.twitter.com/yms1PfPFlA",
+					"expanded_url": "https://twitter.com/NEH_PubPrograms/status/1191744192206319616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 902,
+									"y": 451,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 127,
+									"y": 11,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 511,
+									"y": 256,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 72,
+									"y": 6,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 963,
+									"y": 482,
+									"h": 182,
+									"w": 182
+								},
+								{
+									"x": 136,
+									"y": 12,
+									"h": 190,
+									"w": 190
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 963,
+									"y": 482,
+									"h": 182,
+									"w": 182
+								},
+								{
+									"x": 136,
+									"y": 12,
+									"h": 190,
+									"w": 190
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161379031,
+			"id_str": "161379031",
+			"name": "NEH Public Programs",
+			"screen_name": "NEH_PubPrograms",
+			"location": "",
+			"description": "Division of Public Programs, National Endowment for the Humanities. Follow/T/RTs≠endorsement.",
+			"url": "https://t.co/jzVeACNwdv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzVeACNwdv",
+							"expanded_url": "http://www.neh.gov/divisions/public",
+							"display_url": "neh.gov/divisions/publ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7799,
+			"friends_count": 670,
+			"listed_count": 170,
+			"created_at": "Wed Jun 30 18:05:20 +0000 2010",
+			"favourites_count": 619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164227658894467072/ck0aiqQM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164227658894467072/ck0aiqQM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161379031/1565894740",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In celebration of #NativeAmericanHeritageMonth , watch the @nehgov funded @AnneMakepeace Tribal Justice, the story of two Native American judges who use traditional concepts of justice to reduce incarceration rates + create a better future for their youth: https://t.co/q9TGshZHxt https://t.co/yms1PfPFlA"
+	},
+	{
+		"created_at": "Tue Nov 05 16:02:01 +0000 2019",
+		"id": 1191744958409199600,
+		"id_str": "1191747503856717824",
+		"full_text": "Actually until last year/this year, it had been Native American Heritage/History Month for 29 years but I guess you can get regressive. https://t.co/B0lni78Utv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B0lni78Utv",
+					"expanded_url": "https://twitter.com/NHPRC/status/1191743977046888450",
+					"display_url": "twitter.com/NHPRC/status/1…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135354872,
+			"id_str": "135354872",
+			"name": "🧵Ruth Bright-Needle 🕊 📯@platypus@glammr.us",
+			"screen_name": "ruthbrarian",
+			"location": "On a Pennsylvania Mountain",
+			"description": "[FOLLOWING MAINLY VIA LISTS] Cataloging Systems/LD Librarian. Platypus. #CardCarryingQuilter. Labor. EADiva. Tweets: own. Mennonite: hella. Trolls: Luke 6:28.",
+			"url": "https://t.co/ae5evJr7Re",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ae5evJr7Re",
+							"expanded_url": "http://ruthtillman.com",
+							"display_url": "ruthtillman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4134,
+			"friends_count": 195,
+			"listed_count": 318,
+			"created_at": "Wed Apr 21 02:31:03 +0000 2010",
+			"favourites_count": 15559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049281225729433600/c-MM3mjg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049281225729433600/c-MM3mjg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135354872/1501469691",
+			"profile_link_color": "BD2F40",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191743977046888400,
+		"quoted_status_id_str": "1191743977046888450",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B0lni78Utv",
+			"expanded": "https://twitter.com/NHPRC/status/1191743977046888450",
+			"display": "twitter.com/NHPRC/status/1…"
+		},
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Actually until last year/this year, it had been Native American Heritage/History Month for 29 years but I guess you can get regressive. https://t.co/B0lni78Utv"
+	},
+	{
+		"created_at": "Tue Nov 05 16:01:55 +0000 2019",
+		"id": 1191747479714316300,
+		"id_str": "1191747479714316288",
+		"full_text": "@ruthbrarian oh ffs I’m so disappointed in them",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ruthbrarian",
+					"name": "🧵Ruth Bright-Needle 🕊 📯@platypus@glammr.us",
+					"id": 135354872,
+					"id_str": "135354872",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1191744958409199600,
+		"in_reply_to_status_id_str": "1191744958409199616",
+		"in_reply_to_user_id": 135354872,
+		"in_reply_to_user_id_str": "135354872",
+		"in_reply_to_screen_name": "ruthbrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8837,
+			"friends_count": 366,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ruthbrarian oh ffs I’m so disappointed in them"
+	},
+	{
+		"created_at": "Tue Nov 05 03:11:28 +0000 2019",
+		"id": 1191553589346521000,
+		"id_str": "1191553589346521088",
+		"full_text": "@dntsqzthchrmn but tbf I think I knew yesterday was Sunday and since typically Monday follows, it could have occurred to me to check what sort of Monday it was",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dntsqzthchrmn",
+					"name": "That That Thing Thing",
+					"id": 489549161,
+					"id_str": "489549161",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1191553012977848300,
+		"in_reply_to_status_id_str": "1191553012977848321",
+		"in_reply_to_user_id": 489549161,
+		"in_reply_to_user_id_str": "489549161",
+		"in_reply_to_screen_name": "dntsqzthchrmn",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8837,
+			"friends_count": 366,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dntsqzthchrmn but tbf I think I knew yesterday was Sunday and since typically Monday follows, it could have occurred to me to check what sort of Monday it was"
+	},
+	{
 		"created_at": "Mon Nov 04 21:57:50 +0000 2019",
 		"id": 1191474662645129200,
 		"id_str": "1191474662645129216",
