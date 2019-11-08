@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 19:51:58 +0000 2019",
+		"id": 1192529143558221800,
+		"id_str": "1192530149478195206",
+		"full_text": "We are looking for a new editor-in-chief to bring a fresh vision to SHARP News, our open access, online newsletter. Find the details here: https://t.co/2OHlbIspF6 &amp; feel free to contact our Director of Publications @CorinnaNoRue with any questions! #wewantyouforSHARP #bookhistory",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wewantyouforSHARP",
+					"indices": [
+						253,
+						271
+					]
+				},
+				{
+					"text": "bookhistory",
+					"indices": [
+						272,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CorinnaNoRue",
+					"name": "Corinna Norrick-Rühl",
+					"id": 1329069636,
+					"id_str": "1329069636",
+					"indices": [
+						219,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2OHlbIspF6",
+					"expanded_url": "https://www.sharpweb.org/main/editor-sought-for-sharps-newsletter-sharp-news/",
+					"display_url": "sharpweb.org/main/editor-so…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132462715,
+			"id_str": "132462715",
+			"name": "SHARP",
+			"screen_name": "SHARPorg",
+			"location": "",
+			"description": "The Society for the History of Authorship, Reading and Publishing: a global network for book historians working in a broad range of scholarly disciplines.",
+			"url": "http://t.co/bcLxqk9C3G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bcLxqk9C3G",
+							"expanded_url": "http://www.sharpweb.org",
+							"display_url": "sharpweb.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5077,
+			"friends_count": 105,
+			"listed_count": 132,
+			"created_at": "Tue Apr 13 09:07:17 +0000 2010",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132462715/1419168394",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are looking for a new editor-in-chief to bring a fresh vision to SHARP News, our open access, online newsletter. Find the details here: https://t.co/2OHlbIspF6 &amp; feel free to contact our Director of Publications @CorinnaNoRue with any questions! #wewantyouforSHARP #bookhistory"
+	},
+	{
+		"created_at": "Thu Nov 07 19:51:10 +0000 2019",
+		"id": 1192529947836985300,
+		"id_str": "1192529947836985351",
+		"full_text": "I try as hard as possible to offer pedagogical resources and illustrative inmates both on https://t.co/tL9718bxBp and in Studying Early Printed Books (Wiley 2019). Build on what @MeganPeiser is teaching today! #BehnBurney19 https://t.co/iB1jwr5j0U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehnBurney19",
+					"indices": [
+						210,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeganPeiser",
+					"name": "Dr. Megan Peiser",
+					"id": 250674666,
+					"id_str": "250674666",
+					"indices": [
+						178,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tL9718bxBp",
+					"expanded_url": "http://EarlyPrintedBooks.com",
+					"display_url": "EarlyPrintedBooks.com",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/iB1jwr5j0U",
+					"expanded_url": "https://twitter.com/emnk/status/1192522000666972160",
+					"display_url": "twitter.com/emnk/status/11…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8843,
+			"friends_count": 367,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 22534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192522000666972200,
+		"quoted_status_id_str": "1192522000666972160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iB1jwr5j0U",
+			"expanded": "https://twitter.com/emnk/status/1192522000666972160",
+			"display": "twitter.com/emnk/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 07 19:19:35 +0000 2019",
+			"id": 1192522000666972200,
+			"id_str": "1192522000666972160",
+			"full_text": "#BehnBurney19 #bookhistory workshop highlights @MeganPeiser : \"stuff\" is a technical term, \"smoodge\" (ie Vatman's tear) is a word I need more of in my life, good resources found @wynkenhimself &amp; @FolgerLibrary websites",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BehnBurney19",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"text": "bookhistory",
+						"indices": [
+							14,
+							26
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MeganPeiser",
+						"name": "Dr. Megan Peiser",
+						"id": 250674666,
+						"id_str": "250674666",
+						"indices": [
+							47,
+							59
+						]
+					},
+					{
+						"screen_name": "wynkenhimself",
+						"name": "Sarah Werner",
+						"id": 35384223,
+						"id_str": "35384223",
+						"indices": [
+							178,
+							192
+						]
+					},
+					{
+						"screen_name": "FolgerLibrary",
+						"name": "Folger Library",
+						"id": 23128654,
+						"id_str": "23128654",
+						"indices": [
+							199,
+							213
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41013595,
+				"id_str": "41013595",
+				"name": "Emily M. N. Kugler",
+				"screen_name": "Emnk",
+				"location": "DC & PVD",
+				"description": "Writer, Scholar, Feminist, Knitter, Hockey Fan, Asst. Prof. @HowardU ~Advisory Board @mpmarkers ~consulting chair @ASECSWomen ~her/she/they",
+				"url": "https://t.co/8PLrxkXjzn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8PLrxkXjzn",
+								"expanded_url": "http://www.emilymnkugler.com",
+								"display_url": "emilymnkugler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1447,
+				"friends_count": 2734,
+				"listed_count": 130,
+				"created_at": "Tue May 19 00:41:43 +0000 2009",
+				"favourites_count": 30583,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22504,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013119556796198913/pZsu9bD4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013119556796198913/pZsu9bD4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41013595/1530378007",
+				"profile_link_color": "8E2CCF",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I try as hard as possible to offer pedagogical resources and illustrative inmates both on https://t.co/tL9718bxBp and in Studying Early Printed Books (Wiley 2019). Build on what @MeganPeiser is teaching today! #BehnBurney19 https://t.co/iB1jwr5j0U"
+	},
+	{
 		"created_at": "Wed Nov 06 22:49:47 +0000 2019",
 		"id": 1192079306362622000,
 		"id_str": "1192212509471707136",
@@ -899,7 +1328,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Wed Nov 06 16:51:08 +0000 2019",
 		"id": 1192122252206203000,
 		"id_str": "1192122252206202882",
-		"full_text": "I’m wearing my @scottythered t-shirt today and so far the TSA agent wanted to know what it meant and a young man asked me if I like big data 🤷‍♀️ https://t.co/zjBBpZEQIE",
+		"full_text": "I’m wearing my @scottythered t-shirt today and so far the TSA agent wanted to know what it meant and a young man asked me if I like big data 🤷♀️ https://t.co/zjBBpZEQIE",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1118,7 +1547,7 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "I’m wearing my @scottythered t-shirt today and so far the TSA agent wanted to know what it meant and a young man asked me if I like big data 🤷‍♀️ https://t.co/zjBBpZEQIE"
+		"text": "I’m wearing my @scottythered t-shirt today and so far the TSA agent wanted to know what it meant and a young man asked me if I like big data 🤷♀️ https://t.co/zjBBpZEQIE"
 	},
 	{
 		"created_at": "Wed Nov 06 16:10:02 +0000 2019",
@@ -2003,7 +2432,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Cornelis van Lit, O.P.",
 			"screen_name": "LWCvL",
 			"location": "",
-			"description": "Digital Humanities (Manuscripts) and Islamic Studies (Philosophy). Postdoc @UtrechtUni, Founder @DigiOrientalist, Friar @Dominican_Order. 🏃🏼‍♂️#demooiste",
+			"description": "Digital Humanities (Manuscripts) and Islamic Studies (Philosophy). Postdoc @UtrechtUni, Founder @DigiOrientalist, Friar @Dominican_Order. 🏃🏼♂️#demooiste",
 			"url": "https://t.co/f75FI3M2T0",
 			"entities": {
 				"url": {
