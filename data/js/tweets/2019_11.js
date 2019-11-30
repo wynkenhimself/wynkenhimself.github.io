@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 13:15:07 +0000 2019",
+		"id": 1200377490428051500,
+		"id_str": "1200402812099842048",
+		"full_text": "It's #BlackFriday and we have millions of items from #CulturalHeritage institutions across Europea available FOR FREE, as always😉 \nSo go, explore, play and create cause culture is the REAL DEAL!👉https://t.co/KUfdwVyFG1\n\n#EuropeForCulture #CulturalHeritage #OpenGLAM https://t.co/3inxWUlnxq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackFriday",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"text": "CulturalHeritage",
+					"indices": [
+						53,
+						70
+					]
+				},
+				{
+					"text": "EuropeForCulture",
+					"indices": [
+						220,
+						237
+					]
+				},
+				{
+					"text": "CulturalHeritage",
+					"indices": [
+						238,
+						255
+					]
+				},
+				{
+					"text": "OpenGLAM",
+					"indices": [
+						256,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KUfdwVyFG1",
+					"expanded_url": "http://europeana.eu",
+					"display_url": "europeana.eu",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200377481066434600,
+					"id_str": "1200377481066434562",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiY9YtX0AI8ygW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiY9YtX0AI8ygW.jpg",
+					"url": "https://t.co/3inxWUlnxq",
+					"display_url": "pic.twitter.com/3inxWUlnxq",
+					"expanded_url": "https://twitter.com/Europeanaeu/status/1200377490428051463/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 1002,
+									"y": 366,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 836,
+									"y": 400,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 300,
+									"y": 344,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1711,
+									"y": 625,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 1427,
+									"y": 683,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 513,
+									"y": 587,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 568,
+									"y": 207,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 474,
+									"y": 226,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 170,
+									"y": 195,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2089,
+									"y": 764,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 1743,
+									"y": 834,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 627,
+									"y": 717,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200377481066434600,
+					"id_str": "1200377481066434562",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiY9YtX0AI8ygW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiY9YtX0AI8ygW.jpg",
+					"url": "https://t.co/3inxWUlnxq",
+					"display_url": "pic.twitter.com/3inxWUlnxq",
+					"expanded_url": "https://twitter.com/Europeanaeu/status/1200377490428051463/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 1002,
+									"y": 366,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 836,
+									"y": 400,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 300,
+									"y": 344,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1711,
+									"y": 625,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 1427,
+									"y": 683,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 513,
+									"y": 587,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 568,
+									"y": 207,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 474,
+									"y": 226,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 170,
+									"y": 195,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2089,
+									"y": 764,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 1743,
+									"y": 834,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 627,
+									"y": 717,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79299249,
+			"id_str": "79299249",
+			"name": "Europeana",
+			"screen_name": "Europeanaeu",
+			"location": "Europe",
+			"description": "Europe's culture - collected for you. \nExplore millions of items on Europeana Collections. \nCo-financed by the Connecting Europe Facility of the European Union.",
+			"url": "http://t.co/KUfdwVQgxz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KUfdwVQgxz",
+							"expanded_url": "http://europeana.eu",
+							"display_url": "europeana.eu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36797,
+			"friends_count": 1542,
+			"listed_count": 2047,
+			"created_at": "Fri Oct 02 22:05:55 +0000 2009",
+			"favourites_count": 17707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79299249/1572870396",
+			"profile_link_color": "56A7CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's #BlackFriday and we have millions of items from #CulturalHeritage institutions across Europea available FOR FREE, as always😉 \nSo go, explore, play and create cause culture is the REAL DEAL!👉https://t.co/KUfdwVyFG1\n\n#EuropeForCulture #CulturalHeritage #OpenGLAM https://t.co/3inxWUlnxq"
+	},
+	{
 		"created_at": "Thu Nov 28 23:58:24 +0000 2019",
 		"id": 1200202313488568300,
 		"id_str": "1200202313488568323",
