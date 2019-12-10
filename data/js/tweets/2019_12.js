@@ -1,6 +1,2966 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 00:08:26 +0000 2019",
+		"id": 1204191104695971800,
+		"id_str": "1204191104695971841",
+		"full_text": "@terfle 💙",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "terfle",
+					"name": "Dr. Terfle, Muddling Through Somehow",
+					"id": 16083240,
+					"id_str": "16083240",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204190348542709800,
+		"in_reply_to_status_id_str": "1204190348542709760",
+		"in_reply_to_user_id": 16083240,
+		"in_reply_to_user_id_str": "16083240",
+		"in_reply_to_screen_name": "terfle",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@terfle 💙"
+	},
+	{
+		"created_at": "Mon Dec 09 16:43:32 +0000 2019",
+		"id": 1204075534810075100,
+		"id_str": "1204079141655588864",
+		"full_text": "Sir Hans Sloane’s 47,000 books represent the largest foundation collection of #rarebooks\n@britishlibrary\nThey became dispersed by subject 😱\nSo how might you even know you were looking at one of them? \nA new Project page explains a “Virtual Reconstruction”\nhttps://t.co/u7LN1MRyK0 https://t.co/0nECLia0M5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rarebooks",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						89,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u7LN1MRyK0",
+					"expanded_url": "https://www.bl.uk/projects/sloane-printed-books",
+					"display_url": "bl.uk/projects/sloan…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204075521400823800,
+					"id_str": "1204075521400823808",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELW8TqfW4AA9LIz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELW8TqfW4AA9LIz.jpg",
+					"url": "https://t.co/0nECLia0M5",
+					"display_url": "pic.twitter.com/0nECLia0M5",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1204075534810075137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1123,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1916,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 43,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 24,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 838,
+									"y": 74,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 838,
+									"y": 74,
+									"h": 118,
+									"w": 118
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204075521400823800,
+					"id_str": "1204075521400823808",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELW8TqfW4AA9LIz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELW8TqfW4AA9LIz.jpg",
+					"url": "https://t.co/0nECLia0M5",
+					"display_url": "pic.twitter.com/0nECLia0M5",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1204075534810075137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1123,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1916,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 43,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 24,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 838,
+									"y": 74,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 838,
+									"y": 74,
+									"h": 118,
+									"w": 118
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204075521434378200,
+					"id_str": "1204075521434378240",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELW8TqnW4AAl0Hx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELW8TqnW4AAl0Hx.jpg",
+					"url": "https://t.co/0nECLia0M5",
+					"display_url": "pic.twitter.com/0nECLia0M5",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1204075534810075137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1446,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 54,
+									"y": 335,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 1012,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 592,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 164,
+									"y": 1012,
+									"h": 234,
+									"w": 234
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204075521451188200,
+					"id_str": "1204075521451188224",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELW8TqrXYAAFu5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELW8TqrXYAAFu5u.jpg",
+					"url": "https://t.co/0nECLia0M5",
+					"display_url": "pic.twitter.com/0nECLia0M5",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1204075534810075137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204075521451135000,
+					"id_str": "1204075521451134976",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELW8TqrWkAAGqQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELW8TqrWkAAGqQD.jpg",
+					"url": "https://t.co/0nECLia0M5",
+					"display_url": "pic.twitter.com/0nECLia0M5",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1204075534810075137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1884,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 626,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1104,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1002,
+									"y": 488,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 660,
+									"y": 1112,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 332,
+									"y": 162,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 219,
+									"y": 369,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1002,
+									"y": 488,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 660,
+									"y": 1112,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 587,
+									"y": 285,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 386,
+									"y": 651,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092687948523454500,
+			"id_str": "1092687948523454464",
+			"name": "BL printed heritage",
+			"screen_name": "BLprintheritage",
+			"location": "London, England",
+			"description": "Western printed heritage collections @ the British Library (bio-pic: woodcut, “showing how to make a glorious Light with a candle like the Sun-shine” 1036.c.6)",
+			"url": "https://t.co/ABDAwX7Bio",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ABDAwX7Bio",
+							"expanded_url": "https://www.bl.uk/subjects/printed-books",
+							"display_url": "bl.uk/subjects/print…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1761,
+			"friends_count": 563,
+			"listed_count": 18,
+			"created_at": "Tue Feb 05 07:34:42 +0000 2019",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092687948523454464/1549401221",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sir Hans Sloane’s 47,000 books represent the largest foundation collection of #rarebooks\n@britishlibrary\nThey became dispersed by subject 😱\nSo how might you even know you were looking at one of them? \nA new Project page explains a “Virtual Reconstruction”\nhttps://t.co/u7LN1MRyK0 https://t.co/0nECLia0M5"
+	},
+	{
+		"created_at": "Mon Dec 09 15:20:23 +0000 2019",
+		"id": 1204031440016404500,
+		"id_str": "1204058216897888257",
+		"full_text": "How to behave in an art museum:\n- Do not turn your back on the art, even for a moment.\n- Greet the art with a curtsy or slight bow of the head.\n- Do not speak to the art until it addresses you.\n- If you value your life, do not blink until you back entirely out of view of the art.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40326609,
+			"id_str": "40326609",
+			"name": "John Mark Ockerbloom",
+			"screen_name": "JMarkOckerbloom",
+			"location": "Philadelphia",
+			"description": "Digital library strategist, & various other things. (I work for Penn, but don't speak for them here.) Pronouns: He/him/his. Holidays: Advent/Christmas/Epiphany.",
+			"url": "http://t.co/7N2wxGVaRe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7N2wxGVaRe",
+							"expanded_url": "http://everybodyslibraries.com/",
+							"display_url": "everybodyslibraries.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1864,
+			"friends_count": 263,
+			"listed_count": 153,
+			"created_at": "Fri May 15 20:33:58 +0000 2009",
+			"favourites_count": 542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/518269961/OckerbloomColor_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/518269961/OckerbloomColor_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 107,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How to behave in an art museum:\n- Do not turn your back on the art, even for a moment.\n- Greet the art with a curtsy or slight bow of the head.\n- Do not speak to the art until it addresses you.\n- If you value your life, do not blink until you back entirely out of view of the art."
+	},
+	{
+		"created_at": "Mon Dec 09 15:18:31 +0000 2019",
+		"id": 1204049070098198500,
+		"id_str": "1204057747504992257",
+		"full_text": ".@britishlibrary, your head of security just told me that I 'cannot be on strike in the library, or show my support for the strike here because it's a government building'. Please clarify this with a statement\n\nhttps://t.co/cO5wdPvsB5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cO5wdPvsB5",
+					"expanded_url": "https://twitter.com/JacStJohn1/status/1204042312051044353",
+					"display_url": "twitter.com/JacStJohn1/sta…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1011561068,
+			"id_str": "1011561068",
+			"name": "Jac St John",
+			"screen_name": "JacStJohn1",
+			"location": "London/Edinburgh",
+			"description": "PhD student researching the politics of public order in 1970s London. FOI busybody and deteriorating basketball player.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 1489,
+			"listed_count": 8,
+			"created_at": "Fri Dec 14 17:13:59 +0000 2012",
+			"favourites_count": 2246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000563262073/03d6d026f28ad231ff2a7e6da894faff_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000563262073/03d6d026f28ad231ff2a7e6da894faff_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204042312051044400,
+		"quoted_status_id_str": "1204042312051044353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cO5wdPvsB5",
+			"expanded": "https://twitter.com/JacStJohn1/status/1204042312051044353",
+			"display": "twitter.com/JacStJohn1/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 09 14:17:11 +0000 2019",
+			"id": 1204042312051044400,
+			"id_str": "1204042312051044353",
+			"full_text": "Have just been told by the head of security @britishlibrary that I have to remove my @ucu strike sticker if I am going to be in the library. @DrJoGrady is this true?! https://t.co/OMXAD6safo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "britishlibrary",
+						"name": "The British Library",
+						"id": 21744554,
+						"id_str": "21744554",
+						"indices": [
+							44,
+							59
+						]
+					},
+					{
+						"screen_name": "ucu",
+						"name": "UCU",
+						"id": 17724276,
+						"id_str": "17724276",
+						"indices": [
+							85,
+							89
+						]
+					},
+					{
+						"screen_name": "DrJoGrady",
+						"name": "Jo Grady",
+						"id": 1462046809,
+						"id_str": "1462046809",
+						"indices": [
+							141,
+							151
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1204042302081183700,
+						"id_str": "1204042302081183745",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/ELWeGC4XsAE_vWV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELWeGC4XsAE_vWV.jpg",
+						"url": "https://t.co/OMXAD6safo",
+						"display_url": "pic.twitter.com/OMXAD6safo",
+						"expanded_url": "https://twitter.com/JacStJohn1/status/1204042312051044353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 215,
+										"y": 332,
+										"h": 200,
+										"w": 200
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 648,
+										"y": 1000,
+										"h": 604,
+										"w": 604
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 648,
+										"y": 1000,
+										"h": 604,
+										"w": 604
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 379,
+										"y": 585,
+										"h": 353,
+										"w": 353
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1204042302081183700,
+						"id_str": "1204042302081183745",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/ELWeGC4XsAE_vWV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELWeGC4XsAE_vWV.jpg",
+						"url": "https://t.co/OMXAD6safo",
+						"display_url": "pic.twitter.com/OMXAD6safo",
+						"expanded_url": "https://twitter.com/JacStJohn1/status/1204042312051044353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 215,
+										"y": 332,
+										"h": 200,
+										"w": 200
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 648,
+										"y": 1000,
+										"h": 604,
+										"w": 604
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 648,
+										"y": 1000,
+										"h": 604,
+										"w": 604
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 379,
+										"y": 585,
+										"h": 353,
+										"w": 353
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1011561068,
+				"id_str": "1011561068",
+				"name": "Jac St John",
+				"screen_name": "JacStJohn1",
+				"location": "London/Edinburgh",
+				"description": "PhD student researching the politics of public order in 1970s London. FOI busybody and deteriorating basketball player.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 560,
+				"friends_count": 1489,
+				"listed_count": 8,
+				"created_at": "Fri Dec 14 17:13:59 +0000 2012",
+				"favourites_count": 2246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1587,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000563262073/03d6d026f28ad231ff2a7e6da894faff_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000563262073/03d6d026f28ad231ff2a7e6da894faff_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 146,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 125,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@britishlibrary, your head of security just told me that I 'cannot be on strike in the library, or show my support for the strike here because it's a government building'. Please clarify this with a statement\n\nhttps://t.co/cO5wdPvsB5"
+	},
+	{
+		"created_at": "Mon Dec 09 15:12:45 +0000 2019",
+		"id": 1204056292496679000,
+		"id_str": "1204056292496678912",
+		"full_text": "good morning! I am having a day of it at 10:12am and so I am already tweeting out unfiltered blather into the world",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "good morning! I am having a day of it at 10:12am and so I am already tweeting out unfiltered blather into the world"
+	},
+	{
+		"created_at": "Mon Dec 09 15:12:12 +0000 2019",
+		"id": 1204056156907430000,
+		"id_str": "1204056156907429888",
+		"full_text": "lol you people who think libraries are inherently forces for good; I love a library as much as the next librarian, but let's get real. Also, @britishlibrary if this is policy, you should be ashamed of yourselves https://t.co/MZ7aL4E556",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						141,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MZ7aL4E556",
+					"expanded_url": "https://twitter.com/Katie_Docwra/status/1204042083415273472",
+					"display_url": "twitter.com/Katie_Docwra/s…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204042083415273500,
+		"quoted_status_id_str": "1204042083415273472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MZ7aL4E556",
+			"expanded": "https://twitter.com/Katie_Docwra/status/1204042083415273472",
+			"display": "twitter.com/Katie_Docwra/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 09 14:16:17 +0000 2019",
+			"id": 1204042083415273500,
+			"id_str": "1204042083415273472",
+			"full_text": "In absolute shock. A fellow reader was just REFUSED ENTRY to the @britishlibrary for wearing a small sticker in support of the @ucu strikes. The security followed him into the locker room and told him to remove the sticker or leave. What sort of outrageous policy is this?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "britishlibrary",
+						"name": "The British Library",
+						"id": 21744554,
+						"id_str": "21744554",
+						"indices": [
+							65,
+							80
+						]
+					},
+					{
+						"screen_name": "ucu",
+						"name": "UCU",
+						"id": 17724276,
+						"id_str": "17724276",
+						"indices": [
+							127,
+							131
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 956573150917079000,
+				"id_str": "956573150917079041",
+				"name": "Research Truffle Hound",
+				"screen_name": "Katie_Docwra",
+				"location": "London, England",
+				"description": "TECHNE-funded PhD Candidate @ RHUL. Women filmmakers in France. Film. Feminism. Gryffindor. Un pour tous et tous pour rien. Views all mine [she/her]",
+				"url": "https://t.co/ZjL5Zs2tFL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZjL5Zs2tFL",
+								"expanded_url": "https://royalholloway.academia.edu/KatieDocwra",
+								"display_url": "royalholloway.academia.edu/KatieDocwra",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 263,
+				"friends_count": 445,
+				"listed_count": 1,
+				"created_at": "Thu Jan 25 17:03:06 +0000 2018",
+				"favourites_count": 5118,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1099331622820896773/uAoWrcg2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099331622820896773/uAoWrcg2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/956573150917079041/1547829039",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5de8cffc145c486b",
+				"url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json",
+				"place_type": "city",
+				"name": "Camden Town",
+				"full_name": "Camden Town, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.213503,
+								51.512805
+							],
+							[
+								-0.105303,
+								51.512805
+							],
+							[
+								-0.105303,
+								51.572068
+							],
+							[
+								-0.213503,
+								51.572068
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 194,
+			"favorite_count": 535,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lol you people who think libraries are inherently forces for good; I love a library as much as the next librarian, but let's get real. Also, @britishlibrary if this is policy, you should be ashamed of yourselves https://t.co/MZ7aL4E556"
+	},
+	{
+		"created_at": "Mon Dec 09 15:10:38 +0000 2019",
+		"id": 1204055763628548000,
+		"id_str": "1204055763628548096",
+		"full_text": "@friede fucking hell",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "friede",
+					"name": "Dr. Emily Friedman",
+					"id": 12237542,
+					"id_str": "12237542",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1204055522254737400,
+		"in_reply_to_status_id_str": "1204055522254737408",
+		"in_reply_to_user_id": 12237542,
+		"in_reply_to_user_id_str": "12237542",
+		"in_reply_to_screen_name": "friede",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@friede fucking hell"
+	},
+	{
+		"created_at": "Mon Dec 09 15:06:23 +0000 2019",
+		"id": 1204054694131355600,
+		"id_str": "1204054694131355648",
+		"full_text": "@mcegillion @leusavage @kristofselle lol meant to add \"type or punches\" either way ¯\\_(ツ)_/¯",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcegillion",
+					"name": "Dr Marianne CE Gillion",
+					"id": 2948005254,
+					"id_str": "2948005254",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "leusavage",
+					"name": "Dr Elizabeth Savage",
+					"id": 3176124093,
+					"id_str": "3176124093",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "kristofselle",
+					"name": "Kristof Selleslach",
+					"id": 773072760,
+					"id_str": "773072760",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1204052607171547100,
+		"in_reply_to_status_id_str": "1204052607171547138",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mcegillion @leusavage @kristofselle lol meant to add \"type or punches\" either way ¯\\_(ツ)_/¯"
+	},
+	{
+		"created_at": "Mon Dec 09 14:58:06 +0000 2019",
+		"id": 1204052607171547100,
+		"id_str": "1204052607171547138",
+		"full_text": "@mcegillion @leusavage @kristofselle hmm--Moyenne, Grande, et Petite show up here either as matrices or stamps but I'm not seeing actual type?  https://t.co/SD7hbPuPT2",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcegillion",
+					"name": "Dr Marianne CE Gillion",
+					"id": 2948005254,
+					"id_str": "2948005254",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "leusavage",
+					"name": "Dr Elizabeth Savage",
+					"id": 3176124093,
+					"id_str": "3176124093",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "kristofselle",
+					"name": "Kristof Selleslach",
+					"id": 773072760,
+					"id_str": "773072760",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SD7hbPuPT2",
+					"expanded_url": "https://dams.antwerpen.be/zoeken?search=musique",
+					"display_url": "dams.antwerpen.be/zoeken?search=…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1204049867141763000,
+		"in_reply_to_status_id_str": "1204049867141763072",
+		"in_reply_to_user_id": 2948005254,
+		"in_reply_to_user_id_str": "2948005254",
+		"in_reply_to_screen_name": "mcegillion",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mcegillion @leusavage @kristofselle hmm--Moyenne, Grande, et Petite show up here either as matrices or stamps but I'm not seeing actual type?  https://t.co/SD7hbPuPT2"
+	},
+	{
+		"created_at": "Mon Dec 09 14:45:31 +0000 2019",
+		"id": 1204049441717706800,
+		"id_str": "1204049441717706755",
+		"full_text": "@SheilaABrennan @brettbobley @hralperta when I was working at the Folger, I relied heavily on the breakfast sandwiches from the corner bakery since they had an outpost at Union Station",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SheilaABrennan",
+					"name": "Sheila Brennan",
+					"id": 14119160,
+					"id_str": "14119160",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "brettbobley",
+					"name": "Brett Bobley",
+					"id": 15449070,
+					"id_str": "15449070",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "hralperta",
+					"name": "Hannah Alpert-Abrams",
+					"id": 2439975073,
+					"id_str": "2439975073",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1204048159615398000,
+		"in_reply_to_status_id_str": "1204048159615397889",
+		"in_reply_to_user_id": 14119160,
+		"in_reply_to_user_id_str": "14119160",
+		"in_reply_to_screen_name": "SheilaABrennan",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SheilaABrennan @brettbobley @hralperta when I was working at the Folger, I relied heavily on the breakfast sandwiches from the corner bakery since they had an outpost at Union Station"
+	},
+	{
+		"created_at": "Mon Dec 09 14:43:52 +0000 2019",
+		"id": 1203993855156244500,
+		"id_str": "1204049026594856962",
+		"full_text": "Today I have the great joy of researching at the Plantin-Moretus Museum with Louisa Hunter-Bradley. She called the Grande Musique punches by Hendrik van den Keere. Aren’t they spectacular? So intricate and elegant; my favourite are the custodes. #EarlyMusic #BookHistory https://t.co/2f6LzLFDms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarlyMusic",
+					"indices": [
+						246,
+						257
+					]
+				},
+				{
+					"text": "BookHistory",
+					"indices": [
+						258,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203993844393685000,
+					"id_str": "1203993844393684992",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVyBb7XsAACs0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVyBb7XsAACs0n.jpg",
+					"url": "https://t.co/2f6LzLFDms",
+					"display_url": "pic.twitter.com/2f6LzLFDms",
+					"expanded_url": "https://twitter.com/mcegillion/status/1203993855156244480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 946,
+									"y": 564,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 554,
+									"y": 330,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 946,
+									"y": 564,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 314,
+									"y": 187,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203993844393685000,
+					"id_str": "1203993844393684992",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVyBb7XsAACs0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVyBb7XsAACs0n.jpg",
+					"url": "https://t.co/2f6LzLFDms",
+					"display_url": "pic.twitter.com/2f6LzLFDms",
+					"expanded_url": "https://twitter.com/mcegillion/status/1203993855156244480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 946,
+									"y": 564,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 554,
+									"y": 330,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 946,
+									"y": 564,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 314,
+									"y": 187,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203993844431372300,
+					"id_str": "1203993844431372288",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVyBcEWwAAZHZs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVyBcEWwAAZHZs.jpg",
+					"url": "https://t.co/2f6LzLFDms",
+					"display_url": "pic.twitter.com/2f6LzLFDms",
+					"expanded_url": "https://twitter.com/mcegillion/status/1203993855156244480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1152,
+									"y": 464,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 1026,
+									"y": 1048,
+									"h": 290,
+									"w": 290
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1152,
+									"y": 464,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 1026,
+									"y": 1048,
+									"h": 290,
+									"w": 290
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 675,
+									"y": 271,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 601,
+									"y": 614,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 154,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 340,
+									"y": 347,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203993844427174000,
+					"id_str": "1203993844427173889",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVyBcDWsAEIWMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVyBcDWsAEIWMD.jpg",
+					"url": "https://t.co/2f6LzLFDms",
+					"display_url": "pic.twitter.com/2f6LzLFDms",
+					"expanded_url": "https://twitter.com/mcegillion/status/1203993855156244480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1760,
+									"y": 324,
+									"h": 224,
+									"w": 224
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 584,
+									"y": 107,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1760,
+									"y": 324,
+									"h": 224,
+									"w": 224
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1031,
+									"y": 189,
+									"h": 131,
+									"w": 131
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2948005254,
+			"id_str": "2948005254",
+			"name": "Dr Marianne CE Gillion",
+			"screen_name": "mcegillion",
+			"location": "",
+			"description": "FWO postdoc @KULeuven. Early modern music, liturgies, and identities. [Interconfessional] plainchant and book history.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 508,
+			"friends_count": 300,
+			"listed_count": 9,
+			"created_at": "Mon Dec 29 01:53:19 +0000 2014",
+			"favourites_count": 3496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187455834541957122/LeBNjhIR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187455834541957122/LeBNjhIR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2948005254/1549796687",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today I have the great joy of researching at the Plantin-Moretus Museum with Louisa Hunter-Bradley. She called the Grande Musique punches by Hendrik van den Keere. Aren’t they spectacular? So intricate and elegant; my favourite are the custodes. #EarlyMusic #BookHistory https://t.co/2f6LzLFDms"
+	},
+	{
+		"created_at": "Mon Dec 09 14:43:48 +0000 2019",
+		"id": 1204049008500596700,
+		"id_str": "1204049008500596736",
+		"full_text": "@mcegillion @leusavage amazing!!!!!! They've images of so many of their punches digitized; I'll have to see if I can find these--it'd be great to have them on the book site",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcegillion",
+					"name": "Dr Marianne CE Gillion",
+					"id": 2948005254,
+					"id_str": "2948005254",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "leusavage",
+					"name": "Dr Elizabeth Savage",
+					"id": 3176124093,
+					"id_str": "3176124093",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1203993855156244500,
+		"in_reply_to_status_id_str": "1203993855156244480",
+		"in_reply_to_user_id": 2948005254,
+		"in_reply_to_user_id_str": "2948005254",
+		"in_reply_to_screen_name": "mcegillion",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mcegillion @leusavage amazing!!!!!! They've images of so many of their punches digitized; I'll have to see if I can find these--it'd be great to have them on the book site"
+	},
+	{
+		"created_at": "Mon Dec 09 14:42:34 +0000 2019",
+		"id": 1204048700403789800,
+		"id_str": "1204048700403789824",
+		"full_text": "@marccold lol my thought has been, Well, I just escaped all of that, why would I want to watch it on screen??",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marccold",
+					"name": "MARC in a Cold Climate",
+					"id": 3337235254,
+					"id_str": "3337235254",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1204048461240209400,
+		"in_reply_to_status_id_str": "1204048461240209408",
+		"in_reply_to_user_id": 3337235254,
+		"in_reply_to_user_id_str": "3337235254",
+		"in_reply_to_screen_name": "marccold",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920,
+			"friends_count": 372,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marccold lol my thought has been, Well, I just escaped all of that, why would I want to watch it on screen??"
+	},
+	{
+		"created_at": "Mon Dec 09 12:00:48 +0000 2019",
+		"id": 1203914671914270700,
+		"id_str": "1204007988182339584",
+		"full_text": "My colleague Ann Myers started cataloging an item from our backlog @StanfordSpec - Tebalducci's 'Delli dialogi della quantita et del numero delle sfere terrestri et celesti' [1588]. In it, she discovered that our copy has not-yet-assembled volvelles! https://t.co/oWEeFYTmst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StanfordSpec",
+					"name": "Stanford Spec Coll",
+					"id": 3396097534,
+					"id_str": "3396097534",
+					"indices": [
+						67,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203914654180765700,
+					"id_str": "1203914654180765702",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUp_9ZU8AYSVKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUp_9ZU8AYSVKe.jpg",
+					"url": "https://t.co/oWEeFYTmst",
+					"display_url": "pic.twitter.com/oWEeFYTmst",
+					"expanded_url": "https://twitter.com/bla222/status/1203914671914270720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 916,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1154,
+							"h": 916,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203914654180765700,
+					"id_str": "1203914654180765702",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUp_9ZU8AYSVKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUp_9ZU8AYSVKe.jpg",
+					"url": "https://t.co/oWEeFYTmst",
+					"display_url": "pic.twitter.com/oWEeFYTmst",
+					"expanded_url": "https://twitter.com/bla222/status/1203914671914270720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 916,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1154,
+							"h": 916,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75354109,
+			"id_str": "75354109",
+			"name": "Ben Albritton",
+			"screen_name": "bla222",
+			"location": "Stanford, CA",
+			"description": "Rare Books Curator, Stanford Libraries (opinions my own)",
+			"url": "https://t.co/jDQBZOdirU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jDQBZOdirU",
+							"expanded_url": "https://www.instagram.com/stanfordrarebooks/",
+							"display_url": "instagram.com/stanfordrarebo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4163,
+			"friends_count": 3468,
+			"listed_count": 144,
+			"created_at": "Fri Sep 18 18:50:50 +0000 2009",
+			"favourites_count": 30271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1610693557/proxy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1610693557/proxy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75354109/1353203499",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My colleague Ann Myers started cataloging an item from our backlog @StanfordSpec - Tebalducci's 'Delli dialogi della quantita et del numero delle sfere terrestri et celesti' [1588]. In it, she discovered that our copy has not-yet-assembled volvelles! https://t.co/oWEeFYTmst"
+	},
+	{
 		"created_at": "Mon Dec 09 01:00:19 +0000 2019",
 		"id": 1203841771467346000,
 		"id_str": "1203841771467345921",
