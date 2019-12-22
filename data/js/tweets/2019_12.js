@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 19:09:28 +0000 2019",
+		"id": 1208464520764485600,
+		"id_str": "1208464520764485633",
+		"full_text": "@RickGodden Weird and inappropriate",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RickGodden",
+					"name": "Rick Godden",
+					"id": 22037438,
+					"id_str": "22037438",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208460490881544200,
+		"in_reply_to_status_id_str": "1208460490881544193",
+		"in_reply_to_user_id": 22037438,
+		"in_reply_to_user_id_str": "22037438",
+		"in_reply_to_screen_name": "RickGodden",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8938,
+			"friends_count": 374,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RickGodden Weird and inappropriate"
+	},
+	{
+		"created_at": "Sat Dec 21 15:33:12 +0000 2019",
+		"id": 1208410094293131300,
+		"id_str": "1208410094293131265",
+		"full_text": "@kzwa Have never seen, have no intention of ever seeing, people are weird. (I have read the poems, however, in a sweet little Edward Gorey illustrated edition)",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kzwa",
+					"name": "Kate Zwaard",
+					"id": 74541831,
+					"id_str": "74541831",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208409280052973600,
+		"in_reply_to_status_id_str": "1208409280052973569",
+		"in_reply_to_user_id": 74541831,
+		"in_reply_to_user_id_str": "74541831",
+		"in_reply_to_screen_name": "kzwa",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8938,
+			"friends_count": 374,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kzwa Have never seen, have no intention of ever seeing, people are weird. (I have read the poems, however, in a sweet little Edward Gorey illustrated edition)"
+	},
+	{
+		"created_at": "Sat Dec 21 15:31:19 +0000 2019",
+		"id": 1208409622262042600,
+		"id_str": "1208409622262042624",
+		"full_text": "@colindickey Would do. Also, they are among the worst, for sure. Auburn has a system that only works on some browsers/needs cookies and then emails you crucial info that you need to complete your vendor form. Took me months. But payment was prompt!!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colindickey",
+					"name": "A Feast for Dermestids",
+					"id": 23352131,
+					"id_str": "23352131",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208408982597120000,
+		"in_reply_to_status_id_str": "1208408982597120002",
+		"in_reply_to_user_id": 23352131,
+		"in_reply_to_user_id_str": "23352131",
+		"in_reply_to_screen_name": "colindickey",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8938,
+			"friends_count": 374,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@colindickey Would do. Also, they are among the worst, for sure. Auburn has a system that only works on some browsers/needs cookies and then emails you crucial info that you need to complete your vendor form. Took me months. But payment was prompt!!"
+	},
+	{
+		"created_at": "Sat Dec 21 15:26:43 +0000 2019",
+		"id": 1208408463744872400,
+		"id_str": "1208408463744872453",
+		"full_text": "@colindickey On the one hand, filling in a different vendor form for a gazillion places sucks. But even worse are the people who are “just email me all your private personal info and I’ll get someone to create an account for you, don’t worry about identity theft!!”",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colindickey",
+					"name": "A Feast for Dermestids",
+					"id": 23352131,
+					"id_str": "23352131",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208403937440739300,
+		"in_reply_to_status_id_str": "1208403937440739328",
+		"in_reply_to_user_id": 23352131,
+		"in_reply_to_user_id_str": "23352131",
+		"in_reply_to_screen_name": "colindickey",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8938,
+			"friends_count": 374,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@colindickey On the one hand, filling in a different vendor form for a gazillion places sucks. But even worse are the people who are “just email me all your private personal info and I’ll get someone to create an account for you, don’t worry about identity theft!!”"
+	},
+	{
+		"created_at": "Sat Dec 21 14:16:18 +0000 2019",
+		"id": 1208369576259596300,
+		"id_str": "1208390744127541248",
+		"full_text": "Happy #WinterSolstice!\nTo celebrate, we collected an image per day over the last year from #GOESEast, taken at 1200 UTC, and looped them together. You can really see how the seasons change from #equinox to #solstice due to the #Earth's 23.5° tilt. https://t.co/KKcwjX1QjW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WinterSolstice",
+					"indices": [
+						6,
+						21
+					]
+				},
+				{
+					"text": "GOESEast",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "equinox",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "solstice",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"text": "Earth",
+					"indices": [
+						227,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208369566574923800,
+					"id_str": "1208369566574923777",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208369566574923777/pu/img/B37U0pO2KwohSZ-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208369566574923777/pu/img/B37U0pO2KwohSZ-o.jpg",
+					"url": "https://t.co/KKcwjX1QjW",
+					"display_url": "pic.twitter.com/KKcwjX1QjW",
+					"expanded_url": "https://twitter.com/NOAASatellites/status/1208369576259596288/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208369566574923800,
+					"id_str": "1208369566574923777",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208369566574923777/pu/img/B37U0pO2KwohSZ-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208369566574923777/pu/img/B37U0pO2KwohSZ-o.jpg",
+					"url": "https://t.co/KKcwjX1QjW",
+					"display_url": "pic.twitter.com/KKcwjX1QjW",
+					"expanded_url": "https://twitter.com/NOAASatellites/status/1208369576259596288/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18250,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208369566574923777/pu/vid/250x250/hkLnRdzWgR0uneC-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1208369566574923777/pu/pl/f15NSlQks69SKUeD.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36711678,
+			"id_str": "36711678",
+			"name": "NOAA Satellites",
+			"screen_name": "NOAASatellites",
+			"location": "Silver Spring, MD",
+			"description": "Providing secure and timely access to global environmental data to promote and protect the Nation's security, environment, economy, and quality of life.",
+			"url": "http://t.co/XfAfZ3uCwU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfAfZ3uCwU",
+							"expanded_url": "http://www.nesdis.noaa.gov/",
+							"display_url": "nesdis.noaa.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1550890,
+			"friends_count": 608,
+			"listed_count": 5380,
+			"created_at": "Thu Apr 30 16:58:50 +0000 2009",
+			"favourites_count": 2863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935941984765833216/q3qxxyE6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935941984765833216/q3qxxyE6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36711678/1567685477",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4374,
+		"favorite_count": 7748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #WinterSolstice!\nTo celebrate, we collected an image per day over the last year from #GOESEast, taken at 1200 UTC, and looped them together. You can really see how the seasons change from #equinox to #solstice due to the #Earth's 23.5° tilt. https://t.co/KKcwjX1QjW"
+	},
+	{
 		"created_at": "Fri Dec 20 22:46:23 +0000 2019",
 		"id": 1208156722805784600,
 		"id_str": "1208156722805784576",
@@ -835,7 +1542,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Fri Dec 20 15:11:45 +0000 2019",
 		"id": 1208042309440409600,
 		"id_str": "1208042309440409600",
-		"full_text": "In other news, I am still listening to Matthew and the Atlas, even though they are actually kind of heavy and sad songs. But each album also has an acoustic version! The completist in me cannot leave it alone 🤷‍♀️",
+		"full_text": "In other news, I am still listening to Matthew and the Atlas, even though they are actually kind of heavy and sad songs. But each album also has an acoustic version! The completist in me cannot leave it alone 🤷♀️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -936,7 +1643,7 @@ Grailbird.data.tweets_2019_12 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "In other news, I am still listening to Matthew and the Atlas, even though they are actually kind of heavy and sad songs. But each album also has an acoustic version! The completist in me cannot leave it alone 🤷‍♀️"
+		"text": "In other news, I am still listening to Matthew and the Atlas, even though they are actually kind of heavy and sad songs. But each album also has an acoustic version! The completist in me cannot leave it alone 🤷♀️"
 	},
 	{
 		"created_at": "Fri Dec 20 15:09:16 +0000 2019",
