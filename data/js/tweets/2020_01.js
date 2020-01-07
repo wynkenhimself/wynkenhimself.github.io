@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 22:49:52 +0000 2020",
+		"id": 1214318192480399400,
+		"id_str": "1214318192480399362",
+		"full_text": "@mazarines @ewarren @JulianCastro I would be so so so excited",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ewarren",
+					"name": "Elizabeth Warren",
+					"id": 357606935,
+					"id_str": "357606935",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "JulianCastro",
+					"name": "Julián Castro",
+					"id": 19682187,
+					"id_str": "19682187",
+					"indices": [
+						20,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214316493258793000,
+		"in_reply_to_status_id_str": "1214316493258792961",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 378,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines @ewarren @JulianCastro I would be so so so excited"
+	},
+	{
+		"created_at": "Mon Jan 06 20:52:58 +0000 2020",
+		"id": 1214288771329462300,
+		"id_str": "1214288771329462272",
+		"full_text": "@thegreatkellino That’s very exciting, Mrs Hart!!! https://t.co/BXaGfUj651",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thegreatkellino",
+					"name": "Matthew Hart",
+					"id": 55754743,
+					"id_str": "55754743",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214288765772058600,
+					"id_str": "1214288765772058624",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ENoFMuqXUAApK0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ENoFMuqXUAApK0t.jpg",
+					"url": "https://t.co/BXaGfUj651",
+					"display_url": "pic.twitter.com/BXaGfUj651",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1214288771329462272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214288765772058600,
+					"id_str": "1214288765772058624",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ENoFMuqXUAApK0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ENoFMuqXUAApK0t.jpg",
+					"url": "https://t.co/BXaGfUj651",
+					"display_url": "pic.twitter.com/BXaGfUj651",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1214288771329462272/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ENoFMuqXUAApK0t.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214285419589906400,
+		"in_reply_to_status_id_str": "1214285419589906432",
+		"in_reply_to_user_id": 55754743,
+		"in_reply_to_user_id_str": "55754743",
+		"in_reply_to_screen_name": "thegreatkellino",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 378,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@thegreatkellino That’s very exciting, Mrs Hart!!! https://t.co/BXaGfUj651"
+	},
+	{
+		"created_at": "Mon Jan 06 16:06:07 +0000 2020",
+		"id": 1214216585499566000,
+		"id_str": "1214216585499566087",
+		"full_text": "Good morning! My exciting 2020 update is that mid-morning coffee makes me sleepy 🤷‍♀️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 378,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Good morning! My exciting 2020 update is that mid-morning coffee makes me sleepy 🤷‍♀️"
+	},
+	{
+		"created_at": "Mon Jan 06 16:05:16 +0000 2020",
+		"id": 1214216370025566200,
+		"id_str": "1214216370025566215",
+		"full_text": "@S_Insley_H Ahhh I hadn’t fully processed that you both had books come out because I don’t understand time! I won’t be at MLA but here’s my virtual toast 🍾🥂",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_Insley_H",
+					"name": "Stephanie Insley Hershinow",
+					"id": 452382673,
+					"id_str": "452382673",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214213226688385000,
+		"in_reply_to_status_id_str": "1214213226688385024",
+		"in_reply_to_user_id": 452382673,
+		"in_reply_to_user_id_str": "452382673",
+		"in_reply_to_screen_name": "S_Insley_H",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 378,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@S_Insley_H Ahhh I hadn’t fully processed that you both had books come out because I don’t understand time! I won’t be at MLA but here’s my virtual toast 🍾🥂"
+	},
+	{
+		"created_at": "Mon Jan 06 16:02:11 +0000 2020",
+		"id": 1214213198506864600,
+		"id_str": "1214215596520460297",
+		"full_text": "\"I'm taking a break from relationships to focus on me\"\n- unwanted sympathy\n- invites further questions\n- sad\n\n\"the age of men is over. the time of the book is nigh\"\n- wasteland warlord chic\n- you can scream it at passersby\n- informs people of the correct way to pay you tribute",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 458643002,
+			"id_str": "458643002",
+			"name": "Henry Sotheran Ltd",
+			"screen_name": "Sotherans",
+			"location": "London, Piccadilly - W1S 3DP",
+			"description": "Serving you antiquarian bookshop realness since 1761. Our feed is on 🔥 but the bookstore is not. Posts by Oliver (he/him).",
+			"url": "http://t.co/8GGQiPgllN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8GGQiPgllN",
+							"expanded_url": "http://www.sotherans.co.uk",
+							"display_url": "sotherans.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5503,
+			"friends_count": 1006,
+			"listed_count": 107,
+			"created_at": "Sun Jan 08 19:58:30 +0000 2012",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/910081231395737600/OcNwmQZ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/910081231395737600/OcNwmQZ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/458643002/1571667564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 380,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"I'm taking a break from relationships to focus on me\"\n- unwanted sympathy\n- invites further questions\n- sad\n\n\"the age of men is over. the time of the book is nigh\"\n- wasteland warlord chic\n- you can scream it at passersby\n- informs people of the correct way to pay you tribute"
+	},
+	{
+		"created_at": "Mon Jan 06 15:22:54 +0000 2020",
+		"id": 1214204617430651000,
+		"id_str": "1214205710319464448",
+		"full_text": "#GenerousThinking: When colleagues are ill, @ScholarsLab staff has a culture of thanking coworkers for taking time off to care for themselves + asking what they can do to help them feel comfortable taking the time they need. It's useful to actively counter pressure to overwork. https://t.co/nNgc41fimI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GenerousThinking",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholarslab",
+					"name": "scholarslab",
+					"id": 15175262,
+					"id_str": "15175262",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nNgc41fimI",
+					"expanded_url": "https://twitter.com/hralperta/status/1213519201274617857",
+					"display_url": "twitter.com/hralperta/stat…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89312744,
+			"id_str": "89312744",
+			"name": "Dr. Amanda Visconti",
+			"screen_name": "Literature_Geek",
+			"location": "http://pronoun.is/she/?or=they",
+			"description": "Codirects @ScholarsLab @UVALibrary. Scholarship of experimental+digital humanities policy+practice (infrastructure, community). ᐸ3s research blogging + coding.",
+			"url": "https://t.co/mtwQ3GLr30",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mtwQ3GLr30",
+							"expanded_url": "http://www.AmandaVisconti.com",
+							"display_url": "AmandaVisconti.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4394,
+			"friends_count": 1800,
+			"listed_count": 244,
+			"created_at": "Wed Nov 11 23:20:53 +0000 2009",
+			"favourites_count": 2856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "27342B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641666770/tracedavatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641666770/tracedavatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89312744/1528930855",
+			"profile_link_color": "3C104F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "505446",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213519201274617900,
+		"quoted_status_id_str": "1213519201274617857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nNgc41fimI",
+			"expanded": "https://twitter.com/hralperta/status/1213519201274617857",
+			"display": "twitter.com/hralperta/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 04 17:54:58 +0000 2020",
+			"id": 1213519201274617900,
+			"id_str": "1213519201274617857",
+			"full_text": "We invite you to contribute your own generous practices by quote-tweeting, affirming, and adding to a #GenerousThinking tweet.\n\nYou can share your own daily practice, or modify someone else's. \n\nWe'll synthesize your ideas into a practical framework for implementation.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GenerousThinking",
+						"indices": [
+							102,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1213519200297345000,
+			"in_reply_to_status_id_str": "1213519200297345024",
+			"in_reply_to_user_id": 2439975073,
+			"in_reply_to_user_id_str": "2439975073",
+			"in_reply_to_screen_name": "hralperta",
+			"user": {
+				"id": 2439975073,
+				"id_str": "2439975073",
+				"name": "Hannah Alpert-Abrams 🤖✊",
+				"screen_name": "hralperta",
+				"location": "Washington, DC",
+				"description": "'Too much personality.' | digital / humanist | https://t.co/OCjE7dp0R0 |  Pic by @neelygoniodsky",
+				"url": "https://t.co/4f4MUkm6Z7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4f4MUkm6Z7",
+								"expanded_url": "http://halperta.com",
+								"display_url": "halperta.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OCjE7dp0R0",
+								"expanded_url": "http://pronoun.is/she",
+								"display_url": "pronoun.is/she",
+								"indices": [
+									47,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3015,
+				"friends_count": 2605,
+				"listed_count": 60,
+				"created_at": "Sat Apr 12 12:42:02 +0000 2014",
+				"favourites_count": 18502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12003,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996409937369579520/lRs4j1L__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996409937369579520/lRs4j1L__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2439975073/1566785487",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GenerousThinking: When colleagues are ill, @ScholarsLab staff has a culture of thanking coworkers for taking time off to care for themselves + asking what they can do to help them feel comfortable taking the time they need. It's useful to actively counter pressure to overwork. https://t.co/nNgc41fimI"
+	},
+	{
 		"created_at": "Sun Jan 05 23:54:05 +0000 2020",
 		"id": 1213914984549437400,
 		"id_str": "1213971964991332353",
