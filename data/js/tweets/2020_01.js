@@ -1,6 +1,1141 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 16:25:19 +0000 2020",
+		"id": 1216033356464509000,
+		"id_str": "1216033356464508928",
+		"full_text": "Hi I’m in Michael’s and I have no idea what I’m doing and I’m not a crafty person and yet it’s possible I might never leave",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8985,
+			"friends_count": 380,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hi I’m in Michael’s and I have no idea what I’m doing and I’m not a crafty person and yet it’s possible I might never leave"
+	},
+	{
+		"created_at": "Sat Jan 11 16:24:38 +0000 2020",
+		"id": 1216033185089368000,
+		"id_str": "1216033185089368064",
+		"full_text": "@melkatrey I’m so glad I watched it!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melkatrey",
+					"name": "Melissa Reynolds",
+					"id": 29909215,
+					"id_str": "29909215",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1216032297528500200,
+		"in_reply_to_status_id_str": "1216032297528500224",
+		"in_reply_to_user_id": 29909215,
+		"in_reply_to_user_id_str": "29909215",
+		"in_reply_to_screen_name": "melkatrey",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8985,
+			"friends_count": 380,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melkatrey I’m so glad I watched it!"
+	},
+	{
+		"created_at": "Sat Jan 11 15:07:20 +0000 2020",
+		"id": 1215993510714904600,
+		"id_str": "1216013729038569472",
+		"full_text": "So powerful to see this chant, written by students in Chile, making its way around the world. In Turkey, women who sang it were arrested, and here is the chant loud and clear outside the Weinstein trial. Gracias a #LasTesis https://t.co/BIAXgB4tt6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LasTesis",
+					"indices": [
+						214,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BIAXgB4tt6",
+					"expanded_url": "https://twitter.com/Kate_Kelly_Esq/status/1215680092065665027",
+					"display_url": "twitter.com/Kate_Kelly_Esq…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 898221055,
+			"id_str": "898221055",
+			"name": "Idra Novey",
+			"screen_name": "IdraNovey",
+			"location": "Proximate to Gowanus Canal",
+			"description": "Author of Those Who Knew (@VikingBooks), Ways to Disappear (@littlebrown), and co-translator of Garous Abdolmalekian with Ahmad Nadalizadeh (@PenguinBooks).",
+			"url": "https://t.co/9n5k992OW0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9n5k992OW0",
+							"expanded_url": "http://www.idranovey.com",
+							"display_url": "idranovey.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3736,
+			"friends_count": 1131,
+			"listed_count": 109,
+			"created_at": "Mon Oct 22 19:16:58 +0000 2012",
+			"favourites_count": 16568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/474261829292523521/ChjS_Yjb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/474261829292523521/ChjS_Yjb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/898221055/1549563647",
+			"profile_link_color": "DF181F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215680092065665000,
+		"quoted_status_id_str": "1215680092065665027",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BIAXgB4tt6",
+			"expanded": "https://twitter.com/Kate_Kelly_Esq/status/1215680092065665027",
+			"display": "twitter.com/Kate_Kelly_Esq…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 10 17:01:34 +0000 2020",
+			"id": 1215680092065665000,
+			"id_str": "1215680092065665027",
+			"full_text": "Shouting, \"The rapist is you!\" directly at the courthouse where Harvey Weinsten is currently on trial was cathartic.\n\n(I'm in the green bandanna for solidarity w Argentine women 🇦🇷✊🏼) \n\n#LasTesis #ItsNotOurFault #MeToo https://t.co/mJaID18eRV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LasTesis",
+						"indices": [
+							186,
+							195
+						]
+					},
+					{
+						"text": "ItsNotOurFault",
+						"indices": [
+							196,
+							211
+						]
+					},
+					{
+						"text": "MeToo",
+						"indices": [
+							212,
+							218
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215679816969658400,
+						"id_str": "1215679816969658368",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215679816969658368/pu/img/EB-257dGNDRwpn3T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215679816969658368/pu/img/EB-257dGNDRwpn3T.jpg",
+						"url": "https://t.co/mJaID18eRV",
+						"display_url": "pic.twitter.com/mJaID18eRV",
+						"expanded_url": "https://twitter.com/Kate_Kelly_Esq/status/1215680092065665027/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215679816969658400,
+						"id_str": "1215679816969658368",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215679816969658368/pu/img/EB-257dGNDRwpn3T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215679816969658368/pu/img/EB-257dGNDRwpn3T.jpg",
+						"url": "https://t.co/mJaID18eRV",
+						"display_url": "pic.twitter.com/mJaID18eRV",
+						"expanded_url": "https://twitter.com/Kate_Kelly_Esq/status/1215680092065665027/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45002,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215679816969658368/pu/vid/480x270/OuycF9y3gl3LOxZs.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1215679816969658368/pu/pl/pb2OURB5npbeSiFl.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215679816969658368/pu/vid/1280x720/ixtyKRLZtGxxflKO.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215679816969658368/pu/vid/640x360/I47gfjGML3mFPufV.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1093174824,
+				"id_str": "1093174824",
+				"name": "Kate \"Ratify ERA & also NO War with Iran\" Kelly",
+				"screen_name": "Kate_Kelly_Esq",
+				"location": "New York City / Salt Lake City",
+				"description": "Human Rights Attorney. Queer. Feminist. She/ her. Co-Creator @SacredSpace. Host @OrdEquality Equal Rights Amendment podcast by @wmnmedia! #ERANow",
+				"url": "https://t.co/OBYm6wPwJW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OBYm6wPwJW",
+								"expanded_url": "http://bit.ly/OrdinaryEquality",
+								"display_url": "bit.ly/OrdinaryEquali…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13711,
+				"friends_count": 2289,
+				"listed_count": 164,
+				"created_at": "Tue Jan 15 20:38:02 +0000 2013",
+				"favourites_count": 17460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17860,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1210650542369689600/rngTbGGf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210650542369689600/rngTbGGf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093174824/1576009226",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "27485069891a7938",
+				"url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+				"place_type": "admin",
+				"name": "New York",
+				"full_name": "New York, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.255641,
+								40.495865
+							],
+							[
+								-73.699793,
+								40.495865
+							],
+							[
+								-73.699793,
+								40.91533
+							],
+							[
+								-74.255641,
+								40.91533
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1850,
+			"favorite_count": 6108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 51,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So powerful to see this chant, written by students in Chile, making its way around the world. In Turkey, women who sang it were arrested, and here is the chant loud and clear outside the Weinstein trial. Gracias a #LasTesis https://t.co/BIAXgB4tt6"
+	},
+	{
+		"created_at": "Sat Jan 11 14:16:45 +0000 2020",
+		"id": 1215731267385294800,
+		"id_str": "1216000999158091777",
+		"full_text": "I want to highlight this news:  The NEH now has PAID internships for students! If you have any students who might be interested (or you are one), please see link below. https://t.co/SVnnOKXSuR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SVnnOKXSuR",
+					"expanded_url": "https://twitter.com/NEHgov/status/1215707071049535491",
+					"display_url": "twitter.com/NEHgov/status/…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15449070,
+			"id_str": "15449070",
+			"name": "Brett Bobley",
+			"screen_name": "brettbobley",
+			"location": "Washington, DC",
+			"description": "I'm the CIO at the NEH. I also direct the Office of Digital Humanities. I like to bake. I like to cook. I am 6' 1\" tall.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7021,
+			"friends_count": 1876,
+			"listed_count": 534,
+			"created_at": "Wed Jul 16 01:51:39 +0000 2008",
+			"favourites_count": 2897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/71550696/Brett.Italy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/71550696/Brett.Italy_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215707071049535500,
+		"quoted_status_id_str": "1215707071049535491",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SVnnOKXSuR",
+			"expanded": "https://twitter.com/NEHgov/status/1215707071049535491",
+			"display": "twitter.com/NEHgov/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 10 18:48:47 +0000 2020",
+			"id": 1215707071049535500,
+			"id_str": "1215707071049535491",
+			"full_text": "NEH is excited to announce that we will be offering paid internships starting this summer. We are accepting applications from undergraduates and graduate students. Apply here: https://t.co/GQX2AVTIf4 https://t.co/B5D588HcAh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GQX2AVTIf4",
+						"expanded_url": "https://www.usajobs.gov/GetJob/ViewDetails/556279600",
+						"display_url": "usajobs.gov/GetJob/ViewDet…",
+						"indices": [
+							176,
+							199
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1215707065680826400,
+						"id_str": "1215707065680826368",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EN8PIpjWkAAJNIf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN8PIpjWkAAJNIf.jpg",
+						"url": "https://t.co/B5D588HcAh",
+						"display_url": "pic.twitter.com/B5D588HcAh",
+						"expanded_url": "https://twitter.com/NEHgov/status/1215707071049535491/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 546,
+								"h": 543,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 546,
+								"h": 543,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 546,
+								"h": 543,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "158445401",
+										"screen_name": "NEH_ODH",
+										"name": "NEH Digital Humanities"
+									},
+									{
+										"type": "user",
+										"user_id": "159204899",
+										"screen_name": "NEH_Education",
+										"name": "NEH Education"
+									},
+									{
+										"type": "user",
+										"user_id": "158825032",
+										"screen_name": "NEH_PresAccess",
+										"name": "NEH Pres Access"
+									},
+									{
+										"type": "user",
+										"user_id": "161379031",
+										"screen_name": "NEH_PubPrograms",
+										"name": "NEH Public Programs"
+									},
+									{
+										"type": "user",
+										"user_id": "216380520",
+										"screen_name": "NEH_FedState",
+										"name": "NEH Fed/State"
+									},
+									{
+										"type": "user",
+										"user_id": "295702665",
+										"screen_name": "NEHontheRoad",
+										"name": "NEHontheRoad"
+									},
+									{
+										"type": "user",
+										"user_id": "356330389",
+										"screen_name": "NEH_Research",
+										"name": "NEH Division of Research"
+									}
+								]
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215707065680826400,
+						"id_str": "1215707065680826368",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EN8PIpjWkAAJNIf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN8PIpjWkAAJNIf.jpg",
+						"url": "https://t.co/B5D588HcAh",
+						"display_url": "pic.twitter.com/B5D588HcAh",
+						"expanded_url": "https://twitter.com/NEHgov/status/1215707071049535491/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 546,
+								"h": 543,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 546,
+								"h": 543,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 546,
+								"h": 543,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "158445401",
+										"screen_name": "NEH_ODH",
+										"name": "NEH Digital Humanities"
+									},
+									{
+										"type": "user",
+										"user_id": "159204899",
+										"screen_name": "NEH_Education",
+										"name": "NEH Education"
+									},
+									{
+										"type": "user",
+										"user_id": "158825032",
+										"screen_name": "NEH_PresAccess",
+										"name": "NEH Pres Access"
+									},
+									{
+										"type": "user",
+										"user_id": "161379031",
+										"screen_name": "NEH_PubPrograms",
+										"name": "NEH Public Programs"
+									},
+									{
+										"type": "user",
+										"user_id": "216380520",
+										"screen_name": "NEH_FedState",
+										"name": "NEH Fed/State"
+									},
+									{
+										"type": "user",
+										"user_id": "295702665",
+										"screen_name": "NEHontheRoad",
+										"name": "NEHontheRoad"
+									},
+									{
+										"type": "user",
+										"user_id": "356330389",
+										"screen_name": "NEH_Research",
+										"name": "NEH Division of Research"
+									}
+								]
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 155987003,
+				"id_str": "155987003",
+				"name": "NEH",
+				"screen_name": "NEHgov",
+				"location": "Washington, D.C.",
+				"description": "A federal agency, National Endowment for the Humanities supports research, preservation, public programs, and education in the humanities.\nFollow/RT≠endorsement",
+				"url": "http://t.co/15eCRgsAOf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/15eCRgsAOf",
+								"expanded_url": "http://www.neh.gov",
+								"display_url": "neh.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38124,
+				"friends_count": 887,
+				"listed_count": 997,
+				"created_at": "Tue Jun 15 18:15:20 +0000 2010",
+				"favourites_count": 9256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20417,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "558833",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164199382796898305/T5MYOw3x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164199382796898305/T5MYOw3x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/155987003/1534448028",
+				"profile_link_color": "558833",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 203,
+			"favorite_count": 185,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 102,
+		"favorite_count": 111,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want to highlight this news:  The NEH now has PAID internships for students! If you have any students who might be interested (or you are one), please see link below. https://t.co/SVnnOKXSuR"
+	},
+	{
+		"created_at": "Sat Jan 11 03:36:38 +0000 2020",
+		"id": 1215839910617321500,
+		"id_str": "1215839910617321472",
+		"full_text": "@ZacharyLesser Zack. It’s Friday night.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZacharyLesser",
+					"name": "Zachary Lesser",
+					"id": 1321493978,
+					"id_str": "1321493978",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215833670285656000,
+		"in_reply_to_status_id_str": "1215833670285656064",
+		"in_reply_to_user_id": 1321493978,
+		"in_reply_to_user_id_str": "1321493978",
+		"in_reply_to_screen_name": "ZacharyLesser",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, early modern digital | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8985,
+			"friends_count": 380,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 23888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ZacharyLesser Zack. It’s Friday night."
+	},
+	{
 		"created_at": "Sat Jan 11 00:00:27 +0000 2020",
 		"id": 1215785506816102400,
 		"id_str": "1215785506816102400",
