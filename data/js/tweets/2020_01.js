@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 20:20:50 +0000 2020",
+		"id": 1218622359042695200,
+		"id_str": "1218629340797317121",
+		"full_text": "Good to see, from @USNatArchives—but I hope for more than the promised procedural review. Leadership should engage w/the concept of anticipatory obedience &amp; consider why it felt okay to use women’s bodies for “promotion” while blanking out their words. https://t.co/9ZKUVZdMjK https://t.co/73DlO7HeC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "USNatArchives",
+					"name": "US National Archives",
+					"id": 101802390,
+					"id_str": "101802390",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9ZKUVZdMjK",
+					"expanded_url": "https://twitter.com/usnatarchives/status/1218613271927906305?s=21",
+					"display_url": "twitter.com/usnatarchives/…",
+					"indices": [
+						257,
+						280
+					]
+				},
+				{
+					"url": "https://t.co/73DlO7HeC3",
+					"expanded_url": "https://twitter.com/usnatarchives/status/1218613271927906305",
+					"display_url": "twitter.com/usnatarchives/…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1218559034615267300,
+		"in_reply_to_status_id_str": "1218559034615267329",
+		"in_reply_to_user_id": 14221013,
+		"in_reply_to_user_id_str": "14221013",
+		"in_reply_to_screen_name": "nowviskie",
+		"user": {
+			"id": 14221013,
+			"id_str": "14221013",
+			"name": "Bethany Nowviskie",
+			"screen_name": "nowviskie",
+			"location": "James Madison University",
+			"description": "lucky Dean of @JMUlibraries & Professor @EnglishJMU | once ran @scholarslab @ACHdotorg @CLIRDLF | private acc't—personal opinions—standard disclaimer | she/hers",
+			"url": "https://t.co/KVeHGy6z1t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KVeHGy6z1t",
+							"expanded_url": "http://nowviskie.org",
+							"display_url": "nowviskie.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13580,
+			"friends_count": 2650,
+			"listed_count": 750,
+			"created_at": "Tue Mar 25 23:56:00 +0000 2008",
+			"favourites_count": 32286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145083858599186438/LfdfPz28_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145083858599186438/LfdfPz28_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14221013/1561855053",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E4E6CF",
+			"profile_text_color": "40403F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218613271927906300,
+		"quoted_status_id_str": "1218613271927906305",
+		"quoted_status_permalink": {
+			"url": "https://t.co/73DlO7HeC3",
+			"expanded": "https://twitter.com/usnatarchives/status/1218613271927906305",
+			"display": "twitter.com/usnatarchives/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 18 19:16:59 +0000 2020",
+			"id": 1218613271927906300,
+			"id_str": "1218613271927906305",
+			"full_text": "We made a mistake. \n \nAs the National Archives of the United States, we are and have always been completely committed to preserving our archival holdings, without alteration. https://t.co/VTWOS4R7GY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1218613267624419300,
+						"id_str": "1218613267624419328",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EOliT3dU4AAUhyo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOliT3dU4AAUhyo.jpg",
+						"url": "https://t.co/VTWOS4R7GY",
+						"display_url": "pic.twitter.com/VTWOS4R7GY",
+						"expanded_url": "https://twitter.com/USNatArchives/status/1218613271927906305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 367,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 648,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1218613267624419300,
+						"id_str": "1218613267624419328",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EOliT3dU4AAUhyo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOliT3dU4AAUhyo.jpg",
+						"url": "https://t.co/VTWOS4R7GY",
+						"display_url": "pic.twitter.com/VTWOS4R7GY",
+						"expanded_url": "https://twitter.com/USNatArchives/status/1218613271927906305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 367,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 648,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101802390,
+				"id_str": "101802390",
+				"name": "US National Archives",
+				"screen_name": "USNatArchives",
+				"location": "Washington, D.C.",
+				"description": "The nation's record keeper. Follow us for live tweeting of events, two-way conversations, and help with questions.",
+				"url": "http://t.co/gjmniRBr5k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gjmniRBr5k",
+								"expanded_url": "http://www.archives.gov/social-media/twitter.html",
+								"display_url": "archives.gov/social-media/t…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 201339,
+				"friends_count": 314,
+				"listed_count": 3562,
+				"created_at": "Mon Jan 04 16:35:04 +0000 2010",
+				"favourites_count": 45373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37462,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "989582",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963519859307892736/OOsXp_hr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963519859307892736/OOsXp_hr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101802390/1572031655",
+				"profile_link_color": "050E5D",
+				"profile_sidebar_border_color": "050E5D",
+				"profile_sidebar_fill_color": "D6E1E6",
+				"profile_text_color": "121212",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6291,
+			"favorite_count": 19180,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 25,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good to see, from @USNatArchives—but I hope for more than the promised procedural review. Leadership should engage w/the concept of anticipatory obedience &amp; consider why it felt okay to use women’s bodies for “promotion” while blanking out their words. https://t.co/9ZKUVZdMjK https://t.co/73DlO7HeC3"
+	},
+	{
 		"created_at": "Sat Jan 18 01:36:54 +0000 2020",
 		"id": 1218346493096185900,
 		"id_str": "1218346493096185856",
@@ -1200,7 +1538,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "Joey Gamble",
 			"screen_name": "jmgmbl",
 			"location": "",
-			"description": "Queer/Early/Modernist. Asst Prof. Baker. Poet. Mom-friend. 'A blisse in proofe and proud and VERY wo'. they or he. 🏳️‍🌈",
+			"description": "Queer/Early/Modernist. Asst Prof. Baker. Poet. Mom-friend. 'A blisse in proofe and proud and VERY wo'. they or he. 🏳️🌈",
 			"url": "https://t.co/WN3tBxfv97",
 			"entities": {
 				"url": {
