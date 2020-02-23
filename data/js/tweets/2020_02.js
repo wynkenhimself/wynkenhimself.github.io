@@ -1,6 +1,1107 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 18:29:14 +0000 2020",
+		"id": 1231284830291230700,
+		"id_str": "1231284830291230720",
+		"full_text": "@luciascans @hels I mean, I’ve never let ignorance stop me from crazy schemes before",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231279121612697600,
+		"in_reply_to_status_id_str": "1231279121612697600",
+		"in_reply_to_user_id": 18755105,
+		"in_reply_to_user_id_str": "18755105",
+		"in_reply_to_screen_name": "luciascans",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@luciascans @hels I mean, I’ve never let ignorance stop me from crazy schemes before"
+	},
+	{
+		"created_at": "Sat Feb 22 17:41:58 +0000 2020",
+		"id": 1231272935937233000,
+		"id_str": "1231272935937232896",
+		"full_text": "@luciascans @hels Though if we decide to uproot our lives, we should totally start a company called ButchFemme for clothes and makeup and perfume and power tools.",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231269551846740000,
+		"in_reply_to_status_id_str": "1231269551846739969",
+		"in_reply_to_user_id": 18755105,
+		"in_reply_to_user_id_str": "18755105",
+		"in_reply_to_screen_name": "luciascans",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@luciascans @hels Though if we decide to uproot our lives, we should totally start a company called ButchFemme for clothes and makeup and perfume and power tools."
+	},
+	{
+		"created_at": "Sat Feb 22 17:32:09 +0000 2020",
+		"id": 1231270465072750600,
+		"id_str": "1231270465072750597",
+		"full_text": "@luciascans @hels it is possible Helen has bought it all up already since it's now no longer made",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1231269551846740000,
+		"in_reply_to_status_id_str": "1231269551846739969",
+		"in_reply_to_user_id": 18755105,
+		"in_reply_to_user_id_str": "18755105",
+		"in_reply_to_screen_name": "luciascans",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@luciascans @hels it is possible Helen has bought it all up already since it's now no longer made"
+	},
+	{
+		"created_at": "Sat Feb 22 17:26:50 +0000 2020",
+		"id": 1231269128712999000,
+		"id_str": "1231269128712998912",
+		"full_text": "@melissa_hubbard Yes! And this continues to get true the older I get! The brave things I did in my late 40s and now in early 50s would never have been possible for me when I was younger. Partly about my life conditions but also about confidence to be myself that I think comes with age",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissa_hubbard",
+					"name": "Melissa Hubbard",
+					"id": 164796788,
+					"id_str": "164796788",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1231257878293553200,
+		"in_reply_to_status_id_str": "1231257878293553153",
+		"in_reply_to_user_id": 164796788,
+		"in_reply_to_user_id_str": "164796788",
+		"in_reply_to_screen_name": "melissa_hubbard",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissa_hubbard Yes! And this continues to get true the older I get! The brave things I did in my late 40s and now in early 50s would never have been possible for me when I was younger. Partly about my life conditions but also about confidence to be myself that I think comes with age"
+	},
+	{
+		"created_at": "Sat Feb 22 16:28:58 +0000 2020",
+		"id": 1231254565976248300,
+		"id_str": "1231254565976248321",
+		"full_text": "@hels Men of Blame!!!!",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231250870932734000,
+		"in_reply_to_status_id_str": "1231250870932733952",
+		"in_reply_to_user_id": 15676413,
+		"in_reply_to_user_id_str": "15676413",
+		"in_reply_to_screen_name": "hels",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hels Men of Blame!!!!"
+	},
+	{
+		"created_at": "Sat Feb 22 16:23:23 +0000 2020",
+		"id": 1231253160712376300,
+		"id_str": "1231253160712376321",
+		"full_text": "@luciascans I am just making sure you see @hels’s tweet because BUTCH FEMME seems like a perfume made for you https://t.co/HObWcfkbaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HObWcfkbaN",
+					"expanded_url": "https://twitter.com/hels/status/1231250870932733952",
+					"display_url": "twitter.com/hels/status/12…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 18755105,
+		"in_reply_to_user_id_str": "18755105",
+		"in_reply_to_screen_name": "luciascans",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231250870932734000,
+		"quoted_status_id_str": "1231250870932733952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HObWcfkbaN",
+			"expanded": "https://twitter.com/hels/status/1231250870932733952",
+			"display": "twitter.com/hels/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 22 16:14:17 +0000 2020",
+			"id": 1231250870932734000,
+			"id_str": "1231250870932733952",
+			"full_text": "A few years ago a friend gave me a sample of Butch Femme entirely because of the name (I mean!!! And one of their other scents is called MEN OF BLAME!) and it turned out to be the most phenomenal perfume that I (a person who really dislikes most perfumes) have ever smelled",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1231249857362432000,
+			"in_reply_to_status_id_str": "1231249857362432005",
+			"in_reply_to_user_id": 15676413,
+			"in_reply_to_user_id_str": "15676413",
+			"in_reply_to_screen_name": "hels",
+			"user": {
+				"id": 15676413,
+				"id_str": "15676413",
+				"name": "Helen Rosner",
+				"screen_name": "hels",
+				"location": "NYC via Chicago",
+				"description": "I write about food for the New Yorker and I’m really truly not a restaurant critic | hi@helenlikesyou dot com | she/her",
+				"url": "https://t.co/OpvRYV2jIa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OpvRYV2jIa",
+								"expanded_url": "https://www.newyorker.com/contributors/helen-rosner",
+								"display_url": "newyorker.com/contributors/h…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115131,
+				"friends_count": 2709,
+				"listed_count": 1492,
+				"created_at": "Thu Jul 31 16:02:30 +0000 2008",
+				"favourites_count": 117670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 80088,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955873239112306688/1lQl60Q2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955873239112306688/1lQl60Q2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676413/1556840951",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@luciascans I am just making sure you see @hels’s tweet because BUTCH FEMME seems like a perfume made for you https://t.co/HObWcfkbaN"
+	},
+	{
+		"created_at": "Sat Feb 22 15:45:08 +0000 2020",
+		"id": 1231243533127950300,
+		"id_str": "1231243533127950336",
+		"full_text": "A beautiful piece on baking and homesickness and kindness to yourself by @geekandahalf (with biscuit recipe!) https://t.co/v0FQvtiisS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "geekandahalf",
+					"name": "Derrick",
+					"id": 7382632,
+					"id_str": "7382632",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v0FQvtiisS",
+					"expanded_url": "http://www.hobartpulp.com/web_features/biscuits",
+					"display_url": "hobartpulp.com/web_features/b…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A beautiful piece on baking and homesickness and kindness to yourself by @geekandahalf (with biscuit recipe!) https://t.co/v0FQvtiisS"
+	},
+	{
+		"created_at": "Sat Feb 22 15:41:55 +0000 2020",
+		"id": 1231242724109627400,
+		"id_str": "1231242724109627392",
+		"full_text": "@hralperta @geekandahalf This is just beautiful",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hralperta",
+					"name": "Hannah Alpert-Abrams 🤖✊",
+					"id": 2439975073,
+					"id_str": "2439975073",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "geekandahalf",
+					"name": "Derrick",
+					"id": 7382632,
+					"id_str": "7382632",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231238131707469800,
+		"in_reply_to_status_id_str": "1231238131707469824",
+		"in_reply_to_user_id": 2439975073,
+		"in_reply_to_user_id_str": "2439975073",
+		"in_reply_to_screen_name": "hralperta",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9087,
+			"friends_count": 388,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 24718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hralperta @geekandahalf This is just beautiful"
+	},
+	{
 		"created_at": "Fri Feb 21 22:18:18 +0000 2020",
 		"id": 1230980089325719600,
 		"id_str": "1230980089325719554",
