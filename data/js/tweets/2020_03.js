@@ -1,6 +1,1162 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 00:18:27 +0000 2020",
+		"id": 1239345248293306400,
+		"id_str": "1239345248293306369",
+		"full_text": "@NotSorrySari @friede This is genius and adorable",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotSorrySari",
+					"name": "sari edelstein",
+					"id": 794593810995155000,
+					"id_str": "794593810995154953",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "friede",
+					"name": "Dr. Emily Friedman",
+					"id": 12237542,
+					"id_str": "12237542",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239305888340553700,
+		"in_reply_to_status_id_str": "1239305888340553729",
+		"in_reply_to_user_id": 794593810995155000,
+		"in_reply_to_user_id_str": "794593810995154953",
+		"in_reply_to_screen_name": "NotSorrySari",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9150,
+			"friends_count": 390,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 25647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NotSorrySari @friede This is genius and adorable"
+	},
+	{
+		"created_at": "Mon Mar 16 00:14:30 +0000 2020",
+		"id": 1239344252477493200,
+		"id_str": "1239344252477493249",
+		"full_text": "@katinalynn I really need to figure out an effective way of limiting myself",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katinalynn",
+					"name": "Katina Rogers",
+					"id": 47413692,
+					"id_str": "47413692",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239343178567880700,
+		"in_reply_to_status_id_str": "1239343178567880709",
+		"in_reply_to_user_id": 47413692,
+		"in_reply_to_user_id_str": "47413692",
+		"in_reply_to_screen_name": "katinalynn",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9150,
+			"friends_count": 390,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 25647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@katinalynn I really need to figure out an effective way of limiting myself"
+	},
+	{
+		"created_at": "Sun Mar 15 22:04:55 +0000 2020",
+		"id": 1239311644439830500,
+		"id_str": "1239311644439830528",
+		"full_text": "Fellow Marylanders! Do you need health insurance? Emergency enrollment for the next month, starting tomorrow, with coverage beginning April 1st! https://t.co/EAT2AnCdPH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EAT2AnCdPH",
+					"expanded_url": "https://twitter.com/MarylandConnect/status/1238551680347705350",
+					"display_url": "twitter.com/MarylandConnec…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9150,
+			"friends_count": 390,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 25647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238551680347705300,
+		"quoted_status_id_str": "1238551680347705350",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EAT2AnCdPH",
+			"expanded": "https://twitter.com/MarylandConnect/status/1238551680347705350",
+			"display": "twitter.com/MarylandConnec…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 19:45:06 +0000 2020",
+			"id": 1238551680347705300,
+			"id_str": "1238551680347705350",
+			"full_text": "Coronavirus emergency launches one-month special enrollment period. Take a look at our latest blog for all the details on how to enroll: https://t.co/KcZH5xgnad\n#coronavirus #maryland #specialenrollment #healthinsurance https://t.co/oTCMQTotsE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coronavirus",
+						"indices": [
+							161,
+							173
+						]
+					},
+					{
+						"text": "maryland",
+						"indices": [
+							174,
+							183
+						]
+					},
+					{
+						"text": "specialenrollment",
+						"indices": [
+							184,
+							202
+						]
+					},
+					{
+						"text": "healthinsurance",
+						"indices": [
+							203,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KcZH5xgnad",
+						"expanded_url": "https://www.marylandhealthconnection.gov/coronavirus-sep/",
+						"display_url": "marylandhealthconnection.gov/coronavirus-se…",
+						"indices": [
+							137,
+							160
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238551677155905500,
+						"id_str": "1238551677155905538",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/ETA4MDDXkAIPrjF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETA4MDDXkAIPrjF.jpg",
+						"url": "https://t.co/oTCMQTotsE",
+						"display_url": "pic.twitter.com/oTCMQTotsE",
+						"expanded_url": "https://twitter.com/MarylandConnect/status/1238551680347705350/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238551677155905500,
+						"id_str": "1238551677155905538",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/ETA4MDDXkAIPrjF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETA4MDDXkAIPrjF.jpg",
+						"url": "https://t.co/oTCMQTotsE",
+						"display_url": "pic.twitter.com/oTCMQTotsE",
+						"expanded_url": "https://twitter.com/MarylandConnect/status/1238551680347705350/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1586014255,
+				"id_str": "1586014255",
+				"name": "MD Health Connection",
+				"screen_name": "MarylandConnect",
+				"location": "",
+				"description": "The official Twitter account for Maryland Health Connection, the marketplace for Marylanders to shop, compare and enroll for health coverage.",
+				"url": "http://t.co/PwALrvkIks",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PwALrvkIks",
+								"expanded_url": "http://MarylandHealthConnection.gov",
+								"display_url": "MarylandHealthConnection.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6800,
+				"friends_count": 1554,
+				"listed_count": 150,
+				"created_at": "Thu Jul 11 14:28:02 +0000 2013",
+				"favourites_count": 1624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8492,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C6A80",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905081920069009408/pJLgDxBD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905081920069009408/pJLgDxBD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1586014255/1576521739",
+				"profile_link_color": "1C6A80",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fellow Marylanders! Do you need health insurance? Emergency enrollment for the next month, starting tomorrow, with coverage beginning April 1st! https://t.co/EAT2AnCdPH"
+	},
+	{
+		"created_at": "Sun Mar 15 21:15:36 +0000 2020",
+		"id": 1239299231149707300,
+		"id_str": "1239299231149707264",
+		"full_text": "@luciascans @LaraDodds Savory oatmeal is delicious! And if you’ve an instapot, steelcut oats are super easy",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "LaraDodds",
+					"name": "Lara Dodds",
+					"id": 1058164614,
+					"id_str": "1058164614",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239297203631341600,
+		"in_reply_to_status_id_str": "1239297203631341568",
+		"in_reply_to_user_id": 18755105,
+		"in_reply_to_user_id_str": "18755105",
+		"in_reply_to_screen_name": "luciascans",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9150,
+			"friends_count": 390,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 25647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@luciascans @LaraDodds Savory oatmeal is delicious! And if you’ve an instapot, steelcut oats are super easy"
+	},
+	{
+		"created_at": "Sun Mar 15 20:55:27 +0000 2020",
+		"id": 1239191502783422500,
+		"id_str": "1239294159162413057",
+		"full_text": "Need a distraction from the news? Want to channel your energy somewhere positive? I've put together a list of 'Useful distractions: help cultural heritage and scientific projects from home' https://t.co/BUO4jZCw2M #crowdsourcing #volunteering #isolationessentials",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crowdsourcing",
+					"indices": [
+						214,
+						228
+					]
+				},
+				{
+					"text": "volunteering",
+					"indices": [
+						229,
+						242
+					]
+				},
+				{
+					"text": "isolationessentials",
+					"indices": [
+						243,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BUO4jZCw2M",
+					"expanded_url": "http://www.openobjects.org.uk/2020/03/useful-distractions-help-cultural-heritage-and-scientific-projects-from-home/",
+					"display_url": "openobjects.org.uk/2020/03/useful…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20431901,
+			"id_str": "20431901",
+			"name": "Dr Mia Ridge",
+			"screen_name": "mia_out",
+			"location": "London, mostly",
+			"description": "Digital Curator @BritishLibrary @BL_DigiSchol. Collections as data, UX, crowdsourcing in cultural heritage, libraries, museums. Digital History PhD. She, they.",
+			"url": "https://t.co/J7DSovI3v5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J7DSovI3v5",
+							"expanded_url": "http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279",
+							"display_url": "worldcat.org/title/crowdsou…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8833,
+			"friends_count": 483,
+			"listed_count": 721,
+			"created_at": "Mon Feb 09 12:32:56 +0000 2009",
+			"favourites_count": 6684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20431901/1475055023",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need a distraction from the news? Want to channel your energy somewhere positive? I've put together a list of 'Useful distractions: help cultural heritage and scientific projects from home' https://t.co/BUO4jZCw2M #crowdsourcing #volunteering #isolationessentials"
+	},
+	{
+		"created_at": "Sun Mar 15 16:02:42 +0000 2020",
+		"id": 1239219123659341800,
+		"id_str": "1239220489295446016",
+		"full_text": "People of America...Important News: All my restaurants in DC area are closed until further notice. Here at @ThinkFoodGroup safety of employees &amp; guests is too priority. Some restaurants will transform into Community Kitchens to offer to-go lunches for those who need a meal. (1/4) https://t.co/3HTyT607ZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thinkfoodgroup",
+					"name": "ThinkFoodGroup",
+					"id": 72919771,
+					"id_str": "72919771",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239218273146806300,
+					"id_str": "1239218273146806277",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/ETKXDkhXsAEBl4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETKXDkhXsAEBl4j.jpg",
+					"url": "https://t.co/3HTyT607ZI",
+					"display_url": "pic.twitter.com/3HTyT607ZI",
+					"expanded_url": "https://twitter.com/chefjoseandres/status/1239219123659341825/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 625,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239218273146806300,
+					"id_str": "1239218273146806277",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/ETKXDkhXsAEBl4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETKXDkhXsAEBl4j.jpg",
+					"url": "https://t.co/3HTyT607ZI",
+					"display_url": "pic.twitter.com/3HTyT607ZI",
+					"expanded_url": "https://twitter.com/chefjoseandres/status/1239219123659341825/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 625,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 240067,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239218273146806277/vid/480x270/oOaKl0UJJt14fHDE.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239218273146806277/vid/1280x720/CXxMy_YcTpZuqhYa.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1239218273146806277/pl/akJJC9Ei7J9qfYxe.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239218273146806277/vid/640x360/iLxm6ObwyajfwJP2.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73206956,
+			"id_str": "73206956",
+			"name": "José Andrés",
+			"screen_name": "chefjoseandres",
+			"location": "Washington, DC and the world",
+			"description": "We all are Citizens of the World. What's good for you, must be good for all. If you are lost, share a plate of food with a stranger...you will find who you are.",
+			"url": "https://t.co/1mtxAmj3Wy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1mtxAmj3Wy",
+							"expanded_url": "http://vegetablesunleashed.com",
+							"display_url": "vegetablesunleashed.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837981,
+			"friends_count": 1144,
+			"listed_count": 5482,
+			"created_at": "Thu Sep 10 20:06:04 +0000 2009",
+			"favourites_count": 14225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B0A397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/468467014772600832/vauGQ8wb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/468467014772600832/vauGQ8wb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73206956/1584033327",
+			"profile_link_color": "625243",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11125,
+		"favorite_count": 45427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People of America...Important News: All my restaurants in DC area are closed until further notice. Here at @ThinkFoodGroup safety of employees &amp; guests is too priority. Some restaurants will transform into Community Kitchens to offer to-go lunches for those who need a meal. (1/4) https://t.co/3HTyT607ZI"
+	},
+	{
+		"created_at": "Sun Mar 15 14:27:44 +0000 2020",
+		"id": 1239190802338910200,
+		"id_str": "1239196589102596098",
+		"full_text": "OK, I wrote a thing. A rough, incomplete thing. Hope it is helpful -- Close the Library https://t.co/NEbW9y9CLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NEbW9y9CLl",
+					"expanded_url": "https://chrisbourg.wordpress.com/2020/03/15/close-the-library",
+					"display_url": "chrisbourg.wordpress.com/2020/03/15/clo…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14093339,
+			"id_str": "14093339",
+			"name": "Chris Bourg",
+			"screen_name": "mchris4duke",
+			"location": "Cambridge MA",
+			"description": "Director of Libraries at MIT. Queer, butch, lesbian. Not wedded to the soup roach. #DailyJiffy Tweets my own, RTs are not endorsements.",
+			"url": "https://t.co/EvmSkBJ8oA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EvmSkBJ8oA",
+							"expanded_url": "http://chrisbourg.wordpress.com/",
+							"display_url": "chrisbourg.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14459,
+			"friends_count": 7688,
+			"listed_count": 568,
+			"created_at": "Fri Mar 07 04:24:10 +0000 2008",
+			"favourites_count": 42848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832397559935148032/XuValEaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832397559935148032/XuValEaG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14093339/1361226921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 212,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OK, I wrote a thing. A rough, incomplete thing. Hope it is helpful -- Close the Library https://t.co/NEbW9y9CLl"
+	},
+	{
 		"created_at": "Sun Mar 15 01:56:33 +0000 2020",
 		"id": 1239007547786514400,
 		"id_str": "1239007547786514440",
