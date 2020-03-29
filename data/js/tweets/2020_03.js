@@ -1,6 +1,1382 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 22:56:35 +0000 2020",
+		"id": 1244035689009864700,
+		"id_str": "1244035689009864705",
+		"full_text": "on the other hand, I am never going to understand Dutch pronomial adverbs and I just can't summon the dedication to try",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 392,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "on the other hand, I am never going to understand Dutch pronomial adverbs and I just can't summon the dedication to try"
+	},
+	{
+		"created_at": "Sat Mar 28 22:55:15 +0000 2020",
+		"id": 1244035349971644400,
+		"id_str": "1244035349971644422",
+		"full_text": "finally, I've read two of the books folks suggested when I asked for reading recs last week--My Sister the Serial Killer and the first of the Ruth Galloway series--and they were both perfect",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 392,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "finally, I've read two of the books folks suggested when I asked for reading recs last week--My Sister the Serial Killer and the first of the Ruth Galloway series--and they were both perfect"
+	},
+	{
+		"created_at": "Sat Mar 28 22:54:04 +0000 2020",
+		"id": 1244035052566130700,
+		"id_str": "1244035052566130694",
+		"full_text": "also my new mortgage company finally gave the information I need to be able to pay online which wards off the pit of anxiety I was feeling about either the post office or mailing April's check without certified mail",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 392,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "also my new mortgage company finally gave the information I need to be able to pay online which wards off the pit of anxiety I was feeling about either the post office or mailing April's check without certified mail"
+	},
+	{
+		"created_at": "Sat Mar 28 22:52:56 +0000 2020",
+		"id": 1244034770109112300,
+		"id_str": "1244034770109112320",
+		"full_text": "just cut a deal with the youngest that if I make pancakes for brunch tomorrow, he'll make rolls for dinner",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 392,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "just cut a deal with the youngest that if I make pancakes for brunch tomorrow, he'll make rolls for dinner"
+	},
+	{
+		"created_at": "Sat Mar 28 20:04:46 +0000 2020",
+		"id": 1243932447307415600,
+		"id_str": "1243992446591262720",
+		"full_text": "Maryland State Parks beaches are also now closed indefinitely. Ocean City had already closed its beaches too https://t.co/MOGarHKF4T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MOGarHKF4T",
+					"expanded_url": "https://twitter.com/mdstateparks/status/1243916943226265602",
+					"display_url": "twitter.com/mdstateparks/s…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44951698,
+			"id_str": "44951698",
+			"name": "Max Smith",
+			"screen_name": "amaxsmith",
+			"location": "Washington, DC",
+			"description": "Reporter, Anchor, Editor @WTOP; sports fan, GW alum. Tweeting what I'm covering & other interesting stories. @SarahKarlin used to envy how many followers I had",
+			"url": "http://t.co/7Q41aqOe4t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Q41aqOe4t",
+							"expanded_url": "http://wtop.com",
+							"display_url": "wtop.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7555,
+			"friends_count": 5406,
+			"listed_count": 341,
+			"created_at": "Fri Jun 05 17:57:40 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "224245",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077252431606468608/M99in3RQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077252431606468608/M99in3RQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44951698/1351375328",
+			"profile_link_color": "4E93E6",
+			"profile_sidebar_border_color": "3CB3E6",
+			"profile_sidebar_fill_color": "B4EDC1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243916943226265600,
+		"quoted_status_id_str": "1243916943226265602",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MOGarHKF4T",
+			"expanded": "https://twitter.com/mdstateparks/status/1243916943226265602",
+			"display": "twitter.com/mdstateparks/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 28 15:04:44 +0000 2020",
+			"id": 1243916943226265600,
+			"id_str": "1243916943226265602",
+			"full_text": "ALERT: Following Governor Larry Hogan’s emergency actions to protect public health during the COVID-19 pandemic, all Maryland State Park beaches are now closed.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 91416716,
+				"id_str": "91416716",
+				"name": "Maryland State Parks",
+				"screen_name": "MDStateParks",
+				"location": "Maryland, United States",
+				"description": "Explore Maryland's 75 State Parks. Camp, hike, swim, bike, fish, canoe, hunt....the possibilities are endless. Cabins for rent.",
+				"url": "https://t.co/LUXhS3Uhw2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LUXhS3Uhw2",
+								"expanded_url": "http://dnr.maryland.gov/publiclands/Pages/default.aspx",
+								"display_url": "dnr.maryland.gov/publiclands/Pa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20008,
+				"friends_count": 1166,
+				"listed_count": 386,
+				"created_at": "Fri Nov 20 20:17:44 +0000 2009",
+				"favourites_count": 861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6070,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C5135",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892419250035490817/MSTMyqaU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892419250035490817/MSTMyqaU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/91416716/1554199322",
+				"profile_link_color": "37BA74",
+				"profile_sidebar_border_color": "C2BAC2",
+				"profile_sidebar_fill_color": "302530",
+				"profile_text_color": "D4C8D4",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 147,
+			"favorite_count": 249,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maryland State Parks beaches are also now closed indefinitely. Ocean City had already closed its beaches too https://t.co/MOGarHKF4T"
+	},
+	{
+		"created_at": "Sat Mar 28 20:04:04 +0000 2020",
+		"id": 1243941762982383600,
+		"id_str": "1243992271101575168",
+		"full_text": "National Park Service in the greater DC area is now closing parts of parks including\nVisitor centers \nCampgrounds  \nPlaygrounds  \nPicnic areas  \nParking lots \nRoads \nRestrooms \nDrinking water fountains \nRestaurants or other concession-operated facilities\nParks include: https://t.co/gAAAUyevin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243941758096081000,
+					"id_str": "1243941758096080897",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EUNecDSXgAE7o9l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUNecDSXgAE7o9l.jpg",
+					"url": "https://t.co/gAAAUyevin",
+					"display_url": "pic.twitter.com/gAAAUyevin",
+					"expanded_url": "https://twitter.com/amaxsmith/status/1243941762982383617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243941758096081000,
+					"id_str": "1243941758096080897",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EUNecDSXgAE7o9l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUNecDSXgAE7o9l.jpg",
+					"url": "https://t.co/gAAAUyevin",
+					"display_url": "pic.twitter.com/gAAAUyevin",
+					"expanded_url": "https://twitter.com/amaxsmith/status/1243941762982383617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44951698,
+			"id_str": "44951698",
+			"name": "Max Smith",
+			"screen_name": "amaxsmith",
+			"location": "Washington, DC",
+			"description": "Reporter, Anchor, Editor @WTOP; sports fan, GW alum. Tweeting what I'm covering & other interesting stories. @SarahKarlin used to envy how many followers I had",
+			"url": "http://t.co/7Q41aqOe4t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Q41aqOe4t",
+							"expanded_url": "http://wtop.com",
+							"display_url": "wtop.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7555,
+			"friends_count": 5406,
+			"listed_count": 341,
+			"created_at": "Fri Jun 05 17:57:40 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "224245",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077252431606468608/M99in3RQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077252431606468608/M99in3RQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44951698/1351375328",
+			"profile_link_color": "4E93E6",
+			"profile_sidebar_border_color": "3CB3E6",
+			"profile_sidebar_fill_color": "B4EDC1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "National Park Service in the greater DC area is now closing parts of parks including\nVisitor centers \nCampgrounds  \nPlaygrounds  \nPicnic areas  \nParking lots \nRoads \nRestrooms \nDrinking water fountains \nRestaurants or other concession-operated facilities\nParks include: https://t.co/gAAAUyevin"
+	},
+	{
+		"created_at": "Sat Mar 28 12:28:58 +0000 2020",
+		"id": 1243877744108286000,
+		"id_str": "1243877744108285953",
+		"full_text": "@BodCons @ilikeoldbooks @CamUniLibrarian Dharker also has this one from her Cambridge residency—it’s very a propos “When the copperplate cracks” https://t.co/RoMtbKdwU4",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BodCons",
+					"name": "BodleianConservation",
+					"id": 717370367149535200,
+					"id_str": "717370367149535232",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ilikeoldbooks",
+					"name": "Daryl Green",
+					"id": 2753413456,
+					"id_str": "2753413456",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"screen_name": "CamUniLibrarian",
+					"name": "Jessica Gardner",
+					"id": 926174606553174000,
+					"id_str": "926174606553174016",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243877737699385300,
+					"id_str": "1243877737699385344",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EUMkNkuWoAA1jjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUMkNkuWoAA1jjt.jpg",
+					"url": "https://t.co/RoMtbKdwU4",
+					"display_url": "pic.twitter.com/RoMtbKdwU4",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1243877744108285953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 2022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243877737699385300,
+					"id_str": "1243877737699385344",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EUMkNkuWoAA1jjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUMkNkuWoAA1jjt.jpg",
+					"url": "https://t.co/RoMtbKdwU4",
+					"display_url": "pic.twitter.com/RoMtbKdwU4",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1243877744108285953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 2022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1243853332193726500,
+		"in_reply_to_status_id_str": "1243853332193726464",
+		"in_reply_to_user_id": 717370367149535200,
+		"in_reply_to_user_id_str": "717370367149535232",
+		"in_reply_to_screen_name": "BodCons",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 392,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BodCons @ilikeoldbooks @CamUniLibrarian Dharker also has this one from her Cambridge residency—it’s very a propos “When the copperplate cracks” https://t.co/RoMtbKdwU4"
+	},
+	{
+		"created_at": "Sat Mar 28 12:24:33 +0000 2020",
+		"id": 1243876632500285400,
+		"id_str": "1243876632500285440",
+		"full_text": "A lovely thread and thank you to Katie for calling this one out... attn @hels @luciascans @matthewharrison #DrunkPoems https://t.co/koEvcuvk8s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DrunkPoems",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"screen_name": "luciascans",
+					"name": "lucia martinez valdivia",
+					"id": 18755105,
+					"id_str": "18755105",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"screen_name": "matthewharrison",
+					"name": "Matthew Harrison",
+					"id": 15462844,
+					"id_str": "15462844",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/koEvcuvk8s",
+					"expanded_url": "https://twitter.com/exitthelemming/status/1243088991693529093",
+					"display_url": "twitter.com/exitthelemming…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 392,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243088991693529000,
+		"quoted_status_id_str": "1243088991693529093",
+		"quoted_status_permalink": {
+			"url": "https://t.co/koEvcuvk8s",
+			"expanded": "https://twitter.com/exitthelemming/status/1243088991693529093",
+			"display": "twitter.com/exitthelemming…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 26 08:14:45 +0000 2020",
+			"id": 1243088991693529000,
+			"id_str": "1243088991693529093",
+			"full_text": "26 Disobedience by A A Milne #StayAtHome\n#PandemicPoems\n\nhttps://t.co/2KiHJDlm3K https://t.co/2x5LjQP9nv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StayAtHome",
+						"indices": [
+							29,
+							40
+						]
+					},
+					{
+						"text": "PandemicPoems",
+						"indices": [
+							41,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2KiHJDlm3K",
+						"expanded_url": "https://soundcloud.com/user-115260978/26-disobedience-by-a-a-milne",
+						"display_url": "soundcloud.com/user-115260978…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1243088959586087000,
+						"id_str": "1243088959586086912",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/EUBW0pRWsAA45nX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUBW0pRWsAA45nX.jpg",
+						"url": "https://t.co/2x5LjQP9nv",
+						"display_url": "pic.twitter.com/2x5LjQP9nv",
+						"expanded_url": "https://twitter.com/exitthelemming/status/1243088991693529093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 951,
+								"h": 619,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 951,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1243088959586087000,
+						"id_str": "1243088959586086912",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/EUBW0pRWsAA45nX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUBW0pRWsAA45nX.jpg",
+						"url": "https://t.co/2x5LjQP9nv",
+						"display_url": "pic.twitter.com/2x5LjQP9nv",
+						"expanded_url": "https://twitter.com/exitthelemming/status/1243088991693529093/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 951,
+								"h": 619,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 951,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1243088385733996500,
+			"in_reply_to_status_id_str": "1243088385733996544",
+			"in_reply_to_user_id": 19533512,
+			"in_reply_to_user_id_str": "19533512",
+			"in_reply_to_screen_name": "exitthelemming",
+			"user": {
+				"id": 19533512,
+				"id_str": "19533512",
+				"name": "Samuel West",
+				"screen_name": "exitthelemming",
+				"location": "Peregrinating",
+				"description": "Often actor, sometimes director, always geek",
+				"url": "https://t.co/FnHvoGWjkv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FnHvoGWjkv",
+								"expanded_url": "http://vimeo.com/202037691",
+								"display_url": "vimeo.com/202037691",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59089,
+				"friends_count": 4133,
+				"listed_count": 644,
+				"created_at": "Mon Jan 26 13:25:42 +0000 2009",
+				"favourites_count": 37376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53665,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F3313",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950351661456920577/cRgOaFnS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950351661456920577/cRgOaFnS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19533512/1585336305",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "272727",
+				"profile_text_color": "897193",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lovely thread and thank you to Katie for calling this one out... attn @hels @luciascans @matthewharrison #DrunkPoems https://t.co/koEvcuvk8s"
+	},
+	{
 		"created_at": "Fri Mar 27 23:54:15 +0000 2020",
 		"id": 1243687809426301000,
 		"id_str": "1243687809426300928",
