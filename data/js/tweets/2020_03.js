@@ -1,6 +1,1356 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 01:49:56 +0000 2020",
+		"id": 1244804086249242600,
+		"id_str": "1244804086249242625",
+		"full_text": "@BooksOnGaming Thanks! I was so delighted when I saw it",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BooksOnGaming",
+					"name": "David Levy",
+					"id": 339077083,
+					"id_str": "339077083",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1244802840465305600,
+		"in_reply_to_status_id_str": "1244802840465305600",
+		"in_reply_to_user_id": 339077083,
+		"in_reply_to_user_id_str": "339077083",
+		"in_reply_to_screen_name": "BooksOnGaming",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 391,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BooksOnGaming Thanks! I was so delighted when I saw it"
+	},
+	{
+		"created_at": "Mon Mar 30 21:02:46 +0000 2020",
+		"id": 1244704182713671700,
+		"id_str": "1244731819708252161",
+		"full_text": "Hey professors / instructors of book history / library science / whatever currently staring down filling an entire online semester, I am happy to make myself available to discuss the rare book trade, archives, duplication, or similar for your class. Refs available. DM me.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6522942,
+			"id_str": "6522942",
+			"name": "Brian Cassidy",
+			"screen_name": "briancassidy",
+			"location": "Washington DC",
+			"description": "Rare book & archives dealer. Co-founder @typepunchmatrix. Faculty @bookseminars & @rarebookschool. Member @abaa49. Lapsed poet. Commodifying print since 2004.",
+			"url": "https://t.co/I6vI8tVyVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I6vI8tVyVn",
+							"expanded_url": "http://www.briancassidy.net",
+							"display_url": "briancassidy.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1984,
+			"friends_count": 729,
+			"listed_count": 64,
+			"created_at": "Sat Jun 02 14:01:10 +0000 2007",
+			"favourites_count": 2447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213572535842828288/vIlESa8J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213572535842828288/vIlESa8J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6522942/1578233354",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "161715",
+			"profile_sidebar_fill_color": "FDFFFA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey professors / instructors of book history / library science / whatever currently staring down filling an entire online semester, I am happy to make myself available to discuss the rare book trade, archives, duplication, or similar for your class. Refs available. DM me."
+	},
+	{
+		"created_at": "Mon Mar 30 15:46:04 +0000 2020",
+		"id": 1244649871719702500,
+		"id_str": "1244652120726528001",
+		"full_text": "Yes: if you hire a domestic worker and have the means, PLEASE continue to pay them through this crisis.\n\nSo many families rely on domestic work to survive. My mom cleaned houses to put me through college as my dad went through cancer treatment.\n\nYour $ keeps a family fed &amp;housed. https://t.co/3liiWa41rV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3liiWa41rV",
+					"expanded_url": "https://twitter.com/clintsmithiii/status/1244628315425603586",
+					"display_url": "twitter.com/clintsmithiii/…",
+					"indices": [
+						285,
+						308
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138203134,
+			"id_str": "138203134",
+			"name": "Alexandria Ocasio-Cortez",
+			"screen_name": "AOC",
+			"location": "Bronx + Queens, NYC",
+			"description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. 💯% People-Funded, no lobbyist💰. She/her.",
+			"url": "https://t.co/BYjH4stRnI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BYjH4stRnI",
+							"expanded_url": "http://www.Ocasio2018.com/",
+							"display_url": "Ocasio2018.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6668137,
+			"friends_count": 2265,
+			"listed_count": 16786,
+			"created_at": "Wed Apr 28 22:38:40 +0000 2010",
+			"favourites_count": 22380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244628315425603600,
+		"quoted_status_id_str": "1244628315425603586",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3liiWa41rV",
+			"expanded": "https://twitter.com/clintsmithiii/status/1244628315425603586",
+			"display": "twitter.com/clintsmithiii/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 30 14:11:29 +0000 2020",
+			"id": 1244628315425603600,
+			"id_str": "1244628315425603586",
+			"full_text": "This point has been made but it's worth repeating: if you have someone who usually cleans your house, if you have someone who usually mows your lawn, if you have someone who watches your children you should, if you have the means, continue to pay that person. Especially now.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 472587261,
+				"id_str": "472587261",
+				"name": "Clint Smith",
+				"screen_name": "ClintSmithIII",
+				"location": "",
+				"description": "Writer. Teacher. Emerson Fellow @NewAmerica. PhD Candidate @Harvard. Author of Counting Descent.",
+				"url": "https://t.co/v22BrldDuy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v22BrldDuy",
+								"expanded_url": "http://www.clintsmithiii.com",
+								"display_url": "clintsmithiii.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 324710,
+				"friends_count": 1806,
+				"listed_count": 3327,
+				"created_at": "Tue Jan 24 03:09:01 +0000 2012",
+				"favourites_count": 27395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1024852566230876167/fujyAlLB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024852566230876167/fujyAlLB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/472587261/1573127350",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3963,
+			"favorite_count": 22665,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3525,
+		"favorite_count": 20069,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes: if you hire a domestic worker and have the means, PLEASE continue to pay them through this crisis.\n\nSo many families rely on domestic work to survive. My mom cleaned houses to put me through college as my dad went through cancer treatment.\n\nYour $ keeps a family fed &amp;housed. https://t.co/3liiWa41rV"
+	},
+	{
+		"created_at": "Mon Mar 30 15:45:53 +0000 2020",
+		"id": 1244652072445841400,
+		"id_str": "1244652072445841408",
+		"full_text": "@kzwa divorce boom seems a distinct possibility tbh",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kzwa",
+					"name": "Kate Zwaard",
+					"id": 74541831,
+					"id_str": "74541831",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1244651732119900200,
+		"in_reply_to_status_id_str": "1244651732119900160",
+		"in_reply_to_user_id": 74541831,
+		"in_reply_to_user_id_str": "74541831",
+		"in_reply_to_screen_name": "kzwa",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 391,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kzwa divorce boom seems a distinct possibility tbh"
+	},
+	{
+		"created_at": "Mon Mar 30 14:53:50 +0000 2020",
+		"id": 1244638805367369700,
+		"id_str": "1244638974825594881",
+		"full_text": "Follow @2020Homeschool to keep up with free free free synchronous classes for kids during COVID closure!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2020Homeschool",
+					"name": "Homeschool Cooperative 2020",
+					"id": 1244351455265534000,
+					"id_str": "1244351455265533952",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14089871,
+			"id_str": "14089871",
+			"name": "Emily Drabinski",
+			"screen_name": "edrabinski",
+			"location": "Brooklyn",
+			"description": "Reader, writer. Librarian, pedestrian. Temporary Top Dog @cunyGClibrary. Gender & Sexuality editor @LibJuicePress. Organize your workplace.",
+			"url": "https://t.co/Qei3aTD744",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qei3aTD744",
+							"expanded_url": "http://www.emilydrabinski.com",
+							"display_url": "emilydrabinski.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12567,
+			"friends_count": 3676,
+			"listed_count": 444,
+			"created_at": "Thu Mar 06 17:04:36 +0000 2008",
+			"favourites_count": 76544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/570397199118569474/jxtbNsZm_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/570397199118569474/jxtbNsZm_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14089871/1422498406",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Follow @2020Homeschool to keep up with free free free synchronous classes for kids during COVID closure!"
+	},
+	{
+		"created_at": "Mon Mar 30 14:52:07 +0000 2020",
+		"id": 1244638542887870500,
+		"id_str": "1244638542887870465",
+		"full_text": "@DrLeonJ @SHARPorg @mkirschenbaum lol np! Glad the piece is helpful.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLeonJ",
+					"name": "Leon",
+					"id": 85937241,
+					"id_str": "85937241",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SHARPorg",
+					"name": "SHARP",
+					"id": 132462715,
+					"id_str": "132462715",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "mkirschenbaum",
+					"name": "Matthew Kirschenbaum",
+					"id": 13598262,
+					"id_str": "13598262",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1244634533103841300,
+		"in_reply_to_status_id_str": "1244634533103841281",
+		"in_reply_to_user_id": 85937241,
+		"in_reply_to_user_id_str": "85937241",
+		"in_reply_to_screen_name": "DrLeonJ",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 391,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrLeonJ @SHARPorg @mkirschenbaum lol np! Glad the piece is helpful."
+	},
+	{
+		"created_at": "Mon Mar 30 13:34:43 +0000 2020",
+		"id": 1243601934180892700,
+		"id_str": "1244619063973892096",
+		"full_text": "I’m trying to retool my u/g #bookhistory-media history course on the fly to help my students explore how covid has impacted our use of media (print or digital). Are there any editorials, essays, or hot takes online that ppl might recommend? @SHARPorg? @mkirschenbaum?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bookhistory",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHARPorg",
+					"name": "SHARP",
+					"id": 132462715,
+					"id_str": "132462715",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"screen_name": "mkirschenbaum",
+					"name": "Matthew Kirschenbaum",
+					"id": 13598262,
+					"id_str": "13598262",
+					"indices": [
+						252,
+						266
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85937241,
+			"id_str": "85937241",
+			"name": "Leon",
+			"screen_name": "DrLeonJ",
+			"location": "",
+			"description": "Associate Professor of English - Book History / Yoga / Cats / Kindness. He/Him/His",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 975,
+			"listed_count": 42,
+			"created_at": "Wed Oct 28 23:05:08 +0000 2009",
+			"favourites_count": 23629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216164171483680773/51Jfd46e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216164171483680773/51Jfd46e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85937241/1570241896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m trying to retool my u/g #bookhistory-media history course on the fly to help my students explore how covid has impacted our use of media (print or digital). Are there any editorials, essays, or hot takes online that ppl might recommend? @SHARPorg? @mkirschenbaum?"
+	},
+	{
+		"created_at": "Mon Mar 30 13:34:31 +0000 2020",
+		"id": 1244619012056789000,
+		"id_str": "1244619012056788996",
+		"full_text": "@DrLeonJ @SHARPorg @mkirschenbaum Is this piece in today’s WaPo helpful? I love this idea for retooling but am struggling to think of anything I’ve seen that fits https://t.co/CRsp2r8NSQ",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLeonJ",
+					"name": "Leon",
+					"id": 85937241,
+					"id_str": "85937241",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SHARPorg",
+					"name": "SHARP",
+					"id": 132462715,
+					"id_str": "132462715",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "mkirschenbaum",
+					"name": "Matthew Kirschenbaum",
+					"id": 13598262,
+					"id_str": "13598262",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CRsp2r8NSQ",
+					"expanded_url": "https://www.washingtonpost.com/local/education/teens-are-discovering-a-cure-for-coronavirus-anxiety-walks-no-phones-allowed/2020/03/26/ca2e36ba-6c40-11ea-aa80-c2470c6b2034_story.html",
+					"display_url": "washingtonpost.com/local/educatio…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1243601934180892700,
+		"in_reply_to_status_id_str": "1243601934180892672",
+		"in_reply_to_user_id": 85937241,
+		"in_reply_to_user_id_str": "85937241",
+		"in_reply_to_screen_name": "DrLeonJ",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 391,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrLeonJ @SHARPorg @mkirschenbaum Is this piece in today’s WaPo helpful? I love this idea for retooling but am struggling to think of anything I’ve seen that fits https://t.co/CRsp2r8NSQ"
+	},
+	{
+		"created_at": "Mon Mar 30 13:23:30 +0000 2020",
+		"id": 1244529250016919600,
+		"id_str": "1244616239575638017",
+		"full_text": "A reminder that Instacart workers are supposed to be striking today for better work conditions, so please don’t order from there today. \n\nDon’t cross the picket line! Take that long walk if you are able to do so!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21418443,
+			"id_str": "21418443",
+			"name": "Camonghne Felix",
+			"screen_name": "CAMONGHNE",
+			"location": "South Bronx ",
+			"description": "Surrogates Comms & Black Media @ewarren. author, ur bff, lit overall. Alum: @MsFoundation, @BerlinRosen,  etc. BUILD YOURSELF A BOAT (@HaymarketBooks) 🐍 🩸 🦷",
+			"url": "https://t.co/BFFfKiFVef",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BFFfKiFVef",
+							"expanded_url": "https://www.haymarketbooks.org/books/1274-build-yourself-a-boat",
+							"display_url": "haymarketbooks.org/books/1274-bui…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14245,
+			"friends_count": 2762,
+			"listed_count": 174,
+			"created_at": "Fri Feb 20 18:11:45 +0000 2009",
+			"favourites_count": 70975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151123391031762945/Zd5O96FX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151123391031762945/Zd5O96FX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21418443/1557041856",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "D966B8",
+			"profile_sidebar_fill_color": "ADED7C",
+			"profile_text_color": "E03E97",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 884,
+		"favorite_count": 2290,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A reminder that Instacart workers are supposed to be striking today for better work conditions, so please don’t order from there today. \n\nDon’t cross the picket line! Take that long walk if you are able to do so!"
+	},
+	{
+		"created_at": "Mon Mar 30 03:32:37 +0000 2020",
+		"id": 1244467539297648600,
+		"id_str": "1244467539297648641",
+		"full_text": "attn @colindickey and anyone else who has any advice on how to stop hearing this",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colindickey",
+					"name": "A Feast for Dermestids",
+					"id": 23352131,
+					"id_str": "23352131",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1244467388684394500,
+		"in_reply_to_status_id_str": "1244467388684394497",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 391,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "attn @colindickey and anyone else who has any advice on how to stop hearing this"
+	},
+	{
+		"created_at": "Mon Mar 30 03:32:01 +0000 2020",
+		"id": 1244467388684394500,
+		"id_str": "1244467388684394497",
+		"full_text": "Day whatever of whatever and The Hum that has always been audible from my bedroom is getting worse and worse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 391,
+			"listed_count": 393,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 26242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Day whatever of whatever and The Hum that has always been audible from my bedroom is getting worse and worse"
+	},
+	{
 		"created_at": "Sun Mar 29 22:44:45 +0000 2020",
 		"id": 1244395096877011000,
 		"id_str": "1244395096877010948",
