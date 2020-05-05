@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 23:00:20 +0000 2020",
+		"id": 1257444981217857500,
+		"id_str": "1257444981217857538",
+		"full_text": "@LibColleen @mazarines @arkhamlibrarian @PyewacketBooks This is a big big critique I had, too, and is so consistent with the exclusionary world it portrays (with the valiant exceptions of a few of the speakers)",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibColleen",
+					"name": "Colleen Theisen 📚",
+					"id": 194605722,
+					"id_str": "194605722",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "arkhamlibrarian",
+					"name": "Rebecca Baumann",
+					"id": 2820003021,
+					"id_str": "2820003021",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "PyewacketBooks",
+					"name": "Bryn",
+					"id": 971492318808236000,
+					"id_str": "971492318808236032",
+					"indices": [
+						40,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1257443709823697000,
+		"in_reply_to_status_id_str": "1257443709823696898",
+		"in_reply_to_user_id": 194605722,
+		"in_reply_to_user_id_str": "194605722",
+		"in_reply_to_screen_name": "LibColleen",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9232,
+			"friends_count": 393,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LibColleen @mazarines @arkhamlibrarian @PyewacketBooks This is a big big critique I had, too, and is so consistent with the exclusionary world it portrays (with the valiant exceptions of a few of the speakers)"
+	},
+	{
+		"created_at": "Mon May 04 21:25:42 +0000 2020",
+		"id": 1257414830220337200,
+		"id_str": "1257421164382650369",
+		"full_text": "Thank you, @PulitzerPrizes. The honor belongs to Henrietta Wood. I'm stunned but so grateful that more will hear of her story. https://t.co/YENVnrAd1s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PulitzerPrizes",
+					"name": "The Pulitzer Prizes",
+					"id": 2909713155,
+					"id_str": "2909713155",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YENVnrAd1s",
+					"expanded_url": "https://twitter.com/PulitzerPrizes/status/1257389231049191424",
+					"display_url": "twitter.com/PulitzerPrizes…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80871603,
+			"id_str": "80871603",
+			"name": "Caleb McDaniel",
+			"screen_name": "wcaleb",
+			"location": "Houston, TX",
+			"description": "Historian @RiceUniversity. Author of “Sweet Taste of Liberty: A True Story of Slavery & Restitution in America” (@OUPHistory). Creator of @Every3Minutes.",
+			"url": "https://t.co/puM5c2Zkzr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/puM5c2Zkzr",
+							"expanded_url": "http://wcaleb.org",
+							"display_url": "wcaleb.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6805,
+			"friends_count": 850,
+			"listed_count": 285,
+			"created_at": "Thu Oct 08 15:22:58 +0000 2009",
+			"favourites_count": 10026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110189131890601984/b7fF3E6b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110189131890601984/b7fF3E6b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80871603/1562949869",
+			"profile_link_color": "AA0000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257389231049191400,
+		"quoted_status_id_str": "1257389231049191424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YENVnrAd1s",
+			"expanded": "https://twitter.com/PulitzerPrizes/status/1257389231049191424",
+			"display": "twitter.com/PulitzerPrizes…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 04 19:18:48 +0000 2020",
+			"id": 1257389231049191400,
+			"id_str": "1257389231049191424",
+			"full_text": "Congratulations to W. Caleb McDaniel [@wcaleb], @OxUniPress and @RiceUniversity. #Pulitzer https://t.co/ylmMpcvsHp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Pulitzer",
+						"indices": [
+							81,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wcaleb",
+						"name": "Caleb McDaniel",
+						"id": 80871603,
+						"id_str": "80871603",
+						"indices": [
+							38,
+							45
+						]
+					},
+					{
+						"screen_name": "OxUniPress",
+						"name": "Oxford Uni Press",
+						"id": 4156957588,
+						"id_str": "4156957588",
+						"indices": [
+							48,
+							59
+						]
+					},
+					{
+						"screen_name": "RiceUniversity",
+						"name": "Rice University",
+						"id": 19720630,
+						"id_str": "19720630",
+						"indices": [
+							64,
+							79
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1257389131816226800,
+						"id_str": "1257389131816226818",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EXMkwOJX0AI9zmB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXMkwOJX0AI9zmB.jpg",
+						"url": "https://t.co/ylmMpcvsHp",
+						"display_url": "pic.twitter.com/ylmMpcvsHp",
+						"expanded_url": "https://twitter.com/PulitzerPrizes/status/1257389231049191424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1257389131816226800,
+						"id_str": "1257389131816226818",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EXMkwOJX0AI9zmB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXMkwOJX0AI9zmB.jpg",
+						"url": "https://t.co/ylmMpcvsHp",
+						"display_url": "pic.twitter.com/ylmMpcvsHp",
+						"expanded_url": "https://twitter.com/PulitzerPrizes/status/1257389231049191424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 335,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2909713155,
+				"id_str": "2909713155",
+				"name": "The Pulitzer Prizes",
+				"screen_name": "PulitzerPrizes",
+				"location": "New York, NY",
+				"description": "It's our 104th year honoring excellence in journalism and the arts. Visit us on https://t.co/BQwd3mR2wG #Pulitzer",
+				"url": "https://t.co/svcBTH9EFQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/svcBTH9EFQ",
+								"expanded_url": "http://Pulitzer.org",
+								"display_url": "Pulitzer.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BQwd3mR2wG",
+								"expanded_url": "http://pulitzer.org",
+								"display_url": "pulitzer.org",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63026,
+				"friends_count": 903,
+				"listed_count": 869,
+				"created_at": "Sun Dec 07 19:36:54 +0000 2014",
+				"favourites_count": 20992,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/685174334726475776/q701tUCU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/685174334726475776/q701tUCU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2909713155/1491408179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 170,
+			"favorite_count": 631,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 150,
+		"favorite_count": 1300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, @PulitzerPrizes. The honor belongs to Henrietta Wood. I'm stunned but so grateful that more will hear of her story. https://t.co/YENVnrAd1s"
+	},
+	{
+		"created_at": "Mon May 04 21:25:18 +0000 2020",
+		"id": 1257421066005348400,
+		"id_str": "1257421066005348354",
+		"full_text": "@wcaleb @PulitzerPrizes So many congratulations!!",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wcaleb",
+					"name": "Caleb McDaniel",
+					"id": 80871603,
+					"id_str": "80871603",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "PulitzerPrizes",
+					"name": "The Pulitzer Prizes",
+					"id": 2909713155,
+					"id_str": "2909713155",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1257414830220337200,
+		"in_reply_to_status_id_str": "1257414830220337155",
+		"in_reply_to_user_id": 80871603,
+		"in_reply_to_user_id_str": "80871603",
+		"in_reply_to_screen_name": "wcaleb",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9232,
+			"friends_count": 393,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wcaleb @PulitzerPrizes So many congratulations!!"
+	},
+	{
+		"created_at": "Mon May 04 21:22:16 +0000 2020",
+		"id": 1257420300758782000,
+		"id_str": "1257420300758781952",
+		"full_text": "@c_perry Oh Curtis! I so much like seeing you here. Be well.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_perry",
+					"name": "((Curtis Perry)))",
+					"id": 53241810,
+					"id_str": "53241810",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1257299193091285000,
+		"in_reply_to_status_id_str": "1257299193091284995",
+		"in_reply_to_user_id": 53241810,
+		"in_reply_to_user_id_str": "53241810",
+		"in_reply_to_screen_name": "c_perry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9232,
+			"friends_count": 393,
+			"listed_count": 392,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@c_perry Oh Curtis! I so much like seeing you here. Be well."
+	},
+	{
 		"created_at": "Sun May 03 23:49:04 +0000 2020",
 		"id": 1257094859439116300,
 		"id_str": "1257094859439116295",
