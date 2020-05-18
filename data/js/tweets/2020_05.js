@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 20:15:09 +0000 2020",
+		"id": 1262114454726213600,
+		"id_str": "1262114454726213638",
+		"full_text": "@slstalter @friede I use Tropy a ton, but primarily for tracking images for my book site, so I’m not really connecting it with other software, sorry, but it has been a godsend.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slstalter",
+					"name": "Sunny Stalter-Pace",
+					"id": 217951321,
+					"id_str": "217951321",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "friede",
+					"name": "Dr. Emily Friedman",
+					"id": 12237542,
+					"id_str": "12237542",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262108956270432300,
+		"in_reply_to_status_id_str": "1262108956270432258",
+		"in_reply_to_user_id": 217951321,
+		"in_reply_to_user_id_str": "217951321",
+		"in_reply_to_screen_name": "slstalter",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9256,
+			"friends_count": 394,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@slstalter @friede I use Tropy a ton, but primarily for tracking images for my book site, so I’m not really connecting it with other software, sorry, but it has been a godsend."
+	},
+	{
+		"created_at": "Sun May 17 15:29:02 +0000 2020",
+		"id": 1262042451893784600,
+		"id_str": "1262042451893784579",
+		"full_text": "Hmmmm this would explain why I find so many of those quotes so banal https://t.co/2yCKorlGQW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2yCKorlGQW",
+					"expanded_url": "https://twitter.com/persianpoetics/status/1261745279860080641",
+					"display_url": "twitter.com/persianpoetics…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9256,
+			"friends_count": 394,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261745279860080600,
+		"quoted_status_id_str": "1261745279860080641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2yCKorlGQW",
+			"expanded": "https://twitter.com/persianpoetics/status/1261745279860080641",
+			"display": "twitter.com/persianpoetics…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 16 19:48:11 +0000 2020",
+			"id": 1261745279860080600,
+			"id_str": "1261745279860080641",
+			"full_text": "Thread: The Orientalizing of Moulana Rumi\n\nMany of you may be familiar with the 'Rumi quotes' that circulate the internet. What if I told you the vast majority of them are fake and they are part of a project to secularize Rumi? This isn't a whatsapp conspiracy. https://t.co/qQFQBq9RTl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1261745241729781800,
+						"id_str": "1261745241729781762",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/EYKenMJX0AIVZLJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYKenMJX0AIVZLJ.jpg",
+						"url": "https://t.co/qQFQBq9RTl",
+						"display_url": "pic.twitter.com/qQFQBq9RTl",
+						"expanded_url": "https://twitter.com/PersianPoetics/status/1261745279860080641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1261745241729781800,
+						"id_str": "1261745241729781762",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/EYKenMJX0AIVZLJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYKenMJX0AIVZLJ.jpg",
+						"url": "https://t.co/qQFQBq9RTl",
+						"display_url": "pic.twitter.com/qQFQBq9RTl",
+						"expanded_url": "https://twitter.com/PersianPoetics/status/1261745279860080641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1144941213268791300,
+				"id_str": "1144941213268791296",
+				"name": "Persian Poetics",
+				"screen_name": "PersianPoetics",
+				"location": "Detroit, Michigan",
+				"description": "by @sharghzadeh #rumiwasmuslim\nAccurately translating Persian poetry.\nhttps://t.co/PbECefe7a9\nhttps://t.co/09kr4NOHRT\nSupport this project via patreon 🔽",
+				"url": "https://t.co/PdBvztOmaI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PdBvztOmaI",
+								"expanded_url": "http://patreon.com/persianpoetics",
+								"display_url": "patreon.com/persianpoetics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PbECefe7a9",
+								"expanded_url": "http://persianpoetics.com",
+								"display_url": "persianpoetics.com",
+								"indices": [
+									70,
+									93
+								]
+							},
+							{
+								"url": "https://t.co/09kr4NOHRT",
+								"expanded_url": "http://instagram.com/persianpoetics",
+								"display_url": "instagram.com/persianpoetics",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7704,
+				"friends_count": 1,
+				"listed_count": 25,
+				"created_at": "Sat Jun 29 12:10:32 +0000 2019",
+				"favourites_count": 583,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144941372652359680/-ub_eZtg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144941372652359680/-ub_eZtg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144941213268791296/1587015662",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14204,
+			"favorite_count": 29848,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hmmmm this would explain why I find so many of those quotes so banal https://t.co/2yCKorlGQW"
+	},
+	{
 		"created_at": "Sun May 17 01:40:01 +0000 2020",
 		"id": 1261833821844111400,
 		"id_str": "1261833821844111365",
