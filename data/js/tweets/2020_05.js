@@ -1,6 +1,1417 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 21:05:17 +0000 2020",
+		"id": 1262851845296439300,
+		"id_str": "1262851845296439298",
+		"full_text": "@aholub they are the worst museum and run by the worst people",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aholub",
+					"name": "Annie Holub",
+					"id": 29752651,
+					"id_str": "29752651",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1262851699565187000,
+		"in_reply_to_status_id_str": "1262851699565187072",
+		"in_reply_to_user_id": 29752651,
+		"in_reply_to_user_id_str": "29752651",
+		"in_reply_to_screen_name": "aholub",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9262,
+			"friends_count": 394,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aholub they are the worst museum and run by the worst people"
+	},
+	{
+		"created_at": "Tue May 19 16:29:51 +0000 2020",
+		"id": 1262782529544892400,
+		"id_str": "1262782529544892418",
+		"full_text": "@e_stanf Oooh exciting!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "e_stanf",
+					"name": "Emma Stanford",
+					"id": 2826764941,
+					"id_str": "2826764941",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262779268846637000,
+		"in_reply_to_status_id_str": "1262779268846637056",
+		"in_reply_to_user_id": 2826764941,
+		"in_reply_to_user_id_str": "2826764941",
+		"in_reply_to_screen_name": "e_stanf",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9262,
+			"friends_count": 394,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@e_stanf Oooh exciting!"
+	},
+	{
+		"created_at": "Tue May 19 16:10:27 +0000 2020",
+		"id": 1262777647853179000,
+		"id_str": "1262777647853178881",
+		"full_text": "I’m super excited about #SHARPinFocus and can’t wait to share the plans for it—it’ll be a great way to stay connected and learn #bookhistory when we can’t see each other in person. https://t.co/Imyb0kgytX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHARPinFocus",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"text": "bookhistory",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Imyb0kgytX",
+					"expanded_url": "https://twitter.com/sharporg/status/1262772473608757248",
+					"display_url": "twitter.com/sharporg/statu…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9262,
+			"friends_count": 394,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262772473608757200,
+		"quoted_status_id_str": "1262772473608757248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Imyb0kgytX",
+			"expanded": "https://twitter.com/sharporg/status/1262772473608757248",
+			"display": "twitter.com/sharporg/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 19 15:49:53 +0000 2020",
+			"id": 1262772473608757200,
+			"id_str": "1262772473608757248",
+			"full_text": "Coming soon! #SHARPinFocus, a week of virtual #bookhistory running June 14-19. There will be book talk, pedagogy brainstorming, book launches, a peek at the new SHARP News, and of course our annual meeting and awards ceremony. Save these dates and spread the news!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SHARPinFocus",
+						"indices": [
+							13,
+							26
+						]
+					},
+					{
+						"text": "bookhistory",
+						"indices": [
+							46,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 132462715,
+				"id_str": "132462715",
+				"name": "SHARP",
+				"screen_name": "SHARPorg",
+				"location": "",
+				"description": "The Society for the History of Authorship, Reading and Publishing: a global network for book historians working in a broad range of scholarly disciplines.",
+				"url": "http://t.co/bcLxqk9C3G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bcLxqk9C3G",
+								"expanded_url": "http://www.sharpweb.org",
+								"display_url": "sharpweb.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5444,
+				"friends_count": 459,
+				"listed_count": 130,
+				"created_at": "Tue Apr 13 09:07:17 +0000 2010",
+				"favourites_count": 1016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132462715/1419168394",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m super excited about #SHARPinFocus and can’t wait to share the plans for it—it’ll be a great way to stay connected and learn #bookhistory when we can’t see each other in person. https://t.co/Imyb0kgytX"
+	},
+	{
+		"created_at": "Tue May 19 16:07:44 +0000 2020",
+		"id": 1262773308984111000,
+		"id_str": "1262776963590172678",
+		"full_text": "We'll also be hosting a series of coffeehouses with the SHARP Executive Council to learn from each other what our organization can do better. We'll finish the week with #SharpFriday. A full announcement of #SHARPinFocus events will be on our website &amp; shared here soon-stay tuned!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SharpFriday",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "SHARPinFocus",
+					"indices": [
+						206,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262772473608757200,
+		"in_reply_to_status_id_str": "1262772473608757248",
+		"in_reply_to_user_id": 132462715,
+		"in_reply_to_user_id_str": "132462715",
+		"in_reply_to_screen_name": "SHARPorg",
+		"user": {
+			"id": 132462715,
+			"id_str": "132462715",
+			"name": "SHARP",
+			"screen_name": "SHARPorg",
+			"location": "",
+			"description": "The Society for the History of Authorship, Reading and Publishing: a global network for book historians working in a broad range of scholarly disciplines.",
+			"url": "http://t.co/bcLxqk9C3G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bcLxqk9C3G",
+							"expanded_url": "http://www.sharpweb.org",
+							"display_url": "sharpweb.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5444,
+			"friends_count": 459,
+			"listed_count": 130,
+			"created_at": "Tue Apr 13 09:07:17 +0000 2010",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132462715/1419168394",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We'll also be hosting a series of coffeehouses with the SHARP Executive Council to learn from each other what our organization can do better. We'll finish the week with #SharpFriday. A full announcement of #SHARPinFocus events will be on our website &amp; shared here soon-stay tuned!"
+	},
+	{
+		"created_at": "Tue May 19 16:07:38 +0000 2020",
+		"id": 1262772473608757200,
+		"id_str": "1262776942010523649",
+		"full_text": "Coming soon! #SHARPinFocus, a week of virtual #bookhistory running June 14-19. There will be book talk, pedagogy brainstorming, book launches, a peek at the new SHARP News, and of course our annual meeting and awards ceremony. Save these dates and spread the news!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHARPinFocus",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"text": "bookhistory",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132462715,
+			"id_str": "132462715",
+			"name": "SHARP",
+			"screen_name": "SHARPorg",
+			"location": "",
+			"description": "The Society for the History of Authorship, Reading and Publishing: a global network for book historians working in a broad range of scholarly disciplines.",
+			"url": "http://t.co/bcLxqk9C3G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bcLxqk9C3G",
+							"expanded_url": "http://www.sharpweb.org",
+							"display_url": "sharpweb.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5444,
+			"friends_count": 459,
+			"listed_count": 130,
+			"created_at": "Tue Apr 13 09:07:17 +0000 2010",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/819383189/sharp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132462715/1419168394",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Coming soon! #SHARPinFocus, a week of virtual #bookhistory running June 14-19. There will be book talk, pedagogy brainstorming, book launches, a peek at the new SHARP News, and of course our annual meeting and awards ceremony. Save these dates and spread the news!"
+	},
+	{
+		"created_at": "Tue May 19 15:26:22 +0000 2020",
+		"id": 1262702002968166400,
+		"id_str": "1262766554267160576",
+		"full_text": "During photography the deep spine needed lots of padding for support. Here’s my colleague testing the opening angle to work out the best way to image it safely. We’ve since made spine pillows perfect for flexible bindings like this ☁️ https://t.co/Z2HrkEUhBs https://t.co/9pUMs4pN69",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z2HrkEUhBs",
+					"expanded_url": "https://twitter.com/blprintheritage/status/1262690114603560960",
+					"display_url": "twitter.com/blprintheritag…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262701675627843600,
+					"id_str": "1262701675627843586",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EYYEe-EWkAI5m_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYYEe-EWkAI5m_9.jpg",
+					"url": "https://t.co/9pUMs4pN69",
+					"display_url": "pic.twitter.com/9pUMs4pN69",
+					"expanded_url": "https://twitter.com/japollard86/status/1262702002968166400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 706,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262701675627843600,
+					"id_str": "1262701675627843586",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EYYEe-EWkAI5m_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYYEe-EWkAI5m_9.jpg",
+					"url": "https://t.co/9pUMs4pN69",
+					"display_url": "pic.twitter.com/9pUMs4pN69",
+					"expanded_url": "https://twitter.com/japollard86/status/1262702002968166400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 706,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2235245465,
+			"id_str": "2235245465",
+			"name": "Jessica Pollard",
+			"screen_name": "japollard86",
+			"location": "",
+			"description": "Digitisation conservator at the British Library #HeritageMadeDigital (all views my own) All photos my own except retweets https://t.co/Eq4QvjRet7",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Eq4QvjRet7",
+							"expanded_url": "http://Instagram.com/mini_museum",
+							"display_url": "Instagram.com/mini_museum",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2484,
+			"friends_count": 901,
+			"listed_count": 58,
+			"created_at": "Fri Dec 20 19:45:46 +0000 2013",
+			"favourites_count": 9883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/811668384681230336/QQV7nUSq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/811668384681230336/QQV7nUSq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2235245465/1490990414",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262690114603561000,
+		"quoted_status_id_str": "1262690114603560960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z2HrkEUhBs",
+			"expanded": "https://twitter.com/blprintheritage/status/1262690114603560960",
+			"display": "twitter.com/blprintheritag…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 19 10:22:37 +0000 2020",
+			"id": 1262690114603561000,
+			"id_str": "1262690114603560960",
+			"full_text": "19 May 1536: Anne Boleyn, wife of Henry VIII, was beheaded. She brought William Tyndale's heretical works to her husband's attention, influencing the Reformation. Anne Boleyn's copy of Tyndale's New Testament is held @britishlibrary “Anna Regina Angliæ” painted on the gilt edges https://t.co/ReTy7OB287",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "britishlibrary",
+						"name": "The British Library",
+						"id": 21744554,
+						"id_str": "21744554",
+						"indices": [
+							217,
+							232
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262688319504355300,
+						"id_str": "1262688319504355328",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EYX4VioXkAA4u9w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYX4VioXkAA4u9w.jpg",
+						"url": "https://t.co/ReTy7OB287",
+						"display_url": "pic.twitter.com/ReTy7OB287",
+						"expanded_url": "https://twitter.com/BLprintheritage/status/1262690114603560960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 799,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 999,
+								"h": 1500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262688319504355300,
+						"id_str": "1262688319504355328",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EYX4VioXkAA4u9w.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYX4VioXkAA4u9w.jpg",
+						"url": "https://t.co/ReTy7OB287",
+						"display_url": "pic.twitter.com/ReTy7OB287",
+						"expanded_url": "https://twitter.com/BLprintheritage/status/1262690114603560960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 799,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 999,
+								"h": 1500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1262689070788026400,
+						"id_str": "1262689070788026368",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EYX5BRYWoAAeasq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYX5BRYWoAAeasq.jpg",
+						"url": "https://t.co/ReTy7OB287",
+						"display_url": "pic.twitter.com/ReTy7OB287",
+						"expanded_url": "https://twitter.com/BLprintheritage/status/1262690114603560960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1014,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 575,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1268,
+								"h": 1500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1262689167319974000,
+						"id_str": "1262689167319973889",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EYX5G4_XQAE0poS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYX5G4_XQAE0poS.jpg",
+						"url": "https://t.co/ReTy7OB287",
+						"display_url": "pic.twitter.com/ReTy7OB287",
+						"expanded_url": "https://twitter.com/BLprintheritage/status/1262690114603560960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 427,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 943,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 754,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1262689254444011500,
+						"id_str": "1262689254444011521",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EYX5L9jWkAEP_KZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYX5L9jWkAEP_KZ.jpg",
+						"url": "https://t.co/ReTy7OB287",
+						"display_url": "pic.twitter.com/ReTy7OB287",
+						"expanded_url": "https://twitter.com/BLprintheritage/status/1262690114603560960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 571,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1007,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1259,
+								"h": 1500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1092687948523454500,
+				"id_str": "1092687948523454464",
+				"name": "BL printed heritage",
+				"screen_name": "BLprintheritage",
+				"location": "London, England",
+				"description": "Western printed heritage collections @ the British Library (bio-pic: woodcut, “showing how to make a glorious Light with a candle like the Sun-shine” 1036.c.6)",
+				"url": "https://t.co/ABDAwX7Bio",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ABDAwX7Bio",
+								"expanded_url": "https://www.bl.uk/subjects/printed-books",
+								"display_url": "bl.uk/subjects/print…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2812,
+				"friends_count": 678,
+				"listed_count": 31,
+				"created_at": "Tue Feb 05 07:34:42 +0000 2019",
+				"favourites_count": 3474,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2673,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092687948523454464/1549401221",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "During photography the deep spine needed lots of padding for support. Here’s my colleague testing the opening angle to work out the best way to image it safely. We’ve since made spine pillows perfect for flexible bindings like this ☁️ https://t.co/Z2HrkEUhBs https://t.co/9pUMs4pN69"
+	},
+	{
+		"created_at": "Tue May 19 14:03:20 +0000 2020",
+		"id": 1262745660031303700,
+		"id_str": "1262745660031303682",
+		"full_text": "@mazarines At least I’ll have a nice, functioning yard when it’s done. The neighbors just get noise.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262744957015621600,
+		"in_reply_to_status_id_str": "1262744957015621633",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9262,
+			"friends_count": 394,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines At least I’ll have a nice, functioning yard when it’s done. The neighbors just get noise."
+	},
+	{
+		"created_at": "Tue May 19 13:59:23 +0000 2020",
+		"id": 1262744664433504300,
+		"id_str": "1262744664433504256",
+		"full_text": "@mazarines I am having a huge long-planned landscaping project going on, and just about every type of loud noise—including eventually jackhammers to break up my concrete driveway—is scheduled at my house for the next three weeks. I want to cry.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262744242599809000,
+		"in_reply_to_status_id_str": "1262744242599809028",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, facsimiles, libraries | Studying Early Printed Books 1450-1800: A Practical Guide | https://t.co/cLyPOSZTtQ | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cLyPOSZTtQ",
+							"expanded_url": "http://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9262,
+			"friends_count": 394,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines I am having a huge long-planned landscaping project going on, and just about every type of loud noise—including eventually jackhammers to break up my concrete driveway—is scheduled at my house for the next three weeks. I want to cry."
+	},
+	{
 		"created_at": "Tue May 19 00:32:14 +0000 2020",
 		"id": 1262541538204233700,
 		"id_str": "1262541538204233729",
