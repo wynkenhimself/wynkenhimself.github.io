@@ -1,6 +1,847 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 01:54:04 +0000 2020",
+		"id": 1272346605639909400,
+		"id_str": "1272346605639909376",
+		"full_text": "@meganlcook omg just went to see what’s up and wow",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1272343569186119700,
+		"in_reply_to_status_id_str": "1272343569186119684",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9291,
+			"friends_count": 404,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook omg just went to see what’s up and wow"
+	},
+	{
+		"created_at": "Sun Jun 14 22:09:21 +0000 2020",
+		"id": 1272280137447420000,
+		"id_str": "1272290051838402561",
+		"full_text": "Tomorrow (6/15) at 4pm EST! Register to attend by emailing SHARPinfocus[at]sharpweb[dot]org #BookHistory #SHARPinFocus #SHARPNews https://t.co/F8RMZONgkY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BookHistory",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "SHARPinFocus",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"text": "SHARPNews",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F8RMZONgkY",
+					"expanded_url": "https://twitter.com/NoraSlonimsky/status/1271545289778872321",
+					"display_url": "twitter.com/NoraSlonimsky/…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22214241,
+			"id_str": "22214241",
+			"name": "Andie Silva",
+			"screen_name": "andiesilva",
+			"location": "York College/CUNY",
+			"description": "early modern literature; digital humanities; book history; pop culture. Author of _The Brand of Print_ Opinions are mine. she/her/hers",
+			"url": "https://t.co/zM9UKX2ScU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zM9UKX2ScU",
+							"expanded_url": "https://brill.com/view/title/55831",
+							"display_url": "brill.com/view/title/558…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971,
+			"friends_count": 578,
+			"listed_count": 28,
+			"created_at": "Sat Feb 28 01:15:08 +0000 2009",
+			"favourites_count": 6753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224911293469077505/lArJs664_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224911293469077505/lArJs664_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22214241/1469545227",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271545289778872300,
+		"quoted_status_id_str": "1271545289778872321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F8RMZONgkY",
+			"expanded": "https://twitter.com/NoraSlonimsky/status/1271545289778872321",
+			"display": "twitter.com/NoraSlonimsky/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 12 20:49:55 +0000 2020",
+			"id": 1271545289778872300,
+			"id_str": "1271545289778872321",
+			"full_text": "Really looking forward to #SHARPinFocus and the chance to chat with @CorinnaNoRue @andiesilva about some new looks (and team members) for #SHARPNews. Have your coffee (or really tea) ready, and in the meantime, let us know if you have ideas and suggestions ⬇️ https://t.co/gkbounoeGO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SHARPinFocus",
+						"indices": [
+							26,
+							39
+						]
+					},
+					{
+						"text": "SHARPNews",
+						"indices": [
+							138,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CorinnaNoRue",
+						"name": "Corinna Norrick-Rühl",
+						"id": 1329069636,
+						"id_str": "1329069636",
+						"indices": [
+							68,
+							81
+						]
+					},
+					{
+						"screen_name": "andiesilva",
+						"name": "Andie Silva",
+						"id": 22214241,
+						"id_str": "22214241",
+						"indices": [
+							82,
+							93
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1271545284678606800,
+						"id_str": "1271545284678606848",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/EaVvsxEXYAAtjwQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaVvsxEXYAAtjwQ.jpg",
+						"url": "https://t.co/gkbounoeGO",
+						"display_url": "pic.twitter.com/gkbounoeGO",
+						"expanded_url": "https://twitter.com/NoraSlonimsky/status/1271545289778872321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 926,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1576,
+								"h": 1216,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271545284678606800,
+						"id_str": "1271545284678606848",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/EaVvsxEXYAAtjwQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaVvsxEXYAAtjwQ.jpg",
+						"url": "https://t.co/gkbounoeGO",
+						"display_url": "pic.twitter.com/gkbounoeGO",
+						"expanded_url": "https://twitter.com/NoraSlonimsky/status/1271545289778872321/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 926,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1576,
+								"h": 1216,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1547907332,
+				"id_str": "1547907332",
+				"name": "Nora Slonimsky",
+				"screen_name": "NoraSlonimsky",
+				"location": "New York, NY",
+				"description": "History, tea, and Star Wars enthusiast. Aspiring hat aficionado. Director and assistant professor @TheITPS Social media editor @TheJERPano Writes on copyrights.",
+				"url": "https://t.co/0WrSajvriy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0WrSajvriy",
+								"expanded_url": "https://www.hamiltonsolo.com",
+								"display_url": "hamiltonsolo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1041,
+				"friends_count": 762,
+				"listed_count": 37,
+				"created_at": "Wed Jun 26 10:54:17 +0000 2013",
+				"favourites_count": 6807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2485,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7B2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958103090263183361/7JJec-SV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958103090263183361/7JJec-SV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1547907332/1423746111",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow (6/15) at 4pm EST! Register to attend by emailing SHARPinfocus[at]sharpweb[dot]org #BookHistory #SHARPinFocus #SHARPNews https://t.co/F8RMZONgkY"
+	},
+	{
+		"created_at": "Sun Jun 14 21:29:22 +0000 2020",
+		"id": 1272279990055374800,
+		"id_str": "1272279990055374850",
+		"full_text": "@vcmcguire !!!!!! Virtually sending you all that and love",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vcmcguire",
+					"name": "Claire",
+					"id": 18105922,
+					"id_str": "18105922",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1272215527973322800,
+		"in_reply_to_status_id_str": "1272215527973322752",
+		"in_reply_to_user_id": 18105922,
+		"in_reply_to_user_id_str": "18105922",
+		"in_reply_to_screen_name": "vcmcguire",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9291,
+			"friends_count": 404,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vcmcguire !!!!!! Virtually sending you all that and love"
+	},
+	{
+		"created_at": "Sun Jun 14 16:15:56 +0000 2020",
+		"id": 1272201114637742000,
+		"id_str": "1272201114637742085",
+		"full_text": "And don't forget that Black writers write joyful fiction! Speculative fiction! Poetry! Plays! Romances! Mysteries! Cookbooks! Literally any genre you can think of! Brit Bennet's newest is at the top of the fiction list; add some more names to it! #BlackoutBestsellerList",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackoutBestsellerList",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272198918701490200,
+		"in_reply_to_status_id_str": "1272198918701490176",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9291,
+			"friends_count": 404,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And don't forget that Black writers write joyful fiction! Speculative fiction! Poetry! Plays! Romances! Mysteries! Cookbooks! Literally any genre you can think of! Brit Bennet's newest is at the top of the fiction list; add some more names to it! #BlackoutBestsellerList"
+	},
+	{
+		"created_at": "Sun Jun 14 16:10:09 +0000 2020",
+		"id": 1272199658778083300,
+		"id_str": "1272199658778083343",
+		"full_text": "@vcmcguire AAA of course",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vcmcguire",
+					"name": "Claire",
+					"id": 18105922,
+					"id_str": "18105922",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1272149208255156200,
+		"in_reply_to_status_id_str": "1272149208255156226",
+		"in_reply_to_user_id": 18105922,
+		"in_reply_to_user_id_str": "18105922",
+		"in_reply_to_screen_name": "vcmcguire",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9291,
+			"friends_count": 404,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 27792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vcmcguire AAA of course"
+	},
+	{
 		"created_at": "Sat Jun 13 23:50:47 +0000 2020",
 		"id": 1271953192323108900,
 		"id_str": "1271953192323108864",
@@ -3078,7 +3919,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Sat Jun 13 09:56:29 +0000 2020",
 		"id": 1271743232234397700,
 		"id_str": "1271743232234397697",
-		"full_text": "@rebeccaonion @roseveleth I agree!! I mean, if you get a full tuition waiver and a stipend, the right program could make a lot of sense for you. What makes PhD programs suck usually is the expectation that the degree will get you a job. But since you know how to freelance already 🤷‍♀️",
+		"full_text": "@rebeccaonion @roseveleth I agree!! I mean, if you get a full tuition waiver and a stipend, the right program could make a lot of sense for you. What makes PhD programs suck usually is the expectation that the degree will get you a job. But since you know how to freelance already 🤷♀️",
 		"truncated": false,
 		"display_text_range": [
 			26,
@@ -3207,7 +4048,7 @@ Grailbird.data.tweets_2020_06 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@rebeccaonion @roseveleth I agree!! I mean, if you get a full tuition waiver and a stipend, the right program could make a lot of sense for you. What makes PhD programs suck usually is the expectation that the degree will get you a job. But since you know how to freelance already 🤷‍♀️"
+		"text": "@rebeccaonion @roseveleth I agree!! I mean, if you get a full tuition waiver and a stipend, the right program could make a lot of sense for you. What makes PhD programs suck usually is the expectation that the degree will get you a job. But since you know how to freelance already 🤷♀️"
 	},
 	{
 		"created_at": "Sat Jun 13 09:53:44 +0000 2020",
