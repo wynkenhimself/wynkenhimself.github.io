@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 01:35:37 +0000 2020",
+		"id": 1279522328083419100,
+		"id_str": "1279589717932224519",
+		"full_text": "The tall metal fence barring access to the White House is back up on the Fourth of July. \n\nBut the crowd-sourced artwork honoring black lives lost at the hands of police went back up just as fast. In time for Independence Day, the memorial wall has returned: https://t.co/MrH5Spg5Jy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279522262350168000,
+					"id_str": "1279522262350168066",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279522262350168066/pu/img/KbXqbQurRpD1SC6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279522262350168066/pu/img/KbXqbQurRpD1SC6y.jpg",
+					"url": "https://t.co/MrH5Spg5Jy",
+					"display_url": "pic.twitter.com/MrH5Spg5Jy",
+					"expanded_url": "https://twitter.com/hannah_natanson/status/1279522328083419137/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279522262350168000,
+					"id_str": "1279522262350168066",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279522262350168066/pu/img/KbXqbQurRpD1SC6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279522262350168066/pu/img/KbXqbQurRpD1SC6y.jpg",
+					"url": "https://t.co/MrH5Spg5Jy",
+					"display_url": "pic.twitter.com/MrH5Spg5Jy",
+					"expanded_url": "https://twitter.com/hannah_natanson/status/1279522328083419137/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32595,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1279522262350168066/pu/pl/XSo4mexuZstSfmc4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279522262350168066/pu/vid/1280x720/sZg9ihMB7UTZlOsf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279522262350168066/pu/vid/640x360/px6fOixM4MC1acau.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1279522262350168066/pu/vid/480x270/RwxF8p7Pedxx0F64.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4562090896,
+			"id_str": "4562090896",
+			"name": "Hannah Natanson",
+			"screen_name": "hannah_natanson",
+			"location": "Washington, D.C.",
+			"description": "Reporter for The Washington Post covering education and K-12 schools in Virginia. | 📩: hannah.natanson@washpost.com",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20559,
+			"friends_count": 919,
+			"listed_count": 242,
+			"created_at": "Mon Dec 21 23:55:38 +0000 2015",
+			"favourites_count": 2953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230175493556785153/7N5IRm08_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230175493556785153/7N5IRm08_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4562090896/1588596930",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The tall metal fence barring access to the White House is back up on the Fourth of July. \n\nBut the crowd-sourced artwork honoring black lives lost at the hands of police went back up just as fast. In time for Independence Day, the memorial wall has returned: https://t.co/MrH5Spg5Jy"
+	},
+	{
+		"created_at": "Sat Jul 04 21:40:10 +0000 2020",
+		"id": 1279523040909500400,
+		"id_str": "1279530466849193984",
+		"full_text": "An Independence Day thread: When I was a residency librarian at a large prestigious university, I curated an exhibition on abolitionism. I chose Frederick Douglass’ image and quote from his speech “What to the Slave is the 4th of July” to place on one of the promotional banners.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 897658519666610200,
+			"id_str": "897658519666610176",
+			"name": "Petrina Jackson",
+			"screen_name": "PetrinaJackso",
+			"location": "United States",
+			"description": "Archivist, storyteller, and lover of black history",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 784,
+			"friends_count": 832,
+			"listed_count": 23,
+			"created_at": "Wed Aug 16 03:17:23 +0000 2017",
+			"favourites_count": 27774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983860352621469697/NleIoAGk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983860352621469697/NleIoAGk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/897658519666610176/1523405561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "An Independence Day thread: When I was a residency librarian at a large prestigious university, I curated an exhibition on abolitionism. I chose Frederick Douglass’ image and quote from his speech “What to the Slave is the 4th of July” to place on one of the promotional banners."
+	},
+	{
 		"created_at": "Fri Jul 03 20:38:28 +0000 2020",
 		"id": 1279144114567745500,
 		"id_str": "1279152553528262658",
@@ -1901,7 +2188,7 @@ Grailbird.data.tweets_2020_07 =
 				"name": "TyLisa C. Johnson",
 				"screen_name": "tylisawrites",
 				"location": "Pittsburgh, PA",
-				"description": "Doing the work.🕵🏽‍♀️ Education reporter @publicsourcePA •#FAMUalumna•author•Words in @businessinsider, @phillyinquirer, @dallasnews, @tb_times+etc",
+				"description": "Doing the work.🕵🏽♀️ Education reporter @publicsourcePA •#FAMUalumna•author•Words in @businessinsider, @phillyinquirer, @dallasnews, @tb_times+etc",
 				"url": "https://t.co/yw3vf4yywc",
 				"entities": {
 					"url": {
@@ -2105,7 +2392,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Fri Jul 03 15:55:42 +0000 2020",
 		"id": 1279081389414060000,
 		"id_str": "1279081389414060032",
-		"full_text": "I just stocked up for the impending post-holiday virus wave and am now both exhausted and super wired 🤷‍♀️",
+		"full_text": "I just stocked up for the impending post-holiday virus wave and am now both exhausted and super wired 🤷♀️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2213,7 +2500,7 @@ Grailbird.data.tweets_2020_07 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "I just stocked up for the impending post-holiday virus wave and am now both exhausted and super wired 🤷‍♀️"
+		"text": "I just stocked up for the impending post-holiday virus wave and am now both exhausted and super wired 🤷♀️"
 	},
 	{
 		"created_at": "Fri Jul 03 15:54:29 +0000 2020",
