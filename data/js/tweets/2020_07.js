@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 01:33:51 +0000 2020",
+		"id": 1280676440879640600,
+		"id_str": "1280676440879640576",
+		"full_text": "@amndw2 Oof, such a great movie",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amndw2",
+					"name": "Amanda Watson",
+					"id": 11840312,
+					"id_str": "11840312",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280674589744513000,
+		"in_reply_to_status_id_str": "1280674589744513026",
+		"in_reply_to_user_id": 11840312,
+		"in_reply_to_user_id_str": "11840312",
+		"in_reply_to_screen_name": "amndw2",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9334,
+			"friends_count": 414,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 28498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amndw2 Oof, such a great movie"
+	},
+	{
+		"created_at": "Tue Jul 07 21:09:41 +0000 2020",
+		"id": 1280512289695830000,
+		"id_str": "1280609959391223808",
+		"full_text": "Update from @routledgebooks about Imtiaz Habib's important monograph: it should be available in paperback mid-August \n$38.95\n£29.99\nThank you @PollyDodsonLit @MichelleSalyga @routledgebooks for listening to Twitter https://t.co/frrFbCHNte https://t.co/5cwp9SVHAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "routledgebooks",
+					"name": "Routledge Books",
+					"id": 67060449,
+					"id_str": "67060449",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "PollyDodsonLit",
+					"name": "Polly Dodson",
+					"id": 1045301410324197400,
+					"id_str": "1045301410324197377",
+					"indices": [
+						142,
+						157
+					]
+				},
+				{
+					"screen_name": "MichelleSalyga",
+					"name": "Michelle Salyga",
+					"id": 1053340627084197900,
+					"id_str": "1053340627084197888",
+					"indices": [
+						158,
+						173
+					]
+				},
+				{
+					"screen_name": "routledgebooks",
+					"name": "Routledge Books",
+					"id": 67060449,
+					"id_str": "67060449",
+					"indices": [
+						174,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/frrFbCHNte",
+					"expanded_url": "https://twitter.com/routledgebooks/status/1280505243625816066",
+					"display_url": "twitter.com/routledgebooks…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280512286726160400,
+					"id_str": "1280512286726160387",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EcVLI-zWAAMyslw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcVLI-zWAAMyslw.jpg",
+					"url": "https://t.co/5cwp9SVHAG",
+					"display_url": "pic.twitter.com/5cwp9SVHAG",
+					"expanded_url": "https://twitter.com/earlymodatLancs/status/1280512289695830016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 461,
+							"h": 580,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 461,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 461,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280512286726160400,
+					"id_str": "1280512286726160387",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EcVLI-zWAAMyslw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcVLI-zWAAMyslw.jpg",
+					"url": "https://t.co/5cwp9SVHAG",
+					"display_url": "pic.twitter.com/5cwp9SVHAG",
+					"expanded_url": "https://twitter.com/earlymodatLancs/status/1280512289695830016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 461,
+							"h": 580,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 461,
+							"h": 580,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 461,
+							"h": 580,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124761131,
+			"id_str": "124761131",
+			"name": "Dr Liz Oakley-Brown #WearAMask 😷",
+			"screen_name": "earlymodatLancs",
+			"location": "Anywhere near books/music",
+			"description": "Educator. ED&I. Premodernist -Theory; Ovid; Outlaws; Surfaces; Premodern Gothic; 🐌Snails🐌\nMy personal views-not my employer's.\nRTs not an endorsement.\nshe/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5569,
+			"friends_count": 5491,
+			"listed_count": 75,
+			"created_at": "Sat Mar 20 13:34:38 +0000 2010",
+			"favourites_count": 100592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132305088528232448/plGhVkvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132305088528232448/plGhVkvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124761131/1575479883",
+			"profile_link_color": "004799",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280505243625816000,
+		"quoted_status_id_str": "1280505243625816066",
+		"quoted_status_permalink": {
+			"url": "https://t.co/frrFbCHNte",
+			"expanded": "https://twitter.com/routledgebooks/status/1280505243625816066",
+			"display": "twitter.com/routledgebooks…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 14:13:35 +0000 2020",
+			"id": 1280505243625816000,
+			"id_str": "1280505243625816066",
+			"full_text": "@earlymodatLancs Hi again,\n\nI've just received word that we should have a PB available for mid-August at $38.95/£29.99. Thank you for suggesting this!\n\nBest wishes,\nEleanor",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "earlymodatLancs",
+						"name": "Dr Liz Oakley-Brown #WearAMask 😷",
+						"id": 124761131,
+						"id_str": "124761131",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1279273327828316200,
+			"in_reply_to_status_id_str": "1279273327828316160",
+			"in_reply_to_user_id": 124761131,
+			"in_reply_to_user_id_str": "124761131",
+			"in_reply_to_screen_name": "earlymodatLancs",
+			"user": {
+				"id": 67060449,
+				"id_str": "67060449",
+				"name": "Routledge Books",
+				"screen_name": "routledgebooks",
+				"location": "Oxford, UK",
+				"description": "Publisher of Academic Books, Journals, eBooks, Textbooks, Media, Software, Reference and Online Learning Resources.",
+				"url": "http://t.co/pn6ru5XJFQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pn6ru5XJFQ",
+								"expanded_url": "http://routledge.com",
+								"display_url": "routledge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16195,
+				"friends_count": 3371,
+				"listed_count": 278,
+				"created_at": "Wed Aug 19 17:24:54 +0000 2009",
+				"favourites_count": 384,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6657,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2138BB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/370622152/rt-logo-sq_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/370622152/rt-logo-sq_normal.png",
+				"profile_link_color": "2138BB",
+				"profile_sidebar_border_color": "FFCC33",
+				"profile_sidebar_fill_color": "FFFF99",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 63,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Update from @routledgebooks about Imtiaz Habib's important monograph: it should be available in paperback mid-August \n$38.95\n£29.99\nThank you @PollyDodsonLit @MichelleSalyga @routledgebooks for listening to Twitter https://t.co/frrFbCHNte https://t.co/5cwp9SVHAG"
+	},
+	{
+		"created_at": "Tue Jul 07 15:01:15 +0000 2020",
+		"id": 1280517239800828000,
+		"id_str": "1280517239800827904",
+		"full_text": "@john_overholt not even doomscrolling and feeling all of that &lt;3",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_overholt",
+					"name": "John Overholt",
+					"id": 89477148,
+					"id_str": "89477148",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1280500288001056800,
+		"in_reply_to_status_id_str": "1280500288001056768",
+		"in_reply_to_user_id": 89477148,
+		"in_reply_to_user_id_str": "89477148",
+		"in_reply_to_screen_name": "john_overholt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9334,
+			"friends_count": 414,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 28498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@john_overholt not even doomscrolling and feeling all of that &lt;3"
+	},
+	{
 		"created_at": "Tue Jul 07 02:15:31 +0000 2020",
 		"id": 1280324535292698600,
 		"id_str": "1280324535292698624",
