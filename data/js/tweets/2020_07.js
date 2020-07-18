@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 22:47:01 +0000 2020",
+		"id": 1284136910068355000,
+		"id_str": "1284258333990551553",
+		"full_text": "Rare book librarians in MX seldom get credit for their work documenting the history of print in the New World. The Catálgo Colectivo de Marcas de Fuego, an open-source platform that annotates firebrands, is one of the most imp. efforts of recent yrs. \nhttps://t.co/0IDkHOSSSW. https://t.co/sG4WkM6bBZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0IDkHOSSSW",
+					"expanded_url": "http://catarina.udlap.mx/xmLibris/projects/firebrand/index.jsp",
+					"display_url": "catarina.udlap.mx/xmLibris/proje…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1284096893593821200,
+					"id_str": "1284096893593821187",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EdIHUj_XoAMs8CI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdIHUj_XoAMs8CI.jpg",
+					"url": "https://t.co/sG4WkM6bBZ",
+					"display_url": "pic.twitter.com/sG4WkM6bBZ",
+					"expanded_url": "https://twitter.com/thinmexduke/status/1284136910068355072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 624,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284096893593821200,
+					"id_str": "1284096893593821187",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EdIHUj_XoAMs8CI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdIHUj_XoAMs8CI.jpg",
+					"url": "https://t.co/sG4WkM6bBZ",
+					"display_url": "pic.twitter.com/sG4WkM6bBZ",
+					"expanded_url": "https://twitter.com/thinmexduke/status/1284136910068355072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 624,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1284096917954334700,
+					"id_str": "1284096917954334722",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EdIHV-vXkAIjhFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdIHV-vXkAIjhFR.jpg",
+					"url": "https://t.co/sG4WkM6bBZ",
+					"display_url": "pic.twitter.com/sG4WkM6bBZ",
+					"expanded_url": "https://twitter.com/thinmexduke/status/1284136910068355072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 279,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1284096954293788700,
+					"id_str": "1284096954293788673",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EdIHYGHXoAEL8QL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdIHYGHXoAEL8QL.png",
+					"url": "https://t.co/sG4WkM6bBZ",
+					"display_url": "pic.twitter.com/sG4WkM6bBZ",
+					"expanded_url": "https://twitter.com/thinmexduke/status/1284136910068355072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 267,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 267,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1284096994936529000,
+					"id_str": "1284096994936528897",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EdIHadhWoAEhC0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdIHadhWoAEhC0B.jpg",
+					"url": "https://t.co/sG4WkM6bBZ",
+					"display_url": "pic.twitter.com/sG4WkM6bBZ",
+					"expanded_url": "https://twitter.com/thinmexduke/status/1284136910068355072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 237,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 279,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794753884778532900,
+			"id_str": "794753884778532864",
+			"name": "Alex Hidalgo",
+			"screen_name": "thinmexduke",
+			"location": "Fort Worth, TX",
+			"description": "Associate Professor of Latin American History @TCU | Author of Trail of Footprints (@UTexasPress, 2019) | Rare books, sound, maps, images | Hecho en #Tijuana",
+			"url": "https://t.co/m34aeF0hrv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m34aeF0hrv",
+							"expanded_url": "http://alexhidalgo.weebly.com",
+							"display_url": "alexhidalgo.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1039,
+			"friends_count": 1465,
+			"listed_count": 13,
+			"created_at": "Sat Nov 05 04:11:06 +0000 2016",
+			"favourites_count": 4586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266735872441044993/VcNizIZ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266735872441044993/VcNizIZ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794753884778532864/1582984399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 212,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rare book librarians in MX seldom get credit for their work documenting the history of print in the New World. The Catálgo Colectivo de Marcas de Fuego, an open-source platform that annotates firebrands, is one of the most imp. efforts of recent yrs. \nhttps://t.co/0IDkHOSSSW. https://t.co/sG4WkM6bBZ"
+	},
+	{
+		"created_at": "Fri Jul 17 16:43:41 +0000 2020",
+		"id": 1284166898222010400,
+		"id_str": "1284166898222010369",
+		"full_text": "@_theBrownprint_ It's true of many rare books spaces, but the Folger was always.... noticeable that the soundscape shifts from Black conversational-level voices on your first entrance with the guards, and then once you're in the library proper, largely white very quiet voices",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_theBrownprint_",
+					"name": "dSTERLINGb",
+					"id": 1004461165597089800,
+					"id_str": "1004461165597089792",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1284150065695797200,
+		"in_reply_to_status_id_str": "1284150065695797249",
+		"in_reply_to_user_id": 1004461165597089800,
+		"in_reply_to_user_id_str": "1004461165597089792",
+		"in_reply_to_screen_name": "_theBrownprint_",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9360,
+			"friends_count": 415,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 28723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_theBrownprint_ It's true of many rare books spaces, but the Folger was always.... noticeable that the soundscape shifts from Black conversational-level voices on your first entrance with the guards, and then once you're in the library proper, largely white very quiet voices"
+	},
+	{
 		"created_at": "Thu Jul 16 23:36:42 +0000 2020",
 		"id": 1283902514975453200,
 		"id_str": "1283908445863895041",
