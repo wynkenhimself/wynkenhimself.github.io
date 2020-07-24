@@ -1,6 +1,1047 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 24 01:09:08 +0000 2020",
+		"id": 1286409234712854500,
+		"id_str": "1286468422914789376",
+		"full_text": "The @NatlParkService is hiring public humanities postdocs to research history, memory, and commemoration to help advance a more inclusive 250th Anniversary. Great opportunity in Philadelphia. https://t.co/szNp2QrJkm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NatlParkService",
+					"name": "National Park Service",
+					"id": 36771809,
+					"id_str": "36771809",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/szNp2QrJkm",
+					"expanded_url": "https://www.h-net.org/jobs/job_display.php?id=60239",
+					"display_url": "h-net.org/jobs/job_displ…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38340838,
+			"id_str": "38340838",
+			"name": "John Garrison Marks",
+			"screen_name": "johngmarks",
+			"location": "Nashville, TN",
+			"description": "Historian. *Black Freedom in the Age of Slavery* (Oct. 2020, @USCPress) Senior Manager, Strategic Initiatives @AASLH. #twitterstorian, triathlete. Views mine.",
+			"url": "https://t.co/NNbNLiSOys",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NNbNLiSOys",
+							"expanded_url": "http://johngmarks.com",
+							"display_url": "johngmarks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2077,
+			"friends_count": 1350,
+			"listed_count": 71,
+			"created_at": "Thu May 07 02:06:26 +0000 2009",
+			"favourites_count": 2974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262888886503604224/9z3b6O3Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262888886503604224/9z3b6O3Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38340838/1590776452",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @NatlParkService is hiring public humanities postdocs to research history, memory, and commemoration to help advance a more inclusive 250th Anniversary. Great opportunity in Philadelphia. https://t.co/szNp2QrJkm"
+	},
+	{
+		"created_at": "Fri Jul 24 01:05:58 +0000 2020",
+		"id": 1286467627968340000,
+		"id_str": "1286467627968339968",
+		"full_text": "@CapitolClio So intense!! I’m loving it actually",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CapitolClio",
+					"name": "Meredith Hindley",
+					"id": 43453491,
+					"id_str": "43453491",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1286462978087321600,
+		"in_reply_to_status_id_str": "1286462978087321600",
+		"in_reply_to_user_id": 43453491,
+		"in_reply_to_user_id_str": "43453491",
+		"in_reply_to_screen_name": "CapitolClio",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9366,
+			"friends_count": 415,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 28923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CapitolClio So intense!! I’m loving it actually"
+	},
+	{
+		"created_at": "Fri Jul 24 00:45:49 +0000 2020",
+		"id": 1286450390251327500,
+		"id_str": "1286462557033844736",
+		"full_text": "“I LOVE ITTTT,” texted Kadija Ismail, a 17-year-old senior at the high school who is black. \n\nKimberly Boateng, another 17-year-old black senior, keeps picturing her diploma — which will bear Lewis's name, not Lee's. And that, she said, \"means dignity.\"\nhttps://t.co/JCUAEYZQKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JCUAEYZQKC",
+					"expanded_url": "https://www.washingtonpost.com/local/education/fairfax-county-renames-robert-e-lee-high-for-late-congressman-john-lewis/2020/07/23/0f0380ac-cd34-11ea-bc6a-6841b28d9093_story.html",
+					"display_url": "washingtonpost.com/local/educatio…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4562090896,
+			"id_str": "4562090896",
+			"name": "Hannah Natanson",
+			"screen_name": "hannah_natanson",
+			"location": "Washington, D.C.",
+			"description": "Reporter for The Washington Post covering education and K-12 schools in Virginia. | 📩: hannah.natanson@washpost.com",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20626,
+			"friends_count": 931,
+			"listed_count": 241,
+			"created_at": "Mon Dec 21 23:55:38 +0000 2015",
+			"favourites_count": 2967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230175493556785153/7N5IRm08_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230175493556785153/7N5IRm08_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4562090896/1588596930",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 420,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I LOVE ITTTT,” texted Kadija Ismail, a 17-year-old senior at the high school who is black. \n\nKimberly Boateng, another 17-year-old black senior, keeps picturing her diploma — which will bear Lewis's name, not Lee's. And that, she said, \"means dignity.\"\nhttps://t.co/JCUAEYZQKC"
+	},
+	{
+		"created_at": "Thu Jul 23 15:21:58 +0000 2020",
+		"id": 1286313729399939000,
+		"id_str": "1286320659841404928",
+		"full_text": "\"I am here because I have to show my parents that I am their daughter—and that they did not raise me to accept abuse from men,\" Rep. Alexandria Ocasio-Cortez says. https://t.co/U2UIEaCljG https://t.co/QruUJowrz9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U2UIEaCljG",
+					"expanded_url": "http://abcn.ws/2WNkFvB",
+					"display_url": "abcn.ws/2WNkFvB",
+					"indices": [
+						164,
+						187
+					]
+				},
+				{
+					"url": "https://t.co/QruUJowrz9",
+					"expanded_url": "https://twitter.com/ABC/status/1286313373924294656",
+					"display_url": "twitter.com/ABC/status/128…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1286313373924294700,
+		"in_reply_to_status_id_str": "1286313373924294656",
+		"in_reply_to_user_id": 28785486,
+		"in_reply_to_user_id_str": "28785486",
+		"in_reply_to_screen_name": "ABC",
+		"user": {
+			"id": 28785486,
+			"id_str": "28785486",
+			"name": "ABC News",
+			"screen_name": "ABC",
+			"location": "New York City / Worldwide",
+			"description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+			"url": "https://t.co/B4vihbwCGa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B4vihbwCGa",
+							"expanded_url": "https://abcnews.go.com/",
+							"display_url": "abcnews.go.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PKeobr4xt0",
+							"expanded_url": "http://instagram.com/abcnews",
+							"display_url": "instagram.com/abcnews",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/2ICEX6CuXd",
+							"expanded_url": "https://abcn.ws/tips",
+							"display_url": "abcn.ws/tips",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15784756,
+			"friends_count": 509,
+			"listed_count": 57590,
+			"created_at": "Sat Apr 04 12:40:32 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 310432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "6E8EB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1286313373924294700,
+		"quoted_status_id_str": "1286313373924294656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QruUJowrz9",
+			"expanded": "https://twitter.com/ABC/status/1286313373924294656",
+			"display": "twitter.com/ABC/status/128…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 23 14:53:01 +0000 2020",
+			"id": 1286313373924294700,
+			"id_str": "1286313373924294656",
+			"full_text": "Rep. Ocasio-Cortez: \"Mr. Yoho mentioned that he has a wife and two daughters. I am two years younger than Mr. Yoho's youngest daughter. I am someone's daughter, too. My father, thankfully, is not alive to see how Mr. Yoho treated his daughter.\" https://t.co/U2UIEaCljG https://t.co/kk701q80zW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U2UIEaCljG",
+						"expanded_url": "http://abcn.ws/2WNkFvB",
+						"display_url": "abcn.ws/2WNkFvB",
+						"indices": [
+							245,
+							268
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1286313331423432700,
+						"id_str": "1286313331423432705",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EdnnJ-dXYAA2hm7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdnnJ-dXYAA2hm7.jpg",
+						"url": "https://t.co/kk701q80zW",
+						"display_url": "pic.twitter.com/kk701q80zW",
+						"expanded_url": "https://twitter.com/ABC/status/1286313373924294656/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1286313331423432700,
+						"id_str": "1286313331423432705",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EdnnJ-dXYAA2hm7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdnnJ-dXYAA2hm7.jpg",
+						"url": "https://t.co/kk701q80zW",
+						"display_url": "pic.twitter.com/kk701q80zW",
+						"expanded_url": "https://twitter.com/ABC/status/1286313373924294656/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 81748,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1286313331423432705/pl/1yZAyLrn8w8sVSAY.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1286313331423432705/vid/480x480/KpuYz3a0OpVwDo_n.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1286313331423432705/vid/320x320/UFAK-j4KgiF9Pqw9.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1286313331423432705/vid/540x540/VUpJ2wbrMQG6yllr.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28785486,
+				"id_str": "28785486",
+				"name": "ABC News",
+				"screen_name": "ABC",
+				"location": "New York City / Worldwide",
+				"description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+				"url": "https://t.co/B4vihbwCGa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B4vihbwCGa",
+								"expanded_url": "https://abcnews.go.com/",
+								"display_url": "abcnews.go.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PKeobr4xt0",
+								"expanded_url": "http://instagram.com/abcnews",
+								"display_url": "instagram.com/abcnews",
+								"indices": [
+									77,
+									100
+								]
+							},
+							{
+								"url": "https://t.co/2ICEX6CuXd",
+								"expanded_url": "https://abcn.ws/tips",
+								"display_url": "abcn.ws/tips",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15784756,
+				"friends_count": 509,
+				"listed_count": 57590,
+				"created_at": "Sat Apr 04 12:40:32 +0000 2009",
+				"favourites_count": 32,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 310432,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6E8EB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32886,
+			"favorite_count": 129739,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2515,
+		"favorite_count": 12180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I am here because I have to show my parents that I am their daughter—and that they did not raise me to accept abuse from men,\" Rep. Alexandria Ocasio-Cortez says. https://t.co/U2UIEaCljG https://t.co/QruUJowrz9"
+	},
+	{
+		"created_at": "Thu Jul 23 13:45:54 +0000 2020",
+		"id": 1286296124912029700,
+		"id_str": "1286296484992999425",
+		"full_text": "Expecting the government to help you in the midst of a disaster. https://t.co/H98m7QARnh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H98m7QARnh",
+					"expanded_url": "https://twitter.com/AnaSamways/status/739636593200238592",
+					"display_url": "twitter.com/AnaSamways/sta…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143288666,
+			"id_str": "1143288666",
+			"name": "Librarianshipwreck",
+			"screen_name": "libshipwreck",
+			"location": "The Library",
+			"description": "\"More than machinery we need humanity.\" Librarian, PhD candidate, pessimistic utopian. History of tech, disasters, & doom-saying. Writing a dissertation on Y2K.",
+			"url": "https://t.co/YJYQBMO5AX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YJYQBMO5AX",
+							"expanded_url": "http://librarianshipwreck.wordpress.com",
+							"display_url": "librarianshipwreck.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18315,
+			"friends_count": 4000,
+			"listed_count": 395,
+			"created_at": "Sat Feb 02 20:06:43 +0000 2013",
+			"favourites_count": 82269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246076086544457728/8m1e8eHh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246076086544457728/8m1e8eHh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143288666/1569944806",
+			"profile_link_color": "A30C0C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 739636593200238600,
+		"quoted_status_id_str": "739636593200238592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H98m7QARnh",
+			"expanded": "https://twitter.com/AnaSamways/status/739636593200238592",
+			"display": "twitter.com/AnaSamways/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 06 01:54:40 +0000 2016",
+			"id": 739636593200238600,
+			"id_str": "739636593200238592",
+			"full_text": "What’s considered trashy if you're poor, but classy if you're rich?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34132496,
+				"id_str": "34132496",
+				"name": "Ana Samways",
+				"screen_name": "AnaSamways",
+				"location": "Auckland, NZ",
+				"description": "NZHerald's Sideswipe column and other stuff.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6973,
+				"friends_count": 1346,
+				"listed_count": 170,
+				"created_at": "Wed Apr 22 01:40:24 +0000 2009",
+				"favourites_count": 2227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11389,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEB2A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1246567872094072832/4-c1ZTSn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246567872094072832/4-c1ZTSn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34132496/1512583161",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2550,
+			"favorite_count": 12861,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Expecting the government to help you in the midst of a disaster. https://t.co/H98m7QARnh"
+	},
+	{
+		"created_at": "Thu Jul 23 02:57:15 +0000 2020",
+		"id": 1286133244229030000,
+		"id_str": "1286133244229029888",
+		"full_text": "@brimwats Yes, get a cat! They’re good for snuggles.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brimwats",
+					"name": "brian m. watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1286131268782940200,
+		"in_reply_to_status_id_str": "1286131268782940160",
+		"in_reply_to_user_id": 3131663476,
+		"in_reply_to_user_id_str": "3131663476",
+		"in_reply_to_screen_name": "brimwats",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9366,
+			"friends_count": 415,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 28923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brimwats Yes, get a cat! They’re good for snuggles."
+	},
+	{
 		"created_at": "Thu Jul 23 02:08:40 +0000 2020",
 		"id": 1286121018440986600,
 		"id_str": "1286121018440986625",
