@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 21:38:41 +0000 2020",
+		"id": 1289244991768821800,
+		"id_str": "1289314567625928704",
+		"full_text": "Please join @AprilHathcock, @edrabinski, and me for a conversation exploring the intersection of racism, capitalism, and libraries moderated by @daviserin and hosted by @mnylc.\n\nMonday, 08/10 at 4PM ET. Registration and details at https://t.co/Uhi3VYSW7t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AprilHathcock",
+					"name": "April for Black & Native Liberation",
+					"id": 3209949862,
+					"id_str": "3209949862",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "edrabinski",
+					"name": "Emily Drabinski",
+					"id": 14089871,
+					"id_str": "14089871",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "daviserin",
+					"name": "Davis",
+					"id": 9182012,
+					"id_str": "9182012",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"screen_name": "mnylc",
+					"name": "METROLibraryCouncil",
+					"id": 17195988,
+					"id_str": "17195988",
+					"indices": [
+						169,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Uhi3VYSW7t",
+					"expanded_url": "https://metro.org/event/racism-capitalism-and-libraries/",
+					"display_url": "metro.org/event/racism-c…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2155529736,
+			"id_str": "2155529736",
+			"name": "⚜ Books Not Bombs ⚜",
+			"screen_name": "saggiotipo",
+			"location": "VA",
+			"description": "“Dreaming while I’m wide awake” ↞@SoulRebels ❧ \n\"I try hard to do right, but I keep on doing wrong. Let me do my thing.\" ↞@hot8tyrus ❧\nWon’t bow down. Dunno how",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 487,
+			"friends_count": 615,
+			"listed_count": 8,
+			"created_at": "Fri Oct 25 19:48:32 +0000 2013",
+			"favourites_count": 47685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017899228385849344/aiDIbjsU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017899228385849344/aiDIbjsU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2155529736/1493682866",
+			"profile_link_color": "003366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please join @AprilHathcock, @edrabinski, and me for a conversation exploring the intersection of racism, capitalism, and libraries moderated by @daviserin and hosted by @mnylc.\n\nMonday, 08/10 at 4PM ET. Registration and details at https://t.co/Uhi3VYSW7t"
+	},
+	{
+		"created_at": "Fri Jul 31 16:20:35 +0000 2020",
+		"id": 1289234512342405000,
+		"id_str": "1289234512342405120",
+		"full_text": "@Ben_WT @medrenliza @ChrissieG14 @AdamSmy36314691 I’m sure it’d be locked up and printed as one block. Each lines ends perpendicular to another, so it’d be annoying but with rules not impossible. But registration that fine would be crazy time consuming because each sheet would have to precisely in place. It’s quite lovely!",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			324
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ben_WT",
+					"name": "Ben Wilkinson-Turnbull",
+					"id": 228332201,
+					"id_str": "228332201",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "medrenliza",
+					"name": "Liza Blake",
+					"id": 3308868142,
+					"id_str": "3308868142",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "ChrissieG14",
+					"name": "ChrissieG",
+					"id": 1151876877365186600,
+					"id_str": "1151876877365186560",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "AdamSmy36314691",
+					"name": "Adam Smyth",
+					"id": 1278711126847623200,
+					"id_str": "1278711126847623175",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1289221813243768800,
+		"in_reply_to_status_id_str": "1289221813243768833",
+		"in_reply_to_user_id": 228332201,
+		"in_reply_to_user_id_str": "228332201",
+		"in_reply_to_screen_name": "Ben_WT",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9386,
+			"friends_count": 415,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ben_WT @medrenliza @ChrissieG14 @AdamSmy36314691 I’m sure it’d be locked up and printed as one block. Each lines ends perpendicular to another, so it’d be annoying but with rules not impossible. But registration that fine would be crazy time consuming because each sheet would have to precisely in place. It’s quite lovely!"
+	},
+	{
+		"created_at": "Fri Jul 31 15:08:37 +0000 2020",
+		"id": 1289215067917938700,
+		"id_str": "1289216400435957760",
+		"full_text": "Delighted to announce the open access edition of #DataFeminism, by me and @kanarinka! Thanks to  @Publicreations and all of the folks at @pubpub and @mitpress for their help in getting the book online. https://t.co/TqaoVyvozl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DataFeminism",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kanarinka",
+					"name": "Catherine D'Ignazio",
+					"id": 15378754,
+					"id_str": "15378754",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"screen_name": "Publicreations",
+					"name": "Catherine Ahearn",
+					"id": 1618354729,
+					"id_str": "1618354729",
+					"indices": [
+						97,
+						112
+					]
+				},
+				{
+					"screen_name": "pubpub",
+					"name": "PubPub",
+					"id": 4622629702,
+					"id_str": "4622629702",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"screen_name": "mitpress",
+					"name": "MIT Press",
+					"id": 20774514,
+					"id_str": "20774514",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TqaoVyvozl",
+					"expanded_url": "https://data-feminism.mitpress.mit.edu/",
+					"display_url": "data-feminism.mitpress.mit.edu",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41824898,
+			"id_str": "41824898",
+			"name": "Lauren Klein",
+			"screen_name": "laurenfklein",
+			"location": "Atlanta, GA",
+			"description": "Digital humanities, data science, cycling, eating, associate professor of English & Quantitative Theory & Methods at Emory. She/her. New book: https://t.co/fSs3hH2h4w.",
+			"url": "https://t.co/PAjcU5FeDr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PAjcU5FeDr",
+							"expanded_url": "http://lklein.com",
+							"display_url": "lklein.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fSs3hH2h4w",
+							"expanded_url": "http://datafeminism.io",
+							"display_url": "datafeminism.io",
+							"indices": [
+								143,
+								166
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7446,
+			"friends_count": 1294,
+			"listed_count": 233,
+			"created_at": "Fri May 22 14:47:00 +0000 2009",
+			"favourites_count": 7167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042212759448899589/AvLqUMF8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042212759448899589/AvLqUMF8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41824898/1596035239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 348,
+		"favorite_count": 734,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Delighted to announce the open access edition of #DataFeminism, by me and @kanarinka! Thanks to  @Publicreations and all of the folks at @pubpub and @mitpress for their help in getting the book online. https://t.co/TqaoVyvozl"
+	},
+	{
+		"created_at": "Fri Jul 31 14:55:50 +0000 2020",
+		"id": 1289213183857586200,
+		"id_str": "1289213183857586183",
+		"full_text": "@meganlcook oh god same same",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1289212593031098400,
+		"in_reply_to_status_id_str": "1289212593031098368",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9386,
+			"friends_count": 415,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook oh god same same"
+	},
+	{
+		"created_at": "Fri Jul 31 14:29:37 +0000 2020",
+		"id": 1289206588117590000,
+		"id_str": "1289206588117590017",
+		"full_text": "@ProfFarahKC @ShakesInstitute @michaeldobbs ahhhhh so many congratulations, Farah!!",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfFarahKC",
+					"name": "Farah Karim-Cooper",
+					"id": 416223088,
+					"id_str": "416223088",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ShakesInstitute",
+					"name": "ShakespeareInstitute",
+					"id": 405015763,
+					"id_str": "405015763",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "michaeldobbs",
+					"name": "Michael Dobbs",
+					"id": 522699653,
+					"id_str": "522699653",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1289130242808963000,
+		"in_reply_to_status_id_str": "1289130242808963077",
+		"in_reply_to_user_id": 416223088,
+		"in_reply_to_user_id_str": "416223088",
+		"in_reply_to_screen_name": "ProfFarahKC",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSpSVcf | https://t.co/AMKIBezzJi",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSpSVcf",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/AMKIBezzJi",
+							"expanded_url": "https://sarahwerner.threadless.com/",
+							"display_url": "sarahwerner.threadless.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9386,
+			"friends_count": 415,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfFarahKC @ShakesInstitute @michaeldobbs ahhhhh so many congratulations, Farah!!"
+	},
+	{
 		"created_at": "Thu Jul 30 22:41:21 +0000 2020",
 		"id": 1288967949336879000,
 		"id_str": "1288967949336879106",
