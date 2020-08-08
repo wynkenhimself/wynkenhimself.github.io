@@ -1,6 +1,468 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 01:16:56 +0000 2020",
+		"id": 1291814924935499800,
+		"id_str": "1291906206618066945",
+		"full_text": "My one and only TikTok was a video I made for my 16-year-old son to teach him the importance of practice and being willing to look silly when you’re trying something new.\n\nI promised him I would never post it publicly but he’s not the boss of me LOL 😂 https://t.co/gnh499klZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291814848972513300,
+					"id_str": "1291814848972513280",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1291814848972513280/pu/img/6gwYwWUpxRfY71yc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1291814848972513280/pu/img/6gwYwWUpxRfY71yc.jpg",
+					"url": "https://t.co/gnh499klZZ",
+					"display_url": "pic.twitter.com/gnh499klZZ",
+					"expanded_url": "https://twitter.com/TananariveDue/status/1291814924935499776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291814848972513300,
+					"id_str": "1291814848972513280",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1291814848972513280/pu/img/6gwYwWUpxRfY71yc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1291814848972513280/pu/img/6gwYwWUpxRfY71yc.jpg",
+					"url": "https://t.co/gnh499klZZ",
+					"display_url": "pic.twitter.com/gnh499klZZ",
+					"expanded_url": "https://twitter.com/TananariveDue/status/1291814924935499776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 21728,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291814848972513280/pu/vid/320x568/tQkZNE3jjHNdjBRl.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291814848972513280/pu/vid/720x1280/-kE8mKEWkq-3p_pd.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1291814848972513280/pu/pl/WGYY2-W43XabGC5D.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291814848972513280/pu/vid/360x640/ZUlp32Q6LmBzC82O.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47983954,
+			"id_str": "47983954",
+			"name": "Tananarive Due",
+			"screen_name": "TananariveDue",
+			"location": "Los Angeles",
+			"description": "Exec Prod @shudder's #HorrorNoire Author, WGA screenwriter, Twilight Zone #BlackHorror #BlackLivesMatter UCLA, American Book Award. Check out https://t.co/Z9pVh8V0gK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9pVh8V0gK",
+							"expanded_url": "http://tananarivedue.com",
+							"display_url": "tananarivedue.com",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44062,
+			"friends_count": 5251,
+			"listed_count": 925,
+			"created_at": "Wed Jun 17 14:50:29 +0000 2009",
+			"favourites_count": 13464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246239510809038851/IWZ2uJpy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246239510809038851/IWZ2uJpy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47983954/1485103739",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1438,
+		"favorite_count": 10708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My one and only TikTok was a video I made for my 16-year-old son to teach him the importance of practice and being willing to look silly when you’re trying something new.\n\nI promised him I would never post it publicly but he’s not the boss of me LOL 😂 https://t.co/gnh499klZZ"
+	},
+	{
+		"created_at": "Sat Aug 08 01:16:47 +0000 2020",
+		"id": 1291906169364258800,
+		"id_str": "1291906169364258817",
+		"full_text": "@melissa_hubbard @mazarines Ahahhhhh I love this! I want to frame it and watch it every damn morning",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissa_hubbard",
+					"name": "Melissa Hubbard",
+					"id": 164796788,
+					"id_str": "164796788",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1291904576094961700,
+		"in_reply_to_status_id_str": "1291904576094961676",
+		"in_reply_to_user_id": 164796788,
+		"in_reply_to_user_id_str": "164796788",
+		"in_reply_to_screen_name": "melissa_hubbard",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9400,
+			"friends_count": 415,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissa_hubbard @mazarines Ahahhhhh I love this! I want to frame it and watch it every damn morning"
+	},
+	{
+		"created_at": "Fri Aug 07 23:29:22 +0000 2020",
+		"id": 1291879133706883000,
+		"id_str": "1291879133706883074",
+		"full_text": "@editcait same, C",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "editcait",
+					"name": "Caitlin Dixon",
+					"id": 2452028366,
+					"id_str": "2452028366",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1291878954844840000,
+		"in_reply_to_status_id_str": "1291878954844839936",
+		"in_reply_to_user_id": 2452028366,
+		"in_reply_to_user_id_str": "2452028366",
+		"in_reply_to_screen_name": "editcait",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9400,
+			"friends_count": 415,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@editcait same, C"
+	},
+	{
 		"created_at": "Fri Aug 07 00:03:32 +0000 2020",
 		"id": 1291525346559484000,
 		"id_str": "1291525346559483904",
