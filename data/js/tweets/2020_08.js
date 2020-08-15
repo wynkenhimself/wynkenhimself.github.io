@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 21:07:17 +0000 2020",
+		"id": 1292713097136808000,
+		"id_str": "1294380095654825985",
+		"full_text": "Land acknowledgement app!\n\nText the name of a city, state to 907-312-5085 to find out whose land you’re on. \n\nMade by an Alaskan! Smart, easy design! ❤️❤️ https://t.co/HVuCcHR3Df",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292713090459394000,
+					"id_str": "1292713090459394049",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCjtOlUYAE9nPN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCjtOlUYAE9nPN.jpg",
+					"url": "https://t.co/HVuCcHR3Df",
+					"display_url": "pic.twitter.com/HVuCcHR3Df",
+					"expanded_url": "https://twitter.com/CanaItch/status/1292713097136807947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 666,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2026,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292713090459394000,
+					"id_str": "1292713090459394049",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EfCjtOlUYAE9nPN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfCjtOlUYAE9nPN.jpg",
+					"url": "https://t.co/HVuCcHR3Df",
+					"display_url": "pic.twitter.com/HVuCcHR3Df",
+					"expanded_url": "https://twitter.com/CanaItch/status/1292713097136807947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 666,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2026,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 973642470507597800,
+			"id_str": "973642470507597825",
+			"name": "aŋilaaqsimaniaqtugut❄️at home",
+			"screen_name": "CanaItch",
+			"location": "",
+			"description": "i eat seals • i eat whales • iñupiaqatiuvuklu iỊavuklu nuurviŋmiuŋurut • tech comm & rhetoric phd 2021 • opinions imperfect & mine • I try to be kind • she/they",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6342,
+			"friends_count": 1886,
+			"listed_count": 28,
+			"created_at": "Tue Mar 13 19:30:29 +0000 2018",
+			"favourites_count": 18418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267858779481096192/Cz83K1ly_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267858779481096192/Cz83K1ly_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/973642470507597825/1562147633",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2170,
+		"favorite_count": 4604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Land acknowledgement app!\n\nText the name of a city, state to 907-312-5085 to find out whose land you’re on. \n\nMade by an Alaskan! Smart, easy design! ❤️❤️ https://t.co/HVuCcHR3Df"
+	},
+	{
+		"created_at": "Fri Aug 14 18:48:55 +0000 2020",
+		"id": 1294345273083338800,
+		"id_str": "1294345273083338752",
+		"full_text": "Yes! This is the tee for me and maybe you? https://t.co/VGwqNhK4o3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VGwqNhK4o3",
+					"expanded_url": "https://twitter.com/stephitaph/status/1294317107690299397",
+					"display_url": "twitter.com/stephitaph/sta…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9420,
+			"friends_count": 416,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1294317107690299400,
+		"quoted_status_id_str": "1294317107690299397",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VGwqNhK4o3",
+			"expanded": "https://twitter.com/stephitaph/status/1294317107690299397",
+			"display": "twitter.com/stephitaph/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 14 16:57:00 +0000 2020",
+			"id": 1294317107690299400,
+			"id_str": "1294317107690299397",
+			"full_text": "Here is a thing you need that a friend made. Special cc: @wynkenhimself \nhttps://t.co/p7fzLcHou2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wynkenhimself",
+						"name": "Sarah Werner",
+						"id": 35384223,
+						"id_str": "35384223",
+						"indices": [
+							57,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/p7fzLcHou2",
+						"expanded_url": "https://www.redbubble.com/i/t-shirt/Nasty-Suburban-Housewife-by-hwachs/54940500.2T20V?utm_campaign=2019_orderconfirmation_transactional_en&utm_medium=email&utm_source=RB&utm_term=37493716",
+						"display_url": "redbubble.com/i/t-shirt/Nast…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 276524792,
+				"id_str": "276524792",
+				"name": "M Steph Murray, Basically",
+				"screen_name": "stephitaph",
+				"location": "Pittsburgh, PA",
+				"description": "revenge, candy, yelling Sometimes I make art: https://t.co/pvmn3Ie5Au",
+				"url": "https://t.co/ocSPb3BREd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ocSPb3BREd",
+								"expanded_url": "http://mstephaniemurray.wordpress.com/",
+								"display_url": "mstephaniemurray.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pvmn3Ie5Au",
+								"expanded_url": "http://msmacbethdesigns.com",
+								"display_url": "msmacbethdesigns.com",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 733,
+				"friends_count": 1862,
+				"listed_count": 22,
+				"created_at": "Sun Apr 03 14:53:28 +0000 2011",
+				"favourites_count": 7940,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9551,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1180569927461277702/vNG5ktba_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180569927461277702/vNG5ktba_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/276524792/1404584865",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes! This is the tee for me and maybe you? https://t.co/VGwqNhK4o3"
+	},
+	{
 		"created_at": "Thu Aug 13 16:19:51 +0000 2020",
 		"id": 1293945372516155400,
 		"id_str": "1293945372516155395",
