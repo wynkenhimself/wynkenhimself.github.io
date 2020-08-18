@@ -1,6 +1,1464 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 00:05:33 +0000 2020",
+		"id": 1295465137982365700,
+		"id_str": "1295512119597834240",
+		"full_text": "Rob's was a hard act to follow, but Woody and Steve were up to the task. Only two weeks ago, whilst removing a piece of wall-plate, they recovered an almost intact late C16th book from amongst the debris. https://t.co/8wcGeUShBp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295465012299956200,
+					"id_str": "1295465012299956226",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EfpqkKUWAAIL25e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfpqkKUWAAIL25e.jpg",
+					"url": "https://t.co/8wcGeUShBp",
+					"display_url": "pic.twitter.com/8wcGeUShBp",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295465137982365698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295465012299956200,
+					"id_str": "1295465012299956226",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EfpqkKUWAAIL25e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfpqkKUWAAIL25e.jpg",
+					"url": "https://t.co/8wcGeUShBp",
+					"display_url": "pic.twitter.com/8wcGeUShBp",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295465137982365698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1295464758871826400,
+		"in_reply_to_status_id_str": "1295464758871826434",
+		"in_reply_to_user_id": 2810184837,
+		"in_reply_to_user_id_str": "2810184837",
+		"in_reply_to_screen_name": "mjc_associates",
+		"user": {
+			"id": 2810184837,
+			"id_str": "2810184837",
+			"name": "matthew champion",
+			"screen_name": "mjc_associates",
+			"location": "Norfolk, UK",
+			"description": "Archaeologist. Historian. Author. Lecturer. Heritage Consultant. MA. FSA.\nAlso tweets as @medievalg",
+			"url": "https://t.co/OetKCCYQJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OetKCCYQJ6",
+							"expanded_url": "http://www.mjc-associates.co.uk/",
+							"display_url": "mjc-associates.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769,
+			"friends_count": 204,
+			"listed_count": 11,
+			"created_at": "Mon Oct 06 12:50:10 +0000 2014",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2810184837/1412720236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rob's was a hard act to follow, but Woody and Steve were up to the task. Only two weeks ago, whilst removing a piece of wall-plate, they recovered an almost intact late C16th book from amongst the debris. https://t.co/8wcGeUShBp"
+	},
+	{
+		"created_at": "Tue Aug 18 00:05:28 +0000 2020",
+		"id": 1295464513194668000,
+		"id_str": "1295512099721023488",
+		"full_text": "The nests were full of artefacts. From one I recovered over 200 pieces of textile - fragments of clothing dating all the way back to the C16th - as well as fragments of early music, bits of early printed pages, and handwritten documents. https://t.co/XmgbFyvNYG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295464484727861200,
+					"id_str": "1295464484727861254",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EfpqFc9WsAY9Uah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfpqFc9WsAY9Uah.jpg",
+					"url": "https://t.co/XmgbFyvNYG",
+					"display_url": "pic.twitter.com/XmgbFyvNYG",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295464513194668042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295464484727861200,
+					"id_str": "1295464484727861254",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EfpqFc9WsAY9Uah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfpqFc9WsAY9Uah.jpg",
+					"url": "https://t.co/XmgbFyvNYG",
+					"display_url": "pic.twitter.com/XmgbFyvNYG",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295464513194668042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1295464374723850200,
+		"in_reply_to_status_id_str": "1295464374723850242",
+		"in_reply_to_user_id": 2810184837,
+		"in_reply_to_user_id_str": "2810184837",
+		"in_reply_to_screen_name": "mjc_associates",
+		"user": {
+			"id": 2810184837,
+			"id_str": "2810184837",
+			"name": "matthew champion",
+			"screen_name": "mjc_associates",
+			"location": "Norfolk, UK",
+			"description": "Archaeologist. Historian. Author. Lecturer. Heritage Consultant. MA. FSA.\nAlso tweets as @medievalg",
+			"url": "https://t.co/OetKCCYQJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OetKCCYQJ6",
+							"expanded_url": "http://www.mjc-associates.co.uk/",
+							"display_url": "mjc-associates.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769,
+			"friends_count": 204,
+			"listed_count": 11,
+			"created_at": "Mon Oct 06 12:50:10 +0000 2014",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2810184837/1412720236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The nests were full of artefacts. From one I recovered over 200 pieces of textile - fragments of clothing dating all the way back to the C16th - as well as fragments of early music, bits of early printed pages, and handwritten documents. https://t.co/XmgbFyvNYG"
+	},
+	{
+		"created_at": "Tue Aug 18 00:05:21 +0000 2020",
+		"id": 1295462336510201900,
+		"id_str": "1295512067663855617",
+		"full_text": "The most exciting were fragments of documents, mainly dating from the C17th and C18th, which had been cut up and recycled. Perhaps as sewing patterns. https://t.co/A3trthpMu9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295462311797325800,
+					"id_str": "1295462311797325824",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EfpoG-KWAAAYfif.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfpoG-KWAAAYfif.jpg",
+					"url": "https://t.co/A3trthpMu9",
+					"display_url": "pic.twitter.com/A3trthpMu9",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295462336510201856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 928,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295462311797325800,
+					"id_str": "1295462311797325824",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EfpoG-KWAAAYfif.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfpoG-KWAAAYfif.jpg",
+					"url": "https://t.co/A3trthpMu9",
+					"display_url": "pic.twitter.com/A3trthpMu9",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295462336510201856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 928,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1295462179844628500,
+		"in_reply_to_status_id_str": "1295462179844628486",
+		"in_reply_to_user_id": 2810184837,
+		"in_reply_to_user_id_str": "2810184837",
+		"in_reply_to_screen_name": "mjc_associates",
+		"user": {
+			"id": 2810184837,
+			"id_str": "2810184837",
+			"name": "matthew champion",
+			"screen_name": "mjc_associates",
+			"location": "Norfolk, UK",
+			"description": "Archaeologist. Historian. Author. Lecturer. Heritage Consultant. MA. FSA.\nAlso tweets as @medievalg",
+			"url": "https://t.co/OetKCCYQJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OetKCCYQJ6",
+							"expanded_url": "http://www.mjc-associates.co.uk/",
+							"display_url": "mjc-associates.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769,
+			"friends_count": 204,
+			"listed_count": 11,
+			"created_at": "Mon Oct 06 12:50:10 +0000 2014",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2810184837/1412720236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The most exciting were fragments of documents, mainly dating from the C17th and C18th, which had been cut up and recycled. Perhaps as sewing patterns. https://t.co/A3trthpMu9"
+	},
+	{
+		"created_at": "Tue Aug 18 00:04:58 +0000 2020",
+		"id": 1295459240593821700,
+		"id_str": "1295511974059573248",
+		"full_text": "Given today's news about the discoveries made at the National Trust's Oxburgh Hall in Norfolk, a brief thread about why we were there, and what was found. It isn't every day you recover medieval manuscripts, Tudor books, and C16th clothing from beneath the floor. #Thread https://t.co/qRXQctCWrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Thread",
+					"indices": [
+						264,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295459133643251700,
+					"id_str": "1295459133643251713",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EfplN-nXYAEff6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfplN-nXYAEff6O.jpg",
+					"url": "https://t.co/qRXQctCWrM",
+					"display_url": "pic.twitter.com/qRXQctCWrM",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295459240593821697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295459133643251700,
+					"id_str": "1295459133643251713",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EfplN-nXYAEff6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfplN-nXYAEff6O.jpg",
+					"url": "https://t.co/qRXQctCWrM",
+					"display_url": "pic.twitter.com/qRXQctCWrM",
+					"expanded_url": "https://twitter.com/mjc_associates/status/1295459240593821697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2810184837,
+			"id_str": "2810184837",
+			"name": "matthew champion",
+			"screen_name": "mjc_associates",
+			"location": "Norfolk, UK",
+			"description": "Archaeologist. Historian. Author. Lecturer. Heritage Consultant. MA. FSA.\nAlso tweets as @medievalg",
+			"url": "https://t.co/OetKCCYQJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OetKCCYQJ6",
+							"expanded_url": "http://www.mjc-associates.co.uk/",
+							"display_url": "mjc-associates.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769,
+			"friends_count": 204,
+			"listed_count": 11,
+			"created_at": "Mon Oct 06 12:50:10 +0000 2014",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281698307539116033/m8R0-IoA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2810184837/1412720236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Given today's news about the discoveries made at the National Trust's Oxburgh Hall in Norfolk, a brief thread about why we were there, and what was found. It isn't every day you recover medieval manuscripts, Tudor books, and C16th clothing from beneath the floor. #Thread https://t.co/qRXQctCWrM"
+	},
+	{
+		"created_at": "Mon Aug 17 22:56:39 +0000 2020",
+		"id": 1295467395088363500,
+		"id_str": "1295494781502709764",
+		"full_text": "As we enjoy UNC getting its comeuppance and celebrate that it may have been JUST in time to save lives, let us remember too that this is a public university system which has already been told by its hostile governance to prepare contingencies for up to 50% in budget reductions. +",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13598262,
+			"id_str": "13598262",
+			"name": "Matthew Kirschenbaum",
+			"screen_name": "mkirschenbaum",
+			"location": "College Park, Maryland",
+			"description": "Dirty computers, bookish books. Wrote Track Changes: A Literary History of Word Processing. @umd_english, @umd_dsah,  @umd_booklab. Tweets in personal capacity.",
+			"url": "https://t.co/47ge7aI23j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/47ge7aI23j",
+							"expanded_url": "http://www.mkirschenbaum.net",
+							"display_url": "mkirschenbaum.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11652,
+			"friends_count": 1062,
+			"listed_count": 590,
+			"created_at": "Sun Feb 17 21:53:45 +0000 2008",
+			"favourites_count": 11862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "84BEBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/65216114/mgk-avatar1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13598262/1535589678",
+			"profile_link_color": "003300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As we enjoy UNC getting its comeuppance and celebrate that it may have been JUST in time to save lives, let us remember too that this is a public university system which has already been told by its hostile governance to prepare contingencies for up to 50% in budget reductions. +"
+	},
+	{
+		"created_at": "Mon Aug 17 14:42:24 +0000 2020",
+		"id": 1294171419954368500,
+		"id_str": "1295370397295222787",
+		"full_text": "What happens when the director of a black arts organisation moves to head one of the UK's more historically problematic holdings? 🙏🙏 #MelanieKeen for speaking to me about personal and institutional challenges  https://t.co/RIDcxToWdt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MelanieKeen",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RIDcxToWdt",
+					"expanded_url": "https://inews.co.uk/culture/arts/wellcome-collection-director-melanie-keen-challenged-relics-colonialism-racism-578335",
+					"display_url": "inews.co.uk/culture/arts/w…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2529647923,
+			"id_str": "2529647923",
+			"name": "Melissa Gronlund",
+			"screen_name": "GronlundMelissa",
+			"location": "Places with U: UK, US, UAE.  ",
+			"description": "I write about art: Arab art, digital art, moving art, stationary art. For @Guardian, @TheNationalUAE, @Artforum, @ArtAgenda etc https://t.co/YxMZ5pwzOg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YxMZ5pwzOg",
+							"expanded_url": "http://melissagronlund.co",
+							"display_url": "melissagronlund.co",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1702,
+			"friends_count": 895,
+			"listed_count": 19,
+			"created_at": "Wed May 28 10:00:19 +0000 2014",
+			"favourites_count": 4898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919781668151586816/1QCMHTmJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919781668151586816/1QCMHTmJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2529647923/1528828823",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What happens when the director of a black arts organisation moves to head one of the UK's more historically problematic holdings? 🙏🙏 #MelanieKeen for speaking to me about personal and institutional challenges  https://t.co/RIDcxToWdt"
+	},
+	{
+		"created_at": "Mon Aug 17 14:32:31 +0000 2020",
+		"id": 1295351584457724000,
+		"id_str": "1295367910765060097",
+		"full_text": "As we all gear up for what promises to be a (ahem) challenging academic year, @JHUPress is offering 30% off a bunch of #highered essentials, including Generous Thinking: https://t.co/TPqJWuo1zu https://t.co/04g3coYQMa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highered",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JHUPress",
+					"name": "Johns Hopkins Press",
+					"id": 29731124,
+					"id_str": "29731124",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TPqJWuo1zu",
+					"expanded_url": "https://jhupbooks.press.jhu.edu/higher-education-virtual-bookstore",
+					"display_url": "jhupbooks.press.jhu.edu/higher-educati…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295351580515086300,
+					"id_str": "1295351580515086337",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EfoDZj_XsAEAyUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfoDZj_XsAEAyUZ.jpg",
+					"url": "https://t.co/04g3coYQMa",
+					"display_url": "pic.twitter.com/04g3coYQMa",
+					"expanded_url": "https://twitter.com/kfitz/status/1295351584457723906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295351580515086300,
+					"id_str": "1295351580515086337",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EfoDZj_XsAEAyUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfoDZj_XsAEAyUZ.jpg",
+					"url": "https://t.co/04g3coYQMa",
+					"display_url": "pic.twitter.com/04g3coYQMa",
+					"expanded_url": "https://twitter.com/kfitz/status/1295351584457723906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14308843,
+			"id_str": "14308843",
+			"name": "Kathleen Fitzpatrick",
+			"screen_name": "kfitz",
+			"location": "East Lansing, MI",
+			"description": "Director, Digital Humanities & Professor of English, MSU. Author of GENEROUS THINKING: A RADICAL APPROACH TO SAVING THE UNIVERSITY (Johns Hopkins UP, 2019).",
+			"url": "https://t.co/GBx3YI4zxH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GBx3YI4zxH",
+							"expanded_url": "https://kfitz.info",
+							"display_url": "kfitz.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11094,
+			"friends_count": 321,
+			"listed_count": 517,
+			"created_at": "Sat Apr 05 06:18:08 +0000 2008",
+			"favourites_count": 2802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168236986089574400/cOQY-CnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168236986089574400/cOQY-CnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14308843/1551874605",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As we all gear up for what promises to be a (ahem) challenging academic year, @JHUPress is offering 30% off a bunch of #highered essentials, including Generous Thinking: https://t.co/TPqJWuo1zu https://t.co/04g3coYQMa"
+	},
+	{
+		"created_at": "Mon Aug 17 14:19:45 +0000 2020",
+		"id": 1295357522078032000,
+		"id_str": "1295364697852649473",
+		"full_text": "“Who by upheaval and who by plague” in Unetanneh Tokef is going to hit a little differently this year",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400631,
+			"id_str": "2400631",
+			"name": "Robinson Meyer",
+			"screen_name": "yayitsrob",
+			"location": "Washington, DC",
+			"description": "staff writer at @TheAtlantic, cofounder at @Covid19Tracking, visiting fellow at @UChiEnergy. rob at theatlantic dot com, DM for signal.",
+			"url": "https://t.co/Y8EohtbuUI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y8EohtbuUI",
+							"expanded_url": "https://www.theatlantic.com/author/robinson-meyer/",
+							"display_url": "theatlantic.com/author/robinso…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37207,
+			"friends_count": 2155,
+			"listed_count": 1435,
+			"created_at": "Tue Mar 27 04:03:09 +0000 2007",
+			"favourites_count": 51231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080227699388567552/ooaQIuOH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080227699388567552/ooaQIuOH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400631/1398432472",
+			"profile_link_color": "D59B40",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFC999",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Who by upheaval and who by plague” in Unetanneh Tokef is going to hit a little differently this year"
+	},
+	{
+		"created_at": "Mon Aug 17 14:19:40 +0000 2020",
+		"id": 1295364679133540400,
+		"id_str": "1295364679133540352",
+		"full_text": "@yayitsrob oy especially as we are all praying by ourselves at home over zoom",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yayitsrob",
+					"name": "Robinson Meyer",
+					"id": 2400631,
+					"id_str": "2400631",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1295357522078032000,
+		"in_reply_to_status_id_str": "1295357522078031872",
+		"in_reply_to_user_id": 2400631,
+		"in_reply_to_user_id_str": "2400631",
+		"in_reply_to_screen_name": "yayitsrob",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9418,
+			"friends_count": 416,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@yayitsrob oy especially as we are all praying by ourselves at home over zoom"
+	},
+	{
+		"created_at": "Mon Aug 17 12:57:35 +0000 2020",
+		"id": 1295344021569777700,
+		"id_str": "1295344021569777664",
+		"full_text": "@KatWithSword My answer is Shakespeare which..... is both very right but also makes me sad since when was the last time I sat down and read his plays or poems?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KatWithSword",
+					"name": "Kat Howard",
+					"id": 23038043,
+					"id_str": "23038043",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1295334820617355300,
+		"in_reply_to_status_id_str": "1295334820617355264",
+		"in_reply_to_user_id": 23038043,
+		"in_reply_to_user_id_str": "23038043",
+		"in_reply_to_screen_name": "KatWithSword",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9418,
+			"friends_count": 416,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KatWithSword My answer is Shakespeare which..... is both very right but also makes me sad since when was the last time I sat down and read his plays or poems?"
+	},
+	{
 		"created_at": "Mon Aug 17 00:06:06 +0000 2020",
 		"id": 1295149871419326500,
 		"id_str": "1295149871419326465",
