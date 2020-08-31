@@ -1,6 +1,837 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 31 01:50:18 +0000 2020",
+		"id": 1300249524791902200,
+		"id_str": "1300249524791902209",
+		"full_text": "@vcmcguire when I see chicken content I still think of you and this is just the best thing https://t.co/qexXDzE6PR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vcmcguire",
+					"name": "Claire",
+					"id": 18105922,
+					"id_str": "18105922",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qexXDzE6PR",
+					"expanded_url": "https://twitter.com/indigogloves/status/1299928859610099719",
+					"display_url": "twitter.com/indigogloves/s…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 18105922,
+		"in_reply_to_user_id_str": "18105922",
+		"in_reply_to_screen_name": "vcmcguire",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9434,
+			"friends_count": 419,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1299928859610099700,
+		"quoted_status_id_str": "1299928859610099719",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qexXDzE6PR",
+			"expanded": "https://twitter.com/indigogloves/status/1299928859610099719",
+			"display": "twitter.com/indigogloves/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 30 04:36:06 +0000 2020",
+			"id": 1299928859610099700,
+			"id_str": "1299928859610099719",
+			"full_text": "A rooster wearing sandals. https://t.co/dnrVomfSei",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				26
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1299928849090830300,
+						"id_str": "1299928849090830336",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/EgpGZqNXYAATklu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EgpGZqNXYAATklu.jpg",
+						"url": "https://t.co/dnrVomfSei",
+						"display_url": "pic.twitter.com/dnrVomfSei",
+						"expanded_url": "https://twitter.com/indigogloves/status/1299928859610099719/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1124,
+								"h": 638,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1124,
+								"h": 638,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1299928849090830300,
+						"id_str": "1299928849090830336",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/EgpGZqNXYAATklu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EgpGZqNXYAATklu.jpg",
+						"url": "https://t.co/dnrVomfSei",
+						"display_url": "pic.twitter.com/dnrVomfSei",
+						"expanded_url": "https://twitter.com/indigogloves/status/1299928859610099719/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1124,
+								"h": 638,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1124,
+								"h": 638,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1299928849103433700,
+						"id_str": "1299928849103433729",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/EgpGZqQXsAEAxnj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EgpGZqQXsAEAxnj.jpg",
+						"url": "https://t.co/dnrVomfSei",
+						"display_url": "pic.twitter.com/dnrVomfSei",
+						"expanded_url": "https://twitter.com/indigogloves/status/1299928859610099719/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1299928849086664700,
+						"id_str": "1299928849086664705",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/EgpGZqMX0AEA1rN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EgpGZqMX0AEA1rN.jpg",
+						"url": "https://t.co/dnrVomfSei",
+						"display_url": "pic.twitter.com/dnrVomfSei",
+						"expanded_url": "https://twitter.com/indigogloves/status/1299928859610099719/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1556,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 912,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 517,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1299928849090785300,
+						"id_str": "1299928849090785280",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/EgpGZqNWsAAP-43.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EgpGZqNWsAAP-43.jpg",
+						"url": "https://t.co/dnrVomfSei",
+						"display_url": "pic.twitter.com/dnrVomfSei",
+						"expanded_url": "https://twitter.com/indigogloves/status/1299928859610099719/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197643621,
+				"id_str": "197643621",
+				"name": "BLACK GIRLS ARE MAGIC",
+				"screen_name": "indigogloves",
+				"location": "Washington, DC",
+				"description": "multidisciplinary artist & apple juice evangelist with jail tattoos | 1/3 of @blkgirlmissing podcast💰$indigogloves she/her",
+				"url": "https://t.co/OQVSMCh1lr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OQVSMCh1lr",
+								"expanded_url": "http://blackgirlmissingpod.com",
+								"display_url": "blackgirlmissingpod.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3778,
+				"friends_count": 922,
+				"listed_count": 16,
+				"created_at": "Sat Oct 02 02:00:57 +0000 2010",
+				"favourites_count": 1422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1299385908869828608/5uDxjQxc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299385908869828608/5uDxjQxc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197643621/1592356248",
+				"profile_link_color": "F60EA0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4400,
+			"favorite_count": 16544,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@vcmcguire when I see chicken content I still think of you and this is just the best thing https://t.co/qexXDzE6PR"
+	},
+	{
+		"created_at": "Mon Aug 31 01:26:25 +0000 2020",
+		"id": 1298541496770146300,
+		"id_str": "1300243512567496705",
+		"full_text": "Great opportunity to work with the @PublicDomainRev (of which I'm proud co-founder 🥰) as editor/researcher/writer.  Applications by 8th September. Please share with friends &amp; colleagues who might be interested. More details here. 👇🏽✨ https://t.co/0c0VZ8w36W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PublicDomainRev",
+					"name": "Public Domain Review",
+					"id": 203307838,
+					"id_str": "203307838",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0c0VZ8w36W",
+					"expanded_url": "https://publicdomainreview.org/blog/2020/08/work-with-the-public-domain-review",
+					"display_url": "publicdomainreview.org/blog/2020/08/w…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14389093,
+			"id_str": "14389093",
+			"name": "Jonathan Gray 🐼",
+			"screen_name": "jwyg",
+			"location": "Europe",
+			"description": "Writing book on data worlds. 📖 Lecturer @KingsDH 🌱 Cofounder @PublicDataLab @PublicDomainRev. 🎈 Researcher @digitalmethods @medialab_ScPo. ✨",
+			"url": "https://t.co/fEVSjdjq4b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fEVSjdjq4b",
+							"expanded_url": "http://jonathangray.org",
+							"display_url": "jonathangray.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11384,
+			"friends_count": 3488,
+			"listed_count": 746,
+			"created_at": "Mon Apr 14 19:07:06 +0000 2008",
+			"favourites_count": 18930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000745009144/9854c8a33e349bcfb2af18f02c16e5d3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000745009144/9854c8a33e349bcfb2af18f02c16e5d3_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14389093/1401459087",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great opportunity to work with the @PublicDomainRev (of which I'm proud co-founder 🥰) as editor/researcher/writer.  Applications by 8th September. Please share with friends &amp; colleagues who might be interested. More details here. 👇🏽✨ https://t.co/0c0VZ8w36W"
+	},
+	{
+		"created_at": "Mon Aug 31 01:19:09 +0000 2020",
+		"id": 1300241685339922400,
+		"id_str": "1300241685339922434",
+		"full_text": "@arkhamlibrarian @internetstine don’t they are so obviously not supposed to pick that answer!! It’s just the fake option! (fwiw I really liked the Harknesa trilogy, and I often dislike the going-back-to-Shakespeare’s-time genre)",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arkhamlibrarian",
+					"name": "Rebecca B.",
+					"id": 2820003021,
+					"id_str": "2820003021",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1300229273157017600,
+		"in_reply_to_status_id_str": "1300229273157017601",
+		"in_reply_to_user_id": 2820003021,
+		"in_reply_to_user_id_str": "2820003021",
+		"in_reply_to_screen_name": "arkhamlibrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9434,
+			"friends_count": 419,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 29917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@arkhamlibrarian @internetstine don’t they are so obviously not supposed to pick that answer!! It’s just the fake option! (fwiw I really liked the Harknesa trilogy, and I often dislike the going-back-to-Shakespeare’s-time genre)"
+	},
+	{
+		"created_at": "Mon Aug 31 01:16:56 +0000 2020",
+		"id": 1300070773512712200,
+		"id_str": "1300241126255976448",
+		"full_text": "Is it time to get rid of #nursinghomes? In a debate for @PhillyInquirer, @rm_werner and Allison Hoffman (@pennlaw) argue that the U.S.should rethink communal living to make it safe and affordable during both normal circumstances and times of crisis. https://t.co/JHSkeAB6fv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nursinghomes",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhillyInquirer",
+					"name": "The Philadelphia Inquirer",
+					"id": 14221917,
+					"id_str": "14221917",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "rm_werner",
+					"name": "Rachel Werner",
+					"id": 912318165694246900,
+					"id_str": "912318165694246913",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "pennlaw",
+					"name": "University of Pennsylvania Carey Law School",
+					"id": 216030559,
+					"id_str": "216030559",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JHSkeAB6fv",
+					"expanded_url": "http://spr.ly/6018Go4Bw",
+					"display_url": "spr.ly/6018Go4Bw",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28395223,
+			"id_str": "28395223",
+			"name": "Penn Medicine",
+			"screen_name": "PennMedicine",
+			"location": "Philadelphia, PA",
+			"description": "We are dedicated to the highest standards of patient care, education and research. Please allow up to  24 hours to reply to @ messages. https://t.co/pIEGpa5Vql",
+			"url": "http://t.co/ggcc7f3WGM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ggcc7f3WGM",
+							"expanded_url": "http://pennmedicine.org",
+							"display_url": "pennmedicine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pIEGpa5Vql",
+							"expanded_url": "http://bit.ly/2gbO0s4",
+							"display_url": "bit.ly/2gbO0s4",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21103,
+			"friends_count": 1753,
+			"listed_count": 419,
+			"created_at": "Thu Apr 02 18:54:09 +0000 2009",
+			"favourites_count": 3286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001C4B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3689928070/8082272fa2c51c2603833b90d9ebd256_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3689928070/8082272fa2c51c2603833b90d9ebd256_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28395223/1535549762",
+			"profile_link_color": "0066CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is it time to get rid of #nursinghomes? In a debate for @PhillyInquirer, @rm_werner and Allison Hoffman (@pennlaw) argue that the U.S.should rethink communal living to make it safe and affordable during both normal circumstances and times of crisis. https://t.co/JHSkeAB6fv"
+	},
+	{
 		"created_at": "Sat Aug 29 20:49:59 +0000 2020",
 		"id": 1299796352726073300,
 		"id_str": "1299811559691161600",
