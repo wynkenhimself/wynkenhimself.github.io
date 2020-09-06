@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 14:37:33 +0000 2020",
+		"id": 1302250797535842300,
+		"id_str": "1302254546698338310",
+		"full_text": "Good morning everyone... I want to give you some updates and Understanding about #ScholarStrike. First off, thanks to all of you who have said you've organized teach ins on your campus, etc.....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ScholarStrike",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113038982,
+			"id_str": "113038982",
+			"name": "ProfB",
+			"screen_name": "AntheaButler",
+			"location": "watching you watch my timeline",
+			"description": "Scholar Strike! \nSign up here https://t.co/IiVOPDLKf2",
+			"url": "https://t.co/FW1UTj0pcs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FW1UTj0pcs",
+							"expanded_url": "http://antheabutler.com",
+							"display_url": "antheabutler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IiVOPDLKf2",
+							"expanded_url": "http://ggle.io/3Mid",
+							"display_url": "ggle.io/3Mid",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40998,
+			"friends_count": 7598,
+			"listed_count": 954,
+			"created_at": "Wed Feb 10 14:10:02 +0000 2010",
+			"favourites_count": 39608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B81F00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720604285642219520/EpS9h99m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720604285642219520/EpS9h99m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113038982/1599162682",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Good morning everyone... I want to give you some updates and Understanding about #ScholarStrike. First off, thanks to all of you who have said you've organized teach ins on your campus, etc....."
+	},
+	{
 		"created_at": "Sat Sep 05 02:01:24 +0000 2020",
 		"id": 1302064255613755400,
 		"id_str": "1302064255613755394",
