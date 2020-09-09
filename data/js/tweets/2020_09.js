@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 18:24:56 +0000 2020",
+		"id": 1303398933515862000,
+		"id_str": "1303398933515862016",
+		"full_text": "Do I subtweet catalogs? Yes, I do.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303398699800891400,
+		"in_reply_to_status_id_str": "1303398699800891399",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9436,
+			"friends_count": 416,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Do I subtweet catalogs? Yes, I do."
+	},
+	{
+		"created_at": "Tue Sep 08 18:24:00 +0000 2020",
+		"id": 1303398699800891400,
+		"id_str": "1303398699800891399",
+		"full_text": "I will still never get over the fact that that one cataloging project doesn’t actually employ any trained catalogers or librarians.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9436,
+			"friends_count": 416,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I will still never get over the fact that that one cataloging project doesn’t actually employ any trained catalogers or librarians."
+	},
+	{
+		"created_at": "Tue Sep 08 16:41:07 +0000 2020",
+		"id": 1303115676312273000,
+		"id_str": "1303372808429469699",
+		"full_text": "Whenever we talk about reparations owed for the free labor of enslaved people, someone will inevitably argue how few white people owned slaves. \n\nBut it's Labor Day, so let me show you how everyone in America profited from slavery.\n\nA thread:",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96149284,
+			"id_str": "96149284",
+			"name": "michaelharriot",
+			"screen_name": "michaelharriot",
+			"location": "The Southside of Wakanda",
+			"description": "Sr. Writer at https://t.co/OMQPRg8xcr, board-certified Wypipologist, master race-baiter. His pen is mightier than your sword. Last real Negus alive",
+			"url": "https://t.co/lTB2PUWBfg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lTB2PUWBfg",
+							"expanded_url": "https://kinja.com/michaelharriot",
+							"display_url": "kinja.com/michaelharriot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OMQPRg8xcr",
+							"expanded_url": "http://TheRoot.com",
+							"display_url": "TheRoot.com",
+							"indices": [
+								14,
+								37
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 361324,
+			"friends_count": 79,
+			"listed_count": 1757,
+			"created_at": "Fri Dec 11 15:40:46 +0000 2009",
+			"favourites_count": 3346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249524889222070273/QcDtsIWG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249524889222070273/QcDtsIWG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96149284/1578041893",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8069,
+		"favorite_count": 21096,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Whenever we talk about reparations owed for the free labor of enslaved people, someone will inevitably argue how few white people owned slaves. \n\nBut it's Labor Day, so let me show you how everyone in America profited from slavery.\n\nA thread:"
+	},
+	{
+		"created_at": "Tue Sep 08 15:57:36 +0000 2020",
+		"id": 1303361857743356000,
+		"id_str": "1303361857743355911",
+		"full_text": "@EEllenMac @trickyholly omg so much grrrrrr on your behalves for all of this in all of its wrongness because our fucking government by wouldn’t take control of the pandemic as we needed",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EEllenMac",
+					"name": "Ellen MacKay",
+					"id": 1316087828,
+					"id_str": "1316087828",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "trickyholly",
+					"name": "holly dugan",
+					"id": 70948420,
+					"id_str": "70948420",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303361266556248000,
+		"in_reply_to_status_id_str": "1303361266556248064",
+		"in_reply_to_user_id": 1316087828,
+		"in_reply_to_user_id_str": "1316087828",
+		"in_reply_to_screen_name": "EEllenMac",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9436,
+			"friends_count": 416,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EEllenMac @trickyholly omg so much grrrrrr on your behalves for all of this in all of its wrongness because our fucking government by wouldn’t take control of the pandemic as we needed"
+	},
+	{
+		"created_at": "Tue Sep 08 15:47:15 +0000 2020",
+		"id": 1303311833214972000,
+		"id_str": "1303359249754583042",
+		"full_text": "TODAY IS #ScholarStrike and our first day of videos are up on our You Tube channel\nhttps://t.co/nrASZar10z\nGo take a look. We have over 20 videos to share with you and your students today!!!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ScholarStrike",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nrASZar10z",
+					"expanded_url": "https://ggle.io/3PUM",
+					"display_url": "ggle.io/3PUM",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1299377116467867600,
+			"id_str": "1299377116467867648",
+			"name": "Scholar Strike",
+			"screen_name": "ScholarStrike",
+			"location": "",
+			"description": "Scholar Strike 2020 Fighting for Racial Justice\nhttps://t.co/YMmY1e12oc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YMmY1e12oc",
+							"expanded_url": "https://www.scholarstrike.com/",
+							"display_url": "scholarstrike.com",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3568,
+			"friends_count": 4,
+			"listed_count": 9,
+			"created_at": "Fri Aug 28 16:04:22 +0000 2020",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301609915409145858/M5bzfDZ4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301609915409145858/M5bzfDZ4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1299377116467867648/1599162962",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 499,
+		"favorite_count": 464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY IS #ScholarStrike and our first day of videos are up on our You Tube channel\nhttps://t.co/nrASZar10z\nGo take a look. We have over 20 videos to share with you and your students today!!!!"
+	},
+	{
+		"created_at": "Tue Sep 08 13:04:45 +0000 2020",
+		"id": 1303316589115322400,
+		"id_str": "1303318357664583682",
+		"full_text": "#ScholarStrike join me &amp; @varsha_venkat_ today as we talk with the organizers on DRINKING WITH HISTORIANS. @AntheaButler @TheTattooedProf #DWH \n\nTODAY\n7pm EDT\nstill time to register…\n\nhttps://t.co/koC8rltayk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ScholarStrike",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "DWH",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "varsha_venkat_",
+					"name": "varsha studies dams",
+					"id": 74878213,
+					"id_str": "74878213",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "AntheaButler",
+					"name": "ProfB",
+					"id": 113038982,
+					"id_str": "113038982",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "TheTattooedProf",
+					"name": "Kevin Gannon",
+					"id": 2209778173,
+					"id_str": "2209778173",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/koC8rltayk",
+					"expanded_url": "https://virginiatech.zoom.us/webinar/register/5315992266812/WN_Lg_bqKl4TkCfZ3y4SxFf2g",
+					"display_url": "virginiatech.zoom.us/webinar/regist…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2013741,
+			"id_str": "2013741",
+			"name": "Matt Gabriele",
+			"screen_name": "prof_gabriele",
+			"location": "USA",
+			"description": "Prof & Dept Chair. medieval/ modern. nostalgia/ apocalypse. Writing #TheBrightAges. Webcasting https://t.co/GEkcyRj3NC",
+			"url": "https://t.co/PeMLvfRdwS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PeMLvfRdwS",
+							"expanded_url": "http://profgabriele.com",
+							"display_url": "profgabriele.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GEkcyRj3NC",
+							"expanded_url": "http://drinkinghistorians.com",
+							"display_url": "drinkinghistorians.com",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14866,
+			"friends_count": 1551,
+			"listed_count": 258,
+			"created_at": "Fri Mar 23 13:58:52 +0000 2007",
+			"favourites_count": 51454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264606340925870083/5MIvQZ0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264606340925870083/5MIvQZ0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2013741/1594237028",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "373434",
+			"profile_sidebar_fill_color": "999999",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ScholarStrike join me &amp; @varsha_venkat_ today as we talk with the organizers on DRINKING WITH HISTORIANS. @AntheaButler @TheTattooedProf #DWH \n\nTODAY\n7pm EDT\nstill time to register…\n\nhttps://t.co/koC8rltayk"
+	},
+	{
 		"created_at": "Mon Sep 07 23:27:48 +0000 2020",
 		"id": 1303112763502473200,
 		"id_str": "1303112763502473218",
