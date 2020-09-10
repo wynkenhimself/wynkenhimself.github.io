@@ -1,6 +1,1216 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 00:03:24 +0000 2020",
+		"id": 1303840169926078500,
+		"id_str": "1303846500368293889",
+		"full_text": "Stanford Special Collections and University Archives Statement on Potentially Harmful Language in Cataloging and Archival Description: https://t.co/f6ObEA8XN8 @StanfordSpec @StanfordLibs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StanfordSpec",
+					"name": "Stanford Spec Coll",
+					"id": 3396097534,
+					"id_str": "3396097534",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"screen_name": "StanfordLibs",
+					"name": "Stanford Libraries",
+					"id": 545432826,
+					"id_str": "545432826",
+					"indices": [
+						173,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f6ObEA8XN8",
+					"expanded_url": "https://library.stanford.edu/spc/using-our-collections/stanford-special-collections-and-university-archives-statement-potentially",
+					"display_url": "library.stanford.edu/spc/using-our-…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 594267740,
+			"id_str": "594267740",
+			"name": "Stanford Archives",
+			"screen_name": "StanfordArchive",
+			"location": "Stanford, CA",
+			"description": "The Stanford University Archives collects, preserves, and makes available the historical records of the University and of Stanford community members.",
+			"url": "https://t.co/dAf2XpB1Js",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dAf2XpB1Js",
+							"expanded_url": "http://library.stanford.edu/spc/university-archives",
+							"display_url": "library.stanford.edu/spc/university…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2749,
+			"friends_count": 854,
+			"listed_count": 101,
+			"created_at": "Wed May 30 03:44:11 +0000 2012",
+			"favourites_count": 3490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244144614275035139/ZSQDjT-3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244144614275035139/ZSQDjT-3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/594267740/1563230305",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stanford Special Collections and University Archives Statement on Potentially Harmful Language in Cataloging and Archival Description: https://t.co/f6ObEA8XN8 @StanfordSpec @StanfordLibs"
+	},
+	{
+		"created_at": "Wed Sep 09 22:42:15 +0000 2020",
+		"id": 1303825745861640200,
+		"id_str": "1303826078583136256",
+		"full_text": "Yay, @Bibliographes is the latest Bright Young Librarian! https://t.co/P0AmtLLQfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bibliographes",
+					"name": "Erin Schreiner",
+					"id": 259097345,
+					"id_str": "259097345",
+					"indices": [
+						5,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P0AmtLLQfS",
+					"expanded_url": "https://www.finebooksmagazine.com/blog/bright-young-librarians-erin-schreiner",
+					"display_url": "finebooksmagazine.com/blog/bright-yo…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89477148,
+			"id_str": "89477148",
+			"name": "John Overholt",
+			"screen_name": "john_overholt",
+			"location": "Cambridge/Medford, MA",
+			"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+			"url": "https://t.co/d5qeDpYMtj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d5qeDpYMtj",
+							"expanded_url": "http://library.harvard.edu/hou",
+							"display_url": "library.harvard.edu/hou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22094,
+			"friends_count": 724,
+			"listed_count": 722,
+			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+			"favourites_count": 21032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yay, @Bibliographes is the latest Bright Young Librarian! https://t.co/P0AmtLLQfS"
+	},
+	{
+		"created_at": "Wed Sep 09 17:12:47 +0000 2020",
+		"id": 1303732865209831400,
+		"id_str": "1303743164205891584",
+		"full_text": "Let's walk through this shall we? Later in the thread someone notes: \n\" a press rather than a stamp or stencil, movable type, variety of ink. And the title page (a few decades post-Gutenberg) was unique to European book culture.\"\n\nSo - beginning with a press. Did it matter? 1/ https://t.co/P9cwC8e5ms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P9cwC8e5ms",
+					"expanded_url": "https://twitter.com/tlecaque/status/1303718021450657793",
+					"display_url": "twitter.com/tlecaque/statu…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390140696,
+			"id_str": "1390140696",
+			"name": "Devin Fitzgerald",
+			"screen_name": "DevinFitzger",
+			"location": "Libraries",
+			"description": "Rare Books and History of Printing Curator, UCLA. Loves bibliography, hates the patriarchy. Studies whatever your Neo-Con uncle fears.",
+			"url": "https://t.co/WerNfe9pcT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WerNfe9pcT",
+							"expanded_url": "http://devinfitz.com",
+							"display_url": "devinfitz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5739,
+			"friends_count": 2124,
+			"listed_count": 86,
+			"created_at": "Mon Apr 29 18:29:41 +0000 2013",
+			"favourites_count": 8183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271881280016093185/T2i3qt8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271881280016093185/T2i3qt8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390140696/1574274532",
+			"profile_link_color": "010A0F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303718021450657800,
+		"quoted_status_id_str": "1303718021450657793",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P9cwC8e5ms",
+			"expanded": "https://twitter.com/tlecaque/status/1303718021450657793",
+			"display": "twitter.com/tlecaque/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 09 15:32:52 +0000 2020",
+			"id": 1303718021450657800,
+			"id_str": "1303718021450657793",
+			"full_text": "Hey history of the book and printing folks, maybe you can answer this for me: what makes Gutenberg's press different and/or more noteworthy than Song Chinese or Goryeo Korean metal type printing?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 443350004,
+				"id_str": "443350004",
+				"name": "Thomas Lecaque",
+				"screen_name": "tlecaque",
+				"location": "Baxoje, Meskwaki & Sauk Land",
+				"description": "Asst. Professor. Medieval history, apocalypse, religion/violence, game studies, Crusades. France-US. Views own etc. He/him. Chaotic Good. Always #JuliFam.",
+				"url": "https://t.co/9WVkyIjhVR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9WVkyIjhVR",
+								"expanded_url": "https://secure.actblue.com/donate/em-20200528-1",
+								"display_url": "secure.actblue.com/donate/em-2020…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9587,
+				"friends_count": 5070,
+				"listed_count": 111,
+				"created_at": "Thu Dec 22 03:00:30 +0000 2011",
+				"favourites_count": 311973,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64368,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288834243758522368/p1nLTamO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288834243758522368/p1nLTamO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/443350004/1579463902",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 36,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let's walk through this shall we? Later in the thread someone notes: \n\" a press rather than a stamp or stencil, movable type, variety of ink. And the title page (a few decades post-Gutenberg) was unique to European book culture.\"\n\nSo - beginning with a press. Did it matter? 1/ https://t.co/P9cwC8e5ms"
+	},
+	{
+		"created_at": "Wed Sep 09 15:08:36 +0000 2020",
+		"id": 1303711911557693400,
+		"id_str": "1303711911557693440",
+		"full_text": "Sale also includes Wilda Gafney’s Womanist Midrash—my synagogue drew a lot on her work a couple of years ago and it was really engaging https://t.co/ti1biEWSTe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ti1biEWSTe",
+					"expanded_url": "https://twitter.com/nyashajunior/status/1303709883104137223",
+					"display_url": "twitter.com/nyashajunior/s…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9435,
+			"friends_count": 416,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303709883104137200,
+		"quoted_status_id_str": "1303709883104137223",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ti1biEWSTe",
+			"expanded": "https://twitter.com/nyashajunior/status/1303709883104137223",
+			"display": "twitter.com/nyashajunior/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 09 15:00:32 +0000 2020",
+			"id": 1303709883104137200,
+			"id_str": "1303709883104137223",
+			"full_text": "Flash sale! The e-book of my An Introduction to Womanist Biblical Interpretation is on sale for $2.99! #IntroWBI https://t.co/2xs6phnJDQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IntroWBI",
+						"indices": [
+							103,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2xs6phnJDQ",
+						"expanded_url": "https://twitter.com/wjkbooks/status/1303664795753873411",
+						"display_url": "twitter.com/wjkbooks/statu…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 382813654,
+				"id_str": "382813654",
+				"name": "Nyasha Junior",
+				"screen_name": "NyashaJunior",
+				"location": "in my lane",
+				"description": "Visiting Associate Professor @HarvardDivinity 2020-21 | Writing on #JarenaLee (she/her)",
+				"url": "https://t.co/Gpa6aq0eKj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gpa6aq0eKj",
+								"expanded_url": "http://nyashajunior.com",
+								"display_url": "nyashajunior.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23337,
+				"friends_count": 1444,
+				"listed_count": 483,
+				"created_at": "Fri Sep 30 18:45:49 +0000 2011",
+				"favourites_count": 13462,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 144668,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "4A913C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263910659835727873/XwJYzoQY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263910659835727873/XwJYzoQY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/382813654/1593632049",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "92CFEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1303664795753873400,
+			"quoted_status_id_str": "1303664795753873411",
+			"quoted_status_permalink": {
+				"url": "https://t.co/2xs6phnJDQ",
+				"expanded": "https://twitter.com/wjkbooks/status/1303664795753873411",
+				"display": "twitter.com/wjkbooks/statu…"
+			},
+			"retweet_count": 18,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sale also includes Wilda Gafney’s Womanist Midrash—my synagogue drew a lot on her work a couple of years ago and it was really engaging https://t.co/ti1biEWSTe"
+	},
+	{
+		"created_at": "Wed Sep 09 15:06:50 +0000 2020",
+		"id": 1303709883104137200,
+		"id_str": "1303711469276672002",
+		"full_text": "Flash sale! The e-book of my An Introduction to Womanist Biblical Interpretation is on sale for $2.99! #IntroWBI https://t.co/2xs6phnJDQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IntroWBI",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2xs6phnJDQ",
+					"expanded_url": "https://twitter.com/wjkbooks/status/1303664795753873411",
+					"display_url": "twitter.com/wjkbooks/statu…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382813654,
+			"id_str": "382813654",
+			"name": "Nyasha Junior",
+			"screen_name": "NyashaJunior",
+			"location": "in my lane",
+			"description": "Visiting Associate Professor @HarvardDivinity 2020-21 | Writing on #JarenaLee (she/her)",
+			"url": "https://t.co/Gpa6aq0eKj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gpa6aq0eKj",
+							"expanded_url": "http://nyashajunior.com",
+							"display_url": "nyashajunior.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23337,
+			"friends_count": 1444,
+			"listed_count": 483,
+			"created_at": "Fri Sep 30 18:45:49 +0000 2011",
+			"favourites_count": 13462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 144668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263910659835727873/XwJYzoQY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263910659835727873/XwJYzoQY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382813654/1593632049",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "92CFEB",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303664795753873400,
+		"quoted_status_id_str": "1303664795753873411",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2xs6phnJDQ",
+			"expanded": "https://twitter.com/wjkbooks/status/1303664795753873411",
+			"display": "twitter.com/wjkbooks/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 09 12:01:22 +0000 2020",
+			"id": 1303664795753873400,
+			"id_str": "1303664795753873411",
+			"full_text": "Three days to save on select eBooks! Prices are as low as $1.99 on  biblical studies and theology ebooks that use feminist and womanist lenses. Hurry, deals end Friday, 9/11. Check out all sale titles here: https://t.co/Tg3GM1Izuc https://t.co/9lWquGJcvH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Tg3GM1Izuc",
+						"expanded_url": "https://bit.ly/31TBTKG",
+						"display_url": "bit.ly/31TBTKG",
+						"indices": [
+							207,
+							230
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1303664792180273200,
+						"id_str": "1303664792180273154",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/EheMOKwWsAI6Ydz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EheMOKwWsAI6Ydz.jpg",
+						"url": "https://t.co/9lWquGJcvH",
+						"display_url": "pic.twitter.com/9lWquGJcvH",
+						"expanded_url": "https://twitter.com/wjkbooks/status/1303664795753873411/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1303664792180273200,
+						"id_str": "1303664792180273154",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/EheMOKwWsAI6Ydz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EheMOKwWsAI6Ydz.jpg",
+						"url": "https://t.co/9lWquGJcvH",
+						"display_url": "pic.twitter.com/9lWquGJcvH",
+						"expanded_url": "https://twitter.com/wjkbooks/status/1303664795753873411/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16788763,
+				"id_str": "16788763",
+				"name": "WJK Books",
+				"screen_name": "wjkbooks",
+				"location": "Louisville, KY",
+				"description": "Publisher of scholarly and popular books that cover a spectrum of religious thought.",
+				"url": "http://t.co/MZ0diLPlYf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MZ0diLPlYf",
+								"expanded_url": "http://www.wjkbooks.com",
+								"display_url": "wjkbooks.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2796,
+				"friends_count": 895,
+				"listed_count": 127,
+				"created_at": "Wed Oct 15 18:42:48 +0000 2008",
+				"favourites_count": 1605,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AF1E2D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/86959657/WJK150x150_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/86959657/WJK150x150_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16788763/1591187794",
+				"profile_link_color": "120099",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "BD2222",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flash sale! The e-book of my An Introduction to Womanist Biblical Interpretation is on sale for $2.99! #IntroWBI https://t.co/2xs6phnJDQ"
+	},
+	{
+		"created_at": "Wed Sep 09 14:34:55 +0000 2020",
+		"id": 1303703436559609900,
+		"id_str": "1303703436559609857",
+		"full_text": "omg the etymology of this word is perfect (click through here to read https://t.co/0tisrJCOBu) https://t.co/pb9g52jen1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0tisrJCOBu",
+					"expanded_url": "https://www.merriam-webster.com/word-of-the-day/2020/09/09/",
+					"display_url": "merriam-webster.com/word-of-the-da…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303703432801464300,
+					"id_str": "1303703432801464320",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EhevXWSWsAABLZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhevXWSWsAABLZj.jpg",
+					"url": "https://t.co/pb9g52jen1",
+					"display_url": "pic.twitter.com/pb9g52jen1",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1303703436559609857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303703432801464300,
+					"id_str": "1303703432801464320",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EhevXWSWsAABLZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhevXWSWsAABLZj.jpg",
+					"url": "https://t.co/pb9g52jen1",
+					"display_url": "pic.twitter.com/pb9g52jen1",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1303703436559609857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303702872618602500,
+		"in_reply_to_status_id_str": "1303702872618602497",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9435,
+			"friends_count": 416,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "omg the etymology of this word is perfect (click through here to read https://t.co/0tisrJCOBu) https://t.co/pb9g52jen1"
+	},
+	{
 		"created_at": "Tue Sep 08 18:24:56 +0000 2020",
 		"id": 1303398933515862000,
 		"id_str": "1303398933515862016",
