@@ -1,6 +1,1686 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 01:18:29 +0000 2020",
+		"id": 1306034600221778000,
+		"id_str": "1306039720410075136",
+		"full_text": "It can be hard to visualize how many acres have burned in the West (&gt; 5 million!), so if it helps it's about the same as the number of Americans who have been infected with Covid (~ 6 million)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 681473,
+			"id_str": "681473",
+			"name": "Jacob Harris",
+			"screen_name": "harrisj",
+			"location": "Takoma Park, MD",
+			"description": "Software Engineering Lead at @NavaPBC, proud former troublemaker at @18F and @nytimes. Data scold. Personal account: @harrisj_self. Views solely my own.",
+			"url": "https://t.co/rINZDLBcoa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rINZDLBcoa",
+							"expanded_url": "https://harrisj.github.io/",
+							"display_url": "harrisj.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16095,
+			"friends_count": 714,
+			"listed_count": 1119,
+			"created_at": "Mon Jan 22 17:04:43 +0000 2007",
+			"favourites_count": 23126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 177254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/596413350533320704/A8kBJwuw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/596413350533320704/A8kBJwuw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/681473/1398864865",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "585858",
+			"profile_sidebar_fill_color": "D2D2D2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It can be hard to visualize how many acres have burned in the West (&gt; 5 million!), so if it helps it's about the same as the number of Americans who have been infected with Covid (~ 6 million)"
+	},
+	{
+		"created_at": "Wed Sep 16 00:42:41 +0000 2020",
+		"id": 1306028797024702500,
+		"id_str": "1306030713674883072",
+		"full_text": "How fast has wildfire season changed?\n\nIn 2018, I wrote about the concerning news that six of California’s 10 largest fires on record had happened in the past decade.\n\nToday, five of California’s 10 largest fires on record have happened *since July.* https://t.co/XmGcKQwU6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XmGcKQwU6C",
+					"expanded_url": "https://www.theatlantic.com/science/archive/2020/09/most-important-number-for-the-wests-wildfires-california/616359/",
+					"display_url": "theatlantic.com/science/archiv…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400631,
+			"id_str": "2400631",
+			"name": "Robinson Meyer",
+			"screen_name": "yayitsrob",
+			"location": "Washington, DC",
+			"description": "staff writer at @TheAtlantic, cofounder of @Covid19Tracking, visiting fellow at @UChiEnergy. rob at theatlantic dot com, DM for signal.",
+			"url": "https://t.co/Y8EohtbuUI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y8EohtbuUI",
+							"expanded_url": "https://www.theatlantic.com/author/robinson-meyer/",
+							"display_url": "theatlantic.com/author/robinso…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37636,
+			"friends_count": 2181,
+			"listed_count": 1437,
+			"created_at": "Tue Mar 27 04:03:09 +0000 2007",
+			"favourites_count": 51247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080227699388567552/ooaQIuOH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080227699388567552/ooaQIuOH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400631/1398432472",
+			"profile_link_color": "D59B40",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFC999",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How fast has wildfire season changed?\n\nIn 2018, I wrote about the concerning news that six of California’s 10 largest fires on record had happened in the past decade.\n\nToday, five of California’s 10 largest fires on record have happened *since July.* https://t.co/XmGcKQwU6C"
+	},
+	{
+		"created_at": "Wed Sep 16 00:40:44 +0000 2020",
+		"id": 1306030222249164800,
+		"id_str": "1306030222249164801",
+		"full_text": "@yayitsrob jfc Rob I am sorry you are on both the pandemic beat and the climate change beat (I am, selfishly, glad for me, but that is a lot)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yayitsrob",
+					"name": "Robinson Meyer",
+					"id": 2400631,
+					"id_str": "2400631",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306028797024702500,
+		"in_reply_to_status_id_str": "1306028797024702465",
+		"in_reply_to_user_id": 2400631,
+		"in_reply_to_user_id_str": "2400631",
+		"in_reply_to_screen_name": "yayitsrob",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9455,
+			"friends_count": 420,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@yayitsrob jfc Rob I am sorry you are on both the pandemic beat and the climate change beat (I am, selfishly, glad for me, but that is a lot)"
+	},
+	{
+		"created_at": "Tue Sep 15 23:35:52 +0000 2020",
+		"id": 1306013898894717000,
+		"id_str": "1306013898894716929",
+		"full_text": "@bjirish It makes sense to me that for some students and some teachers it will work better! Why should we expect everyone learns/teaches the same way?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bjirish",
+					"name": "Bradley Irish",
+					"id": 770697312687366100,
+					"id_str": "770697312687366144",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306010365290000400,
+		"in_reply_to_status_id_str": "1306010365290000385",
+		"in_reply_to_user_id": 770697312687366100,
+		"in_reply_to_user_id_str": "770697312687366144",
+		"in_reply_to_screen_name": "bjirish",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9455,
+			"friends_count": 420,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bjirish It makes sense to me that for some students and some teachers it will work better! Why should we expect everyone learns/teaches the same way?"
+	},
+	{
+		"created_at": "Tue Sep 15 23:34:47 +0000 2020",
+		"id": 1306007577743032300,
+		"id_str": "1306013623588970498",
+		"full_text": "When I was a student music therapist, a pt asked me to play &amp; asked if I could  “make it sound like hope”. I’ve never forgotten this. Her request continues to be one of the most powerful questions I’ve ever been asked. This week, we ask this question again with the @DoverQuartet https://t.co/BmQmrutDez",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DoverQuartet",
+					"name": "DoverQuartet",
+					"id": 491448625,
+					"id_str": "491448625",
+					"indices": [
+						270,
+						283
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BmQmrutDez",
+					"expanded_url": "https://twitter.com/pulsemusicmedia/status/1305979534081228801",
+					"display_url": "twitter.com/pulsemusicmedi…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 204395142,
+			"id_str": "204395142",
+			"name": "SarahRose Black, PhD",
+			"screen_name": "sarahroseblack",
+			"location": "Toronto, Ontario",
+			"description": "#Musictherapist #psychotherapist @pmcancercentre 🩺 @KensingtonHlth Hospice 🏩 Making #musictherapy a standard of #healthcare 🎶 Co-creator @PulseMusicMedia 🎼",
+			"url": "https://t.co/8GyvWVdjSy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8GyvWVdjSy",
+							"expanded_url": "http://www.pulsemusicmedia.com",
+							"display_url": "pulsemusicmedia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 863,
+			"friends_count": 2234,
+			"listed_count": 28,
+			"created_at": "Mon Oct 18 16:08:04 +0000 2010",
+			"favourites_count": 3562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2940276874/97c4eda0f4974d2a9b234c6fe61123b9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2940276874/97c4eda0f4974d2a9b234c6fe61123b9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/204395142/1595983249",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305979534081228800,
+		"quoted_status_id_str": "1305979534081228801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BmQmrutDez",
+			"expanded": "https://twitter.com/pulsemusicmedia/status/1305979534081228801",
+			"display": "twitter.com/pulsemusicmedi…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 15 21:19:19 +0000 2020",
+			"id": 1305979534081228800,
+			"id_str": "1305979534081228801",
+			"full_text": "“Can you make it sound like hope?” Today we welcome the incredible @DoverQuartet to perform Barber’s Adagio as we explore hope through music. Don’t miss this stunning performance! \n\nhttps://t.co/dm2eWsv5ZN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DoverQuartet",
+						"name": "DoverQuartet",
+						"id": 491448625,
+						"id_str": "491448625",
+						"indices": [
+							67,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dm2eWsv5ZN",
+						"expanded_url": "https://youtu.be/M5yfoNVgthQ",
+						"display_url": "youtu.be/M5yfoNVgthQ",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1261407867942375400,
+				"id_str": "1261407867942375424",
+				"name": "Pulse Music Media",
+				"screen_name": "pulsemusicmedia",
+				"location": "Toronto, Ontario",
+				"description": "Why Music? Cellist @andrewascenzo 🎻 & #musictherapist @sarahroseblack 🎶 dive in and discuss. 🔎🎵 https://t.co/bFL9tpkury",
+				"url": "https://t.co/8GyvWVdjSy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8GyvWVdjSy",
+								"expanded_url": "http://www.pulsemusicmedia.com",
+								"display_url": "pulsemusicmedia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bFL9tpkury",
+								"expanded_url": "https://youtu.be/ikg4Tvcn5AQ",
+								"display_url": "youtu.be/ikg4Tvcn5AQ",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 62,
+				"listed_count": 0,
+				"created_at": "Fri May 15 21:28:43 +0000 2020",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1261522086121570305/hBHEzh1h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261522086121570305/hBHEzh1h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261407867942375424/1595996462",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I was a student music therapist, a pt asked me to play &amp; asked if I could  “make it sound like hope”. I’ve never forgotten this. Her request continues to be one of the most powerful questions I’ve ever been asked. This week, we ask this question again with the @DoverQuartet https://t.co/BmQmrutDez"
+	},
+	{
+		"created_at": "Tue Sep 15 16:46:49 +0000 2020",
+		"id": 1305854127721910300,
+		"id_str": "1305910956636110854",
+		"full_text": "Scientific American has never endorsed a presidential candidate in our 175-year history—until now. \n\nThe 2020 election is literally a matter of life and death. We urge you to vote for health, science and Joe Biden for President.\nhttps://t.co/8TlH7shjFn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TlH7shjFn",
+					"expanded_url": "https://www.scientificamerican.com/article/scientific-american-endorses-joe-biden/",
+					"display_url": "scientificamerican.com/article/scient…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14647570,
+			"id_str": "14647570",
+			"name": "Scientific American",
+			"screen_name": "sciam",
+			"location": "New York City",
+			"description": "Awesome discoveries. Expert insights. Science that shapes the world.",
+			"url": "http://t.co/FfSfw3mLnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FfSfw3mLnA",
+							"expanded_url": "http://www.scientificamerican.com",
+							"display_url": "scientificamerican.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3899243,
+			"friends_count": 753,
+			"listed_count": 29227,
+			"created_at": "Sun May 04 12:39:32 +0000 2008",
+			"favourites_count": 4122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197574569680392192/ZTfk5gZ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197574569680392192/ZTfk5gZ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14647570/1597756976",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D1423D",
+			"profile_sidebar_fill_color": "ECECEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71410,
+		"favorite_count": 143776,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scientific American has never endorsed a presidential candidate in our 175-year history—until now. \n\nThe 2020 election is literally a matter of life and death. We urge you to vote for health, science and Joe Biden for President.\nhttps://t.co/8TlH7shjFn"
+	},
+	{
+		"created_at": "Tue Sep 15 16:43:08 +0000 2020",
+		"id": 1305909686684745700,
+		"id_str": "1305910028298223616",
+		"full_text": "Here's a model animation showing the smoke from western wildfires pouring over not just DC but the majority of the Lower 48... https://t.co/nws4AcVyh1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305909593214771200,
+					"id_str": "1305909593214771203",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eh-F2yRXYAMTt8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eh-F2yRXYAMTt8F.jpg",
+					"url": "https://t.co/nws4AcVyh1",
+					"display_url": "pic.twitter.com/nws4AcVyh1",
+					"expanded_url": "https://twitter.com/capitalweather/status/1305909686684745728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 984,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 984,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305909593214771200,
+					"id_str": "1305909593214771203",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eh-F2yRXYAMTt8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eh-F2yRXYAMTt8F.jpg",
+					"url": "https://t.co/nws4AcVyh1",
+					"display_url": "pic.twitter.com/nws4AcVyh1",
+					"expanded_url": "https://twitter.com/capitalweather/status/1305909686684745728/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 984,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 984,
+							"h": 632,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							123,
+							79
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eh-F2yRXYAMTt8F.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305908386899394600,
+		"in_reply_to_status_id_str": "1305908386899394561",
+		"in_reply_to_user_id": 15309804,
+		"in_reply_to_user_id_str": "15309804",
+		"in_reply_to_screen_name": "capitalweather",
+		"user": {
+			"id": 15309804,
+			"id_str": "15309804",
+			"name": "Capital Weather Gang",
+			"screen_name": "capitalweather",
+			"location": "Washington, D.C.",
+			"description": "D.C.-area and worldwide weather news from the Washington Post | contact: weather@washpost.com",
+			"url": "https://t.co/7ZF54aI7po",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ZF54aI7po",
+							"expanded_url": "https://www.washingtonpost.com/weather",
+							"display_url": "washingtonpost.com/weather",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1084928,
+			"friends_count": 1719,
+			"listed_count": 5619,
+			"created_at": "Thu Jul 03 16:18:31 +0000 2008",
+			"favourites_count": 28688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 94832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690370402997125120/z108UqEi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690370402997125120/z108UqEi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15309804/1596055249",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's a model animation showing the smoke from western wildfires pouring over not just DC but the majority of the Lower 48... https://t.co/nws4AcVyh1"
+	},
+	{
+		"created_at": "Tue Sep 15 14:52:24 +0000 2020",
+		"id": 1305860875614593000,
+		"id_str": "1305882162760224768",
+		"full_text": "How would society be different if all girls &amp; women in the US were granted equitable access to scientific education? In 1836, Mary Griffith imagined that world in her novella Three Hundred Years Hence. It's excerpted in my new anthology, Projections:\n\nhttps://t.co/HSPHPiahx6 https://t.co/KqisbJEXt3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HSPHPiahx6",
+					"expanded_url": "https://www.hingstonandolsen.com/projections",
+					"display_url": "hingstonandolsen.com/projections",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305860756005703700,
+					"id_str": "1305860756005703680",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh9ZcFfX0AAs7IT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh9ZcFfX0AAs7IT.jpg",
+					"url": "https://t.co/KqisbJEXt3",
+					"display_url": "pic.twitter.com/KqisbJEXt3",
+					"expanded_url": "https://twitter.com/rebeccaromney/status/1305860875614593024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305860756005703700,
+					"id_str": "1305860756005703680",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh9ZcFfX0AAs7IT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh9ZcFfX0AAs7IT.jpg",
+					"url": "https://t.co/KqisbJEXt3",
+					"display_url": "pic.twitter.com/KqisbJEXt3",
+					"expanded_url": "https://twitter.com/rebeccaromney/status/1305860875614593024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34857868,
+			"id_str": "34857868",
+			"name": "Rebecca Romney",
+			"screen_name": "rebeccaromney",
+			"location": "Washington, DC",
+			"description": "Rare book dealer @typepunchmatrix. The book expert @PawnStars. Author #PrintersError @HarperCollins. “A cockeyed optimist of bibliophilia” - VARIETY",
+			"url": "https://t.co/L16cK6UowD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L16cK6UowD",
+							"expanded_url": "http://www.typepunchmatrix.com",
+							"display_url": "typepunchmatrix.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41125,
+			"friends_count": 1547,
+			"listed_count": 194,
+			"created_at": "Fri Apr 24 05:28:17 +0000 2009",
+			"favourites_count": 10716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689290313555378176/7A5_CYDu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689290313555378176/7A5_CYDu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34857868/1596673208",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How would society be different if all girls &amp; women in the US were granted equitable access to scientific education? In 1836, Mary Griffith imagined that world in her novella Three Hundred Years Hence. It's excerpted in my new anthology, Projections:\n\nhttps://t.co/HSPHPiahx6 https://t.co/KqisbJEXt3"
+	},
+	{
+		"created_at": "Tue Sep 15 14:42:19 +0000 2020",
+		"id": 1305879296305778700,
+		"id_str": "1305879627030814722",
+		"full_text": "Angela Chen (@chengela)'s wonderful book ACE is out today! Here she shares how writing a book about asexuality helped her learn to look at data, and also look beyond it to interrogate the meaning of \"normal\" and who it's really for: https://t.co/mVCDEuuktw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chengela",
+					"name": "Angela Chen",
+					"id": 299449780,
+					"id_str": "299449780",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mVCDEuuktw",
+					"expanded_url": "https://catapult.co/stories/angela-chen-data-column-writing-book-on-asexuality-taught-me-to-look-beyond-numbers",
+					"display_url": "catapult.co/stories/angela…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739602678,
+			"id_str": "739602678",
+			"name": "Nicole Chung",
+			"screen_name": "nicolesjchung",
+			"location": "US",
+			"description": "national bestseller ALL YOU CAN EVER KNOW | working on my next book for @eccobooks | EIC, https://t.co/Rb9e6Z497o | I stand by all my heart emojis. | she/her",
+			"url": "https://t.co/rZBzB8f2l1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rZBzB8f2l1",
+							"expanded_url": "https://bookshop.org/books/7308470/9781948226370",
+							"display_url": "bookshop.org/books/7308470/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Rb9e6Z497o",
+							"expanded_url": "http://catapult.co",
+							"display_url": "catapult.co",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 75780,
+			"friends_count": 3042,
+			"listed_count": 861,
+			"created_at": "Mon Aug 06 01:33:31 +0000 2012",
+			"favourites_count": 105706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 51349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F3F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304587958603874306/NzDbcDOd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304587958603874306/NzDbcDOd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739602678/1599781732",
+			"profile_link_color": "0665B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Angela Chen (@chengela)'s wonderful book ACE is out today! Here she shares how writing a book about asexuality helped her learn to look at data, and also look beyond it to interrogate the meaning of \"normal\" and who it's really for: https://t.co/mVCDEuuktw"
+	},
+	{
+		"created_at": "Tue Sep 15 14:40:28 +0000 2020",
+		"id": 1305879159508525000,
+		"id_str": "1305879159508525057",
+		"full_text": "@secondshelfbks It is! I also think that what you experienced in setting up shop brought in other issues, not around who suffered the longest, but about the value of immersing yourself in a topic's history. Most of us invested in this work are not looking to compete but for colleagues.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "secondshelfbks",
+					"name": "The Second Shelf is Online!",
+					"id": 921715874318385200,
+					"id_str": "921715874318385153",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305873528944832500,
+		"in_reply_to_status_id_str": "1305873528944832516",
+		"in_reply_to_user_id": 921715874318385200,
+		"in_reply_to_user_id_str": "921715874318385153",
+		"in_reply_to_screen_name": "secondshelfbks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9455,
+			"friends_count": 420,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@secondshelfbks It is! I also think that what you experienced in setting up shop brought in other issues, not around who suffered the longest, but about the value of immersing yourself in a topic's history. Most of us invested in this work are not looking to compete but for colleagues."
+	},
+	{
+		"created_at": "Tue Sep 15 13:53:01 +0000 2020",
+		"id": 1305867216961839000,
+		"id_str": "1305867216961839105",
+		"full_text": "@JenHoward I was just about to say, I’m only part way through the second chapter but it’s really not seeming angry to me!! But yay!!!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenHoward",
+					"name": "Jen Howard",
+					"id": 16016618,
+					"id_str": "16016618",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1305845999475347500,
+		"in_reply_to_status_id_str": "1305845999475347456",
+		"in_reply_to_user_id": 16016618,
+		"in_reply_to_user_id_str": "16016618",
+		"in_reply_to_screen_name": "JenHoward",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9455,
+			"friends_count": 420,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JenHoward I was just about to say, I’m only part way through the second chapter but it’s really not seeming angry to me!! But yay!!!"
+	},
+	{
+		"created_at": "Tue Sep 15 13:20:49 +0000 2020",
+		"id": 1305859115978297300,
+		"id_str": "1305859115978297346",
+		"full_text": "@all_that_we_see just saying how infuriating all this is; I'm sorry.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "all_that_we_see",
+					"name": "SELINA 📝",
+					"id": 256411934,
+					"id_str": "256411934",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305659716194852900,
+		"in_reply_to_status_id_str": "1305659716194852864",
+		"in_reply_to_user_id": 256411934,
+		"in_reply_to_user_id_str": "256411934",
+		"in_reply_to_screen_name": "all_that_we_see",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9455,
+			"friends_count": 420,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@all_that_we_see just saying how infuriating all this is; I'm sorry."
+	},
+	{
 		"created_at": "Tue Sep 15 00:52:20 +0000 2020",
 		"id": 1305670755464761300,
 		"id_str": "1305670755464761346",
