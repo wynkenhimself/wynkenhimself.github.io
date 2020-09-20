@@ -1,6 +1,1010 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 00:20:35 +0000 2020",
+		"id": 1307474701543968800,
+		"id_str": "1307474701543968768",
+		"full_text": "@CapitolClio I’m not sure I can bear listening to that story",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CapitolClio",
+					"name": "Meredith Hindley",
+					"id": 43453491,
+					"id_str": "43453491",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1307455794359799800,
+		"in_reply_to_status_id_str": "1307455794359799808",
+		"in_reply_to_user_id": 43453491,
+		"in_reply_to_user_id_str": "43453491",
+		"in_reply_to_screen_name": "CapitolClio",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9471,
+			"friends_count": 421,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CapitolClio I’m not sure I can bear listening to that story"
+	},
+	{
+		"created_at": "Sun Sep 20 00:19:58 +0000 2020",
+		"id": 1307445198222504000,
+		"id_str": "1307474547868872712",
+		"full_text": "👀 https://t.co/IqmaAGLHf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IqmaAGLHf3",
+					"expanded_url": "https://twitter.com/jackbandy/status/1307444689507844100",
+					"display_url": "twitter.com/jackbandy/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14174091,
+			"id_str": "14174091",
+			"name": "Nick Seaver",
+			"screen_name": "npseaver",
+			"location": "Somerville, MA",
+			"description": "anthropology, algorithms, attention | asst prof @tuftsuniversity | mr @thisischristina | @seaverbot's... dad? | he/him | \"very relatable, but not exactly chill\"",
+			"url": "https://t.co/lWcla9UZSK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lWcla9UZSK",
+							"expanded_url": "http://anthropology.town",
+							"display_url": "anthropology.town",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9921,
+			"friends_count": 2225,
+			"listed_count": 265,
+			"created_at": "Wed Mar 19 02:14:35 +0000 2008",
+			"favourites_count": 120382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258809656253743110/vXJeVtd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258809656253743110/vXJeVtd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14174091/1541077919",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307444689507844000,
+		"quoted_status_id_str": "1307444689507844100",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IqmaAGLHf3",
+			"expanded": "https://twitter.com/jackbandy/status/1307444689507844100",
+			"display": "twitter.com/jackbandy/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 19 22:21:19 +0000 2020",
+			"id": 1307444689507844000,
+			"id_str": "1307444689507844100",
+			"full_text": "The cropping algorithm was trained with eye-tracking data (https://t.co/iIgH7k5NFL), so it also misogynistic, ex: https://t.co/Sr26Zu3wWM https://t.co/NovdKlKCTz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iIgH7k5NFL",
+						"expanded_url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/Smart-Auto-Cropping-of-Images.html",
+						"display_url": "blog.twitter.com/engineering/en…",
+						"indices": [
+							59,
+							82
+						]
+					},
+					{
+						"url": "https://t.co/Sr26Zu3wWM",
+						"expanded_url": "https://twitter.com/EricaJoy/status/1307420092594974720",
+						"display_url": "twitter.com/EricaJoy/statu…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1307443449285750800,
+						"id_str": "1307443449285750785",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EiT449aWsAEpFNx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiT449aWsAEpFNx.jpg",
+						"url": "https://t.co/NovdKlKCTz",
+						"display_url": "pic.twitter.com/NovdKlKCTz",
+						"expanded_url": "https://twitter.com/jackbandy/status/1307444689507844100/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1192,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1192,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1307443449285750800,
+						"id_str": "1307443449285750785",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EiT449aWsAEpFNx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiT449aWsAEpFNx.jpg",
+						"url": "https://t.co/NovdKlKCTz",
+						"display_url": "pic.twitter.com/NovdKlKCTz",
+						"expanded_url": "https://twitter.com/jackbandy/status/1307444689507844100/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1192,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1192,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47501330,
+				"id_str": "47501330",
+				"name": "Jack |————6ft.————| Bandy",
+				"screen_name": "jackbandy",
+				"location": "Rogers Park, Chicago",
+				"description": "PhD student @NorthwesternU\n\nStudying AI, ethics, and media\n\n@WheatonCollege & @universityofky alum",
+				"url": "https://t.co/4jQoNfBmpx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4jQoNfBmpx",
+								"expanded_url": "http://www.jackbandy.com",
+								"display_url": "jackbandy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 392,
+				"friends_count": 828,
+				"listed_count": 2,
+				"created_at": "Tue Jun 16 01:15:49 +0000 2009",
+				"favourites_count": 2591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 628,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5A9FDB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027598664653402112/yTTqkBbA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027598664653402112/yTTqkBbA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47501330/1579988180",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1307420092594974700,
+			"quoted_status_id_str": "1307420092594974720",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Sr26Zu3wWM",
+				"expanded": "https://twitter.com/EricaJoy/status/1307420092594974720",
+				"display": "twitter.com/EricaJoy/statu…"
+			},
+			"retweet_count": 168,
+			"favorite_count": 403,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/IqmaAGLHf3"
+	},
+	{
+		"created_at": "Sun Sep 20 00:18:38 +0000 2020",
+		"id": 1307474209963217000,
+		"id_str": "1307474209963216897",
+		"full_text": "@LibraryatNight I mean, “title” here is a shortcut but Shakespeare’s first folio. I will stake my academic life on this.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibraryatNight",
+					"name": "Megan Rosenbloom 📚",
+					"id": 19733088,
+					"id_str": "19733088",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1307457401193296000,
+		"in_reply_to_status_id_str": "1307457401193295875",
+		"in_reply_to_user_id": 19733088,
+		"in_reply_to_user_id_str": "19733088",
+		"in_reply_to_screen_name": "LibraryatNight",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9471,
+			"friends_count": 421,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LibraryatNight I mean, “title” here is a shortcut but Shakespeare’s first folio. I will stake my academic life on this."
+	},
+	{
+		"created_at": "Sat Sep 19 22:48:18 +0000 2020",
+		"id": 1307451480367075300,
+		"id_str": "1307451480367075329",
+		"full_text": "@abbymullen The lobster claws are a good touch",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abbymullen",
+					"name": "Abby Mullen",
+					"id": 247089092,
+					"id_str": "247089092",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1307448972001378300,
+		"in_reply_to_status_id_str": "1307448972001378304",
+		"in_reply_to_user_id": 247089092,
+		"in_reply_to_user_id_str": "247089092",
+		"in_reply_to_screen_name": "abbymullen",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/5LDwSqaw3N | https://t.co/aDAGu7J6Bn",
+			"url": "https://t.co/5cZS3ct145",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3ct145",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5LDwSqaw3N",
+							"expanded_url": "https://EarlyPrintedBooks.com",
+							"display_url": "EarlyPrintedBooks.com",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/aDAGu7J6Bn",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9471,
+			"friends_count": 421,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@abbymullen The lobster claws are a good touch"
+	},
+	{
+		"created_at": "Sat Sep 19 11:42:21 +0000 2020",
+		"id": 1307267447238602800,
+		"id_str": "1307283886775336962",
+		"full_text": "This energy is significant. Grief collectively shared is an energy and it matters. It recognizes elements of collective fate that we so often fail to recognize. My humble suggestion is not to listen to anyone who tells folks to restrain this, or that their grief is irrelevant. https://t.co/s176Whnr6l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s176Whnr6l",
+					"expanded_url": "https://twitter.com/NBCNews/status/1307138710123708416",
+					"display_url": "twitter.com/NBCNews/status…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2218461564,
+			"id_str": "2218461564",
+			"name": "Human Survival Is A Political Agenda",
+			"screen_name": "Ed_Baptist",
+			"location": "Ithaca, NY",
+			"description": "Woe to the downpressors. Made in Durham, NC. Name is Baptist, like John The. Not going to meet you behind school gym for a Woke-Off. Views are obviously my own.",
+			"url": "https://t.co/Z2CLrrUNJd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z2CLrrUNJd",
+							"expanded_url": "http://history.arts.cornell.edu/faculty-department-baptist.php",
+							"display_url": "history.arts.cornell.edu/faculty-depart…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8182,
+			"friends_count": 984,
+			"listed_count": 169,
+			"created_at": "Wed Nov 27 21:29:20 +0000 2013",
+			"favourites_count": 31110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958000623684788224/NUuAeXpX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958000623684788224/NUuAeXpX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307138710123708400,
+		"quoted_status_id_str": "1307138710123708416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s176Whnr6l",
+			"expanded": "https://twitter.com/NBCNews/status/1307138710123708416",
+			"display": "twitter.com/NBCNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 19 02:05:28 +0000 2020",
+			"id": 1307138710123708400,
+			"id_str": "1307138710123708416",
+			"full_text": "Mourners outside the US Supreme Court chant “RBG” on the night of Justice Ruth Bader Ginsburg’s death. https://t.co/3n57xGQ93Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1307138664871481300,
+						"id_str": "1307138664871481344",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/EiPjuh4WsAA79Ak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiPjuh4WsAA79Ak.jpg",
+						"url": "https://t.co/3n57xGQ93Y",
+						"display_url": "pic.twitter.com/3n57xGQ93Y",
+						"expanded_url": "https://twitter.com/NBCNews/status/1307138710123708416/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1307138664871481300,
+						"id_str": "1307138664871481344",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/EiPjuh4WsAA79Ak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiPjuh4WsAA79Ak.jpg",
+						"url": "https://t.co/3n57xGQ93Y",
+						"display_url": "pic.twitter.com/3n57xGQ93Y",
+						"expanded_url": "https://twitter.com/NBCNews/status/1307138710123708416/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 17048,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1307138664871481344/vid/480x270/Y_i9_PqtNEFI1Hy1.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1307138664871481344/pl/Ca-4kj5lSXb_QJ20.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1307138664871481344/vid/1280x720/XcJq7S3zz-awNrEA.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1307138664871481344/vid/640x360/Ei773ZfgzbRyyLn2.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14173315,
+				"id_str": "14173315",
+				"name": "NBC News",
+				"screen_name": "NBCNews",
+				"location": "New York, NY",
+				"description": "News updates from around the 🌎, all day, every day. Home of @NBCBLK, @NBCLatino, @NBCAsianAmerica, @NBCOUT & more.",
+				"url": "https://t.co/HOBYJP3M3J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HOBYJP3M3J",
+								"expanded_url": "http://NBCNews.com/PlanYourVote",
+								"display_url": "NBCNews.com/PlanYourVote",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7771020,
+				"friends_count": 1839,
+				"listed_count": 43779,
+				"created_at": "Tue Mar 18 23:19:17 +0000 2008",
+				"favourites_count": 785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 273148,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062131",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108426393287868423/CyLn5GVQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1593479928",
+				"profile_link_color": "5172A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1442,
+			"favorite_count": 5051,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 67,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This energy is significant. Grief collectively shared is an energy and it matters. It recognizes elements of collective fate that we so often fail to recognize. My humble suggestion is not to listen to anyone who tells folks to restrain this, or that their grief is irrelevant. https://t.co/s176Whnr6l"
+	},
+	{
 		"created_at": "Sat Sep 19 01:58:14 +0000 2020",
 		"id": 1307127650226495500,
 		"id_str": "1307136889951072262",
@@ -1153,7 +2157,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 18620903,
 			"id_str": "18620903",
-			"name": "m@ 🖤😷🏳️‍🌈",
+			"name": "m@ 🖤😷🏳️🌈",
 			"screen_name": "mattschaar",
 			"location": "🗿✈️🌉✈️🏰",
 			"description": "| @usps fanboy | vc @accionvlab, a seed-stage fintech investor (tweets mine) | I run a bit (a lot) | #goblue",
@@ -3856,7 +4860,7 @@ Grailbird.data.tweets_2020_09 =
 		"created_at": "Fri Sep 18 13:23:12 +0000 2020",
 		"id": 1306946877238194200,
 		"id_str": "1306946877238194176",
-		"full_text": "@ArchivesSarah @kmcoulbourne Thanks, that’s helpful! I’m just not finding it infuriating, even when I see its flaws. There’s so much to trigger my anger these days and maybe if I was still frontline doing this stuff I would feel differently. 🤷‍♀️",
+		"full_text": "@ArchivesSarah @kmcoulbourne Thanks, that’s helpful! I’m just not finding it infuriating, even when I see its flaws. There’s so much to trigger my anger these days and maybe if I was still frontline doing this stuff I would feel differently. 🤷♀️",
 		"truncated": false,
 		"display_text_range": [
 			29,
@@ -3985,7 +4989,7 @@ Grailbird.data.tweets_2020_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@ArchivesSarah @kmcoulbourne Thanks, that’s helpful! I’m just not finding it infuriating, even when I see its flaws. There’s so much to trigger my anger these days and maybe if I was still frontline doing this stuff I would feel differently. 🤷‍♀️"
+		"text": "@ArchivesSarah @kmcoulbourne Thanks, that’s helpful! I’m just not finding it infuriating, even when I see its flaws. There’s so much to trigger my anger these days and maybe if I was still frontline doing this stuff I would feel differently. 🤷♀️"
 	},
 	{
 		"created_at": "Fri Sep 18 13:20:19 +0000 2020",
