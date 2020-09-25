@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 24 13:02:10 +0000 2020",
+		"id": 1309114949680214000,
+		"id_str": "1309115912763723777",
+		"full_text": "Really happy to see this “never really lost” comment: this is how to do it, researchers!! Also a nice shoutout to my colleagues Sarah McElroy Mitchell, who is one of the best reference librarians I will ever know. https://t.co/x4ycdgFngI https://t.co/RfD32BJ9ja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x4ycdgFngI",
+					"expanded_url": "https://twitter.com/scottpscottp/status/1308962069035843584",
+					"display_url": "twitter.com/scottpscottp/s…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1309114945594949600,
+					"id_str": "1309114945594949635",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EirpG2ZXgAM3mSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EirpG2ZXgAM3mSd.jpg",
+					"url": "https://t.co/RfD32BJ9ja",
+					"display_url": "pic.twitter.com/RfD32BJ9ja",
+					"expanded_url": "https://twitter.com/arkhamlibrarian/status/1309114949680214016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 435,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309114945594949600,
+					"id_str": "1309114945594949635",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EirpG2ZXgAM3mSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EirpG2ZXgAM3mSd.jpg",
+					"url": "https://t.co/RfD32BJ9ja",
+					"display_url": "pic.twitter.com/RfD32BJ9ja",
+					"expanded_url": "https://twitter.com/arkhamlibrarian/status/1309114949680214016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 435,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2820003021,
+			"id_str": "2820003021",
+			"name": "Rebecca B.",
+			"screen_name": "arkhamlibrarian",
+			"location": "Bloomington, IN",
+			"description": "rare book librarian, book junkie, devotee of the Weird, angry queer, friend to all monsters. nonbinary. she/they",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8012,
+			"friends_count": 5629,
+			"listed_count": 110,
+			"created_at": "Thu Oct 09 17:22:55 +0000 2014",
+			"favourites_count": 74635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1298750082964127749/u2N4SEOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298750082964127749/u2N4SEOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2820003021/1515621838",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1010ecfa7d3a40f8",
+			"url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json",
+			"place_type": "admin",
+			"name": "Indiana",
+			"full_name": "Indiana, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-88.097892,
+							37.771743
+						],
+						[
+							-84.78458,
+							37.771743
+						],
+						[
+							-84.78458,
+							41.761368
+						],
+						[
+							-88.097892,
+							41.761368
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308962069035843600,
+		"quoted_status_id_str": "1308962069035843584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x4ycdgFngI",
+			"expanded": "https://twitter.com/scottpscottp/status/1308962069035843584",
+			"display": "twitter.com/scottpscottp/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 24 02:50:51 +0000 2020",
+			"id": 1308962069035843600,
+			"id_str": "1308962069035843584",
+			"full_text": "The Missing Manuscript of ‘A Red, Red, Rose’ https://t.co/aNDSbNyD89 \n@scotlit @IULillyLibrary @GlasgowBurns @UofSCEnglish",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "scotlit",
+						"name": "ASLS",
+						"id": 104842702,
+						"id_str": "104842702",
+						"indices": [
+							70,
+							78
+						]
+					},
+					{
+						"screen_name": "IULillyLibrary",
+						"name": "IU Lilly Library",
+						"id": 3816626429,
+						"id_str": "3816626429",
+						"indices": [
+							79,
+							94
+						]
+					},
+					{
+						"screen_name": "GlasgowBurns",
+						"name": "Robert Burns C21",
+						"id": 242466589,
+						"id_str": "242466589",
+						"indices": [
+							95,
+							108
+						]
+					},
+					{
+						"screen_name": "UofSCEnglish",
+						"name": "UofSC English Department",
+						"id": 1176540146793140200,
+						"id_str": "1176540146793140225",
+						"indices": [
+							109,
+							122
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aNDSbNyD89",
+						"expanded_url": "https://burnsc21.glasgow.ac.uk/the-missing-manuscript-of-a-red-red-rose/",
+						"display_url": "burnsc21.glasgow.ac.uk/the-missing-ma…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 527893256,
+				"id_str": "527893256",
+				"name": "Patrick Scott/SSL",
+				"screen_name": "ScottpScottp",
+				"location": "University of South Carolina",
+				"description": "Publication news on behalf of SSL; personal updates, incidental opinions, and inevitable typos, my own, not those of the journal, library or university.",
+				"url": "https://t.co/R5bkHVDorI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R5bkHVDorI",
+								"expanded_url": "http://scholarcommons.sc.edu/ssl/",
+								"display_url": "scholarcommons.sc.edu/ssl/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235,
+				"friends_count": 119,
+				"listed_count": 0,
+				"created_at": "Sat Mar 17 22:21:51 +0000 2012",
+				"favourites_count": 1855,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 796,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895810876879519745/s8Q0f7UZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895810876879519745/s8Q0f7UZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/527893256/1552832422",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really happy to see this “never really lost” comment: this is how to do it, researchers!! Also a nice shoutout to my colleagues Sarah McElroy Mitchell, who is one of the best reference librarians I will ever know. https://t.co/x4ycdgFngI https://t.co/RfD32BJ9ja"
+	},
+	{
 		"created_at": "Wed Sep 23 23:31:57 +0000 2020",
 		"id": 1308912014954291200,
 		"id_str": "1308912014954291200",
@@ -1030,7 +1387,7 @@ Grailbird.data.tweets_2020_09 =
 				"name": "Irulan, Princess Royal, Bene Gesserit-trained",
 				"screen_name": "Nicole_Cliffe",
 				"location": "UT",
-				"description": "Slate, SELF, Vulture, ELLE, Catapult & The Guardian. Utahn. 🏳️‍🌈 & #actuallyautistic. EP of \"The Acid King.\" Sussex Squad. Debut horror novel en route.",
+				"description": "Slate, SELF, Vulture, ELLE, Catapult & The Guardian. Utahn. 🏳️🌈 & #actuallyautistic. EP of \"The Acid King.\" Sussex Squad. Debut horror novel en route.",
 				"url": "https://t.co/OB56FWS9Bc",
 				"entities": {
 					"url": {
