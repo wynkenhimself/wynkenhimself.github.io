@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 25 16:16:51 +0000 2020",
+		"id": 1309519135638986800,
+		"id_str": "1309527293690351617",
+		"full_text": "It’s me! Join for a fun chat about books and their museum lives. https://t.co/kBiCnBhSrB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kBiCnBhSrB",
+					"expanded_url": "https://twitter.com/uw_cdmc/status/1309515546346520576",
+					"display_url": "twitter.com/uw_cdmc/status…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28601277,
+			"id_str": "28601277",
+			"name": "Lauren Gottlieb-Miller",
+			"screen_name": "Lgottiebmiller",
+			"location": "Houston, TX",
+			"description": "museum librarian, art & outdoors enthusiast, weird mom, I bake things. Views my own. She/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 479,
+			"listed_count": 1,
+			"created_at": "Fri Apr 03 16:47:51 +0000 2009",
+			"favourites_count": 1777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303497735270797312/U7C0XNDd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303497735270797312/U7C0XNDd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28601277/1587428458",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309515546346520600,
+		"quoted_status_id_str": "1309515546346520576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kBiCnBhSrB",
+			"expanded": "https://twitter.com/uw_cdmc/status/1309515546346520576",
+			"display": "twitter.com/uw_cdmc/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 25 15:30:10 +0000 2020",
+			"id": 1309515546346520600,
+			"id_str": "1309515546346520576",
+			"full_text": "Happening Tues 09/29! At 4pm CT, @UWMadiSchool alum Lauren Gottlieb-Miller will be discussing her work with the Menil Collection, librarianship in art museums, and the #materialculture of books with @UW_CHPDC Director Dr. Jonathan Senchyne.\n\nTo register: https://t.co/mV4yzzRKuZ https://t.co/RDO2jt155v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "materialculture",
+						"indices": [
+							168,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UWMadiSchool",
+						"name": "UW-Madison iSchool",
+						"id": 33270824,
+						"id_str": "33270824",
+						"indices": [
+							33,
+							46
+						]
+					},
+					{
+						"screen_name": "UW_CHPDC",
+						"name": "Center for the History of Print & Digital Culture",
+						"id": 744489884,
+						"id_str": "744489884",
+						"indices": [
+							199,
+							208
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mV4yzzRKuZ",
+						"expanded_url": "https://uwmadison.webex.com/uwmadison/onstage/g.php?MTID=e1f7703d2a96aa8b97785f1dcbe6b677e",
+						"display_url": "uwmadison.webex.com/uwmadison/onst…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1309514816994898000,
+						"id_str": "1309514816994897920",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EixUybcXcAAYTl0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EixUybcXcAAYTl0.jpg",
+						"url": "https://t.co/RDO2jt155v",
+						"display_url": "pic.twitter.com/RDO2jt155v",
+						"expanded_url": "https://twitter.com/uw_cdmc/status/1309515546346520576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1111,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1309514816994898000,
+						"id_str": "1309514816994897920",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EixUybcXcAAYTl0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EixUybcXcAAYTl0.jpg",
+						"url": "https://t.co/RDO2jt155v",
+						"display_url": "pic.twitter.com/RDO2jt155v",
+						"expanded_url": "https://twitter.com/uw_cdmc/status/1309515546346520576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1111,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372383781,
+				"id_str": "372383781",
+				"name": "Center for Design and Material Culture",
+				"screen_name": "uw_cdmc",
+				"location": "Madison, WI",
+				"description": "The Center for Design and Material Culture focuses on the interdisciplinary study of textiles, material culture, and design thinking @uwsohe",
+				"url": "https://t.co/iNIfEtlxsY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iNIfEtlxsY",
+								"expanded_url": "http://Sohe.wisc.edu/cdmc",
+								"display_url": "Sohe.wisc.edu/cdmc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 446,
+				"friends_count": 528,
+				"listed_count": 15,
+				"created_at": "Mon Sep 12 17:33:05 +0000 2011",
+				"favourites_count": 1335,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 592,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268199149054418948/zqiS-vAa_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268199149054418948/zqiS-vAa_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372383781/1591197216",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "7E7F80",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s me! Join for a fun chat about books and their museum lives. https://t.co/kBiCnBhSrB"
+	},
+	{
+		"created_at": "Fri Sep 25 15:35:44 +0000 2020",
+		"id": 1309515381493715000,
+		"id_str": "1309516948955377664",
+		"full_text": "She is looking for programs that would welcome her interest in feminist information management; performed, popular and folkloric culture; and 16th/17th century collections. Any suggestions? Feel free to DM. 2/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1309514412441690000,
+		"in_reply_to_status_id_str": "1309514412441690112",
+		"in_reply_to_user_id": 1316087828,
+		"in_reply_to_user_id_str": "1316087828",
+		"in_reply_to_screen_name": "EEllenMac",
+		"user": {
+			"id": 1316087828,
+			"id_str": "1316087828",
+			"name": "Ellen MacKay",
+			"screen_name": "EEllenMac",
+			"location": "",
+			"description": "Professor of Shakespeare, early modern theatre, theories of performance, U of Chicago. Interested in DH, heritage & reenactment, cryptoecology, forgery, sharks.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1325,
+			"friends_count": 1244,
+			"listed_count": 17,
+			"created_at": "Sat Mar 30 09:13:52 +0000 2013",
+			"favourites_count": 15210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661549890011467776/rhFzkEdD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661549890011467776/rhFzkEdD_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "She is looking for programs that would welcome her interest in feminist information management; performed, popular and folkloric culture; and 16th/17th century collections. Any suggestions? Feel free to DM. 2/2"
+	},
+	{
+		"created_at": "Fri Sep 25 15:35:42 +0000 2020",
+		"id": 1309514412441690000,
+		"id_str": "1309516940818501632",
+		"full_text": "Library twitter folks, I seek advice for a 2018 advisee who is interested in pursuing an MLS (and is very open to programs in any region or nation). She wrote a fabulous thesis on Pepys and the latent prurience of ballad collecting and cataloguing, based on archival research. 1/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1316087828,
+			"id_str": "1316087828",
+			"name": "Ellen MacKay",
+			"screen_name": "EEllenMac",
+			"location": "",
+			"description": "Professor of Shakespeare, early modern theatre, theories of performance, U of Chicago. Interested in DH, heritage & reenactment, cryptoecology, forgery, sharks.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1325,
+			"friends_count": 1244,
+			"listed_count": 17,
+			"created_at": "Sat Mar 30 09:13:52 +0000 2013",
+			"favourites_count": 15210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661549890011467776/rhFzkEdD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661549890011467776/rhFzkEdD_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Library twitter folks, I seek advice for a 2018 advisee who is interested in pursuing an MLS (and is very open to programs in any region or nation). She wrote a fabulous thesis on Pepys and the latent prurience of ballad collecting and cataloguing, based on archival research. 1/2"
+	},
+	{
 		"created_at": "Thu Sep 24 13:02:10 +0000 2020",
 		"id": 1309114949680214000,
 		"id_str": "1309115912763723777",
