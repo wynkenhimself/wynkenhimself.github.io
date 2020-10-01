@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 15:34:42 +0000 2020",
+		"id": 1311320833957257200,
+		"id_str": "1311328627137675270",
+		"full_text": "Kevin Young, the poetry editor of The New Yorker and director of the Schomburg Center for Research in Black Culture, will be the next leader of the Museum of African American History and Culture in Washington https://t.co/3WyU1XxhTL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3WyU1XxhTL",
+					"expanded_url": "https://nyti.ms/2S98w1g",
+					"display_url": "nyti.ms/2S98w1g",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440641,
+			"id_str": "1440641",
+			"name": "New York Times Arts",
+			"screen_name": "nytimesarts",
+			"location": "New York, NY",
+			"description": "Arts and entertainment news from The New York Times.",
+			"url": "http://t.co/0H74AaBX8Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0H74AaBX8Y",
+							"expanded_url": "http://www.nytimes.com/arts",
+							"display_url": "nytimes.com/arts",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2691931,
+			"friends_count": 234,
+			"listed_count": 18912,
+			"created_at": "Sun Mar 18 20:30:33 +0000 2007",
+			"favourites_count": 1774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 174942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964180969702895616/wJcdJ1MU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964180969702895616/wJcdJ1MU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440641/1510847448",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "323232",
+			"profile_sidebar_fill_color": "E7EFF8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 1117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kevin Young, the poetry editor of The New Yorker and director of the Schomburg Center for Research in Black Culture, will be the next leader of the Museum of African American History and Culture in Washington https://t.co/3WyU1XxhTL"
+	},
+	{
+		"created_at": "Wed Sep 30 13:07:43 +0000 2020",
+		"id": 1311290856192774100,
+		"id_str": "1311291636878540805",
+		"full_text": "“Both sides” media not doing as well as this teenager. https://t.co/ZGBOrDUMzo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZGBOrDUMzo",
+					"expanded_url": "https://www.reddit.com/r/teenagers/comments/j2ifl4/i_counted_all_of_the_times_each_candidate/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+					"display_url": "reddit.com/r/teenagers/co…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117537175,
+			"id_str": "117537175",
+			"name": "ForeverSalty",
+			"screen_name": "ProfKFH",
+			"location": "NYC",
+			"description": "Lucyle Hook Chair. Africana & English Prof @BarnardCollege. Blk Feminist. Quilter. Uses more tech than is good for her. Follow/RT ≠ endorsement.@ShangeWorlds",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6966,
+			"friends_count": 3321,
+			"listed_count": 170,
+			"created_at": "Thu Feb 25 21:32:59 +0000 2010",
+			"favourites_count": 103297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "794220",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/746381861560135680/H8d7ZhOh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/746381861560135680/H8d7ZhOh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117537175/1466467465",
+			"profile_link_color": "502C15",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Both sides” media not doing as well as this teenager. https://t.co/ZGBOrDUMzo"
+	},
+	{
+		"created_at": "Wed Sep 30 12:30:53 +0000 2020",
+		"id": 1311282365818437600,
+		"id_str": "1311282365818437632",
+		"full_text": "@SLevelt Would love to hear if it works well or not for you and your students!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLevelt",
+					"name": "Sjoerd Levelt",
+					"id": 1197037934,
+					"id_str": "1197037934",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311257449480032300,
+		"in_reply_to_status_id_str": "1311257449480032256",
+		"in_reply_to_user_id": 1197037934,
+		"in_reply_to_user_id_str": "1197037934",
+		"in_reply_to_screen_name": "SLevelt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9489,
+			"friends_count": 425,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SLevelt Would love to hear if it works well or not for you and your students!"
+	},
+	{
+		"created_at": "Wed Sep 30 03:15:59 +0000 2020",
+		"id": 1311139293457535000,
+		"id_str": "1311142722749816833",
+		"full_text": "This warning from a PhD historian on white nationalism @kathleen_belew. Trump’s words tonight increases the threat of violence. https://t.co/mgkj4PgSeN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kathleen_belew",
+					"name": "Kathleen Belew",
+					"id": 897466731551219700,
+					"id_str": "897466731551219717",
+					"indices": [
+						55,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mgkj4PgSeN",
+					"expanded_url": "https://twitter.com/kathleen_belew/status/1311138330394886144",
+					"display_url": "twitter.com/kathleen_belew…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4799224200,
+			"id_str": "4799224200",
+			"name": "Elizabeth Neumann",
+			"screen_name": "NeuSummits",
+			"location": "Washington, DC",
+			"description": "Global Security Risk & Operations Expert. Mom, Wife, & fmr A/S for CT. 💜 God, climbing 14ers🏔️, exploring cultures, ideas & good wine. Retweets ≠ endorse.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17351,
+			"friends_count": 333,
+			"listed_count": 111,
+			"created_at": "Fri Jan 22 18:26:43 +0000 2016",
+			"favourites_count": 1526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304749433826021376/mUvpaTDI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304749433826021376/mUvpaTDI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4799224200/1599829075",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311138330394886100,
+		"quoted_status_id_str": "1311138330394886144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mgkj4PgSeN",
+			"expanded": "https://twitter.com/kathleen_belew/status/1311138330394886144",
+			"display": "twitter.com/kathleen_belew…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 30 02:58:32 +0000 2020",
+			"id": 1311138330394886100,
+			"id_str": "1311138330394886144",
+			"full_text": "(5) we are decades, if not generations, into this problem. A green light like \"stand back and standby\" is catastrophic.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1311138174702321700,
+			"in_reply_to_status_id_str": "1311138174702321664",
+			"in_reply_to_user_id": 897466731551219700,
+			"in_reply_to_user_id_str": "897466731551219717",
+			"in_reply_to_screen_name": "kathleen_belew",
+			"user": {
+				"id": 897466731551219700,
+				"id_str": "897466731551219717",
+				"name": "Kathleen Belew",
+				"screen_name": "kathleen_belew",
+				"location": "University of Chicago",
+				"description": "Historian of white power movement, gun violence, paramilitarism, apocalypse | Author of Bring the War Home  | U Chicago | STOP USING \"LONE WOLF\"",
+				"url": "https://t.co/dVa8zA0gBi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dVa8zA0gBi",
+								"expanded_url": "https://www.kathleenbelew.com",
+								"display_url": "kathleenbelew.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31564,
+				"friends_count": 815,
+				"listed_count": 409,
+				"created_at": "Tue Aug 15 14:35:17 +0000 2017",
+				"favourites_count": 4212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5513,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912320004972007425/t2Y-6JbQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912320004972007425/t2Y-6JbQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/897466731551219717/1553951453",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 994,
+			"favorite_count": 4303,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 84,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This warning from a PhD historian on white nationalism @kathleen_belew. Trump’s words tonight increases the threat of violence. https://t.co/mgkj4PgSeN"
+	},
+	{
+		"created_at": "Wed Sep 30 03:14:17 +0000 2020",
+		"id": 1311137206736687000,
+		"id_str": "1311142295715094529",
+		"full_text": "Today is Gwen Ifill’s Brithday and I can’t help but wonder how her “mama don’t take no mess” strategy of moderating would have kept this train from veering off the track.   Missing her and I know....I know .... I am not alone",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171171584,
+			"id_str": "171171584",
+			"name": "Michele Norris",
+			"screen_name": "michele_norris",
+			"location": "Washington",
+			"description": "Big World. Lotta Stories. Founder, The Race Card Project, Contributing Columnist Washington Post, Former NPR Host. Author, The Grace of Silence. MamaBear",
+			"url": "https://t.co/MYSAfScL2S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MYSAfScL2S",
+							"expanded_url": "http://www.theracecardproject.com",
+							"display_url": "theracecardproject.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66332,
+			"friends_count": 1670,
+			"listed_count": 1476,
+			"created_at": "Mon Jul 26 18:46:42 +0000 2010",
+			"favourites_count": 5825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/461182353751015425/NJcgHU3N_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/461182353751015425/NJcgHU3N_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171171584/1398787627",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1190,
+		"favorite_count": 12947,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Today is Gwen Ifill’s Brithday and I can’t help but wonder how her “mama don’t take no mess” strategy of moderating would have kept this train from veering off the track.   Missing her and I know....I know .... I am not alone"
+	},
+	{
+		"created_at": "Wed Sep 30 02:57:57 +0000 2020",
+		"id": 1311135501450084400,
+		"id_str": "1311138182143062016",
+		"full_text": "The Proud Boys are thrilled tonight after Trump told them to \"stand by\" in the debate. \n\nOne Proud Boys leader weighs in: “Trump basically said to go fuck them up!” https://t.co/drRp8jwALL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/drRp8jwALL",
+					"expanded_url": "https://www.thedailybeast.com/trump-refuses-to-condemn-white-supremacists-says-this-is-not-a-right-wing-problem?ref=author",
+					"display_url": "thedailybeast.com/trump-refuses-…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 274294204,
+			"id_str": "274294204",
+			"name": "Will Sommer",
+			"screen_name": "willsommer",
+			"location": "Washington, DC",
+			"description": "Politics reporter @thedailybeast—I write a newsletter about conservative media  https://t.co/6i93Qj5e2n—email will.sommer at https://t.co/68iIwjpBjB",
+			"url": "https://t.co/trocYNv7Ye",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/trocYNv7Ye",
+							"expanded_url": "http://www.rightrichter.com",
+							"display_url": "rightrichter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6i93Qj5e2n",
+							"expanded_url": "http://rightrichter.com",
+							"display_url": "rightrichter.com",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/68iIwjpBjB",
+							"expanded_url": "http://thedailybeast.com",
+							"display_url": "thedailybeast.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 110477,
+			"friends_count": 3792,
+			"listed_count": 1673,
+			"created_at": "Wed Mar 30 02:47:48 +0000 2011",
+			"favourites_count": 32045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276583650994290688/7go0_hyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276583650994290688/7go0_hyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/274294204/1447958158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4263,
+		"favorite_count": 7058,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Proud Boys are thrilled tonight after Trump told them to \"stand by\" in the debate. \n\nOne Proud Boys leader weighs in: “Trump basically said to go fuck them up!” https://t.co/drRp8jwALL"
+	},
+	{
+		"created_at": "Wed Sep 30 02:20:52 +0000 2020",
+		"id": 1311128853377581000,
+		"id_str": "1311128853377581058",
+		"full_text": "@MeganPeiser I cannot believe I haven’t. The boys and I are all glued to our phones while screaming at the tv",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeganPeiser",
+					"name": "Dr. Megan Peiser",
+					"id": 250674666,
+					"id_str": "250674666",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311128644992077800,
+		"in_reply_to_status_id_str": "1311128644992077825",
+		"in_reply_to_user_id": 250674666,
+		"in_reply_to_user_id_str": "250674666",
+		"in_reply_to_screen_name": "MeganPeiser",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9489,
+			"friends_count": 425,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 30654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MeganPeiser I cannot believe I haven’t. The boys and I are all glued to our phones while screaming at the tv"
+	},
+	{
 		"created_at": "Wed Sep 30 02:13:44 +0000 2020",
 		"id": 1311127056156168200,
 		"id_str": "1311127056156168195",
