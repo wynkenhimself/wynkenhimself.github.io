@@ -1,6 +1,1160 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 17:05:29 +0000 2020",
+		"id": 1316787292837736400,
+		"id_str": "1316787292837736448",
+		"full_text": "I just signed up for this @rarebookschool session—love the idea of precirculated videos to help the discussion and focus on artifacts! https://t.co/u56za9GcWM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rarebookschool",
+					"name": "Rare Book School",
+					"id": 23403378,
+					"id_str": "23403378",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u56za9GcWM",
+					"expanded_url": "https://rarebookschool.org/rbs-online/race-and-the-boundaries-of-the-book/",
+					"display_url": "rarebookschool.org/rbs-online/rac…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9558,
+			"friends_count": 424,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just signed up for this @rarebookschool session—love the idea of precirculated videos to help the discussion and focus on artifacts! https://t.co/u56za9GcWM"
+	},
+	{
+		"created_at": "Thu Oct 15 17:04:24 +0000 2020",
+		"id": 1316787016168812500,
+		"id_str": "1316787016168812544",
+		"full_text": "@NeilPBardhan @evankindley yes, same! Also, the more I delve into new fields the less scared I am of making mistakes, which actually does mean I’m a lot more like my first grade self and not my grad school one",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilPBardhan",
+					"name": "Neil P. Bardhan",
+					"id": 804133009,
+					"id_str": "804133009",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "evankindley",
+					"name": "Evan Kindley",
+					"id": 93421232,
+					"id_str": "93421232",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316785750642393000,
+		"in_reply_to_status_id_str": "1316785750642393088",
+		"in_reply_to_user_id": 804133009,
+		"in_reply_to_user_id_str": "804133009",
+		"in_reply_to_screen_name": "NeilPBardhan",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9558,
+			"friends_count": 424,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NeilPBardhan @evankindley yes, same! Also, the more I delve into new fields the less scared I am of making mistakes, which actually does mean I’m a lot more like my first grade self and not my grad school one"
+	},
+	{
+		"created_at": "Thu Oct 15 16:03:16 +0000 2020",
+		"id": 1316740619063173000,
+		"id_str": "1316771633760219136",
+		"full_text": "IT'S TODAY! Tune in to the @FolgerLibrary YouTube channel at 3:00pm EDT for this #FolgerCRC discussion of \"We Are What You Eat: Conversations on Food and Race.\" https://t.co/AVLH0nTNQR https://t.co/PJaXiA6IwF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FolgerCRC",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FolgerLibrary",
+					"name": "Folger Shakespeare Library",
+					"id": 23128654,
+					"id_str": "23128654",
+					"indices": [
+						27,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AVLH0nTNQR",
+					"expanded_url": "https://www.youtube.com/watch?v=ya4t547iMMg",
+					"display_url": "youtube.com/watch?v=ya4t54…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314296548294099000,
+					"id_str": "1314296548294098944",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej1Rv0qXgAAPns1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej1Rv0qXgAAPns1.jpg",
+					"url": "https://t.co/PJaXiA6IwF",
+					"display_url": "pic.twitter.com/PJaXiA6IwF",
+					"expanded_url": "https://twitter.com/FolgerResearch/status/1316740619063173120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314296548294099000,
+					"id_str": "1314296548294098944",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej1Rv0qXgAAPns1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej1Rv0qXgAAPns1.jpg",
+					"url": "https://t.co/PJaXiA6IwF",
+					"display_url": "pic.twitter.com/PJaXiA6IwF",
+					"expanded_url": "https://twitter.com/FolgerResearch/status/1316740619063173120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245457986,
+			"id_str": "245457986",
+			"name": "Folger Research",
+			"screen_name": "FolgerResearch",
+			"location": "Folger Shakespeare Library",
+			"description": "Research, collections, and scholarly events from the Folger Shakespeare Library.",
+			"url": "http://t.co/LkH0iA7gmz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LkH0iA7gmz",
+							"expanded_url": "http://collation.folger.edu",
+							"display_url": "collation.folger.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9513,
+			"friends_count": 171,
+			"listed_count": 238,
+			"created_at": "Mon Jan 31 18:58:56 +0000 2011",
+			"favourites_count": 2074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCD083",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245457986/1409944581",
+			"profile_link_color": "B35516",
+			"profile_sidebar_border_color": "CC8A6C",
+			"profile_sidebar_fill_color": "FCD083",
+			"profile_text_color": "1A1714",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IT'S TODAY! Tune in to the @FolgerLibrary YouTube channel at 3:00pm EDT for this #FolgerCRC discussion of \"We Are What You Eat: Conversations on Food and Race.\" https://t.co/AVLH0nTNQR https://t.co/PJaXiA6IwF"
+	},
+	{
+		"created_at": "Thu Oct 15 16:02:59 +0000 2020",
+		"id": 1316424583243862000,
+		"id_str": "1316771560997490690",
+		"full_text": "Hey, BIPOC folx working or studying in LIS:\n\nExcited to announce the Green Book for Libraries, a BIPOC-only space to review LIS workplaces. \n\nHuge thanks to @tadawes @citythatreads @jeninthelib @sofiayleung and many others who helped make it happen!\n\nhttps://t.co/8ffJ5wpn9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tadawes",
+					"name": "Trevor A. Dawes",
+					"id": 7151902,
+					"id_str": "7151902",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"screen_name": "citythatreads",
+					"name": "Jennifer Arévalo Ferretti",
+					"id": 216828912,
+					"id_str": "216828912",
+					"indices": [
+						166,
+						180
+					]
+				},
+				{
+					"screen_name": "jeninthelib",
+					"name": "Jen Brown ✨🌈👀",
+					"id": 1671678218,
+					"id_str": "1671678218",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"screen_name": "sofiayleung",
+					"name": "sofiaaaaa",
+					"id": 24089751,
+					"id_str": "24089751",
+					"indices": [
+						194,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8ffJ5wpn9S",
+					"expanded_url": "https://librarygreenbook.com",
+					"display_url": "librarygreenbook.com",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3209949862,
+			"id_str": "3209949862",
+			"name": "👻Radical Left👻",
+			"screen_name": "AprilHathcock",
+			"location": "Mannahatta, Lenape land",
+			"description": "I am my ancestors’ wildest dream. #AbolishThePolice. #BlackLivesMatter. She/her/hers.",
+			"url": "https://t.co/ouBz6p0eRu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ouBz6p0eRu",
+							"expanded_url": "http://aprilhathcock.wordpress.com",
+							"display_url": "aprilhathcock.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9868,
+			"friends_count": 1798,
+			"listed_count": 295,
+			"created_at": "Sun Apr 26 22:51:42 +0000 2015",
+			"favourites_count": 12911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304191552189796360/qzD8UUbO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304191552189796360/qzD8UUbO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3209949862/1580935253",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 434,
+		"favorite_count": 693,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, BIPOC folx working or studying in LIS:\n\nExcited to announce the Green Book for Libraries, a BIPOC-only space to review LIS workplaces. \n\nHuge thanks to @tadawes @citythatreads @jeninthelib @sofiayleung and many others who helped make it happen!\n\nhttps://t.co/8ffJ5wpn9S"
+	},
+	{
+		"created_at": "Thu Oct 15 16:02:07 +0000 2020",
+		"id": 1316771343443071000,
+		"id_str": "1316771343443070976",
+		"full_text": "@evankindley oof so much the same and it only gets worse the longer I have the degree",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evankindley",
+					"name": "Evan Kindley",
+					"id": 93421232,
+					"id_str": "93421232",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1316765091933483000,
+		"in_reply_to_status_id_str": "1316765091933483009",
+		"in_reply_to_user_id": 93421232,
+		"in_reply_to_user_id_str": "93421232",
+		"in_reply_to_screen_name": "evankindley",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9558,
+			"friends_count": 424,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@evankindley oof so much the same and it only gets worse the longer I have the degree"
+	},
+	{
+		"created_at": "Thu Oct 15 12:44:56 +0000 2020",
+		"id": 1316473624333881300,
+		"id_str": "1316721722398302211",
+		"full_text": "A thread on why the recordings from the Theatre on Film and Tape Archive cannot just be \"released\", and why the theatrical community needs to stop yelling at the NYPL every 4 months.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1177934021067755500,
+			"id_str": "1177934021067755520",
+			"name": "Margaret Hall 🧛🏻‍♀️",
+			"screen_name": "stardustschild",
+			"location": "NYC / OH",
+			"description": "22. She/Her. Musical Theatre Historian. Big fan of cheesy vampire dramas and golden age overtures. Formerly of @RnH_Org and @interlochenarts",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1249,
+			"friends_count": 236,
+			"listed_count": 5,
+			"created_at": "Sat Sep 28 13:12:16 +0000 2019",
+			"favourites_count": 22188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228384049732911104/3quQHJB__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228384049732911104/3quQHJB__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1177934021067755520/1569680400",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 802,
+		"favorite_count": 2996,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A thread on why the recordings from the Theatre on Film and Tape Archive cannot just be \"released\", and why the theatrical community needs to stop yelling at the NYPL every 4 months."
+	},
+	{
+		"created_at": "Thu Oct 15 12:42:22 +0000 2020",
+		"id": 1316712567742619600,
+		"id_str": "1316721074428669953",
+		"full_text": "RISM is listed w/ the union catalogs on @wynkenhimself's Early Printed Books website. 👍 \nHow can you use short-title catalogs like @universalstc, GW, VD17 &amp; others alongside RISM? We explore that here:  https://t.co/VTjosww3JE #bookhistory #musicalbookhistory #earlymusic https://t.co/USneYwvhHR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bookhistory",
+					"indices": [
+						231,
+						243
+					]
+				},
+				{
+					"text": "musicalbookhistory",
+					"indices": [
+						244,
+						263
+					]
+				},
+				{
+					"text": "earlymusic",
+					"indices": [
+						264,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wynkenhimself",
+					"name": "Sarah Werner",
+					"id": 35384223,
+					"id_str": "35384223",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "universalstc",
+					"name": "USTC 📖🔍",
+					"id": 107271321,
+					"id_str": "107271321",
+					"indices": [
+						131,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VTjosww3JE",
+					"expanded_url": "http://www.rism.info/en/home/newsdetails/article/2/printed-music-and-early-printed-books.html",
+					"display_url": "rism.info/en/home/newsde…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316709667398193200,
+					"id_str": "1316709667398193152",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXkd12XkAAkIPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXkd12XkAAkIPU.jpg",
+					"url": "https://t.co/USneYwvhHR",
+					"display_url": "pic.twitter.com/USneYwvhHR",
+					"expanded_url": "https://twitter.com/RISM_music/status/1316712567742619648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1303,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316709667398193200,
+					"id_str": "1316709667398193152",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXkd12XkAAkIPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXkd12XkAAkIPU.jpg",
+					"url": "https://t.co/USneYwvhHR",
+					"display_url": "pic.twitter.com/USneYwvhHR",
+					"expanded_url": "https://twitter.com/RISM_music/status/1316712567742619648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1303,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2326741560,
+			"id_str": "2326741560",
+			"name": "RISM",
+			"screen_name": "RISM_music",
+			"location": "Frankfurt, Germany",
+			"description": "Répertoire International des Sources Musicales. Documenting locations of musical sources worldwide since 1952.\nSearch free database at https://t.co/1oNz2SVUKr",
+			"url": "http://t.co/6V4TOEN5Ev",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6V4TOEN5Ev",
+							"expanded_url": "http://www.rism.info",
+							"display_url": "rism.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1oNz2SVUKr",
+							"expanded_url": "http://opac.rism.info",
+							"display_url": "opac.rism.info",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 1871,
+			"listed_count": 76,
+			"created_at": "Tue Feb 04 08:30:00 +0000 2014",
+			"favourites_count": 2770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/430624177943375872/gE-Uf3KZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/430624177943375872/gE-Uf3KZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2326741560/1395909979",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RISM is listed w/ the union catalogs on @wynkenhimself's Early Printed Books website. 👍 \nHow can you use short-title catalogs like @universalstc, GW, VD17 &amp; others alongside RISM? We explore that here:  https://t.co/VTjosww3JE #bookhistory #musicalbookhistory #earlymusic https://t.co/USneYwvhHR"
+	},
+	{
+		"created_at": "Thu Oct 15 02:44:38 +0000 2020",
+		"id": 1316570648752410600,
+		"id_str": "1316570648752410625",
+		"full_text": "@zunguzungu Yes, thank you!!!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zunguzungu",
+					"name": "Aaron Bady",
+					"id": 47951511,
+					"id_str": "47951511",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316563100108087300,
+		"in_reply_to_status_id_str": "1316563100108087296",
+		"in_reply_to_user_id": 47951511,
+		"in_reply_to_user_id_str": "47951511",
+		"in_reply_to_screen_name": "zunguzungu",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9558,
+			"friends_count": 424,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zunguzungu Yes, thank you!!!"
+	},
+	{
 		"created_at": "Thu Oct 15 00:28:36 +0000 2020",
 		"id": 1314611539207508000,
 		"id_str": "1316536415279349760",
