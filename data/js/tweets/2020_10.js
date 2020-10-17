@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 20:26:34 +0000 2020",
+		"id": 1317200281919160300,
+		"id_str": "1317200281919160322",
+		"full_text": "@arkhamlibrarian @kellywooten “Won’t need these where I’m headed” is such a line!! I’m even more excited now. Super hope he isn’t nearsighted though",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arkhamlibrarian",
+					"name": "Rebecca B.",
+					"id": 2820003021,
+					"id_str": "2820003021",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "kellywooten",
+					"name": "Kelly Boo-ten",
+					"id": 277617280,
+					"id_str": "277617280",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1317199684868411400,
+		"in_reply_to_status_id_str": "1317199684868411397",
+		"in_reply_to_user_id": 2820003021,
+		"in_reply_to_user_id_str": "2820003021",
+		"in_reply_to_screen_name": "arkhamlibrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9559,
+			"friends_count": 424,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@arkhamlibrarian @kellywooten “Won’t need these where I’m headed” is such a line!! I’m even more excited now. Super hope he isn’t nearsighted though"
+	},
+	{
+		"created_at": "Fri Oct 16 20:22:39 +0000 2020",
+		"id": 1317194590835871700,
+		"id_str": "1317199298157826054",
+		"full_text": "Wow, Feinstein loses the support of NARAL. Shortly before RBG died, Hogue told me NARAL was supportive of her.\nFeinstein “offered an appearance of credibility to the proceedings that is wildly out of step with the American people....we believe the committee needs new leadership.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16018516,
+			"id_str": "16018516",
+			"name": "Jennifer Haberkorn",
+			"screen_name": "jenhab",
+			"location": "The U.S. Capitol",
+			"description": "Congressional reporter for @latimes. Still interested in health policy news. Potter. \nGot news? DMs open. DM for Signal.\nAvatar 📷 Caroline Brehman",
+			"url": "https://t.co/eTksmyFu5H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmyFu5H",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30245,
+			"friends_count": 2361,
+			"listed_count": 1164,
+			"created_at": "Wed Aug 27 22:14:32 +0000 2008",
+			"favourites_count": 5649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226138880266645515/pYZ7ldSk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226138880266645515/pYZ7ldSk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16018516/1534083010",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 651,
+		"favorite_count": 2756,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Wow, Feinstein loses the support of NARAL. Shortly before RBG died, Hogue told me NARAL was supportive of her.\nFeinstein “offered an appearance of credibility to the proceedings that is wildly out of step with the American people....we believe the committee needs new leadership.\""
+	},
+	{
+		"created_at": "Fri Oct 16 20:21:58 +0000 2020",
+		"id": 1317199123909574700,
+		"id_str": "1317199123909574669",
+		"full_text": "@arkhamlibrarian Ahhh I think it might’ve been @kellywooten who mentioned this on here a while back and it is definitely on my to read list!!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arkhamlibrarian",
+					"name": "Rebecca B.",
+					"id": 2820003021,
+					"id_str": "2820003021",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "kellywooten",
+					"name": "Kelly Boo-ten",
+					"id": 277617280,
+					"id_str": "277617280",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1317194757500768300,
+		"in_reply_to_status_id_str": "1317194757500768256",
+		"in_reply_to_user_id": 2820003021,
+		"in_reply_to_user_id_str": "2820003021",
+		"in_reply_to_screen_name": "arkhamlibrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9559,
+			"friends_count": 424,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@arkhamlibrarian Ahhh I think it might’ve been @kellywooten who mentioned this on here a while back and it is definitely on my to read list!!"
+	},
+	{
+		"created_at": "Fri Oct 16 14:01:27 +0000 2020",
+		"id": 1317100354404798500,
+		"id_str": "1317103366141562880",
+		"full_text": "Physical humanities project. https://t.co/I0Wjg3BNdb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I0Wjg3BNdb",
+					"expanded_url": "https://twitter.com/callingallemmas/status/1316962393994514438",
+					"display_url": "twitter.com/callingallemma…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50510658,
+			"id_str": "50510658",
+			"name": "Fletcher Durant",
+			"screen_name": "fletcherdurant",
+			"location": "Gainesville, FL",
+			"description": "Head of Conservation and Preservation @UFLib. Preservation is access. Once accurately referred to as an \"associate conservator\" in the NY Times 📚 He/Him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2293,
+			"friends_count": 1231,
+			"listed_count": 78,
+			"created_at": "Thu Jun 25 01:36:37 +0000 2009",
+			"favourites_count": 86188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661666344753111040/RqxrrlLE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661666344753111040/RqxrrlLE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50510658/1523625262",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316962393994514400,
+		"quoted_status_id_str": "1316962393994514438",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I0Wjg3BNdb",
+			"expanded": "https://twitter.com/callingallemmas/status/1316962393994514438",
+			"display": "twitter.com/callingallemma…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 16 04:41:17 +0000 2020",
+			"id": 1316962393994514400,
+			"id_str": "1316962393994514438",
+			"full_text": "OKAY SABLE SOCIETY GO OFF \n👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼\n @uva 👀 https://t.co/8XTWmbPN5X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UVA",
+						"name": "UVA",
+						"id": 1910771,
+						"id_str": "1910771",
+						"indices": [
+							43,
+							47
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1316962387438624800,
+						"id_str": "1316962387438624769",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/EkbKUFXUYAElmf4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkbKUFXUYAElmf4.jpg",
+						"url": "https://t.co/8XTWmbPN5X",
+						"display_url": "pic.twitter.com/8XTWmbPN5X",
+						"expanded_url": "https://twitter.com/CallingallEmmas/status/1316962393994514438/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1014,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1014,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1316962387438624800,
+						"id_str": "1316962387438624769",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/EkbKUFXUYAElmf4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkbKUFXUYAElmf4.jpg",
+						"url": "https://t.co/8XTWmbPN5X",
+						"display_url": "pic.twitter.com/8XTWmbPN5X",
+						"expanded_url": "https://twitter.com/CallingallEmmas/status/1316962393994514438/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1014,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1014,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1316962387438706700,
+						"id_str": "1316962387438706688",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/EkbKUFXVoAAkRM8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkbKUFXVoAAkRM8.jpg",
+						"url": "https://t.co/8XTWmbPN5X",
+						"display_url": "pic.twitter.com/8XTWmbPN5X",
+						"expanded_url": "https://twitter.com/CallingallEmmas/status/1316962393994514438/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 581,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 969,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 969,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1316962387338154000,
+						"id_str": "1316962387338153984",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/EkbKUE_XUAA9uXp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkbKUE_XUAA9uXp.jpg",
+						"url": "https://t.co/8XTWmbPN5X",
+						"display_url": "pic.twitter.com/8XTWmbPN5X",
+						"expanded_url": "https://twitter.com/CallingallEmmas/status/1316962393994514438/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 776,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 637,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 776,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1316962387329679400,
+						"id_str": "1316962387329679360",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/EkbKUE9WAAAf8HD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkbKUE9WAAAf8HD.jpg",
+						"url": "https://t.co/8XTWmbPN5X",
+						"display_url": "pic.twitter.com/8XTWmbPN5X",
+						"expanded_url": "https://twitter.com/CallingallEmmas/status/1316962393994514438/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 523,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1076,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1076,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1262796867567566800,
+				"id_str": "1262796867567566850",
+				"name": "Emma Call",
+				"screen_name": "CallingallEmmas",
+				"location": "Richmond, VA",
+				"description": "I’m new here but already went off...so not sure if that still applies",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 94,
+				"friends_count": 192,
+				"listed_count": 0,
+				"created_at": "Tue May 19 17:26:56 +0000 2020",
+				"favourites_count": 5814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273122965044039684/siArhb_m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273122965044039684/siArhb_m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1262796867567566850/1602464837",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 189,
+			"favorite_count": 1003,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Physical humanities project. https://t.co/I0Wjg3BNdb"
+	},
+	{
 		"created_at": "Thu Oct 15 17:05:29 +0000 2020",
 		"id": 1316787292837736400,
 		"id_str": "1316787292837736448",
@@ -744,7 +1470,7 @@ Grailbird.data.tweets_2020_10 =
 		"user": {
 			"id": 1177934021067755500,
 			"id_str": "1177934021067755520",
-			"name": "Margaret Hall 🧛🏻‍♀️",
+			"name": "Margaret Hall 🧛🏻♀️",
 			"screen_name": "stardustschild",
 			"location": "NYC / OH",
 			"description": "22. She/Her. Musical Theatre Historian. Big fan of cheesy vampire dramas and golden age overtures. Formerly of @RnH_Org and @interlochenarts",
