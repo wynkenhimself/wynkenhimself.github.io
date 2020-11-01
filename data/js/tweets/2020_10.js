@@ -1,6 +1,3266 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 18:40:16 +0000 2020",
+		"id": 1322609348644872200,
+		"id_str": "1322609348644872192",
+		"full_text": "@mazarines My friends who live in different countries and across oceans from their parents and siblings also really get to me. It must be even harder for them. It's all too much. &lt;3",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322607594201075700,
+		"in_reply_to_status_id_str": "1322607594201075712",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines My friends who live in different countries and across oceans from their parents and siblings also really get to me. It must be even harder for them. It's all too much. &lt;3"
+	},
+	{
+		"created_at": "Sat Oct 31 18:32:10 +0000 2020",
+		"id": 1322607309248495600,
+		"id_str": "1322607309248495621",
+		"full_text": "@librarian_lena @eliza_audacis @AlembicBooks @brimwats @plaguelibrarian @internetstine @LibrarianLexie @Colleenlovesbks @Jason_W_Dean woahhhhh. so rye, mezcal, sweet vermouth? 1:1:1?",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322606657965346800,
+		"in_reply_to_status_id_str": "1322606657965346816",
+		"in_reply_to_user_id": 18921192,
+		"in_reply_to_user_id_str": "18921192",
+		"in_reply_to_screen_name": "librarian_lena",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@librarian_lena @eliza_audacis @AlembicBooks @brimwats @plaguelibrarian @internetstine @LibrarianLexie @Colleenlovesbks @Jason_W_Dean woahhhhh. so rye, mezcal, sweet vermouth? 1:1:1?"
+	},
+	{
+		"created_at": "Sat Oct 31 18:31:00 +0000 2020",
+		"id": 1322607015605227500,
+		"id_str": "1322607015605227521",
+		"full_text": "@AlembicBooks @Colleenlovesbks @Jason_W_Dean @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie oh dude I am so excited this is going to get me through the winter doldrums!",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322605873282355200,
+		"in_reply_to_status_id_str": "1322605873282355200",
+		"in_reply_to_user_id": 2413385413,
+		"in_reply_to_user_id_str": "2413385413",
+		"in_reply_to_screen_name": "AlembicBooks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlembicBooks @Colleenlovesbks @Jason_W_Dean @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie oh dude I am so excited this is going to get me through the winter doldrums!"
+	},
+	{
+		"created_at": "Sat Oct 31 18:29:37 +0000 2020",
+		"id": 1322606667905814500,
+		"id_str": "1322606667905814529",
+		"full_text": "@zachwhalen whoa!! nice work. neighbors and I were just going to like set up a table with prebagged candy and now I am sad about how boring we are",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachwhalen",
+					"name": "Zach Whalen but Spookier",
+					"id": 14298626,
+					"id_str": "14298626",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322606377882341400,
+		"in_reply_to_status_id_str": "1322606377882341385",
+		"in_reply_to_user_id": 14298626,
+		"in_reply_to_user_id_str": "14298626",
+		"in_reply_to_screen_name": "zachwhalen",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachwhalen whoa!! nice work. neighbors and I were just going to like set up a table with prebagged candy and now I am sad about how boring we are"
+	},
+	{
+		"created_at": "Sat Oct 31 18:27:59 +0000 2020",
+		"id": 1322606257363144700,
+		"id_str": "1322606257363144711",
+		"full_text": "@mazarines same, love. (for real--this sounds like I'm feeling sorry for myself and I'm not--it is a true relief that my parents died years ago because it would be killing me. I'm so sorry.)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322605389528092700,
+		"in_reply_to_status_id_str": "1322605389528092675",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines same, love. (for real--this sounds like I'm feeling sorry for myself and I'm not--it is a true relief that my parents died years ago because it would be killing me. I'm so sorry.)"
+	},
+	{
+		"created_at": "Sat Oct 31 18:22:41 +0000 2020",
+		"id": 1322604926661513200,
+		"id_str": "1322604926661513218",
+		"full_text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie also, I don't do real scholarship anymore, so I am totally into making this niche product happen with research and production and we could use it to raise money for some rbms cause if we wanted?",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			328
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322604050949558300,
+		"in_reply_to_status_id_str": "1322604050949558274",
+		"in_reply_to_user_id": 300879920,
+		"in_reply_to_user_id_str": "300879920",
+		"in_reply_to_screen_name": "Colleenlovesbks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie also, I don't do real scholarship anymore, so I am totally into making this niche product happen with research and production and we could use it to raise money for some rbms cause if we wanted?"
+	},
+	{
+		"created_at": "Sat Oct 31 18:20:21 +0000 2020",
+		"id": 1322604337613471700,
+		"id_str": "1322604337613471747",
+		"full_text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie ooh, yes, I'll trade you by sending you a copy of one of my very favorite weird books that I always keep extras of, A Dodo in Oxford!",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322604050949558300,
+		"in_reply_to_status_id_str": "1322604050949558274",
+		"in_reply_to_user_id": 300879920,
+		"in_reply_to_user_id_str": "300879920",
+		"in_reply_to_screen_name": "Colleenlovesbks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie ooh, yes, I'll trade you by sending you a copy of one of my very favorite weird books that I always keep extras of, A Dodo in Oxford!"
+	},
+	{
+		"created_at": "Sat Oct 31 18:18:15 +0000 2020",
+		"id": 1322603808028086300,
+		"id_str": "1322603808028086272",
+		"full_text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie but also I feel like there's an opening for us to create the biblionerd version of this",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322603684216406000,
+		"in_reply_to_status_id_str": "1322603684216406016",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie but also I feel like there's an opening for us to create the biblionerd version of this"
+	},
+	{
+		"created_at": "Sat Oct 31 18:17:45 +0000 2020",
+		"id": 1322603684216406000,
+		"id_str": "1322603684216406016",
+		"full_text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie I am mildly shocked no one has ever given this book to me tbh!",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322601006505578500,
+		"in_reply_to_status_id_str": "1322601006505578497",
+		"in_reply_to_user_id": 300879920,
+		"in_reply_to_user_id_str": "300879920",
+		"in_reply_to_screen_name": "Colleenlovesbks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Colleenlovesbks @Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie I am mildly shocked no one has ever given this book to me tbh!"
+	},
+	{
+		"created_at": "Sat Oct 31 18:00:46 +0000 2020",
+		"id": 1322599407574016000,
+		"id_str": "1322599407574016001",
+		"full_text": "@Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie @Colleenlovesbks not sure he's my role model?",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						53,
+						69
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322597787951837200,
+		"in_reply_to_status_id_str": "1322597787951837193",
+		"in_reply_to_user_id": 312023515,
+		"in_reply_to_user_id_str": "312023515",
+		"in_reply_to_screen_name": "Jason_W_Dean",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jason_W_Dean @AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie @Colleenlovesbks not sure he's my role model?"
+	},
+	{
+		"created_at": "Sat Oct 31 17:59:28 +0000 2020",
+		"id": 1322599083324936200,
+		"id_str": "1322599083324936192",
+		"full_text": "It's not really chiffon weather and does anyone want wallpaper or scarves that remind them of the plague? nevertheless, I am amused enough to continue with this project because why not??",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322598757079416800,
+		"in_reply_to_status_id_str": "1322598757079416833",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It's not really chiffon weather and does anyone want wallpaper or scarves that remind them of the plague? nevertheless, I am amused enough to continue with this project because why not??"
+	},
+	{
+		"created_at": "Sat Oct 31 17:58:11 +0000 2020",
+		"id": 1322598757079416800,
+		"id_str": "1322598757079416833",
+		"full_text": "There's also this as a big 90 or 115cm square option which I feel needs to be a wallpaper too: https://t.co/fE6LgEVcft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322598531253866500,
+					"id_str": "1322598531253866497",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/ElrQW1PXEAEHiXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElrQW1PXEAEHiXz.jpg",
+					"url": "https://t.co/fE6LgEVcft",
+					"display_url": "pic.twitter.com/fE6LgEVcft",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322598757079416833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322598531253866500,
+					"id_str": "1322598531253866497",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/ElrQW1PXEAEHiXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElrQW1PXEAEHiXz.jpg",
+					"url": "https://t.co/fE6LgEVcft",
+					"display_url": "pic.twitter.com/fE6LgEVcft",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322598757079416833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1322598747323379700,
+		"in_reply_to_status_id_str": "1322598747323379713",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's also this as a big 90 or 115cm square option which I feel needs to be a wallpaper too: https://t.co/fE6LgEVcft"
+	},
+	{
+		"created_at": "Sat Oct 31 17:58:08 +0000 2020",
+		"id": 1322598747323379700,
+		"id_str": "1322598747323379713",
+		"full_text": "who wears scarves? some mockups: they're 31cm x 135cm and I'm imagining a chiffon. Thoughts? Too busy? yellow/grey gradient background too dull? https://t.co/PJR3S5QUfE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322598185659977700,
+					"id_str": "1322598185659977734",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ElrQCtzW0AYyTbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElrQCtzW0AYyTbu.jpg",
+					"url": "https://t.co/PJR3S5QUfE",
+					"display_url": "pic.twitter.com/PJR3S5QUfE",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322598747323379713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322598185659977700,
+					"id_str": "1322598185659977734",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ElrQCtzW0AYyTbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElrQCtzW0AYyTbu.jpg",
+					"url": "https://t.co/PJR3S5QUfE",
+					"display_url": "pic.twitter.com/PJR3S5QUfE",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322598747323379713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322598185714487300,
+					"id_str": "1322598185714487296",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ElrQCuAWkAAMAdr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElrQCuAWkAAMAdr.jpg",
+					"url": "https://t.co/PJR3S5QUfE",
+					"display_url": "pic.twitter.com/PJR3S5QUfE",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322598747323379713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322598185676738600,
+					"id_str": "1322598185676738560",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ElrQCt3WkAAh-a6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElrQCt3WkAAh-a6.jpg",
+					"url": "https://t.co/PJR3S5QUfE",
+					"display_url": "pic.twitter.com/PJR3S5QUfE",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322598747323379713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 156,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 276,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "who wears scarves? some mockups: they're 31cm x 135cm and I'm imagining a chiffon. Thoughts? Too busy? yellow/grey gradient background too dull? https://t.co/PJR3S5QUfE"
+	},
+	{
+		"created_at": "Sat Oct 31 17:53:39 +0000 2020",
+		"id": 1322597619584163800,
+		"id_str": "1322597619584163840",
+		"full_text": "@AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie @Colleenlovesbks @Jason_W_Dean right? delicious. and if you want to tart it up to hide the flaws of cheap whiskey just add fruit. perfect for scamming!",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlembicBooks",
+					"name": "Alembic Rare Books",
+					"id": 2413385413,
+					"id_str": "2413385413",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						71,
+						86
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322596933437935600,
+		"in_reply_to_status_id_str": "1322596933437935617",
+		"in_reply_to_user_id": 2413385413,
+		"in_reply_to_user_id_str": "2413385413",
+		"in_reply_to_screen_name": "AlembicBooks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlembicBooks @eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie @Colleenlovesbks @Jason_W_Dean right? delicious. and if you want to tart it up to hide the flaws of cheap whiskey just add fruit. perfect for scamming!"
+	},
+	{
+		"created_at": "Sat Oct 31 17:40:06 +0000 2020",
+		"id": 1322594208423825400,
+		"id_str": "1322594208423825408",
+		"full_text": "@eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie @Colleenlovesbks @Jason_W_Dean I'd suggested the pretty straightforward options of an Old Fashioned or a Boulevardier. But also putting it out there that a Scorched Earth (mezcal, Cynar, Campari) is amazingly good",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						57,
+						72
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						73,
+						88
+					]
+				},
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322593600803360800,
+		"in_reply_to_status_id_str": "1322593600803360778",
+		"in_reply_to_user_id": 18967025,
+		"in_reply_to_user_id_str": "18967025",
+		"in_reply_to_screen_name": "eliza_audacis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eliza_audacis @brimwats @plaguelibrarian @internetstine @librarian_lena @LibrarianLexie @Colleenlovesbks @Jason_W_Dean I'd suggested the pretty straightforward options of an Old Fashioned or a Boulevardier. But also putting it out there that a Scorched Earth (mezcal, Cynar, Campari) is amazingly good"
+	},
+	{
+		"created_at": "Sat Oct 31 17:13:36 +0000 2020",
+		"id": 1322587539472003000,
+		"id_str": "1322587539472003072",
+		"full_text": "@plaguelibrarian @internetstine @eliza_audacis @librarian_lena @LibrarianLexie @Colleenlovesbks @Jason_W_Dean lol omg. I haven't actually started reading the book since I don't think I can make our meeting but this seems perfect from what I've heard, if not actually delicious.",
+		"truncated": false,
+		"display_text_range": [
+			110,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "plaguelibrarian",
+					"name": "Just a giant pile of plagued sweaters on the floor",
+					"id": 997678134425276400,
+					"id_str": "997678134425276418",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine \"Pi of Frankenstein\" Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBoold 🎃",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "librarian_lena",
+					"name": "PrincessLibrarian",
+					"id": 18921192,
+					"id_str": "18921192",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"screen_name": "LibrarianLexie",
+					"name": "Lexiethelibrarylady",
+					"id": 1174198865383309300,
+					"id_str": "1174198865383309312",
+					"indices": [
+						63,
+						78
+					]
+				},
+				{
+					"screen_name": "Colleenlovesbks",
+					"name": "Colleen Barrett",
+					"id": 300879920,
+					"id_str": "300879920",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"screen_name": "Jason_W_Dean",
+					"name": "Jason W. Dean",
+					"id": 312023515,
+					"id_str": "312023515",
+					"indices": [
+						96,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1322585715025334300,
+		"in_reply_to_status_id_str": "1322585715025334274",
+		"in_reply_to_user_id": 997678134425276400,
+		"in_reply_to_user_id_str": "997678134425276418",
+		"in_reply_to_screen_name": "plaguelibrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@plaguelibrarian @internetstine @eliza_audacis @librarian_lena @LibrarianLexie @Colleenlovesbks @Jason_W_Dean lol omg. I haven't actually started reading the book since I don't think I can make our meeting but this seems perfect from what I've heard, if not actually delicious."
+	},
+	{
+		"created_at": "Sat Oct 31 16:26:16 +0000 2020",
+		"id": 1322575626721779700,
+		"id_str": "1322575626721779712",
+		"full_text": "I can't decide if I'm making myself feel better or worse by working out designs from this book https://t.co/xoLPodri1i https://t.co/6Qy0Pyotfr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xoLPodri1i",
+					"expanded_url": "https://archive.org/details/lecturesonventil00leediala/page/n79/mode/2up",
+					"display_url": "archive.org/details/lectur…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322575596342415400,
+					"id_str": "1322575596342415360",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Elq7f2CXEAAom56.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elq7f2CXEAAom56.jpg",
+					"url": "https://t.co/6Qy0Pyotfr",
+					"display_url": "pic.twitter.com/6Qy0Pyotfr",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322575626721779712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1253,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322575596342415400,
+					"id_str": "1322575596342415360",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Elq7f2CXEAAom56.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elq7f2CXEAAom56.jpg",
+					"url": "https://t.co/6Qy0Pyotfr",
+					"display_url": "pic.twitter.com/6Qy0Pyotfr",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1322575626721779712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1253,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can't decide if I'm making myself feel better or worse by working out designs from this book https://t.co/xoLPodri1i https://t.co/6Qy0Pyotfr"
+	},
+	{
+		"created_at": "Sat Oct 31 13:48:55 +0000 2020",
+		"id": 1322498607786971100,
+		"id_str": "1322536029413380097",
+		"full_text": "the only good pandemic-election self-care advice, from  @j_zimms  https://t.co/fHJkdAbRKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "j_zimms",
+					"name": "Jess Zimmerman",
+					"id": 14714760,
+					"id_str": "14714760",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fHJkdAbRKT",
+					"expanded_url": "https://slate.com/human-interest/2020/10/everything-is-bad-let-me-scream.html",
+					"display_url": "slate.com/human-interest…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16143991,
+			"id_str": "16143991",
+			"name": "Shannon Palus",
+			"screen_name": "shanpalus",
+			"location": "Brooklyn, NY",
+			"description": "writing and editing @slate, it's pronounced \"pa-lus,” my email is shannon.palus at slate dot com",
+			"url": "https://t.co/quvniN2pCN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/quvniN2pCN",
+							"expanded_url": "https://slate.com/author/shannon-palus",
+							"display_url": "slate.com/author/shannon…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4898,
+			"friends_count": 861,
+			"listed_count": 171,
+			"created_at": "Fri Sep 05 14:08:08 +0000 2008",
+			"favourites_count": 11830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891017724360499202/FxwQhBC-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891017724360499202/FxwQhBC-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16143991/1430877068",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the only good pandemic-election self-care advice, from  @j_zimms  https://t.co/fHJkdAbRKT"
+	},
+	{
+		"created_at": "Sat Oct 31 13:40:30 +0000 2020",
+		"id": 1322533909943455700,
+		"id_str": "1322533909943455744",
+		"full_text": "@snowdenbecker @brimwats They are truly a delight!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "snowdenbecker",
+					"name": "Snowden Becker",
+					"id": 2448732866,
+					"id_str": "2448732866",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "b. m. \"global warming is the real horror\" watson",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1322529574136148000,
+		"in_reply_to_status_id_str": "1322529574136147968",
+		"in_reply_to_user_id": 2448732866,
+		"in_reply_to_user_id_str": "2448732866",
+		"in_reply_to_screen_name": "snowdenbecker",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9575,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@snowdenbecker @brimwats They are truly a delight!"
+	},
+	{
 		"created_at": "Fri Oct 30 23:03:51 +0000 2020",
 		"id": 1322313293797666800,
 		"id_str": "1322313293797666816",
