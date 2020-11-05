@@ -1,6 +1,1941 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 01:26:26 +0000 2020",
+		"id": 1324140614544461800,
+		"id_str": "1324161115027361793",
+		"full_text": "Instead of talking about changing White people’s hearts and minds, can we talk about changing the electoral system that gives White voters a disproportionate amount of power (as it was designed to do)?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87853386,
+			"id_str": "87853386",
+			"name": "Rebecca Nagle",
+			"screen_name": "rebeccanagle",
+			"location": "Tahlequah, OK",
+			"description": "Cherokee writer, advocate & language learner. Host #ThisLand podcast at @Crookedmedia Bylines @WashingtonPost @TeenVogue @HuffPost. Queer. She/hers. ᏣᏗᎮ.",
+			"url": "https://t.co/JbNPa8vb5n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JbNPa8vb5n",
+							"expanded_url": "http://thislandpodcast.com",
+							"display_url": "thislandpodcast.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86976,
+			"friends_count": 1189,
+			"listed_count": 496,
+			"created_at": "Fri Nov 06 03:01:12 +0000 2009",
+			"favourites_count": 11103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936447465632432129/hYsKXPLO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936447465632432129/hYsKXPLO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87853386/1584798430",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3999,
+		"favorite_count": 20167,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Instead of talking about changing White people’s hearts and minds, can we talk about changing the electoral system that gives White voters a disproportionate amount of power (as it was designed to do)?"
+	},
+	{
+		"created_at": "Thu Nov 05 01:25:55 +0000 2020",
+		"id": 1324160988170641400,
+		"id_str": "1324160988170641411",
+		"full_text": "@FlaviaFescue net positive!!!! that's a win",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FlaviaFescue",
+					"name": "Brooke Conti",
+					"id": 334675327,
+					"id_str": "334675327",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1324158891656155100,
+		"in_reply_to_status_id_str": "1324158891656155136",
+		"in_reply_to_user_id": 334675327,
+		"in_reply_to_user_id_str": "334675327",
+		"in_reply_to_screen_name": "FlaviaFescue",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FlaviaFescue net positive!!!! that's a win"
+	},
+	{
+		"created_at": "Thu Nov 05 01:25:35 +0000 2020",
+		"id": 1324156710122999800,
+		"id_str": "1324160904221642752",
+		"full_text": "Michigan, thank you. It's an honor to serve you for another six years in the U.S. Senate.\n \nTo all who believed in us, gave your time and effort in our fight: thank you for putting your trust in me. I'm so grateful and energized to keep working to move our state forward.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145292853,
+			"id_str": "145292853",
+			"name": "Gary Peters",
+			"screen_name": "GaryPeters",
+			"location": "Oakland County, MI",
+			"description": "Proud husband and father of three, five generations in MI, 20+ years in business, 10+ years in the U.S. Navy Reserve, fighter for the middle class",
+			"url": "http://t.co/J3ZTBeLBHs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/J3ZTBeLBHs",
+							"expanded_url": "http://www.PetersForMichigan.com",
+							"display_url": "PetersForMichigan.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36140,
+			"friends_count": 818,
+			"listed_count": 623,
+			"created_at": "Tue May 18 16:10:02 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172683518494826496/Gv9Or8dT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172683518494826496/Gv9Or8dT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145292853/1414028035",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3291,
+		"favorite_count": 35560,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Michigan, thank you. It's an honor to serve you for another six years in the U.S. Senate.\n \nTo all who believed in us, gave your time and effort in our fight: thank you for putting your trust in me. I'm so grateful and energized to keep working to move our state forward."
+	},
+	{
+		"created_at": "Thu Nov 05 01:10:04 +0000 2020",
+		"id": 1324156998846455800,
+		"id_str": "1324156998846455808",
+		"full_text": "@stephitaph ooh, delicious and appropriate!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephitaph",
+					"name": "M Steph Murray, Basically",
+					"id": 276524792,
+					"id_str": "276524792",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1324155803448823800,
+		"in_reply_to_status_id_str": "1324155803448823809",
+		"in_reply_to_user_id": 276524792,
+		"in_reply_to_user_id_str": "276524792",
+		"in_reply_to_screen_name": "stephitaph",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stephitaph ooh, delicious and appropriate!"
+	},
+	{
+		"created_at": "Thu Nov 05 00:55:41 +0000 2020",
+		"id": 1324111571119984600,
+		"id_str": "1324153377660506112",
+		"full_text": "Shout out to @IlhanMN and @RashidaTlaib for the INCREDIBLE turnout and ground game they ran in two key counties of two key states, MI &amp; MN.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IlhanMN",
+					"name": "Ilhan Omar",
+					"id": 783792992,
+					"id_str": "783792992",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "RashidaTlaib",
+					"name": "Rashida Tlaib",
+					"id": 435331179,
+					"id_str": "435331179",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138203134,
+			"id_str": "138203134",
+			"name": "Alexandria Ocasio-Cortez",
+			"screen_name": "AOC",
+			"location": "Bronx + Queens, NYC",
+			"description": "US Representative,NY-14 (BX & Queens). In a modern, moral, & wealthy society, no American should be too poor to live. 💯% People-Funded, no lobbyist💰. She/her.",
+			"url": "https://t.co/1gpC8bdz39",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gpC8bdz39",
+							"expanded_url": "http://www.ocasiocortez.com",
+							"display_url": "ocasiocortez.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9691582,
+			"friends_count": 2827,
+			"listed_count": 19698,
+			"created_at": "Wed Apr 28 22:38:40 +0000 2010",
+			"favourites_count": 27679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7138,
+		"favorite_count": 151359,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shout out to @IlhanMN and @RashidaTlaib for the INCREDIBLE turnout and ground game they ran in two key counties of two key states, MI &amp; MN."
+	},
+	{
+		"created_at": "Thu Nov 05 00:49:23 +0000 2020",
+		"id": 1324151791949435000,
+		"id_str": "1324151791949434881",
+		"full_text": "@stephitaph I’m sticking with my Black Manhattan because it’s delicious and must be sipped and not chugged. But what’s your fave Arizona drink? Maybe that’s the answer",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephitaph",
+					"name": "M Steph Murray, Basically",
+					"id": 276524792,
+					"id_str": "276524792",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1324150016026529800,
+		"in_reply_to_status_id_str": "1324150016026529792",
+		"in_reply_to_user_id": 276524792,
+		"in_reply_to_user_id_str": "276524792",
+		"in_reply_to_screen_name": "stephitaph",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stephitaph I’m sticking with my Black Manhattan because it’s delicious and must be sipped and not chugged. But what’s your fave Arizona drink? Maybe that’s the answer"
+	},
+	{
+		"created_at": "Thu Nov 05 00:34:15 +0000 2020",
+		"id": 1324138497012338700,
+		"id_str": "1324147985920516098",
+		"full_text": "If Georgia puts Biden-Harris over the top the administration and everyone who voted for it will be indebted to Stacey Abrams for an idea she had a decade ago. \n\nHere’s my profile of her from last year. https://t.co/AoppWQGkoB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AoppWQGkoB",
+					"expanded_url": "https://www.newyorker.com/magazine/2019/08/19/stacey-abrams-fight-for-a-fair-vote",
+					"display_url": "newyorker.com/magazine/2019/…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14155907,
+			"id_str": "14155907",
+			"name": "jelani cobb",
+			"screen_name": "jelani9",
+			"location": "Following the North Star GPS",
+			"description": "Queens native, Staff Writer @NewYorker. Professor @Columbiajourn, Left-hander, check my doc Policing the Police2020: https://t.co/KgUkVZkGrj",
+			"url": "https://t.co/vBP4QZvtAe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBP4QZvtAe",
+							"expanded_url": "http://www.newyorker.com/contributors/jelani-cobb",
+							"display_url": "newyorker.com/contributors/j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KgUkVZkGrj",
+							"expanded_url": "https://www.youtube.com/watch?v=taNwWilMVLg",
+							"display_url": "youtube.com/watch?v=taNwWi…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 337192,
+			"friends_count": 1836,
+			"listed_count": 3558,
+			"created_at": "Sun Mar 16 02:54:24 +0000 2008",
+			"favourites_count": 34169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491951552827899905/Qyy9JSK4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491951552827899905/Qyy9JSK4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14155907/1523806275",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3369,
+		"favorite_count": 27056,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If Georgia puts Biden-Harris over the top the administration and everyone who voted for it will be indebted to Stacey Abrams for an idea she had a decade ago. \n\nHere’s my profile of her from last year. https://t.co/AoppWQGkoB"
+	},
+	{
+		"created_at": "Thu Nov 05 00:05:33 +0000 2020",
+		"id": 1324140759642218500,
+		"id_str": "1324140759642218496",
+		"full_text": "@dansinker But..:.. I was just starting to panic that I hadn’t made plans on how to get through this evening waiting for those results!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dansinker",
+					"name": "💀 damned sinker 💀",
+					"id": 8119452,
+					"id_str": "8119452",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1324139057601982500,
+		"in_reply_to_status_id_str": "1324139057601982465",
+		"in_reply_to_user_id": 8119452,
+		"in_reply_to_user_id_str": "8119452",
+		"in_reply_to_screen_name": "dansinker",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dansinker But..:.. I was just starting to panic that I hadn’t made plans on how to get through this evening waiting for those results!"
+	},
+	{
+		"created_at": "Thu Nov 05 00:04:21 +0000 2020",
+		"id": 1324139234987561000,
+		"id_str": "1324140458340134913",
+		"full_text": "Seeing where the red states are situated on the map certainly does bring to mind once again this poem by Lucille Clifton:\n\nwhy some people be mad at me sometimes\n\nthey ask me to remember\nbut they want me to remember\ntheir memories\nand i keep on remembering\nmine\n\n—Lucille Clifton",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024902041037090800,
+			"id_str": "1024902041037090816",
+			"name": "Ilya Kaminsky",
+			"screen_name": "ilya_poet",
+			"location": "",
+			"description": "Author of Deaf Republic (@GraywolfPress), Dancing in Odessa (@tupelopress), and Ecco Anthology of International Poetry (@HarperCollins)",
+			"url": "https://t.co/6gOxaltplq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6gOxaltplq",
+							"expanded_url": "http://www.ilyakaminsky.com",
+							"display_url": "ilyakaminsky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39710,
+			"friends_count": 3190,
+			"listed_count": 334,
+			"created_at": "Thu Aug 02 06:17:43 +0000 2018",
+			"favourites_count": 26331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024908328420368384/St5RakMV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024908328420368384/St5RakMV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024902041037090816/1533192188",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 284,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Seeing where the red states are situated on the map certainly does bring to mind once again this poem by Lucille Clifton:\n\nwhy some people be mad at me sometimes\n\nthey ask me to remember\nbut they want me to remember\ntheir memories\nand i keep on remembering\nmine\n\n—Lucille Clifton"
+	},
+	{
+		"created_at": "Thu Nov 05 00:03:51 +0000 2020",
+		"id": 1324139792347635700,
+		"id_str": "1324140332599201793",
+		"full_text": "I don't know what's going to happen in Georgia, but fact that it's close is a testament to work @staceyabrams has been doing for years and years. Here she was describing Georgia's path forward to me four years ago: https://t.co/j97FHAMJJ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "staceyabrams",
+					"name": "Stacey Abrams",
+					"id": 216065430,
+					"id_str": "216065430",
+					"indices": [
+						96,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j97FHAMJJ8",
+					"expanded_url": "https://www.thecut.com/2016/10/meet-stacey-abrams-a-politician-trying-to-turn-georgia-blue.html",
+					"display_url": "thecut.com/2016/10/meet-s…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19086859,
+			"id_str": "19086859",
+			"name": "Rebecca Traister",
+			"screen_name": "rtraister",
+			"location": "",
+			"description": "Writer @NYMag & @TheCut Author, Good and Mad: https://t.co/X397hsXkMh rtraister{at}gmail",
+			"url": "https://t.co/8W6hRlI1HD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8W6hRlI1HD",
+							"expanded_url": "http://www.rebeccatraister.com",
+							"display_url": "rebeccatraister.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X397hsXkMh",
+							"expanded_url": "https://www.indiebound.org/book/9781501181795",
+							"display_url": "indiebound.org/book/978150118…",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217546,
+			"friends_count": 3624,
+			"listed_count": 2709,
+			"created_at": "Fri Jan 16 21:43:38 +0000 2009",
+			"favourites_count": 22734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276354496990531584/2jBWxKMx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276354496990531584/2jBWxKMx_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1433,
+		"favorite_count": 13872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don't know what's going to happen in Georgia, but fact that it's close is a testament to work @staceyabrams has been doing for years and years. Here she was describing Georgia's path forward to me four years ago: https://t.co/j97FHAMJJ8"
+	},
+	{
+		"created_at": "Thu Nov 05 00:02:34 +0000 2020",
+		"id": 1324121742479134700,
+		"id_str": "1324140009012822017",
+		"full_text": "In all seriousness, Stacey Abrams did an incredible thing in GA and across the country. After losing her election due in large part to voter suppression, she continued to organize and work to ensure voting rights to the most disenfranchised people.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1324118095917625300,
+		"in_reply_to_status_id_str": "1324118095917625347",
+		"in_reply_to_user_id": 6974622,
+		"in_reply_to_user_id_str": "6974622",
+		"in_reply_to_screen_name": "rgay",
+		"user": {
+			"id": 6974622,
+			"id_str": "6974622",
+			"name": "roxane gay",
+			"screen_name": "rgay",
+			"location": "The Gaygency, Wakanda ",
+			"description": "I want a tiny baby elephant. If you clap, I clap back. I write: Ayiti, Untamed State, Bad Feminist, Difficult Women, World of Wakanda, Hunger, Not That Bad.",
+			"url": "https://t.co/m8MTz71xk1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m8MTz71xk1",
+							"expanded_url": "http://www.roxanegay.com",
+							"display_url": "roxanegay.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793273,
+			"friends_count": 2047,
+			"listed_count": 4306,
+			"created_at": "Wed Jun 20 18:44:41 +0000 2007",
+			"favourites_count": 35390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066623056896901120/rBzWchLh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066623056896901120/rBzWchLh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6974622/1603825448",
+			"profile_link_color": "D25F9C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4963,
+		"favorite_count": 38983,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In all seriousness, Stacey Abrams did an incredible thing in GA and across the country. After losing her election due in large part to voter suppression, she continued to organize and work to ensure voting rights to the most disenfranchised people."
+	},
+	{
+		"created_at": "Wed Nov 04 17:31:02 +0000 2020",
+		"id": 1324041479724191700,
+		"id_str": "1324041479724191746",
+		"full_text": "The first letter and N's response to it is just perfect. Read for the kicker and then be excited, as I am, for the ongoing column! https://t.co/PshRSzSsbR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PshRSzSsbR",
+					"expanded_url": "https://twitter.com/nicolesjchung/status/1323990164931284993",
+					"display_url": "twitter.com/nicolesjchung/…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1323990164931285000,
+		"quoted_status_id_str": "1323990164931284993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PshRSzSsbR",
+			"expanded": "https://twitter.com/nicolesjchung/status/1323990164931284993",
+			"display": "twitter.com/nicolesjchung/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 04 14:07:08 +0000 2020",
+			"id": 1323990164931285000,
+			"id_str": "1323990164931284993",
+			"full_text": "this is the first of what will be a weekly Care &amp; Feeding advice column from me at @slate! I know a little parenting advice is what you all want to read today https://t.co/neVCHAkUNT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Slate",
+						"name": "Slate",
+						"id": 15164565,
+						"id_str": "15164565",
+						"indices": [
+							87,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/neVCHAkUNT",
+						"expanded_url": "https://slate.com/human-interest/2020/11/family-ski-vacation-drama-care-and-feeding.html",
+						"display_url": "slate.com/human-interest…",
+						"indices": [
+							163,
+							186
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1323989807777894400,
+			"in_reply_to_status_id_str": "1323989807777894401",
+			"in_reply_to_user_id": 739602678,
+			"in_reply_to_user_id_str": "739602678",
+			"in_reply_to_screen_name": "nicolesjchung",
+			"user": {
+				"id": 739602678,
+				"id_str": "739602678",
+				"name": "Nicole Chung",
+				"screen_name": "nicolesjchung",
+				"location": "Instagram: @nicolesjchung",
+				"description": "national bestseller ALL YOU CAN EVER KNOW | ✍🏽 @nytimes @nytmag @gqmagazine @guardian &c. | EIC, https://t.co/Rb9e6Z497o | @slate columnist | she/her",
+				"url": "https://t.co/rZBzB8f2l1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rZBzB8f2l1",
+								"expanded_url": "https://bookshop.org/books/7308470/9781948226370",
+								"display_url": "bookshop.org/books/7308470/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Rb9e6Z497o",
+								"expanded_url": "http://catapult.co",
+								"display_url": "catapult.co",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 77519,
+				"friends_count": 3148,
+				"listed_count": 854,
+				"created_at": "Mon Aug 06 01:33:31 +0000 2012",
+				"favourites_count": 108470,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 52452,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F3F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1312911088523108352/Eq-THNj6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312911088523108352/Eq-THNj6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739602678/1604536066",
+				"profile_link_color": "0665B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 837,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The first letter and N's response to it is just perfect. Read for the kicker and then be excited, as I am, for the ongoing column! https://t.co/PshRSzSsbR"
+	},
+	{
+		"created_at": "Wed Nov 04 16:33:30 +0000 2020",
+		"id": 1324027000428892200,
+		"id_str": "1324027000428892162",
+		"full_text": "@alaina_art Oh wow I love those!!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alaina_art",
+					"name": "Aℓaina",
+					"id": 609131066,
+					"id_str": "609131066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323847063856177200,
+		"in_reply_to_status_id_str": "1323847063856177152",
+		"in_reply_to_user_id": 609131066,
+		"in_reply_to_user_id_str": "609131066",
+		"in_reply_to_screen_name": "alaina_art",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alaina_art Oh wow I love those!!"
+	},
+	{
+		"created_at": "Wed Nov 04 02:54:32 +0000 2020",
+		"id": 1323820897917112300,
+		"id_str": "1323820897917112320",
+		"full_text": "@FlaviaFescue Ughh what’d I miss? Why is everyone joking about a favorite cocktail?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FlaviaFescue",
+					"name": "Brooke Conti",
+					"id": 334675327,
+					"id_str": "334675327",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323819631753179100,
+		"in_reply_to_status_id_str": "1323819631753179138",
+		"in_reply_to_user_id": 334675327,
+		"in_reply_to_user_id_str": "334675327",
+		"in_reply_to_screen_name": "FlaviaFescue",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FlaviaFescue Ughh what’d I miss? Why is everyone joking about a favorite cocktail?"
+	},
+	{
+		"created_at": "Wed Nov 04 02:35:59 +0000 2020",
+		"id": 1323816230428561400,
+		"id_str": "1323816230428561409",
+		"full_text": "@stephitaph Will explore!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephitaph",
+					"name": "M Steph Murray, Basically",
+					"id": 276524792,
+					"id_str": "276524792",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323815831206305800,
+		"in_reply_to_status_id_str": "1323815831206305792",
+		"in_reply_to_user_id": 276524792,
+		"in_reply_to_user_id_str": "276524792",
+		"in_reply_to_screen_name": "stephitaph",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stephitaph Will explore!"
+	},
+	{
+		"created_at": "Wed Nov 04 02:35:28 +0000 2020",
+		"id": 1323816103185887200,
+		"id_str": "1323816103185887238",
+		"full_text": "@ktrizz @frannypak @fletcherdurant Ooooh will explore!",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ktrizz",
+					"name": "Katie Sue",
+					"id": 26299439,
+					"id_str": "26299439",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "frannypak",
+					"name": "frannypak 🦪🥂💋",
+					"id": 24239742,
+					"id_str": "24239742",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "fletcherdurant",
+					"name": "Fletcher Durant",
+					"id": 50510658,
+					"id_str": "50510658",
+					"indices": [
+						19,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323814520876273700,
+		"in_reply_to_status_id_str": "1323814520876273665",
+		"in_reply_to_user_id": 26299439,
+		"in_reply_to_user_id_str": "26299439",
+		"in_reply_to_screen_name": "ktrizz",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9569,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ktrizz @frannypak @fletcherdurant Ooooh will explore!"
+	},
+	{
 		"created_at": "Wed Nov 04 02:11:27 +0000 2020",
 		"id": 1323810055838466000,
 		"id_str": "1323810055838466049",
