@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 17:02:46 +0000 2020",
+		"id": 1324759139009134600,
+		"id_str": "1324759139009134593",
+		"full_text": "I love this with all its Philly attitude: “Bad things happen in Philadelphia / No one likes us we don’t care” 🖤 https://t.co/4RZTCO7nVA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4RZTCO7nVA",
+					"expanded_url": "https://erickenney.bigcartel.com/product/bad-things-tee",
+					"display_url": "erickenney.bigcartel.com/product/bad-th…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9566,
+			"friends_count": 424,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this with all its Philly attitude: “Bad things happen in Philadelphia / No one likes us we don’t care” 🖤 https://t.co/4RZTCO7nVA"
+	},
+	{
 		"created_at": "Fri Nov 06 01:14:50 +0000 2020",
 		"id": 1324520585783922700,
 		"id_str": "1324520585783922693",
@@ -3081,7 +3197,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1011521674968068100,
 			"id_str": "1011521674968068096",
-			"name": "Katherine D. Morgan | Forever a Bookseller💁🏾‍♀️",
+			"name": "Katherine D. Morgan | Forever a Bookseller💁🏾♀️",
 			"screen_name": "blktinabelcher",
 			"location": "Portland, OR",
 			"description": "Writer. Assistant Features Editor @the_rumpus. Dating columnist for @wweek. This account is run by a Black woman. She/her. THSW 2020. Please don’t ask me for $.",
@@ -3176,7 +3292,7 @@ Grailbird.data.tweets_2020_11 =
 			"user": {
 				"id": 1011521674968068100,
 				"id_str": "1011521674968068096",
-				"name": "Katherine D. Morgan | Forever a Bookseller💁🏾‍♀️",
+				"name": "Katherine D. Morgan | Forever a Bookseller💁🏾♀️",
 				"screen_name": "blktinabelcher",
 				"location": "Portland, OR",
 				"description": "Writer. Assistant Features Editor @the_rumpus. Dating columnist for @wweek. This account is run by a Black woman. She/her. THSW 2020. Please don’t ask me for $.",
