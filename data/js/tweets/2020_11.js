@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 22:36:17 +0000 2020",
+		"id": 1326652014856638500,
+		"id_str": "1326655011716272136",
+		"full_text": "Globally, migraine remains second only to lower back pain in its burden on our health. This effect is also profoundly shaped by gender, socio-economic status, and ethnicity. https://t.co/K1JIPUat7L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1JIPUat7L",
+					"expanded_url": "https://twitter.com/williambyoung59/status/1326645897095225346",
+					"display_url": "twitter.com/williambyoung5…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2573079415,
+			"id_str": "2573079415",
+			"name": "Dr Katherine Foxhall",
+			"screen_name": "KatFoxhall",
+			"location": "",
+			"description": "Historian. \nMigraine: A History @jhupress: https://t.co/IEPdVv7IHk\nResearch & Comms @royalhistsoc. \nContact via website👇\nOpinions my own. \nshe/her",
+			"url": "https://t.co/s5Hpfp1lXQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s5Hpfp1lXQ",
+							"expanded_url": "https://kfoxhall.com/",
+							"display_url": "kfoxhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IEPdVv7IHk",
+							"expanded_url": "http://bit.ly/2UkdyL6",
+							"display_url": "bit.ly/2UkdyL6",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1629,
+			"friends_count": 1571,
+			"listed_count": 23,
+			"created_at": "Tue Jun 17 15:02:17 +0000 2014",
+			"favourites_count": 5153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318248570168971264/dVMC90n0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318248570168971264/dVMC90n0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2573079415/1603130102",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326645897095225300,
+		"quoted_status_id_str": "1326645897095225346",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K1JIPUat7L",
+			"expanded": "https://twitter.com/williambyoung59/status/1326645897095225346",
+			"display": "twitter.com/williambyoung5…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 11 22:00:04 +0000 2020",
+			"id": 1326645897095225300,
+			"id_str": "1326645897095225346",
+			"full_text": "The Global Burden of Disease is out for 2019.  In terms of years lived with disability (YLDs) migraine is still number 2. https://t.co/Ukft9VJt6P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ukft9VJt6P",
+						"expanded_url": "https://vizhub.healthdata.org/gbd-compare/",
+						"display_url": "vizhub.healthdata.org/gbd-compare/",
+						"indices": [
+							122,
+							145
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2284980962,
+				"id_str": "2284980962",
+				"name": "william b. young",
+				"screen_name": "williambyoung59",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 771,
+				"friends_count": 270,
+				"listed_count": 20,
+				"created_at": "Fri Jan 10 11:58:30 +0000 2014",
+				"favourites_count": 861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1264,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421620138480521216/YurMTL93_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421620138480521216/YurMTL93_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Globally, migraine remains second only to lower back pain in its burden on our health. This effect is also profoundly shaped by gender, socio-economic status, and ethnicity. https://t.co/K1JIPUat7L"
+	},
+	{
+		"created_at": "Wed Nov 11 22:10:34 +0000 2020",
+		"id": 1326583988182544400,
+		"id_str": "1326648541276729345",
+		"full_text": "thank you @prisonculture for starting the #ThanksAll2020 #FoodBankChallenge with the goal of providing two million meals by Nov. 22! Find &amp; donate to your local food bank: https://t.co/vRTkzPxG5N &amp; share your donation in the form if you want: https://t.co/qRwXvFJ3Ay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThanksAll2020",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"text": "FoodBankChallenge",
+					"indices": [
+						57,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prisonculture",
+					"name": "#HallmarkApologist",
+					"id": 162436508,
+					"id_str": "162436508",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vRTkzPxG5N",
+					"expanded_url": "https://feedingamerica.org/find-your-local-foodbank",
+					"display_url": "feedingamerica.org/find-your-loca…",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"url": "https://t.co/qRwXvFJ3Ay",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSf9r1fpGw-vmHBY6CFo7yu7LKsDrtJbW_0cAOLFXhxhtmC0wA/viewform",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739602678,
+			"id_str": "739602678",
+			"name": "Nicole Chung",
+			"screen_name": "nicolesjchung",
+			"location": "Instagram: @nicolesjchung",
+			"description": "author, ALL YOU CAN EVER KNOW | working on my next for @eccobooks |✍🏽 @nytimes @nytmag @gqmagazine @guardian &c. | EIC https://t.co/Rb9e6Z497o | @slate columnist",
+			"url": "https://t.co/rZBzB8f2l1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rZBzB8f2l1",
+							"expanded_url": "https://bookshop.org/books/7308470/9781948226370",
+							"display_url": "bookshop.org/books/7308470/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Rb9e6Z497o",
+							"expanded_url": "http://catapult.co",
+							"display_url": "catapult.co",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 77807,
+			"friends_count": 3167,
+			"listed_count": 861,
+			"created_at": "Mon Aug 06 01:33:31 +0000 2012",
+			"favourites_count": 109187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 52738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F3F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312911088523108352/Eq-THNj6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312911088523108352/Eq-THNj6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739602678/1605132640",
+			"profile_link_color": "0665B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 52,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "thank you @prisonculture for starting the #ThanksAll2020 #FoodBankChallenge with the goal of providing two million meals by Nov. 22! Find &amp; donate to your local food bank: https://t.co/vRTkzPxG5N &amp; share your donation in the form if you want: https://t.co/qRwXvFJ3Ay"
+	},
+	{
+		"created_at": "Wed Nov 11 20:23:37 +0000 2020",
+		"id": 1326621624326615000,
+		"id_str": "1326621624326615042",
+		"full_text": "@mwichary @fairfightaction Happy name day, Marcin! Delighted to give to a great organization in celebration—thanks for matching https://t.co/3R0BJkga22",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwichary",
+					"name": "Marcin Wichary",
+					"id": 86239754,
+					"id_str": "86239754",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "fairfightaction",
+					"name": "Fair Fight",
+					"id": 879771304316072000,
+					"id_str": "879771304316071938",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326621621273190400,
+					"id_str": "1326621621273190400",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmkbVfdXYAAi6c7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmkbVfdXYAAi6c7.jpg",
+					"url": "https://t.co/3R0BJkga22",
+					"display_url": "pic.twitter.com/3R0BJkga22",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1326621624326615042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326621621273190400,
+					"id_str": "1326621621273190400",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmkbVfdXYAAi6c7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmkbVfdXYAAi6c7.jpg",
+					"url": "https://t.co/3R0BJkga22",
+					"display_url": "pic.twitter.com/3R0BJkga22",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1326621624326615042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1326593255882989600,
+		"in_reply_to_status_id_str": "1326593255882989568",
+		"in_reply_to_user_id": 86239754,
+		"in_reply_to_user_id_str": "86239754",
+		"in_reply_to_screen_name": "mwichary",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9579,
+			"friends_count": 426,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 31781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mwichary @fairfightaction Happy name day, Marcin! Delighted to give to a great organization in celebration—thanks for matching https://t.co/3R0BJkga22"
+	},
+	{
+		"created_at": "Wed Nov 11 18:41:38 +0000 2020",
+		"id": 1326579924937961500,
+		"id_str": "1326595961825734660",
+		"full_text": "You might be tired of the pandemic but the pandemic isn't tired of you. D.C. and Md just recorded their largest number of new daily COVID-19 cases since May https://t.co/UILLb14zKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UILLb14zKr",
+					"expanded_url": "https://dcist.com/story/20/11/11/dc-covid19-coronavirus-cases-maryland-virginia-spike-trend/",
+					"display_url": "dcist.com/story/20/11/11…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325277943,
+			"id_str": "325277943",
+			"name": "Rachel Kurzius",
+			"screen_name": "Curious_Kurz",
+			"location": "Washington, D.C.",
+			"description": "Senior Editor of @DCist | Co-host of @wamu885 Consider This | Send tips and thoughts to kurzius (at) dcist (dot) com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8492,
+			"friends_count": 2069,
+			"listed_count": 235,
+			"created_at": "Tue Jun 28 01:25:20 +0000 2011",
+			"favourites_count": 23809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313923793635684352/wimWxB64_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313923793635684352/wimWxB64_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/325277943/1578502940",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You might be tired of the pandemic but the pandemic isn't tired of you. D.C. and Md just recorded their largest number of new daily COVID-19 cases since May https://t.co/UILLb14zKr"
+	},
+	{
 		"created_at": "Wed Nov 11 01:26:15 +0000 2020",
 		"id": 1326179144854610000,
 		"id_str": "1326335397757136896",
