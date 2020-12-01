@@ -1,6 +1,1077 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 23:58:13 +0000 2020",
+		"id": 1333560998402416600,
+		"id_str": "1333560998402416643",
+		"full_text": "@mazarines @robdmontoya @kaappiah @CalRBS @evangelestia @edrabinski Shannon, come!!!!!!!!",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "robdmontoya",
+					"name": "Robert Montoya",
+					"id": 139211481,
+					"id_str": "139211481",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "kaappiah",
+					"name": "Krystal Appiah",
+					"id": 117639860,
+					"id_str": "117639860",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"screen_name": "evangelestia",
+					"name": "Tamar Evangelestia-Dougherty",
+					"id": 992462900643147800,
+					"id_str": "992462900643147777",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "edrabinski",
+					"name": "Emily Drabinski",
+					"id": 14089871,
+					"id_str": "14089871",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1333560822971453400,
+		"in_reply_to_status_id_str": "1333560822971453441",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9601,
+			"friends_count": 428,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 32366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines @robdmontoya @kaappiah @CalRBS @evangelestia @edrabinski Shannon, come!!!!!!!!"
+	},
+	{
+		"created_at": "Mon Nov 30 23:56:58 +0000 2020",
+		"id": 1333560684785885200,
+		"id_str": "1333560684785885184",
+		"full_text": "@robdmontoya @mazarines @kaappiah @CalRBS @evangelestia @edrabinski If we're all meeting in person in CA that first session, we should def think about a joint conversation!",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robdmontoya",
+					"name": "Robert Montoya",
+					"id": 139211481,
+					"id_str": "139211481",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "kaappiah",
+					"name": "Krystal Appiah",
+					"id": 117639860,
+					"id_str": "117639860",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"screen_name": "evangelestia",
+					"name": "Tamar Evangelestia-Dougherty",
+					"id": 992462900643147800,
+					"id_str": "992462900643147777",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "edrabinski",
+					"name": "Emily Drabinski",
+					"id": 14089871,
+					"id_str": "14089871",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1333559519004160000,
+		"in_reply_to_status_id_str": "1333559519004160006",
+		"in_reply_to_user_id": 139211481,
+		"in_reply_to_user_id_str": "139211481",
+		"in_reply_to_screen_name": "robdmontoya",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9601,
+			"friends_count": 428,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 32366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@robdmontoya @mazarines @kaappiah @CalRBS @evangelestia @edrabinski If we're all meeting in person in CA that first session, we should def think about a joint conversation!"
+	},
+	{
+		"created_at": "Mon Nov 30 23:52:44 +0000 2020",
+		"id": 1333559619973689300,
+		"id_str": "1333559619973689344",
+		"full_text": "@mazarines @kaappiah @CalRBS @evangelestia @edrabinski @robdmontoya ahhhh my course is up! I'm so excited about this and all of these look soooooo good",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "kaappiah",
+					"name": "Krystal Appiah",
+					"id": 117639860,
+					"id_str": "117639860",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "evangelestia",
+					"name": "Tamar Evangelestia-Dougherty",
+					"id": 992462900643147800,
+					"id_str": "992462900643147777",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "edrabinski",
+					"name": "Emily Drabinski",
+					"id": 14089871,
+					"id_str": "14089871",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"screen_name": "robdmontoya",
+					"name": "Robert Montoya",
+					"id": 139211481,
+					"id_str": "139211481",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1333557753122525200,
+		"in_reply_to_status_id_str": "1333557753122525194",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9601,
+			"friends_count": 428,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 32366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines @kaappiah @CalRBS @evangelestia @edrabinski @robdmontoya ahhhh my course is up! I'm so excited about this and all of these look soooooo good"
+	},
+	{
+		"created_at": "Mon Nov 30 18:39:36 +0000 2020",
+		"id": 1333479320048738300,
+		"id_str": "1333480816844869633",
+		"full_text": "There is an 88% chance that if you come to the @BibSocAmer Building Better Book Feminisms talk this Thursday, this dog will be in the background the whole time. Talk ft. @wynkenhimself @lesliehowsam @evangelestia and @BJMarston and much discussion\n\nhttps://t.co/X9XBM4hvZn https://t.co/3U1riQ3eiX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BibSocAmer",
+					"name": "The Bibliographical Society of America",
+					"id": 1171414914730201000,
+					"id_str": "1171414914730201088",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "wynkenhimself",
+					"name": "Sarah Werner",
+					"id": 35384223,
+					"id_str": "35384223",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"screen_name": "lesliehowsam",
+					"name": "Leslie Howsam",
+					"id": 163084924,
+					"id_str": "163084924",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"screen_name": "evangelestia",
+					"name": "Tamar Evangelestia-Dougherty",
+					"id": 992462900643147800,
+					"id_str": "992462900643147777",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"screen_name": "BJMarston",
+					"name": "Brenda Marston",
+					"id": 246340868,
+					"id_str": "246340868",
+					"indices": [
+						217,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X9XBM4hvZn",
+					"expanded_url": "https://www.memberplanet.com/events/bsa/better-book-feminisms",
+					"display_url": "memberplanet.com/events/bsa/bet…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333478727519355000,
+					"id_str": "1333478727519354881",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EoF31m1UwAE3PxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoF31m1UwAE3PxM.jpg",
+					"url": "https://t.co/3U1riQ3eiX",
+					"display_url": "pic.twitter.com/3U1riQ3eiX",
+					"expanded_url": "https://twitter.com/GrubStreetWomen/status/1333479320048738307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333478727519355000,
+					"id_str": "1333478727519354881",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EoF31m1UwAE3PxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoF31m1UwAE3PxM.jpg",
+					"url": "https://t.co/3U1riQ3eiX",
+					"display_url": "pic.twitter.com/3U1riQ3eiX",
+					"expanded_url": "https://twitter.com/GrubStreetWomen/status/1333479320048738307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 724376123665043500,
+			"id_str": "724376123665043456",
+			"name": "WomensBookHistory",
+			"screen_name": "GrubStreetWomen",
+			"location": "Pomona, CA",
+			"description": "Network that celebrates #womenwriters and #feminist #bookhistory, #dh, and #libraries. Frequent RT of academic and popular work. Tweets by Kate Ozment.",
+			"url": "https://t.co/rOdYgCiRTN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rOdYgCiRTN",
+							"expanded_url": "http://womensbookhistory.org",
+							"display_url": "womensbookhistory.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4185,
+			"friends_count": 2374,
+			"listed_count": 61,
+			"created_at": "Sun Apr 24 23:15:00 +0000 2016",
+			"favourites_count": 13251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305200753707950081/WWUmScQx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305200753707950081/WWUmScQx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724376123665043456/1591113326",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is an 88% chance that if you come to the @BibSocAmer Building Better Book Feminisms talk this Thursday, this dog will be in the background the whole time. Talk ft. @wynkenhimself @lesliehowsam @evangelestia and @BJMarston and much discussion\n\nhttps://t.co/X9XBM4hvZn https://t.co/3U1riQ3eiX"
+	},
+	{
+		"created_at": "Mon Nov 30 18:24:39 +0000 2020",
+		"id": 1333476550839214000,
+		"id_str": "1333477053648211971",
+		"full_text": "Help if you can. And consider donating $ and/or books to other book prison programs. #reading #donations https://t.co/IAaLs57BHf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "reading",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "donations",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IAaLs57BHf",
+					"expanded_url": "https://twitter.com/B2Pdc/status/1333470855037210624",
+					"display_url": "twitter.com/B2Pdc/status/1…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95014265,
+			"id_str": "95014265",
+			"name": "Tia Blassingame",
+			"screen_name": "primrosepress",
+			"location": "New York, NY",
+			"description": "Book Artist/Printmaker, Primrose Press, generally bookish, Asst Prof of Book Art, Founder of the Book/PrintArtist/Scholar of Color Collective",
+			"url": "https://t.co/RnOz8toCzp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RnOz8toCzp",
+							"expanded_url": "https://www.primrosepress.com/collective#/about-2/",
+							"display_url": "primrosepress.com/collective#/ab…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 881,
+			"friends_count": 608,
+			"listed_count": 75,
+			"created_at": "Sun Dec 06 15:09:28 +0000 2009",
+			"favourites_count": 9005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268240038476865536/tg4AxNAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268240038476865536/tg4AxNAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95014265/1596593668",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDBF8E",
+			"profile_text_color": "735773",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1333470855037210600,
+		"quoted_status_id_str": "1333470855037210624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IAaLs57BHf",
+			"expanded": "https://twitter.com/B2Pdc/status/1333470855037210624",
+			"display": "twitter.com/B2Pdc/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 30 18:00:01 +0000 2020",
+			"id": 1333470855037210600,
+			"id_str": "1333470855037210624",
+			"full_text": "This month, we have a goal of raising $1,000 to send 250 packages to incarcerated readers across the country. Join us as we share our love of books &amp; learning to those we serve. Get ready for #GivingTuesday, or donate now at https://t.co/am12Kndths https://t.co/IDGJ0DwtWh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GivingTuesday",
+						"indices": [
+							196,
+							210
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/am12Kndths",
+						"expanded_url": "https://rb.gy/taow4c",
+						"display_url": "rb.gy/taow4c",
+						"indices": [
+							229,
+							252
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1332745192881918000,
+						"id_str": "1332745192881917953",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/En7csRXWEAEGouO.png",
+						"media_url_https": "https://pbs.twimg.com/media/En7csRXWEAEGouO.png",
+						"url": "https://t.co/IDGJ0DwtWh",
+						"display_url": "pic.twitter.com/IDGJ0DwtWh",
+						"expanded_url": "https://twitter.com/B2Pdc/status/1333470855037210624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1332745192881918000,
+						"id_str": "1332745192881917953",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/En7csRXWEAEGouO.png",
+						"media_url_https": "https://pbs.twimg.com/media/En7csRXWEAEGouO.png",
+						"url": "https://t.co/IDGJ0DwtWh",
+						"display_url": "pic.twitter.com/IDGJ0DwtWh",
+						"expanded_url": "https://twitter.com/B2Pdc/status/1333470855037210624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3196349762,
+				"id_str": "3196349762",
+				"name": "DC Books to Prisons",
+				"screen_name": "B2Pdc",
+				"location": "Washington, DC",
+				"description": "We serve incarcerated readers. Donate at https://t.co/bsljvTcX79 or https://t.co/TylqoqpWrq",
+				"url": "https://t.co/8CZFskgTev",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8CZFskgTev",
+								"expanded_url": "http://dcbookstoprisoners.org/",
+								"display_url": "dcbookstoprisoners.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bsljvTcX79",
+								"expanded_url": "https://www.flipcause.com/secure/cause_pdetails/ODY0NDA=",
+								"display_url": "flipcause.com/secure/cause_p…",
+								"indices": [
+									41,
+									64
+								]
+							},
+							{
+								"url": "https://t.co/TylqoqpWrq",
+								"expanded_url": "https://www.amazon.com/hz/wishlist/ls/XST0TQ95ZW67/",
+								"display_url": "amazon.com/hz/wishlist/ls…",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2050,
+				"friends_count": 80,
+				"listed_count": 31,
+				"created_at": "Fri May 15 13:35:15 +0000 2015",
+				"favourites_count": 3869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2366,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880839202174361600/NEMKAb3s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880839202174361600/NEMKAb3s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3196349762/1434030205",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Help if you can. And consider donating $ and/or books to other book prison programs. #reading #donations https://t.co/IAaLs57BHf"
+	},
+	{
 		"created_at": "Sun Nov 29 22:48:39 +0000 2020",
 		"id": 1333181107186118700,
 		"id_str": "1333181107186118656",
