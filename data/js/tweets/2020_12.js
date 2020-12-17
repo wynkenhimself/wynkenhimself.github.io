@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 16:50:10 +0000 2020",
+		"id": 1339251483594920000,
+		"id_str": "1339251483594919937",
+		"full_text": "I don't know why I wanted to tell you all that in Dutch. Maybe because I genuinely find \"sneeuw\" an adorable word.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1339251214542844000,
+		"in_reply_to_status_id_str": "1339251214542843905",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9632,
+			"friends_count": 431,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 32929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I don't know why I wanted to tell you all that in Dutch. Maybe because I genuinely find \"sneeuw\" an adorable word."
+	},
+	{
+		"created_at": "Wed Dec 16 16:49:06 +0000 2020",
+		"id": 1339251214542844000,
+		"id_str": "1339251214542843905",
+		"full_text": "Het sneeuwt!! https://t.co/frxn4JRjTT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339251186566910000,
+					"id_str": "1339251186566909953",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339251186566909953/pu/img/9WQ4uaCyEQ61ei4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339251186566909953/pu/img/9WQ4uaCyEQ61ei4D.jpg",
+					"url": "https://t.co/frxn4JRjTT",
+					"display_url": "pic.twitter.com/frxn4JRjTT",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1339251214542843905/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339251186566910000,
+					"id_str": "1339251186566909953",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339251186566909953/pu/img/9WQ4uaCyEQ61ei4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339251186566909953/pu/img/9WQ4uaCyEQ61ei4D.jpg",
+					"url": "https://t.co/frxn4JRjTT",
+					"display_url": "pic.twitter.com/frxn4JRjTT",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1339251214542843905/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7398,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1339251186566909953/pu/pl/5zcFy5jeD0JiGzxV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339251186566909953/pu/vid/720x1280/n2I3-4xuomDaqBVo.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339251186566909953/pu/vid/320x568/W9gm670E9dR9wYdu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339251186566909953/pu/vid/360x640/qVPTZXsSlSKHoQYI.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9632,
+			"friends_count": 431,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 32929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het sneeuwt!! https://t.co/frxn4JRjTT"
+	},
+	{
+		"created_at": "Wed Dec 16 15:50:59 +0000 2020",
+		"id": 1339229659360157700,
+		"id_str": "1339236588174372866",
+		"full_text": "Call For Papers! \"Library and Information Studies and the Mattering of Black Lives.\" Please spread the word about this @JournalCritLIS special issue on Black lives, #BLM , etc. Edited by @safiyanoble @ubiquity75 @professorcaz @toniasutherland",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLM",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JournalCritLIS",
+					"name": "JCLIS",
+					"id": 3507366192,
+					"id_str": "3507366192",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"screen_name": "safiyanoble",
+					"name": "Safiya Umoja Noble PhD",
+					"id": 45891623,
+					"id_str": "45891623",
+					"indices": [
+						187,
+						199
+					]
+				},
+				{
+					"screen_name": "ubiquity75",
+					"name": "Dr. Sarah T. Roberts",
+					"id": 23451153,
+					"id_str": "23451153",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"screen_name": "professorcaz",
+					"name": "Michelle Caswell",
+					"id": 946965716,
+					"id_str": "946965716",
+					"indices": [
+						212,
+						225
+					]
+				},
+				{
+					"screen_name": "toniasutherland",
+					"name": "tonia sutherland",
+					"id": 2862906299,
+					"id_str": "2862906299",
+					"indices": [
+						226,
+						242
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139211481,
+			"id_str": "139211481",
+			"name": "Robert Montoya",
+			"screen_name": "robdmontoya",
+			"location": "Los Angeles, CA",
+			"description": "Prof @UCLA / @UCLAiS | Director, @CalRBS | Libraries | Fulbright Specialist | Ethics & Justice | Representation & Classification",
+			"url": "https://t.co/fbT97vbQEp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fbT97vbQEp",
+							"expanded_url": "http://robertdmontoya.com",
+							"display_url": "robertdmontoya.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 640,
+			"friends_count": 852,
+			"listed_count": 11,
+			"created_at": "Sat May 01 22:39:58 +0000 2010",
+			"favourites_count": 4420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1302080109403230209/xe7ix2hx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302080109403230209/xe7ix2hx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139211481/1541418130",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Call For Papers! \"Library and Information Studies and the Mattering of Black Lives.\" Please spread the word about this @JournalCritLIS special issue on Black lives, #BLM , etc. Edited by @safiyanoble @ubiquity75 @professorcaz @toniasutherland"
+	},
+	{
 		"created_at": "Tue Dec 15 19:21:53 +0000 2020",
 		"id": 1338926520711209000,
 		"id_str": "1338927277686583302",
