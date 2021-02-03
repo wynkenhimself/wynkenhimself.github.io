@@ -1,6 +1,901 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 02 22:52:32 +0000 2021",
+		"id": 1356737295173513200,
+		"id_str": "1356737295173513221",
+		"full_text": "@roseveleth @flashforwardpod I literally just finished it! I had thought to myself, Great, it’s on break, I can catch up on something else, but then there it was! (I loved it)",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roseveleth",
+					"name": "Rose Eveleth ▷▷",
+					"id": 44903491,
+					"id_str": "44903491",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "flashforwardpod",
+					"name": "Flash Forward 🤖⚡️🔮",
+					"id": 3257162537,
+					"id_str": "3257162537",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1356735369589346300,
+		"in_reply_to_status_id_str": "1356735369589346304",
+		"in_reply_to_user_id": 44903491,
+		"in_reply_to_user_id_str": "44903491",
+		"in_reply_to_screen_name": "roseveleth",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9653,
+			"friends_count": 439,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 34264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@roseveleth @flashforwardpod I literally just finished it! I had thought to myself, Great, it’s on break, I can catch up on something else, but then there it was! (I loved it)"
+	},
+	{
+		"created_at": "Tue Feb 02 22:51:18 +0000 2021",
+		"id": 1356735369589346300,
+		"id_str": "1356736984836939777",
+		"full_text": "Surprise there's a new episode of @flashforwardpod today! We're still technically on a break but I wanted to revisit a few past futures and talk about what's happened since. https://t.co/qd52LKxiwu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flashforwardpod",
+					"name": "Flash Forward 🤖⚡️🔮",
+					"id": 3257162537,
+					"id_str": "3257162537",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qd52LKxiwu",
+					"expanded_url": "https://www.flashforwardpod.com/2021/02/02/back-to-the-future-robot-teachers-drug-decriminalization-anti-trust-extravaganza/",
+					"display_url": "flashforwardpod.com/2021/02/02/bac…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44903491,
+			"id_str": "44903491",
+			"name": "Rose Eveleth ▷▷",
+			"screen_name": "roseveleth",
+			"location": "",
+			"description": "journalist 〰〰 I run @ffwdpresents 〰〰 make @flashforwardpod // @advice4futureu 〰〰 she/her 〰〰 Tweets 🗑 〰〰 👽 butch Ms. Frizzle 👽  〰〰 rose.eveleth@protonmail.com",
+			"url": "https://t.co/mKNGzU0rHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mKNGzU0rHh",
+							"expanded_url": "http://roseveleth.com",
+							"display_url": "roseveleth.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29444,
+			"friends_count": 2632,
+			"listed_count": 929,
+			"created_at": "Fri Jun 05 14:29:35 +0000 2009",
+			"favourites_count": 16441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098705688757301248/NOYUPVcU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098705688757301248/NOYUPVcU_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44903491/1504281029",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Surprise there's a new episode of @flashforwardpod today! We're still technically on a break but I wanted to revisit a few past futures and talk about what's happened since. https://t.co/qd52LKxiwu"
+	},
+	{
+		"created_at": "Tue Feb 02 20:56:26 +0000 2021",
+		"id": 1356708075751821300,
+		"id_str": "1356708075751821312",
+		"full_text": "@meganlcook Nooooooo!! 🤬",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1356702145148510200,
+		"in_reply_to_status_id_str": "1356702145148510208",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9653,
+			"friends_count": 439,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 34264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@meganlcook Nooooooo!! 🤬"
+	},
+	{
+		"created_at": "Tue Feb 02 17:00:13 +0000 2021",
+		"id": 1356308462095970300,
+		"id_str": "1356648630686535681",
+		"full_text": "I'm delighted to announce a new digital resource for the book and paper community: Selections from the Berger-Cloonan Collection of Decorated Papers: https://t.co/h20nLJgE3F. https://t.co/idKDgy3jR8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h20nLJgE3F",
+					"expanded_url": "https://library.tamu.edu/collections/digital-library/berger-cloonan",
+					"display_url": "library.tamu.edu/collections/di…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356306961332105200,
+					"id_str": "1356306961332105217",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EtKR_syW8AEkwih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtKR_syW8AEkwih.jpg",
+					"url": "https://t.co/idKDgy3jR8",
+					"display_url": "pic.twitter.com/idKDgy3jR8",
+					"expanded_url": "https://twitter.com/kmosullivan/status/1356308462095970305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356306961332105200,
+					"id_str": "1356306961332105217",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EtKR_syW8AEkwih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtKR_syW8AEkwih.jpg",
+					"url": "https://t.co/idKDgy3jR8",
+					"display_url": "pic.twitter.com/idKDgy3jR8",
+					"expanded_url": "https://twitter.com/kmosullivan/status/1356308462095970305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356306961382465500,
+					"id_str": "1356306961382465536",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EtKR_s-XYAAkQuB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtKR_s-XYAAkQuB.jpg",
+					"url": "https://t.co/idKDgy3jR8",
+					"display_url": "pic.twitter.com/idKDgy3jR8",
+					"expanded_url": "https://twitter.com/kmosullivan/status/1356308462095970305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356306961353080800,
+					"id_str": "1356306961353080833",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EtKR_s3XAAEIpE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtKR_s3XAAEIpE6.jpg",
+					"url": "https://t.co/idKDgy3jR8",
+					"display_url": "pic.twitter.com/idKDgy3jR8",
+					"expanded_url": "https://twitter.com/kmosullivan/status/1356308462095970305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1576,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356307044882641000,
+					"id_str": "1356307044882640896",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EtKSEkCW8AA9tKL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtKSEkCW8AA9tKL.jpg",
+					"url": "https://t.co/idKDgy3jR8",
+					"display_url": "pic.twitter.com/idKDgy3jR8",
+					"expanded_url": "https://twitter.com/kmosullivan/status/1356308462095970305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19316313,
+			"id_str": "19316313",
+			"name": "Kevin M. O'Sullivan",
+			"screen_name": "kmosullivan",
+			"location": "",
+			"description": "Curator of Rare Books & Manuscripts (@tamulibraries) | Working on Book History & DH (@3Dhotbed) | Interested in Spenser/early modern Ireland | Tweets are my own",
+			"url": "https://t.co/UlHVmNZhgR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlHVmNZhgR",
+							"expanded_url": "http://3dhotbed.info",
+							"display_url": "3dhotbed.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 755,
+			"listed_count": 8,
+			"created_at": "Thu Jan 22 00:10:59 +0000 2009",
+			"favourites_count": 1915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DCF8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313829847936962561/HuVuIWtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313829847936962561/HuVuIWtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19316313/1559934135",
+			"profile_link_color": "3D3D3D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A7AEAE",
+			"profile_text_color": "050505",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm delighted to announce a new digital resource for the book and paper community: Selections from the Berger-Cloonan Collection of Decorated Papers: https://t.co/h20nLJgE3F. https://t.co/idKDgy3jR8"
+	},
+	{
+		"created_at": "Tue Feb 02 14:43:07 +0000 2021",
+		"id": 1356612363844268000,
+		"id_str": "1356614128568254465",
+		"full_text": "Apply to work with @NEH_ODH this summer! This internship means learning more about support for digital humanities research, conducting research on the impact of this support, and joining a 🔥 office group chat. Message me if you want to hear me wax poetic about my experience! https://t.co/DnhibPreHO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NEH_ODH",
+					"name": "NEH Digital Humanities",
+					"id": 158445401,
+					"id_str": "158445401",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DnhibPreHO",
+					"expanded_url": "https://twitter.com/NEH_ODH/status/1356327775469248514",
+					"display_url": "twitter.com/NEH_ODH/status…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1098964922858438700,
+			"id_str": "1098964922858438662",
+			"name": "Sara Mohr",
+			"screen_name": "sarabmohr",
+			"location": "Providence, RI",
+			"description": "Assyriology PhD candidate @BrownUniversity. Certificate student @publichumans. Endurance athlete #teamnuun. She/her 🌈",
+			"url": "https://t.co/ErdyEt1oHk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ErdyEt1oHk",
+							"expanded_url": "http://www.saramohr.com/",
+							"display_url": "saramohr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615,
+			"friends_count": 447,
+			"listed_count": 7,
+			"created_at": "Fri Feb 22 15:17:10 +0000 2019",
+			"favourites_count": 1450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098965089779109891/42_LJAF5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098965089779109891/42_LJAF5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1098964922858438662/1603298308",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1356327775469248500,
+		"quoted_status_id_str": "1356327775469248514",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DnhibPreHO",
+			"expanded": "https://twitter.com/NEH_ODH/status/1356327775469248514",
+			"display": "twitter.com/NEH_ODH/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 01 19:45:15 +0000 2021",
+			"id": 1356327775469248500,
+			"id_str": "1356327775469248514",
+			"full_text": "Are you a student interested in public support for digital humanities research?\n\nWe are absolutely thrilled that we will be able to host two paid student interns this summer through the NEH Pathways program. 🧵\n\nhttps://t.co/H4qtvBAIhm https://t.co/Pc85P7vg8U",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H4qtvBAIhm",
+						"expanded_url": "https://www.usajobs.gov/GetJob/ViewDetails/590612000",
+						"display_url": "usajobs.gov/GetJob/ViewDet…",
+						"indices": [
+							211,
+							234
+						]
+					},
+					{
+						"url": "https://t.co/Pc85P7vg8U",
+						"expanded_url": "https://twitter.com/NEHgov/status/1355203292364734467",
+						"display_url": "twitter.com/NEHgov/status/…",
+						"indices": [
+							235,
+							258
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158445401,
+				"id_str": "158445401",
+				"name": "NEH Digital Humanities",
+				"screen_name": "NEH_ODH",
+				"location": "Washington, DC",
+				"description": "Office of Digital Humanities at the National Endowment for the Humanities. Funding experimentation with technology in the humanities. Retweets ≠ endorsements.",
+				"url": "http://t.co/raOmrbg9GE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/raOmrbg9GE",
+								"expanded_url": "http://www.neh.gov/odh/",
+								"display_url": "neh.gov/odh/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26334,
+				"friends_count": 28,
+				"listed_count": 787,
+				"created_at": "Tue Jun 22 18:25:34 +0000 2010",
+				"favourites_count": 467,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3170,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831575604046729218/k5for56S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831575604046729218/k5for56S_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1355203292364734500,
+			"quoted_status_id_str": "1355203292364734467",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Pc85P7vg8U",
+				"expanded": "https://twitter.com/NEHgov/status/1355203292364734467",
+				"display": "twitter.com/NEHgov/status/…"
+			},
+			"retweet_count": 54,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apply to work with @NEH_ODH this summer! This internship means learning more about support for digital humanities research, conducting research on the impact of this support, and joining a 🔥 office group chat. Message me if you want to hear me wax poetic about my experience! https://t.co/DnhibPreHO"
+	},
+	{
 		"created_at": "Tue Feb 02 01:49:52 +0000 2021",
 		"id": 1356419535440650200,
 		"id_str": "1356419535440650243",
@@ -852,7 +1747,7 @@ Grailbird.data.tweets_2021_02 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
