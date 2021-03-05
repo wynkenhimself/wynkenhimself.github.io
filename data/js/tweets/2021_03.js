@@ -1,6 +1,1038 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 05 01:34:19 +0000 2021",
+		"id": 1367649642230526000,
+		"id_str": "1367649642230525953",
+		"full_text": "@owilliamsdc @LibColleen @friede @adamghooks @jeffreyjcohen Oh wow. That was so long ago! @nemersonian, look at this!",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "owilliamsdc",
+					"name": "Owen Williams",
+					"id": 420457074,
+					"id_str": "420457074",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "LibColleen",
+					"name": "Colleen Theisen 📚",
+					"id": 194605722,
+					"id_str": "194605722",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "friede",
+					"name": "Dr. Emily Friedman",
+					"id": 12237542,
+					"id_str": "12237542",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "adamghooks",
+					"name": "Adam G. Hooks",
+					"id": 268958621,
+					"id_str": "268958621",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"screen_name": "jeffreyjcohen",
+					"name": "Jeffrey J Cohen 🌵☀️",
+					"id": 34650921,
+					"id_str": "34650921",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "nemersonian",
+					"name": "Christina Katopodis, PhD",
+					"id": 2370577693,
+					"id_str": "2370577693",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1367637693417586700,
+		"in_reply_to_status_id_str": "1367637693417586692",
+		"in_reply_to_user_id": 420457074,
+		"in_reply_to_user_id_str": "420457074",
+		"in_reply_to_screen_name": "owilliamsdc",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9728,
+			"friends_count": 441,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@owilliamsdc @LibColleen @friede @adamghooks @jeffreyjcohen Oh wow. That was so long ago! @nemersonian, look at this!"
+	},
+	{
+		"created_at": "Thu Mar 04 23:02:20 +0000 2021",
+		"id": 1367523879577526300,
+		"id_str": "1367611395152478209",
+		"full_text": "If you've used the WBHB bibliography (at https://t.co/XffF2xx8CJ) in a class or workshop, could you let us know? we're mustering evidence of use and impact beyond site metrics for a promotion and tenure packet.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XffF2xx8CJ",
+					"expanded_url": "http://womensbookhistory.org",
+					"display_url": "womensbookhistory.org",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 724376123665043500,
+			"id_str": "724376123665043456",
+			"name": "WomensBookHistory",
+			"screen_name": "GrubStreetWomen",
+			"location": "Pomona, CA",
+			"description": "Network that celebrates #womenwriters and #feminist #bookhistory, #dh, and #libraries. Frequent RT of academic and popular work. Tweets by Kate Ozment.",
+			"url": "https://t.co/rOdYgCiRTN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rOdYgCiRTN",
+							"expanded_url": "http://womensbookhistory.org",
+							"display_url": "womensbookhistory.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4383,
+			"friends_count": 2395,
+			"listed_count": 66,
+			"created_at": "Sun Apr 24 23:15:00 +0000 2016",
+			"favourites_count": 14376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305200753707950081/WWUmScQx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305200753707950081/WWUmScQx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724376123665043456/1591113326",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you've used the WBHB bibliography (at https://t.co/XffF2xx8CJ) in a class or workshop, could you let us know? we're mustering evidence of use and impact beyond site metrics for a promotion and tenure packet."
+	},
+	{
+		"created_at": "Thu Mar 04 22:56:51 +0000 2021",
+		"id": 1367599522583629800,
+		"id_str": "1367610016992231431",
+		"full_text": "A historic moment for a historic project. The volunteers behind Covid Tracking deserve a million thanks. They were the eyes we never should have needed, allowing us to see the horror that surrounded us when the Trump administration wanted us to keep our eyes shut. https://t.co/FK1NWrgtGO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FK1NWrgtGO",
+					"expanded_url": "https://twitter.com/COVID19Tracking/status/1367598371322667009",
+					"display_url": "twitter.com/COVID19Trackin…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "Chicago, IL",
+			"description": "I do stuff. Cohost of @sayswhopodcast, do https://t.co/xyanwamsDC, formerly @opennews, made @MayorEmanuel, founder of Punk Planet (RIP), #1 Candle King of Kickstarter.",
+			"url": "https://t.co/KfjG5DhmVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfjG5DhmVG",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xyanwamsDC",
+							"expanded_url": "http://impeachment.fyi",
+							"display_url": "impeachment.fyi",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30597,
+			"friends_count": 4203,
+			"listed_count": 1261,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 112015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 135979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1367598371322667000,
+		"quoted_status_id_str": "1367598371322667009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FK1NWrgtGO",
+			"expanded": "https://twitter.com/COVID19Tracking/status/1367598371322667009",
+			"display": "twitter.com/COVID19Trackin…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 04 22:10:35 +0000 2021",
+			"id": 1367598371322667000,
+			"id_str": "1367598371322667009",
+			"full_text": "Today we published our final weekly update. COVID-19 cases, deaths, and hospitalizations continue to decline, while tests are up 12 percent. https://t.co/WR78xLciHn https://t.co/I1bosAlizt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WR78xLciHn",
+						"expanded_url": "https://covidtracking.com/analysis-updates/our-final-week-this-week-in-covid-data-mar-4",
+						"display_url": "covidtracking.com/analysis-updat…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1367597643132784600,
+						"id_str": "1367597643132784650",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Evquz4KXUAoU5Ro.png",
+						"media_url_https": "https://pbs.twimg.com/media/Evquz4KXUAoU5Ro.png",
+						"url": "https://t.co/I1bosAlizt",
+						"display_url": "pic.twitter.com/I1bosAlizt",
+						"expanded_url": "https://twitter.com/COVID19Tracking/status/1367598371322667009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 597,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1399,
+								"h": 696,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1367597643132784600,
+						"id_str": "1367597643132784650",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Evquz4KXUAoU5Ro.png",
+						"media_url_https": "https://pbs.twimg.com/media/Evquz4KXUAoU5Ro.png",
+						"url": "https://t.co/I1bosAlizt",
+						"display_url": "pic.twitter.com/I1bosAlizt",
+						"expanded_url": "https://twitter.com/COVID19Tracking/status/1367598371322667009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 597,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1399,
+								"h": 696,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1236557193752658000,
+				"id_str": "1236557193752657926",
+				"name": "The COVID Tracking Project",
+				"screen_name": "COVID19Tracking",
+				"location": "",
+				"description": "We try to provide the most comprehensive state-level coronavirus data. Housed at @TheAtlantic.",
+				"url": "https://t.co/GyCwfsjf7G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GyCwfsjf7G",
+								"expanded_url": "http://covidtracking.com",
+								"display_url": "covidtracking.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 468568,
+				"friends_count": 13,
+				"listed_count": 6038,
+				"created_at": "Sun Mar 08 07:40:57 +0000 2020",
+				"favourites_count": 84,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2541,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1286024647171956736/bJ4lH6YI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286024647171956736/bJ4lH6YI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1236557193752657926/1595447144",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 226,
+			"favorite_count": 797,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 39,
+		"favorite_count": 107,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A historic moment for a historic project. The volunteers behind Covid Tracking deserve a million thanks. They were the eyes we never should have needed, allowing us to see the horror that surrounded us when the Trump administration wanted us to keep our eyes shut. https://t.co/FK1NWrgtGO"
+	},
+	{
+		"created_at": "Thu Mar 04 17:20:49 +0000 2021",
+		"id": 1367525451346956300,
+		"id_str": "1367525451346956291",
+		"full_text": "@mkramer @blprnt @tcarmody @kzwa Same same: it’s hard timing but someday!!",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkramer",
+					"name": "Melody Joy Kramer",
+					"id": 10232022,
+					"id_str": "10232022",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "blprnt",
+					"name": "Jer Thorp",
+					"id": 17013577,
+					"id_str": "17013577",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "tcarmody",
+					"name": "Tim Carmody",
+					"id": 14439168,
+					"id_str": "14439168",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "kzwa",
+					"name": "Kate Zwaard",
+					"id": 74541831,
+					"id_str": "74541831",
+					"indices": [
+						27,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1367512249099837400,
+		"in_reply_to_status_id_str": "1367512249099837454",
+		"in_reply_to_user_id": 10232022,
+		"in_reply_to_user_id_str": "10232022",
+		"in_reply_to_screen_name": "mkramer",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9728,
+			"friends_count": 441,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mkramer @blprnt @tcarmody @kzwa Same same: it’s hard timing but someday!!"
+	},
+	{
+		"created_at": "Thu Mar 04 15:03:01 +0000 2021",
+		"id": 1367471778843545600,
+		"id_str": "1367490771432202245",
+		"full_text": "Trying but failing to keep up with all of the threats to #PrintHeritage we're facing at the moment (including #BookHistory, #Bibliography &amp; #PrintingHistory). This is just a start: more to come, and please let me know of others.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrintHeritage",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"text": "BookHistory",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"text": "Bibliography",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "PrintingHistory",
+					"indices": [
+						144,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3176124093,
+			"id_str": "3176124093",
+			"name": "Dr Elizabeth Savage",
+			"screen_name": "leusavage",
+			"location": "London, England",
+			"description": "Print & book historian. Runs @printcolourproj & @book_and_print. #PrintingColour. Views mine. Next book: https://t.co/MRwBTtQCjy. She/her.",
+			"url": "https://t.co/ZZorGAAlO3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZZorGAAlO3",
+							"expanded_url": "https://hcommons.org/members/leusavage/",
+							"display_url": "hcommons.org/members/leusav…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MRwBTtQCjy",
+							"expanded_url": "http://bit.ly/SavageBMPrints",
+							"display_url": "bit.ly/SavageBMPrints",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4031,
+			"friends_count": 5004,
+			"listed_count": 45,
+			"created_at": "Fri Apr 17 10:47:27 +0000 2015",
+			"favourites_count": 8214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296117481036296202/KuerRXME_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296117481036296202/KuerRXME_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3176124093/1567168829",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Trying but failing to keep up with all of the threats to #PrintHeritage we're facing at the moment (including #BookHistory, #Bibliography &amp; #PrintingHistory). This is just a start: more to come, and please let me know of others."
+	},
+	{
+		"created_at": "Thu Mar 04 14:11:53 +0000 2021",
+		"id": 1367407872041173000,
+		"id_str": "1367477903211065345",
+		"full_text": "Zotero now has beautiful PDF annotation and a clever new system for taking notes (both in beta). https://t.co/Ot1jW8lCXA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367384097581117400,
+					"id_str": "1367384097581117442",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Evnsl4_XMAI86tu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evnsl4_XMAI86tu.jpg",
+					"url": "https://t.co/Ot1jW8lCXA",
+					"display_url": "pic.twitter.com/Ot1jW8lCXA",
+					"expanded_url": "https://twitter.com/stakats/status/1367407872041172996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1840,
+							"h": 1550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367384097581117400,
+					"id_str": "1367384097581117442",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Evnsl4_XMAI86tu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evnsl4_XMAI86tu.jpg",
+					"url": "https://t.co/Ot1jW8lCXA",
+					"display_url": "pic.twitter.com/Ot1jW8lCXA",
+					"expanded_url": "https://twitter.com/stakats/status/1367407872041172996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1840,
+							"h": 1550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15294618,
+			"id_str": "15294618",
+			"name": "Sean Takats",
+			"screen_name": "stakats",
+			"location": "Brussels",
+			"description": "History prof building new digital tools for humanities researchers at @c2dh_lu / @uni_lu. PI @dharpaproject, @tropy, @zotero",
+			"url": "https://t.co/9xRm2bMnGM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9xRm2bMnGM",
+							"expanded_url": "https://quintessenceofham.org",
+							"display_url": "quintessenceofham.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1831,
+			"friends_count": 131,
+			"listed_count": 124,
+			"created_at": "Wed Jul 02 03:13:54 +0000 2008",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367504271105744911/GG7R1WZu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367504271105744911/GG7R1WZu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15294618/1614873214",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 724,
+		"favorite_count": 4102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Zotero now has beautiful PDF annotation and a clever new system for taking notes (both in beta). https://t.co/Ot1jW8lCXA"
+	},
+	{
 		"created_at": "Wed Mar 03 02:50:13 +0000 2021",
 		"id": 1366943968882262000,
 		"id_str": "1366943968882262017",
