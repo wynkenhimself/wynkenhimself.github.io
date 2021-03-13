@@ -1,6 +1,1040 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 12 23:59:19 +0000 2021",
+		"id": 1370345715784806400,
+		"id_str": "1370524837865779210",
+		"full_text": "If you missed @EffectDefective’s great Pforzheimer Lecture last night, all’s well: the recording is still up at the same YouTube link. https://t.co/1AQo9w0ptl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EffectDefective",
+					"name": "Sarah Neville",
+					"id": 1444353121,
+					"id_str": "1444353121",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1AQo9w0ptl",
+					"expanded_url": "https://twitter.com/ransomcenter/status/1369694320253571075",
+					"display_url": "twitter.com/ransomcenter/s…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65746809,
+			"id_str": "65746809",
+			"name": "Aaron T. Pratt",
+			"screen_name": "aarontpratt",
+			"location": "Austin, TX",
+			"description": "Pforzheimer Curator of Early Books & Manuscripts @RansomCenter. Book historian, bibliographer, & VHS guy. Book project rethinking the early English play quarto.",
+			"url": "https://t.co/oG8zcHJIdl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oG8zcHJIdl",
+							"expanded_url": "http://www.aarontpratt.com",
+							"display_url": "aarontpratt.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4431,
+			"friends_count": 998,
+			"listed_count": 118,
+			"created_at": "Fri Aug 14 21:57:11 +0000 2009",
+			"favourites_count": 10536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225910551332687872/JLmR0-sx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225910551332687872/JLmR0-sx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65746809/1499028865",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1369694320253571000,
+		"quoted_status_id_str": "1369694320253571075",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1AQo9w0ptl",
+			"expanded": "https://twitter.com/ransomcenter/status/1369694320253571075",
+			"display": "twitter.com/ransomcenter/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 10 16:59:08 +0000 2021",
+			"id": 1369694320253571000,
+			"id_str": "1369694320253571075",
+			"full_text": "📕🌿Explore the publishing history of printed herbals w/ @EffectDefective TOMORROW, 3/11 @ 4:30 p.m. cst\n\nWatch \"Herbals 'Grete' and Small: Commodifying Botany in Early Modern England\" on:\n🔴YouTube: https://t.co/kIN5vrty1B\n🔵Facebook Live: https://t.co/fAIHQa3ij9 https://t.co/yEtyB1EeKe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EffectDefective",
+						"name": "Sarah Neville",
+						"id": 1444353121,
+						"id_str": "1444353121",
+						"indices": [
+							55,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kIN5vrty1B",
+						"expanded_url": "https://youtu.be/zXEXilhauKA",
+						"display_url": "youtu.be/zXEXilhauKA",
+						"indices": [
+							197,
+							220
+						]
+					},
+					{
+						"url": "https://t.co/fAIHQa3ij9",
+						"expanded_url": "https://fb.me/e/1W4lPpsSb",
+						"display_url": "fb.me/e/1W4lPpsSb",
+						"indices": [
+							237,
+							260
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1369694161067155500,
+						"id_str": "1369694161067155456",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/EwIhlSFVoAAFzQb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwIhlSFVoAAFzQb.jpg",
+						"url": "https://t.co/yEtyB1EeKe",
+						"display_url": "pic.twitter.com/yEtyB1EeKe",
+						"expanded_url": "https://twitter.com/ransomcenter/status/1369694320253571075/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 991,
+								"h": 558,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 991,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1369694161067155500,
+						"id_str": "1369694161067155456",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/EwIhlSFVoAAFzQb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwIhlSFVoAAFzQb.jpg",
+						"url": "https://t.co/yEtyB1EeKe",
+						"display_url": "pic.twitter.com/yEtyB1EeKe",
+						"expanded_url": "https://twitter.com/ransomcenter/status/1369694320253571075/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 991,
+								"h": 558,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 991,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33538043,
+				"id_str": "33538043",
+				"name": "ransomcenter",
+				"screen_name": "ransomcenter",
+				"location": "Austin, Texas",
+				"description": "The Harry Ransom Center is a humanities research library and museum at @UTAustin. In response to COVID-19, we are temporarily closed to the public.",
+				"url": "https://t.co/8yuCqEvaVo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8yuCqEvaVo",
+								"expanded_url": "http://www.hrc.utexas.edu",
+								"display_url": "hrc.utexas.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11952,
+				"friends_count": 718,
+				"listed_count": 615,
+				"created_at": "Mon Apr 20 14:59:52 +0000 2009",
+				"favourites_count": 2804,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6149,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975784024885964800/JrLh7Snb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975784024885964800/JrLh7Snb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33538043/1579211088",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you missed @EffectDefective’s great Pforzheimer Lecture last night, all’s well: the recording is still up at the same YouTube link. https://t.co/1AQo9w0ptl"
+	},
+	{
+		"created_at": "Fri Mar 12 21:03:53 +0000 2021",
+		"id": 1368696524230848500,
+		"id_str": "1370480688923881485",
+		"full_text": "We are *still* in a pandemic and our students are struggling. Here are some of the ways I have tried to adapt my courses this semester to our reality. Pandemic pedagogy a 🧵 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1381853857,
+			"id_str": "1381853857",
+			"name": "Annette J-G",
+			"screen_name": "AnnetteJosephG",
+			"location": "",
+			"description": "Assistant Professor of French and Francophone Studies | Author of REIMAGINING LIBERATION: https://t.co/b9UL0VzrJy",
+			"url": "https://t.co/VFc4M7nZam",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VFc4M7nZam",
+							"expanded_url": "http://annettejosephgabriel.com",
+							"display_url": "annettejosephgabriel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/b9UL0VzrJy",
+							"expanded_url": "http://go.illinois.edu/f19joseph",
+							"display_url": "go.illinois.edu/f19joseph",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4994,
+			"friends_count": 573,
+			"listed_count": 52,
+			"created_at": "Fri Apr 26 12:49:07 +0000 2013",
+			"favourites_count": 11315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131057642259005440/OYvepWR-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131057642259005440/OYvepWR-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1381853857/1431809904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2216,
+		"favorite_count": 8212,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are *still* in a pandemic and our students are struggling. Here are some of the ways I have tried to adapt my courses this semester to our reality. Pandemic pedagogy a 🧵 1/"
+	},
+	{
+		"created_at": "Fri Mar 12 15:41:47 +0000 2021",
+		"id": 1370399630614220800,
+		"id_str": "1370399630614220801",
+		"full_text": "If you need only delightful and tbqh weird content today, #GLPBO is the hashtag to follow. And good luck to everyone baking!! https://t.co/hmLQN52F6h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GLPBO",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hmLQN52F6h",
+					"expanded_url": "https://twitter.com/folgerresearch/status/1370382280426934274",
+					"display_url": "twitter.com/folgerresearch…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9730,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370382280426934300,
+		"quoted_status_id_str": "1370382280426934274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hmLQN52F6h",
+			"expanded": "https://twitter.com/folgerresearch/status/1370382280426934274",
+			"display": "twitter.com/folgerresearch…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 12 14:32:50 +0000 2021",
+			"id": 1370382280426934300,
+			"id_str": "1370382280426934274",
+			"full_text": "The #GreatLibraryPieBakeOff is here!! Follow #GLPBO on Twitter today to see how librarians &amp; culinary historians representing nearly 20 institutions are baking their pies! At 4pm EST, join us for a roundtable discussion led by @rare_cooking! #PieDay #PiDay https://t.co/Nbh7q7dQc6 https://t.co/rduNNink1h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GreatLibraryPieBakeOff",
+						"indices": [
+							4,
+							27
+						]
+					},
+					{
+						"text": "GLPBO",
+						"indices": [
+							45,
+							51
+						]
+					},
+					{
+						"text": "PieDay",
+						"indices": [
+							246,
+							253
+						]
+					},
+					{
+						"text": "PiDay",
+						"indices": [
+							254,
+							260
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rare_cooking",
+						"name": "Cooking in the Archives",
+						"id": 2559912457,
+						"id_str": "2559912457",
+						"indices": [
+							231,
+							244
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Nbh7q7dQc6",
+						"expanded_url": "https://youtu.be/MoOcj94zbxg",
+						"display_url": "youtu.be/MoOcj94zbxg",
+						"indices": [
+							261,
+							284
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1370382271660888000,
+						"id_str": "1370382271660888064",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EwSTalzXEAAwZ3t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwSTalzXEAAwZ3t.jpg",
+						"url": "https://t.co/rduNNink1h",
+						"display_url": "pic.twitter.com/rduNNink1h",
+						"expanded_url": "https://twitter.com/FolgerResearch/status/1370382280426934274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1370382271660888000,
+						"id_str": "1370382271660888064",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/EwSTalzXEAAwZ3t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwSTalzXEAAwZ3t.jpg",
+						"url": "https://t.co/rduNNink1h",
+						"display_url": "pic.twitter.com/rduNNink1h",
+						"expanded_url": "https://twitter.com/FolgerResearch/status/1370382280426934274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245457986,
+				"id_str": "245457986",
+				"name": "Folger Research",
+				"screen_name": "FolgerResearch",
+				"location": "Folger Shakespeare Library",
+				"description": "Research, collections, and scholarly events from the Folger Shakespeare Library.",
+				"url": "http://t.co/LkH0iA7gmz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LkH0iA7gmz",
+								"expanded_url": "http://collation.folger.edu",
+								"display_url": "collation.folger.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9889,
+				"friends_count": 184,
+				"listed_count": 241,
+				"created_at": "Mon Jan 31 18:58:56 +0000 2011",
+				"favourites_count": 2345,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6147,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCD083",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245457986/1409944581",
+				"profile_link_color": "B35516",
+				"profile_sidebar_border_color": "CC8A6C",
+				"profile_sidebar_fill_color": "FCD083",
+				"profile_text_color": "1A1714",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you need only delightful and tbqh weird content today, #GLPBO is the hashtag to follow. And good luck to everyone baking!! https://t.co/hmLQN52F6h"
+	},
+	{
+		"created_at": "Fri Mar 12 15:38:44 +0000 2021",
+		"id": 1370398862981136400,
+		"id_str": "1370398862981136384",
+		"full_text": "@SgWingo Oh Sarah. That’s so rough. I’m sorry.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SgWingo",
+					"name": "Sarah Wingo",
+					"id": 259295580,
+					"id_str": "259295580",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1370398438643355600,
+		"in_reply_to_status_id_str": "1370398438643355653",
+		"in_reply_to_user_id": 259295580,
+		"in_reply_to_user_id_str": "259295580",
+		"in_reply_to_screen_name": "SgWingo",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9730,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SgWingo Oh Sarah. That’s so rough. I’m sorry."
+	},
+	{
+		"created_at": "Fri Mar 12 14:05:34 +0000 2021",
+		"id": 1370028992477102000,
+		"id_str": "1370375416586899459",
+		"full_text": "Grant klaxon!\n\n$10,000 USD and a 2-7 week say in Virginia with @oak_spring's Stacy Lloyd III Fellowship for Bibliographic Study. For ECRs working in the history, art, and culture of plants, gardens, and landscapes. Due 15 July.\n\nhttps://t.co/xOUpVyiE9y\n\n#bookhistory #bookstudies",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bookhistory",
+					"indices": [
+						254,
+						266
+					]
+				},
+				{
+					"text": "bookstudies",
+					"indices": [
+						267,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oak_spring",
+					"name": "oak_spring",
+					"id": 789467679170134000,
+					"id_str": "789467679170134016",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xOUpVyiE9y",
+					"expanded_url": "https://www.osgf.org/fellowships/stacy-lloyd-bibliographic-study",
+					"display_url": "osgf.org/fellowships/st…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1272985049630232600,
+			"id_str": "1272985049630232576",
+			"name": "SHARP News",
+			"screen_name": "SHARPorgNews",
+			"location": "",
+			"description": "A quarterly publication of @SHARPorg. We tweet about #bookstudies, #bookhistory, and #publishing.\n\nAccount run by @leahhenrickson.",
+			"url": "https://t.co/Ih18QM7CD8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ih18QM7CD8",
+							"expanded_url": "http://sharpweb.org/sharpnews",
+							"display_url": "sharpweb.org/sharpnews",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 934,
+			"friends_count": 808,
+			"listed_count": 7,
+			"created_at": "Tue Jun 16 20:12:00 +0000 2020",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324673870264180738/eBUCTmV__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324673870264180738/eBUCTmV__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1272985049630232576/1592353985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grant klaxon!\n\n$10,000 USD and a 2-7 week say in Virginia with @oak_spring's Stacy Lloyd III Fellowship for Bibliographic Study. For ECRs working in the history, art, and culture of plants, gardens, and landscapes. Due 15 July.\n\nhttps://t.co/xOUpVyiE9y\n\n#bookhistory #bookstudies"
+	},
+	{
 		"created_at": "Fri Mar 12 01:03:30 +0000 2021",
 		"id": 1370178604173291500,
 		"id_str": "1370178604173291521",
