@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 13 18:25:57 +0000 2021",
+		"id": 1370803331132702700,
+		"id_str": "1370803331132702726",
+		"full_text": "Having one of those weird days where I’m really homesick but I’m at home with my kids and my parents have been dead for over a decade and I can’t figure out what I’m feeling sick for",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9735,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Having one of those weird days where I’m really homesick but I’m at home with my kids and my parents have been dead for over a decade and I can’t figure out what I’m feeling sick for"
+	},
+	{
+		"created_at": "Sat Mar 13 18:24:06 +0000 2021",
+		"id": 1370802865254588400,
+		"id_str": "1370802865254588416",
+		"full_text": "@tjowens I can’t stand the environmental waste of that sort of thing and I don’t get why anyone would want to own an NFT of an artwork but public domain is public domain and I really feel like this thread doesn’t get that",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjowens",
+					"name": "Trevor Owens 💾🗄🕚",
+					"id": 10034972,
+					"id_str": "10034972",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1370797433677082600,
+		"in_reply_to_status_id_str": "1370797433677082627",
+		"in_reply_to_user_id": 10034972,
+		"in_reply_to_user_id_str": "10034972",
+		"in_reply_to_screen_name": "tjowens",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9735,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tjowens I can’t stand the environmental waste of that sort of thing and I don’t get why anyone would want to own an NFT of an artwork but public domain is public domain and I really feel like this thread doesn’t get that"
+	},
+	{
+		"created_at": "Sat Mar 13 18:17:30 +0000 2021",
+		"id": 1370743860025000000,
+		"id_str": "1370801206138970121",
+		"full_text": "The best source for vaccine news in Annapolis is @DelArianaKelly https://t.co/WeUHY6t8uR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DelArianaKelly",
+					"name": "Ariana Kelly",
+					"id": 144987804,
+					"id_str": "144987804",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WeUHY6t8uR",
+					"expanded_url": "https://twitter.com/DelArianaKelly/status/1370518216213196805",
+					"display_url": "twitter.com/DelArianaKelly…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15117083,
+			"id_str": "15117083",
+			"name": "Marc Korman",
+			"screen_name": "mkorman",
+			"location": "Bethesda, MD",
+			"description": "Delegate, MD House of Delegates-Dist 16. By Authority: Friends of Marc Korman; Mark Brown, Treasurer",
+			"url": "http://t.co/i5d86Cb3x7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/i5d86Cb3x7",
+							"expanded_url": "http://www.marckorman.com",
+							"display_url": "marckorman.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3768,
+			"friends_count": 1581,
+			"listed_count": 103,
+			"created_at": "Sat Jun 14 14:35:24 +0000 2008",
+			"favourites_count": 6238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894557888718483457/i_xuTJSt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894557888718483457/i_xuTJSt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15117083/1605235949",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370518216213196800,
+		"quoted_status_id_str": "1370518216213196805",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WeUHY6t8uR",
+			"expanded": "https://twitter.com/DelArianaKelly/status/1370518216213196805",
+			"display": "twitter.com/DelArianaKelly…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 12 23:33:00 +0000 2021",
+			"id": 1370518216213196800,
+			"id_str": "1370518216213196805",
+			"full_text": "Lots of good news (but not all good news!) in this week's vaccine update! https://t.co/3zFL22o62Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3zFL22o62Q",
+						"expanded_url": "https://conta.cc/3eLNnXB",
+						"display_url": "conta.cc/3eLNnXB",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.constantcontact.com/\" rel=\"nofollow\">Constant Contact - Social Posts</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144987804,
+				"id_str": "144987804",
+				"name": "Ariana Kelly",
+				"screen_name": "DelArianaKelly",
+				"location": "Bethesda, MD",
+				"description": "State Delegate representing Maryland's District 16 | By Authority: Friends of Ariana Kelly. Rosalyn Levy Jonas, Chair. Jennifer R. Kefer, Treasurer.",
+				"url": "https://t.co/d2tVhd5gX5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d2tVhd5gX5",
+								"expanded_url": "http://delegatearianakelly.com",
+								"display_url": "delegatearianakelly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4036,
+				"friends_count": 1951,
+				"listed_count": 134,
+				"created_at": "Mon May 17 21:08:41 +0000 2010",
+				"favourites_count": 2163,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1633,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144987804/1508791972",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best source for vaccine news in Annapolis is @DelArianaKelly https://t.co/WeUHY6t8uR"
+	},
+	{
 		"created_at": "Fri Mar 12 23:59:19 +0000 2021",
 		"id": 1370345715784806400,
 		"id_str": "1370524837865779210",
