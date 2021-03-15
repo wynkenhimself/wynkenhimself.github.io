@@ -1,6 +1,955 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 14 19:31:12 +0000 2021",
+		"id": 1371129440667766800,
+		"id_str": "1371182143125270533",
+		"full_text": "This is tribal sovereignty. This is acknowledging our shared humanity. This is trusting science. This is Indigenous generosity despite 500+ years of colonization and violence. https://t.co/2nVy1v5pxJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2nVy1v5pxJ",
+					"expanded_url": "https://twitter.com/ChickasawNation/status/1370515443514019848",
+					"display_url": "twitter.com/ChickasawNatio…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2579686013,
+			"id_str": "2579686013",
+			"name": "Dr. Dr. Desi (she/her)",
+			"screen_name": "native4data",
+			"location": "Unceded Indigenous Land!",
+			"description": "Cheyenne-Chicana mama, rezgirl, prof @ucla|sociologist|demographer|data warrior|Indigenous erasure|inequality|racism|data|critical quant|my cussing|my views",
+			"url": "https://t.co/KmIz5dsmE1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KmIz5dsmE1",
+							"expanded_url": "http://www.drdrdesi.com",
+							"display_url": "drdrdesi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14854,
+			"friends_count": 1359,
+			"listed_count": 107,
+			"created_at": "Tue Jun 03 07:10:47 +0000 2014",
+			"favourites_count": 8129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370409387441881094/JbSXOXhN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370409387441881094/JbSXOXhN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2579686013/1586821379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370515443514019800,
+		"quoted_status_id_str": "1370515443514019848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2nVy1v5pxJ",
+			"expanded": "https://twitter.com/ChickasawNation/status/1370515443514019848",
+			"display": "twitter.com/ChickasawNatio…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 12 23:21:59 +0000 2021",
+			"id": 1370515443514019800,
+			"id_str": "1370515443514019848",
+			"full_text": "The Chickasaw Nation is now offering COVID-19 vaccines at no cost to all Oklahoma residents. There are no tribal citizenship or employee requirements. Schedule your appointment online at https://t.co/KimM6TST6B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KimM6TST6B",
+						"expanded_url": "http://COVIDVaccine.Chickasaw.net",
+						"display_url": "COVIDVaccine.Chickasaw.net",
+						"indices": [
+							187,
+							210
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29960419,
+				"id_str": "29960419",
+				"name": "The Chickasaw Nation",
+				"screen_name": "ChickasawNation",
+				"location": "Oklahoma, USA",
+				"description": "We are an economically strong, culturally vibrant nation of 70,000+ citizens. Tribal government headquarters are located in Ada, Okla. Bill Anoatubby, Governor.",
+				"url": "https://t.co/OgDVqFLxl9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OgDVqFLxl9",
+								"expanded_url": "http://www.Chickasaw.net",
+								"display_url": "Chickasaw.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10540,
+				"friends_count": 82,
+				"listed_count": 172,
+				"created_at": "Thu Apr 09 10:50:59 +0000 2009",
+				"favourites_count": 5317,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12647,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111012",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1301603202715054080/k-o_h18a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301603202715054080/k-o_h18a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29960419/1587678343",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1758,
+			"favorite_count": 4421,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1902,
+		"favorite_count": 7018,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is tribal sovereignty. This is acknowledging our shared humanity. This is trusting science. This is Indigenous generosity despite 500+ years of colonization and violence. https://t.co/2nVy1v5pxJ"
+	},
+	{
+		"created_at": "Sun Mar 14 17:51:43 +0000 2021",
+		"id": 1371157104761913300,
+		"id_str": "1371157104761913346",
+		"full_text": "@harrisj I liked the beard but mazel tov!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harrisj",
+					"name": "Jacob Harris",
+					"id": 681473,
+					"id_str": "681473",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1371155476386300000,
+		"in_reply_to_status_id_str": "1371155476386299906",
+		"in_reply_to_user_id": 681473,
+		"in_reply_to_user_id_str": "681473",
+		"in_reply_to_screen_name": "harrisj",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9736,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@harrisj I liked the beard but mazel tov!"
+	},
+	{
+		"created_at": "Sun Mar 14 16:28:37 +0000 2021",
+		"id": 1371085799953985500,
+		"id_str": "1371136194881454085",
+		"full_text": "Andrew Lang probably wouldn’t have chosen to be best remembered for his fairy books, and in fact he probably doesn’t deserve to be, since his wife did most of the work. https://t.co/zk0TLfcfYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zk0TLfcfYA",
+					"expanded_url": "https://www.tcd.ie/library/epb/blog/gratitude-to-the-ladies/",
+					"display_url": "tcd.ie/library/epb/bl…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89477148,
+			"id_str": "89477148",
+			"name": "John Overholt",
+			"screen_name": "john_overholt",
+			"location": "Cambridge/Medford, MA",
+			"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+			"url": "https://t.co/d5qeDpYMtj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d5qeDpYMtj",
+							"expanded_url": "http://library.harvard.edu/hou",
+							"display_url": "library.harvard.edu/hou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22700,
+			"friends_count": 757,
+			"listed_count": 717,
+			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+			"favourites_count": 23183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 146,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Andrew Lang probably wouldn’t have chosen to be best remembered for his fairy books, and in fact he probably doesn’t deserve to be, since his wife did most of the work. https://t.co/zk0TLfcfYA"
+	},
+	{
+		"created_at": "Sun Mar 14 16:25:09 +0000 2021",
+		"id": 1371135318733295600,
+		"id_str": "1371135318733295623",
+		"full_text": "@SLevelt @mcegillion @ivdnt A) this is great and B) my Dutch learning on Duolingo is paying off and I can actually read site! which means C) they’ve take the time to write in a clear, accessible language, which most research portals can’t manage 🙌",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLevelt",
+					"name": "Sjoerd Levelt",
+					"id": 1197037934,
+					"id_str": "1197037934",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "mcegillion",
+					"name": "Dr Marianne CE Gillion",
+					"id": 2948005254,
+					"id_str": "2948005254",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "ivdnt",
+					"name": "/instituut voor de Nederlandse taal/",
+					"id": 197412325,
+					"id_str": "197412325",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1371124996710543400,
+		"in_reply_to_status_id_str": "1371124996710543361",
+		"in_reply_to_user_id": 1197037934,
+		"in_reply_to_user_id_str": "1197037934",
+		"in_reply_to_screen_name": "SLevelt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9736,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SLevelt @mcegillion @ivdnt A) this is great and B) my Dutch learning on Duolingo is paying off and I can actually read site! which means C) they’ve take the time to write in a clear, accessible language, which most research portals can’t manage 🙌"
+	},
+	{
+		"created_at": "Sun Mar 14 16:23:28 +0000 2021",
+		"id": 1371124996710543400,
+		"id_str": "1371134898581438464",
+		"full_text": "just a tweet to express appreciation for the amazing resources for the study of historical Dutch that are freely available @ivdnt: https://t.co/x0XuXlr0DZ #MedievalTwitter #EarlyModernTwitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MedievalTwitter",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "EarlyModernTwitter",
+					"indices": [
+						172,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ivdnt",
+					"name": "/instituut voor de Nederlandse taal/",
+					"id": 197412325,
+					"id_str": "197412325",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x0XuXlr0DZ",
+					"expanded_url": "https://ivdnt.org/historisch-nederlands/",
+					"display_url": "ivdnt.org/historisch-ned…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1197037934,
+			"id_str": "1197037934",
+			"name": "Sjoerd Levelt",
+			"screen_name": "SLevelt",
+			"location": "",
+			"description": "Combined Historian . earlymodernist/medievalist . he/him . #AngloDutch . #MedievalTwitter . funcrusher",
+			"url": "https://t.co/nUeDhSIdY1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUeDhSIdY1",
+							"expanded_url": "http://crowdcast.io/e/2lthq2xe",
+							"display_url": "crowdcast.io/e/2lthq2xe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10568,
+			"friends_count": 2513,
+			"listed_count": 340,
+			"created_at": "Tue Feb 19 12:56:41 +0000 2013",
+			"favourites_count": 104739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277909720913887233/PhcuujNN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277909720913887233/PhcuujNN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1197037934/1466987627",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "just a tweet to express appreciation for the amazing resources for the study of historical Dutch that are freely available @ivdnt: https://t.co/x0XuXlr0DZ #MedievalTwitter #EarlyModernTwitter"
+	},
+	{
+		"created_at": "Sun Mar 14 16:19:29 +0000 2021",
+		"id": 1371086883380412400,
+		"id_str": "1371133895056457728",
+		"full_text": "We couldn’t have had a President Trump without ORDINARY white people holding themselves and each other to LOW standards—and that includes #teachers.\n\nPlease read &amp; share widely!\n\nhttps://t.co/1V8YgYactD via @publicbooks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teachers",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PublicBooks",
+					"name": "Public Books",
+					"id": 470991619,
+					"id_str": "470991619",
+					"indices": [
+						211,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1V8YgYactD",
+					"expanded_url": "http://www.publicbooks.org/good-teachers-know-that-bodies-matter/",
+					"display_url": "publicbooks.org/good-teachers-…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131322596,
+			"id_str": "131322596",
+			"name": "Koritha Mitchell",
+			"screen_name": "ProfKori",
+			"location": "",
+			"description": "Author of award-winning book LIVING WITH LYNCHING. Editor of IOLA LEROY. Feminist. Cultural Critic. Runner. 08/2020 book = FROM SLAVE CABINS TO THE WHITE HOUSE",
+			"url": "https://t.co/jCX5fcVTeL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jCX5fcVTeL",
+							"expanded_url": "http://www.korithamitchell.com/",
+							"display_url": "korithamitchell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10549,
+			"friends_count": 988,
+			"listed_count": 300,
+			"created_at": "Fri Apr 09 23:17:40 +0000 2010",
+			"favourites_count": 7720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1602763827/IMG_2141_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1602763827/IMG_2141_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131322596/1595457031",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We couldn’t have had a President Trump without ORDINARY white people holding themselves and each other to LOW standards—and that includes #teachers.\n\nPlease read &amp; share widely!\n\nhttps://t.co/1V8YgYactD via @publicbooks"
+	},
+	{
+		"created_at": "Sun Mar 14 13:52:22 +0000 2021",
+		"id": 1371096871150755800,
+		"id_str": "1371096871150755844",
+		"full_text": "@dancohen I think I just have one—the microwave—but I bet there’s a hidden one somewhere that I’ll totally forget about until it makes me miss something crucial.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dancohen",
+					"name": "Dan Cohen",
+					"id": 14181097,
+					"id_str": "14181097",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1371081753444688000,
+		"in_reply_to_status_id_str": "1371081753444687874",
+		"in_reply_to_user_id": 14181097,
+		"in_reply_to_user_id_str": "14181097",
+		"in_reply_to_screen_name": "dancohen",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9736,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dancohen I think I just have one—the microwave—but I bet there’s a hidden one somewhere that I’ll totally forget about until it makes me miss something crucial."
+	},
+	{
 		"created_at": "Sat Mar 13 18:25:57 +0000 2021",
 		"id": 1370803331132702700,
 		"id_str": "1370803331132702726",
