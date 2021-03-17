@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 16 15:40:55 +0000 2021",
+		"id": 1371847501557403600,
+		"id_str": "1371848963855421441",
+		"full_text": "Just released our new catalogue of 14 books by Black scientists: https://t.co/Ox3yOc7jPI\n\nItem no. 4 is one of my favourites: a signed copy of astronaut Mae Jemison's autobiography for young readers. #BlackinSTEM https://t.co/omb7trXGb1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackinSTEM",
+					"indices": [
+						200,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ox3yOc7jPI",
+					"expanded_url": "https://cdn.shopify.com/s/files/1/0455/7961/files/Alembic_Rare_Books_List_17_-_Black_Scientists.pdf?v=1615892747",
+					"display_url": "cdn.shopify.com/s/files/1/0455…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1371844828456173600,
+					"id_str": "1371844828456173569",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnFmmcWQAEZyue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnFmmcWQAEZyue.jpg",
+					"url": "https://t.co/omb7trXGb1",
+					"display_url": "pic.twitter.com/omb7trXGb1",
+					"expanded_url": "https://twitter.com/AlembicBooks/status/1371847501557403648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1371844828456173600,
+					"id_str": "1371844828456173569",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnFmmcWQAEZyue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnFmmcWQAEZyue.jpg",
+					"url": "https://t.co/omb7trXGb1",
+					"display_url": "pic.twitter.com/omb7trXGb1",
+					"expanded_url": "https://twitter.com/AlembicBooks/status/1371847501557403648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1371844850551828500,
+					"id_str": "1371844850551828488",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EwnFn4wXMAgzAEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwnFn4wXMAgzAEc.jpg",
+					"url": "https://t.co/omb7trXGb1",
+					"display_url": "pic.twitter.com/omb7trXGb1",
+					"expanded_url": "https://twitter.com/AlembicBooks/status/1371847501557403648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2413385413,
+			"id_str": "2413385413",
+			"name": "Alembic Rare Books",
+			"screen_name": "AlembicBooks",
+			"location": "Aberlour, Scotland",
+			"description": "Rare book shop specialising in science, nature, technology, medicine, & diversity in STEM. ⚗️ Member @ABARareBooks & @ILABRareBooks. She/her",
+			"url": "https://t.co/yzmIhGaQwQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yzmIhGaQwQ",
+							"expanded_url": "http://alembicrarebooks.com",
+							"display_url": "alembicrarebooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1821,
+			"friends_count": 744,
+			"listed_count": 56,
+			"created_at": "Thu Mar 27 00:40:26 +0000 2014",
+			"favourites_count": 18117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/536193470767976448/ZqqKCISm_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/536193470767976448/ZqqKCISm_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2413385413/1530886432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just released our new catalogue of 14 books by Black scientists: https://t.co/Ox3yOc7jPI\n\nItem no. 4 is one of my favourites: a signed copy of astronaut Mae Jemison's autobiography for young readers. #BlackinSTEM https://t.co/omb7trXGb1"
+	},
+	{
+		"created_at": "Tue Mar 16 15:19:43 +0000 2021",
+		"id": 1371843630286184400,
+		"id_str": "1371843630286184456",
+		"full_text": "I signed up the moment I saw the announcement! I bet lots of you will be interested in this @BibSocAmer roundtable too https://t.co/QWBYbpn1ra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BibSocAmer",
+					"name": "The Bibliographical Society of America",
+					"id": 1171414914730201000,
+					"id_str": "1171414914730201088",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QWBYbpn1ra",
+					"expanded_url": "https://twitter.com/roaringgirle/status/1371832381557108741",
+					"display_url": "twitter.com/roaringgirle/s…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9733,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371832381557108700,
+		"quoted_status_id_str": "1371832381557108741",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QWBYbpn1ra",
+			"expanded": "https://twitter.com/roaringgirle/status/1371832381557108741",
+			"display": "twitter.com/roaringgirle/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 16 14:35:01 +0000 2021",
+			"id": 1371832381557108700,
+			"id_str": "1371832381557108741",
+			"full_text": "please mark your futuretimes calendar for this roundtable, graciously sponsored by @BibSocAmer:\n\nEARLY MODERN TYPOGRAPHY / RACE / GENDER\nMAY 19 • 4 pm EDT\n\nfeat.\nb.k. adams / @bkadams\nerika boeckeler\njill gage / @JillEGage\nmiles p. grier\n&amp; me\n\nregister ➡️ https://t.co/a9dah1cz7D https://t.co/t8kF4tDEet",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BibSocAmer",
+						"name": "The Bibliographical Society of America",
+						"id": 1171414914730201000,
+						"id_str": "1171414914730201088",
+						"indices": [
+							83,
+							94
+						]
+					},
+					{
+						"screen_name": "bkadams",
+						"name": "Dr. B. K. Adams",
+						"id": 14590607,
+						"id_str": "14590607",
+						"indices": [
+							175,
+							183
+						]
+					},
+					{
+						"screen_name": "JillEGage",
+						"name": "Dr. Jill Gage",
+						"id": 901467189869465600,
+						"id_str": "901467189869465601",
+						"indices": [
+							212,
+							222
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/a9dah1cz7D",
+						"expanded_url": "https://www.memberplanet.com/events/bsa/race-gender-typography-roundtable",
+						"display_url": "memberplanet.com/events/bsa/rac…",
+						"indices": [
+							260,
+							283
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1371832377106964500,
+						"id_str": "1371832377106964484",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/Ewm6R1jXIAQ8AnZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ewm6R1jXIAQ8AnZ.jpg",
+						"url": "https://t.co/t8kF4tDEet",
+						"display_url": "pic.twitter.com/t8kF4tDEet",
+						"expanded_url": "https://twitter.com/roaringgirle/status/1371832381557108741/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1371832377106964500,
+						"id_str": "1371832377106964484",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/Ewm6R1jXIAQ8AnZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ewm6R1jXIAQ8AnZ.jpg",
+						"url": "https://t.co/t8kF4tDEet",
+						"display_url": "pic.twitter.com/t8kF4tDEet",
+						"expanded_url": "https://twitter.com/roaringgirle/status/1371832381557108741/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1314947870,
+				"id_str": "1314947870",
+				"name": "claire m. l. bourne",
+				"screen_name": "roaringgirle",
+				"location": "",
+				"description": "¶a figure of tollerable (sic) disorder ¶plays & typography & old books ¶shakespeare &c ¶i ride bikes to nowhere in the dark ¶all opinions mine ¶she|her",
+				"url": "https://t.co/WARuTPfwM5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WARuTPfwM5",
+								"expanded_url": "https://www.ofpilcrows.com/",
+								"display_url": "ofpilcrows.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4149,
+				"friends_count": 2081,
+				"listed_count": 83,
+				"created_at": "Fri Mar 29 19:19:20 +0000 2013",
+				"favourites_count": 19382,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15976,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259553948412846083/S_etBYU-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259553948412846083/S_etBYU-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1314947870/1450030343",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I signed up the moment I saw the announcement! I bet lots of you will be interested in this @BibSocAmer roundtable too https://t.co/QWBYbpn1ra"
+	},
+	{
+		"created_at": "Tue Mar 16 15:18:44 +0000 2021",
+		"id": 1371840787395309600,
+		"id_str": "1371843382532792329",
+		"full_text": "Great news for a state-supported mass vaccination site in Montgomer County: https://t.co/UdDW0ZZJ6E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UdDW0ZZJ6E",
+					"expanded_url": "https://bethesdamagazine.com/bethesda-beat/coronavirus/county-state-will-set-up-covid-19-mass-vaccination-site-at-montgomery-college/",
+					"display_url": "bethesdamagazine.com/bethesda-beat/…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15117083,
+			"id_str": "15117083",
+			"name": "Marc Korman",
+			"screen_name": "mkorman",
+			"location": "Bethesda, MD",
+			"description": "Delegate, MD House of Delegates-Dist 16. By Authority: Friends of Marc Korman; Mark Brown, Treasurer",
+			"url": "http://t.co/i5d86Cb3x7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/i5d86Cb3x7",
+							"expanded_url": "http://www.marckorman.com",
+							"display_url": "marckorman.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3767,
+			"friends_count": 1581,
+			"listed_count": 103,
+			"created_at": "Sat Jun 14 14:35:24 +0000 2008",
+			"favourites_count": 6241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894557888718483457/i_xuTJSt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894557888718483457/i_xuTJSt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15117083/1605235949",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great news for a state-supported mass vaccination site in Montgomer County: https://t.co/UdDW0ZZJ6E"
+	},
+	{
+		"created_at": "Tue Mar 16 14:17:59 +0000 2021",
+		"id": 1371828094210863000,
+		"id_str": "1371828094210863109",
+		"full_text": "@TwoLemonades oh yeah, can't live without it. total revelation. also msg!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwoLemonades",
+					"name": "liz",
+					"id": 19869549,
+					"id_str": "19869549",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1371827823485329400,
+		"in_reply_to_status_id_str": "1371827823485329410",
+		"in_reply_to_user_id": 19869549,
+		"in_reply_to_user_id_str": "19869549",
+		"in_reply_to_screen_name": "TwoLemonades",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9733,
+			"friends_count": 445,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TwoLemonades oh yeah, can't live without it. total revelation. also msg!"
+	},
+	{
+		"created_at": "Tue Mar 16 14:16:39 +0000 2021",
+		"id": 1371826028432212000,
+		"id_str": "1371827759517945856",
+		"full_text": "Really looking forward to this discussion on Friday about Thunderbird Press and Indigenous printing initiatives at the Collège Manitou in the 1970s (hosted by @BibSocAmer!)  \n\nhttps://t.co/bjsVHzfXPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BibSocAmer",
+					"name": "The Bibliographical Society of America",
+					"id": 1171414914730201000,
+					"id_str": "1171414914730201088",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bjsVHzfXPn",
+					"expanded_url": "https://www.memberplanet.com/events/bsa/thunderbird-press",
+					"display_url": "memberplanet.com/events/bsa/thu…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 570932333,
+			"id_str": "570932333",
+			"name": "Emma M. Sarconi",
+			"screen_name": "EmSarconi",
+			"location": "Princeton, NJ",
+			"description": "Curious || Reference Professional for Special Collections @PrincetonRBSC (She/Her)",
+			"url": "https://t.co/qtb0dQEyVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qtb0dQEyVg",
+							"expanded_url": "https://www.emsarconi.com/",
+							"display_url": "emsarconi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 747,
+			"friends_count": 1578,
+			"listed_count": 10,
+			"created_at": "Fri May 04 15:45:29 +0000 2012",
+			"favourites_count": 2797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369109037367898117/plrbw31H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369109037367898117/plrbw31H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/570932333/1615256007",
+			"profile_link_color": "FF580A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really looking forward to this discussion on Friday about Thunderbird Press and Indigenous printing initiatives at the Collège Manitou in the 1970s (hosted by @BibSocAmer!)  \n\nhttps://t.co/bjsVHzfXPn"
+	},
+	{
 		"created_at": "Mon Mar 15 23:01:57 +0000 2021",
 		"id": 1371597565360283600,
 		"id_str": "1371597565360283648",
