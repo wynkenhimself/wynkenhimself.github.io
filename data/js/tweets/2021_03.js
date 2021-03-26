@@ -1,6 +1,1646 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 25 21:19:43 +0000 2021",
+		"id": 1375195718495973400,
+		"id_str": "1375195718495973382",
+		"full_text": "@internetstine @secondshelfbks @arkhamlibrarian @abbie_weil Oh this is lovely",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "secondshelfbks",
+					"name": "Your Anti-Patriarchy Pandemic Rare Bookstore",
+					"id": 921715874318385200,
+					"id_str": "921715874318385153",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "arkhamlibrarian",
+					"name": "Rebecca B.",
+					"id": 2820003021,
+					"id_str": "2820003021",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "abbie_weil",
+					"name": "Annabelle Bronstein",
+					"id": 1063494225352974300,
+					"id_str": "1063494225352974339",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1375193199061373000,
+		"in_reply_to_status_id_str": "1375193199061372931",
+		"in_reply_to_user_id": 326660319,
+		"in_reply_to_user_id_str": "326660319",
+		"in_reply_to_screen_name": "internetstine",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9738,
+			"friends_count": 445,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@internetstine @secondshelfbks @arkhamlibrarian @abbie_weil Oh this is lovely"
+	},
+	{
+		"created_at": "Thu Mar 25 20:42:16 +0000 2021",
+		"id": 1375186291093078000,
+		"id_str": "1375186291093078016",
+		"full_text": "@arkhamlibrarian I’ve never seen the movie but the book blew me the eff away",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arkhamlibrarian",
+					"name": "Rebecca B.",
+					"id": 2820003021,
+					"id_str": "2820003021",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1375181345379467300,
+		"in_reply_to_status_id_str": "1375181345379467267",
+		"in_reply_to_user_id": 2820003021,
+		"in_reply_to_user_id_str": "2820003021",
+		"in_reply_to_screen_name": "arkhamlibrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9738,
+			"friends_count": 445,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@arkhamlibrarian I’ve never seen the movie but the book blew me the eff away"
+	},
+	{
+		"created_at": "Thu Mar 25 20:38:20 +0000 2021",
+		"id": 1375183979356299300,
+		"id_str": "1375185301283438597",
+		"full_text": "@bob_maclean My personal favorite: https://t.co/NHGUeDMFXf",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bob_maclean",
+					"name": "Robert MacLean",
+					"id": 1372331390,
+					"id_str": "1372331390",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NHGUeDMFXf",
+					"expanded_url": "https://twitter.com/arkhamlibrarian/status/999812712036118528",
+					"display_url": "twitter.com/arkhamlibraria…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1375168971163459600,
+		"in_reply_to_status_id_str": "1375168971163459591",
+		"in_reply_to_user_id": 1372331390,
+		"in_reply_to_user_id_str": "1372331390",
+		"in_reply_to_screen_name": "bob_maclean",
+		"user": {
+			"id": 2820003021,
+			"id_str": "2820003021",
+			"name": "Rebecca B.",
+			"screen_name": "arkhamlibrarian",
+			"location": "Bloomington, IN",
+			"description": "rare book librarian, book junkie, devotee of the weird, angry queer, friend to all monsters. nonbinary. she/they",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8810,
+			"friends_count": 5887,
+			"listed_count": 117,
+			"created_at": "Thu Oct 09 17:22:55 +0000 2014",
+			"favourites_count": 88074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1298750082964127749/u2N4SEOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298750082964127749/u2N4SEOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2820003021/1515621838",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 999812712036118500,
+		"quoted_status_id_str": "999812712036118528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NHGUeDMFXf",
+			"expanded": "https://twitter.com/arkhamlibrarian/status/999812712036118528",
+			"display": "twitter.com/arkhamlibraria…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 25 00:41:40 +0000 2018",
+			"id": 999812712036118500,
+			"id_str": "999812712036118528",
+			"full_text": "One of the most horrifying but interesting things I saw at the @ABARareBooks fair today from @jandmbooks: Johnson’s Dictionary “improved” by a child named Claire in 2011. cc @john_overholt https://t.co/pTBq0hfbpF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ABARareBooks",
+						"name": "Antiquarian Booksellers' Association",
+						"id": 40066472,
+						"id_str": "40066472",
+						"indices": [
+							63,
+							76
+						]
+					},
+					{
+						"screen_name": "john_overholt",
+						"name": "John Overholt",
+						"id": 89477148,
+						"id_str": "89477148",
+						"indices": [
+							174,
+							188
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 999812689101602800,
+						"id_str": "999812689101602816",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/DeAMV-_UQAA5hJQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeAMV-_UQAA5hJQ.jpg",
+						"url": "https://t.co/pTBq0hfbpF",
+						"display_url": "pic.twitter.com/pTBq0hfbpF",
+						"expanded_url": "https://twitter.com/arkhamlibrarian/status/999812712036118528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 999812689101602800,
+						"id_str": "999812689101602816",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/DeAMV-_UQAA5hJQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeAMV-_UQAA5hJQ.jpg",
+						"url": "https://t.co/pTBq0hfbpF",
+						"display_url": "pic.twitter.com/pTBq0hfbpF",
+						"expanded_url": "https://twitter.com/arkhamlibrarian/status/999812712036118528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 999812688946516000,
+						"id_str": "999812688946515968",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/DeAMV-aV0AA41Zv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeAMV-aV0AA41Zv.jpg",
+						"url": "https://t.co/pTBq0hfbpF",
+						"display_url": "pic.twitter.com/pTBq0hfbpF",
+						"expanded_url": "https://twitter.com/arkhamlibrarian/status/999812712036118528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 999812689105903600,
+						"id_str": "999812689105903616",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/DeAMV_AV4AAIFaN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeAMV_AV4AAIFaN.jpg",
+						"url": "https://t.co/pTBq0hfbpF",
+						"display_url": "pic.twitter.com/pTBq0hfbpF",
+						"expanded_url": "https://twitter.com/arkhamlibrarian/status/999812712036118528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 999812688946413600,
+						"id_str": "999812688946413568",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/DeAMV-aUQAAfZDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeAMV-aUQAAfZDn.jpg",
+						"url": "https://t.co/pTBq0hfbpF",
+						"display_url": "pic.twitter.com/pTBq0hfbpF",
+						"expanded_url": "https://twitter.com/arkhamlibrarian/status/999812712036118528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2820003021,
+				"id_str": "2820003021",
+				"name": "Rebecca B.",
+				"screen_name": "arkhamlibrarian",
+				"location": "Bloomington, IN",
+				"description": "rare book librarian, book junkie, devotee of the weird, angry queer, friend to all monsters. nonbinary. she/they",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8810,
+				"friends_count": 5887,
+				"listed_count": 117,
+				"created_at": "Thu Oct 09 17:22:55 +0000 2014",
+				"favourites_count": 88074,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23371,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1298750082964127749/u2N4SEOV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298750082964127749/u2N4SEOV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2820003021/1515621838",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "460c5314e8a33c64",
+				"url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json",
+				"place_type": "city",
+				"name": "Wandsworth",
+				"full_name": "Wandsworth, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.259465,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.486036
+							],
+							[
+								-0.259465,
+								51.486036
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 152,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bob_maclean My personal favorite: https://t.co/NHGUeDMFXf"
+	},
+	{
+		"created_at": "Thu Mar 25 20:38:17 +0000 2021",
+		"id": 1375168971163459600,
+		"id_str": "1375185288184610821",
+		"full_text": "I seem to remember someone sharing a book auction listing a while back for a Gesner or somesuch with woodcuts coloured in with felt-tip pen by some book collector’s kid. Never seen this though https://t.co/dk7gwgwV1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dk7gwgwV1o",
+					"expanded_url": "https://twitter.com/ben_wt/status/1375146122612727810",
+					"display_url": "twitter.com/ben_wt/status/…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1372331390,
+			"id_str": "1372331390",
+			"name": "Robert MacLean",
+			"screen_name": "bob_maclean",
+			"location": "Glasgow",
+			"description": "Assistant Librarian (rare books), Archives and Special Collections, University of Glasgow Library (@UofGlasgowASC). (He/him)",
+			"url": "https://t.co/6obJ7esnO5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6obJ7esnO5",
+							"expanded_url": "https://www.gla.ac.uk/myglasgow/archivespecialcollections/",
+							"display_url": "gla.ac.uk/myglasgow/arch…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3846,
+			"friends_count": 2440,
+			"listed_count": 93,
+			"created_at": "Mon Apr 22 14:56:55 +0000 2013",
+			"favourites_count": 15800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762316741259194368/bQrv0P9-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762316741259194368/bQrv0P9-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372331390/1446467292",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1375146122612727800,
+		"quoted_status_id_str": "1375146122612727810",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dk7gwgwV1o",
+			"expanded": "https://twitter.com/ben_wt/status/1375146122612727810",
+			"display": "twitter.com/ben_wt/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 25 18:02:39 +0000 2021",
+			"id": 1375146122612727800,
+			"id_str": "1375146122612727810",
+			"full_text": "*cries in book historian at finding Tipp-Ex in 17th century book* https://t.co/m2Up3BZbMl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1375146117143355400,
+						"id_str": "1375146117143355396",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/ExWAG5KWYAQkYjZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExWAG5KWYAQkYjZ.jpg",
+						"url": "https://t.co/m2Up3BZbMl",
+						"display_url": "pic.twitter.com/m2Up3BZbMl",
+						"expanded_url": "https://twitter.com/Ben_WT/status/1375146122612727810/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 947,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1617,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1375146117143355400,
+						"id_str": "1375146117143355396",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/ExWAG5KWYAQkYjZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ExWAG5KWYAQkYjZ.jpg",
+						"url": "https://t.co/m2Up3BZbMl",
+						"display_url": "pic.twitter.com/m2Up3BZbMl",
+						"expanded_url": "https://twitter.com/Ben_WT/status/1375146122612727810/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 947,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1617,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 228332201,
+				"id_str": "228332201",
+				"name": "Ben Wilkinson-Turnbull",
+				"screen_name": "Ben_WT",
+				"location": "Oxford / Leeds",
+				"description": "D.Phil @ Oxford The Materiality of Women’s Texts 1580-1830| RA @EdgeworthPapers| Book History| Material Culture| Gender Studies| Cats|🏳️‍🌈",
+				"url": "https://t.co/Zw5fBUHdDL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zw5fBUHdDL",
+								"expanded_url": "https://www.english.ox.ac.uk/people/ben-wilkinson-turnbull",
+								"display_url": "english.ox.ac.uk/people/ben-wil…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2383,
+				"friends_count": 2625,
+				"listed_count": 9,
+				"created_at": "Sun Dec 19 12:03:19 +0000 2010",
+				"favourites_count": 22897,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1353387271676960769/smCs7Giq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353387271676960769/smCs7Giq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/228332201/1530109121",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "616ba1df27270916",
+				"url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+				"place_type": "city",
+				"name": "Oxford",
+				"full_name": "Oxford, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.289608,
+								51.7122668
+							],
+							[
+								-1.1772587,
+								51.7122668
+							],
+							[
+								-1.1772587,
+								51.796305
+							],
+							[
+								-1.289608,
+								51.796305
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 394,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I seem to remember someone sharing a book auction listing a while back for a Gesner or somesuch with woodcuts coloured in with felt-tip pen by some book collector’s kid. Never seen this though https://t.co/dk7gwgwV1o"
+	},
+	{
+		"created_at": "Thu Mar 25 16:28:13 +0000 2021",
+		"id": 1375121390727274500,
+		"id_str": "1375122357531070465",
+		"full_text": "All of the *feelings* circulating on here for the EVER GIVEN, the tug/tow boats, and everyone's favorite excavator keep sending me back to Elizabeth Bishop, queen of infrastructure feelings. From \"The Bight\": \n\n\"All the untidy activity continues,\nawful but cheerful.\" https://t.co/WjONoqBLsD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1375120531750592500,
+					"id_str": "1375120531750592519",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/ExVo1oJXIAcZZ5c.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExVo1oJXIAcZZ5c.png",
+					"url": "https://t.co/WjONoqBLsD",
+					"display_url": "pic.twitter.com/WjONoqBLsD",
+					"expanded_url": "https://twitter.com/JamieLJones8/status/1375121390727274497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 852,
+							"h": 714,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 714,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1375120531750592500,
+					"id_str": "1375120531750592519",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/ExVo1oJXIAcZZ5c.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExVo1oJXIAcZZ5c.png",
+					"url": "https://t.co/WjONoqBLsD",
+					"display_url": "pic.twitter.com/WjONoqBLsD",
+					"expanded_url": "https://twitter.com/JamieLJones8/status/1375121390727274497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 852,
+							"h": 714,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 714,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1052949361917919200,
+			"id_str": "1052949361917919233",
+			"name": "Jamie L. Jones",
+			"screen_name": "JamieLJones8",
+			"location": "Urbana, IL",
+			"description": "Scholar writing about whaling, energy, obsolescence, oceans | Asst Prof in English @ U of Illinois | Environmental Humanities | she/her | All views mine",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 711,
+			"friends_count": 1469,
+			"listed_count": 5,
+			"created_at": "Thu Oct 18 15:47:45 +0000 2018",
+			"favourites_count": 5530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052953891925622785/l1dOBjKq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052953891925622785/l1dOBjKq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1052949361917919233/1539878804",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All of the *feelings* circulating on here for the EVER GIVEN, the tug/tow boats, and everyone's favorite excavator keep sending me back to Elizabeth Bishop, queen of infrastructure feelings. From \"The Bight\": \n\n\"All the untidy activity continues,\nawful but cheerful.\" https://t.co/WjONoqBLsD"
+	},
+	{
+		"created_at": "Thu Mar 25 16:27:50 +0000 2021",
+		"id": 1374804819731431400,
+		"id_str": "1375122261569630217",
+		"full_text": "funny story from when Philip Glass was moonlighting as a plumber https://t.co/dsRnSVLiIT https://t.co/5r8oRKDbDK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dsRnSVLiIT",
+					"expanded_url": "https://www.theguardian.com/education/2001/nov/24/arts.highereducation1",
+					"display_url": "theguardian.com/education/2001…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1374804641276428300,
+					"id_str": "1374804641276428289",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/ExRJiYbXAAEhNA4.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExRJiYbXAAEhNA4.png",
+					"url": "https://t.co/5r8oRKDbDK",
+					"display_url": "pic.twitter.com/5r8oRKDbDK",
+					"expanded_url": "https://twitter.com/ryanlcooper/status/1374804819731431424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 853,
+							"h": 307,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 245,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 853,
+							"h": 307,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374804641276428300,
+					"id_str": "1374804641276428289",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/ExRJiYbXAAEhNA4.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExRJiYbXAAEhNA4.png",
+					"url": "https://t.co/5r8oRKDbDK",
+					"display_url": "pic.twitter.com/5r8oRKDbDK",
+					"expanded_url": "https://twitter.com/ryanlcooper/status/1374804819731431424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 853,
+							"h": 307,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 245,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 853,
+							"h": 307,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214120461,
+			"id_str": "214120461",
+			"name": "ryan cooper",
+			"screen_name": "ryanlcooper",
+			"location": "Philly",
+			"description": "National Correspondent for @TheWeek. Cohost & producer of @LeftAnchor podcast: https://t.co/lGGgIjLuWo\nhttps://t.co/sujPGM2EZg",
+			"url": "http://t.co/8ZFrs5s3Yt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8ZFrs5s3Yt",
+							"expanded_url": "http://theweek.com/author/ryan-cooper",
+							"display_url": "theweek.com/author/ryan-co…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lGGgIjLuWo",
+							"expanded_url": "http://leftanchor.podbean.com",
+							"display_url": "leftanchor.podbean.com",
+							"indices": [
+								79,
+								102
+							]
+						},
+						{
+							"url": "https://t.co/sujPGM2EZg",
+							"expanded_url": "http://patreon.com/leftanchor",
+							"display_url": "patreon.com/leftanchor",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 61877,
+			"friends_count": 2449,
+			"listed_count": 1157,
+			"created_at": "Wed Nov 10 16:28:54 +0000 2010",
+			"favourites_count": 55350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 142579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350248648664358912/l71g_AH3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350248648664358912/l71g_AH3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214120461/1610759339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 771,
+		"favorite_count": 4144,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "funny story from when Philip Glass was moonlighting as a plumber https://t.co/dsRnSVLiIT https://t.co/5r8oRKDbDK"
+	},
+	{
+		"created_at": "Thu Mar 25 15:42:46 +0000 2021",
+		"id": 1375110919274049500,
+		"id_str": "1375110919274049547",
+		"full_text": "#FeministBibliography in action! https://t.co/2egw8In3vK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FeministBibliography",
+					"indices": [
+						0,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2egw8In3vK",
+					"expanded_url": "https://twitter.com/emsarconi/status/1375068071220678659",
+					"display_url": "twitter.com/emsarconi/stat…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9738,
+			"friends_count": 445,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1375068071220678700,
+		"quoted_status_id_str": "1375068071220678659",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2egw8In3vK",
+			"expanded": "https://twitter.com/emsarconi/status/1375068071220678659",
+			"display": "twitter.com/emsarconi/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 25 12:52:30 +0000 2021",
+			"id": 1375068071220678700,
+			"id_str": "1375068071220678659",
+			"full_text": "Curious to learn more about the #HerBook at Princeton project that I've been working on? I talked to Brandon Johnson @PULibrary about it in honor of #WomensHistoryMonth \n\nhttps://t.co/YkAHO0mO0M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HerBook",
+						"indices": [
+							32,
+							40
+						]
+					},
+					{
+						"text": "WomensHistoryMonth",
+						"indices": [
+							149,
+							168
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PULibrary",
+						"name": "Princeton University Library",
+						"id": 1042365943,
+						"id_str": "1042365943",
+						"indices": [
+							117,
+							127
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YkAHO0mO0M",
+						"expanded_url": "https://library.princeton.edu/news/general/2021-03-16/yours-mine-and-hers-her-book-project-identifies-missing-female-book",
+						"display_url": "library.princeton.edu/news/general/2…",
+						"indices": [
+							171,
+							194
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 570932333,
+				"id_str": "570932333",
+				"name": "Emma M. Sarconi",
+				"screen_name": "EmSarconi",
+				"location": "Princeton, NJ",
+				"description": "Curious || Reference Professional for Special Collections @PrincetonRBSC (She/Her)",
+				"url": "https://t.co/qtb0dQEyVg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qtb0dQEyVg",
+								"expanded_url": "https://www.emsarconi.com/",
+								"display_url": "emsarconi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 755,
+				"friends_count": 1588,
+				"listed_count": 10,
+				"created_at": "Fri May 04 15:45:29 +0000 2012",
+				"favourites_count": 2856,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4297,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1369109037367898117/plrbw31H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369109037367898117/plrbw31H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/570932333/1615256007",
+				"profile_link_color": "FF580A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FeministBibliography in action! https://t.co/2egw8In3vK"
+	},
+	{
 		"created_at": "Thu Mar 25 01:27:44 +0000 2021",
 		"id": 1374895743257997300,
 		"id_str": "1374895743257997312",
