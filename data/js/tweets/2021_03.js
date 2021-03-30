@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 30 01:49:09 +0000 2021",
+		"id": 1376648822588334000,
+		"id_str": "1376713072103075843",
+		"full_text": "After a truly brutal and brutalizing floor debate, the Arkansas Senate has passed the sweeping anti-trans law HB1570. We MUST call on @AsaHutchinson to VETO.\n\n☎️ 501-682-2345\n📧asa.hutchinson@governor.arkansas.gov\n\nWe must fight for trans lives with everything we have.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AsaHutchinson",
+					"name": "Gov. Asa Hutchinson",
+					"id": 269992801,
+					"id_str": "269992801",
+					"indices": [
+						134,
+						148
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476133082,
+			"id_str": "1476133082",
+			"name": "Chase Strangio",
+			"screen_name": "chasestrangio",
+			"location": "New York, NY",
+			"description": "He/him or they/them. All views my own.",
+			"url": "https://t.co/oxaZ0Ha5VY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oxaZ0Ha5VY",
+							"expanded_url": "https://slate.com/human-interest/2016/07/theres-no-such-thing-as-a-male-body.html",
+							"display_url": "slate.com/human-interest…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71907,
+			"friends_count": 542,
+			"listed_count": 534,
+			"created_at": "Sun Jun 02 01:48:45 +0000 2013",
+			"favourites_count": 28514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348448856271425547/J-usWVbu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348448856271425547/J-usWVbu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476133082/1612493437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1857,
+		"favorite_count": 2456,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "After a truly brutal and brutalizing floor debate, the Arkansas Senate has passed the sweeping anti-trans law HB1570. We MUST call on @AsaHutchinson to VETO.\n\n☎️ 501-682-2345\n📧asa.hutchinson@governor.arkansas.gov\n\nWe must fight for trans lives with everything we have."
+	},
+	{
+		"created_at": "Tue Mar 30 00:56:15 +0000 2021",
+		"id": 1376565017336635400,
+		"id_str": "1376699759679975428",
+		"full_text": "Thread:\nThe moment I knew that nothing would come of my claims that the @LinfieldUniv President and Board Chair had religiously harassed me was when I went to the head of HR, and she said: “Personally, I don’t believe the Jews have a secret agenda to grab power at all!” (1/23)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LinfieldUniv",
+					"name": "Linfield University",
+					"id": 36688062,
+					"id_str": "36688062",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101816947,
+			"id_str": "101816947",
+			"name": "Daniel Pollack-Pelzner",
+			"screen_name": "pollackpelzner",
+			"location": "Portland, OR",
+			"description": "English/Gender Studies/Shakespeare prof at @LinfieldUniv. Theater essays in @NewYorker @theatlantic @nytimes. Far from being gruntled.",
+			"url": "https://t.co/ZNGyPyqmsR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNGyPyqmsR",
+							"expanded_url": "https://www.linfield.edu/faculty-detail.php?id=534",
+							"display_url": "linfield.edu/faculty-detail…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1441,
+			"friends_count": 1060,
+			"listed_count": 34,
+			"created_at": "Mon Jan 04 17:35:42 +0000 2010",
+			"favourites_count": 20849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065313821273640960/j3YxxZek_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065313821273640960/j3YxxZek_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101816947/1543337994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thread:\nThe moment I knew that nothing would come of my claims that the @LinfieldUniv President and Board Chair had religiously harassed me was when I went to the head of HR, and she said: “Personally, I don’t believe the Jews have a secret agenda to grab power at all!” (1/23)"
+	},
+	{
+		"created_at": "Mon Mar 29 12:25:00 +0000 2021",
+		"id": 1376510700844093400,
+		"id_str": "1376510700844093443",
+		"full_text": "@bob_maclean @ilikeoldbooks Mmmm yes, that could work, though still weird!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bob_maclean",
+					"name": "Robert MacLean",
+					"id": 1372331390,
+					"id_str": "1372331390",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ilikeoldbooks",
+					"name": "Daryl Green",
+					"id": 2753413456,
+					"id_str": "2753413456",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1376509575386517500,
+		"in_reply_to_status_id_str": "1376509575386517505",
+		"in_reply_to_user_id": 1372331390,
+		"in_reply_to_user_id_str": "1372331390",
+		"in_reply_to_screen_name": "bob_maclean",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9741,
+			"friends_count": 445,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bob_maclean @ilikeoldbooks Mmmm yes, that could work, though still weird!"
+	},
+	{
 		"created_at": "Sat Mar 27 17:26:45 +0000 2021",
 		"id": 1375861865146937300,
 		"id_str": "1375861865146937358",
