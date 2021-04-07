@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 06 20:08:31 +0000 2021",
+		"id": 1379526452216004600,
+		"id_str": "1379526452216004610",
+		"full_text": "I...... I seem to have successfully scheduled vax appointments this weekend for myself and my boys??!? I'm in a state of shock",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9736,
+			"friends_count": 446,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I...... I seem to have successfully scheduled vax appointments this weekend for myself and my boys??!? I'm in a state of shock"
+	},
+	{
 		"created_at": "Tue Apr 06 00:33:30 +0000 2021",
 		"id": 1379230751703629800,
 		"id_str": "1379230751703629825",
@@ -362,7 +467,7 @@ Grailbird.data.tweets_2021_04 =
 		"created_at": "Mon Apr 05 23:04:56 +0000 2021",
 		"id": 1379207177664094200,
 		"id_str": "1379208463893549057",
-		"full_text": "“The moments when people make up their secret minds about what is normal and what is acceptable are never big.” I love this by ⁦@petridishes⁩  https://t.co/yZuSHknKwN",
+		"full_text": "“The moments when people make up their secret minds about what is normal and what is acceptable are never big.” I love this by @petridishes  https://t.co/yZuSHknKwN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -482,7 +587,7 @@ Grailbird.data.tweets_2021_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "“The moments when people make up their secret minds about what is normal and what is acceptable are never big.” I love this by ⁦@petridishes⁩  https://t.co/yZuSHknKwN"
+		"text": "“The moments when people make up their secret minds about what is normal and what is acceptable are never big.” I love this by @petridishes  https://t.co/yZuSHknKwN"
 	},
 	{
 		"created_at": "Mon Apr 05 20:58:57 +0000 2021",
