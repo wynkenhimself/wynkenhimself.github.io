@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 20:34:49 +0000 2021",
+		"id": 1381668402058690600,
+		"id_str": "1381707400214941696",
+		"full_text": "Yup. they were 3-4 steps into \"This shouldn't be happening\" before he was murdered. https://t.co/kDaSYpl2qH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kDaSYpl2qH",
+					"expanded_url": "https://twitter.com/saintfadumo/status/1381667560744177664",
+					"display_url": "twitter.com/saintfadumo/st…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387725252,
+			"id_str": "1387725252",
+			"name": "Downtown Brandi Frown 😾",
+			"screen_name": "ItsTheBrandi",
+			"location": "MN",
+			"description": "Fmr Co-host:Bill Corbett's Funhouse. other blogs:Heathcliff, For Why?, @mnfaircliches. \nco-founder #SnackCaucus. \nEph.\nI hate RCV.\nvenmo/cashapp:itsthebrandi",
+			"url": "https://t.co/DvY9qGsoa1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DvY9qGsoa1",
+							"expanded_url": "http://www.houseofprocrastination.org",
+							"display_url": "houseofprocrastination.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21077,
+			"friends_count": 4066,
+			"listed_count": 188,
+			"created_at": "Sun Apr 28 19:35:50 +0000 2013",
+			"favourites_count": 67625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 320192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318991071184117761/1YsBOROC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318991071184117761/1YsBOROC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387725252/1480885506",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381667560744177700,
+		"quoted_status_id_str": "1381667560744177664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kDaSYpl2qH",
+			"expanded": "https://twitter.com/saintfadumo/status/1381667560744177664",
+			"display": "twitter.com/saintfadumo/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 12 17:56:31 +0000 2021",
+			"id": 1381667560744177700,
+			"id_str": "1381667560744177664",
+			"full_text": "they’re gonna try to make this about the absurdity of mistaking a gun for a taser so they can ignore the fact that Daunte should’ve never been pulled over. they should’ve never ran his name. they should’ve never tried to detain him. abolish the police.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1084310295345020900,
+				"id_str": "1084310295345020930",
+				"name": "fadumo",
+				"screen_name": "saintfadumo",
+				"location": "",
+				"description": "Allen Iverson stan first. teacher second. whatever your expectations were, please lower them now.",
+				"url": "https://t.co/FdpuTpVLZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FdpuTpVLZD",
+								"expanded_url": "http://cash.me/$saintfadumo",
+								"display_url": "cash.me/$saintfadumo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8581,
+				"friends_count": 542,
+				"listed_count": 17,
+				"created_at": "Sun Jan 13 04:44:54 +0000 2019",
+				"favourites_count": 41786,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15428,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331645045779394565/Ara-JADT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331645045779394565/Ara-JADT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084310295345020930/1547403179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 633,
+			"favorite_count": 1650,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 66,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yup. they were 3-4 steps into \"This shouldn't be happening\" before he was murdered. https://t.co/kDaSYpl2qH"
+	},
+	{
+		"created_at": "Mon Apr 12 18:20:25 +0000 2021",
+		"id": 1381671472079507500,
+		"id_str": "1381673576722468873",
+		"full_text": "How come women are supposed to defend themselves with a YMCA self-defense class and a fistful of keys but supposedly highly trained big brave police officers can't learn a few aikido moves that will prevent them from \"accidentally\" doing constant murders",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14714760,
+			"id_str": "14714760",
+			"name": "Jess Zimmerman",
+			"screen_name": "j_zimms",
+			"location": "Brooklyn",
+			"description": "Editor-in-chief of @ElectricLit, sad old goth. jess@electricliterature.com. Women and Other Monsters: https://t.co/zQ9jOdk5ok",
+			"url": "https://t.co/8AvT0qO2cl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8AvT0qO2cl",
+							"expanded_url": "http://jesszimmerman.com",
+							"display_url": "jesszimmerman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zQ9jOdk5ok",
+							"expanded_url": "http://t.ly/l5OU",
+							"display_url": "t.ly/l5OU",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21753,
+			"friends_count": 1045,
+			"listed_count": 423,
+			"created_at": "Fri May 09 15:46:14 +0000 2008",
+			"favourites_count": 48753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869618972999680000/fC9mWoiv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869618972999680000/fC9mWoiv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14714760/1605889994",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "030303",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2533,
+		"favorite_count": 12911,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How come women are supposed to defend themselves with a YMCA self-defense class and a fistful of keys but supposedly highly trained big brave police officers can't learn a few aikido moves that will prevent them from \"accidentally\" doing constant murders"
+	},
+	{
 		"created_at": "Sun Apr 11 20:29:29 +0000 2021",
 		"id": 1381343669865869300,
 		"id_str": "1381343669865869312",
