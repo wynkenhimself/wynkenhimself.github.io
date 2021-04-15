@@ -1,6 +1,870 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 15 01:17:29 +0000 2021",
+		"id": 1382107468487127000,
+		"id_str": "1382503310981271552",
+		"full_text": "Footage of the Siler City community in North Carolina between 1937-1939. \n\nOriginally silent, this footage is part of the H. Lee Waters film collection held at Duke University. https://t.co/LjArxdR92Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382107021357514800,
+					"id_str": "1382107021357514756",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382107021357514756/pu/img/QiW-xNfSPYITdxTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382107021357514756/pu/img/QiW-xNfSPYITdxTo.jpg",
+					"url": "https://t.co/LjArxdR92Q",
+					"display_url": "pic.twitter.com/LjArxdR92Q",
+					"expanded_url": "https://twitter.com/blackarchivesco/status/1382107468487127050/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382107021357514800,
+					"id_str": "1382107021357514756",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382107021357514756/pu/img/QiW-xNfSPYITdxTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382107021357514756/pu/img/QiW-xNfSPYITdxTo.jpg",
+					"url": "https://t.co/LjArxdR92Q",
+					"display_url": "pic.twitter.com/LjArxdR92Q",
+					"expanded_url": "https://twitter.com/blackarchivesco/status/1382107468487127050/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53987,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1382107021357514756/pu/pl/HIBXf975k5fKDg7c.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1382107021357514756/pu/vid/640x360/IMw_B-kZf_PfFX3g.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1382107021357514756/pu/vid/1280x720/Q5TAhabTwGTE1ROO.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1382107021357514756/pu/vid/480x270/C9BrOErhgeC9Ceq0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1289298532759814100,
+			"id_str": "1289298532759814144",
+			"name": "BLACK ARCHIVES",
+			"screen_name": "blackarchivesco",
+			"location": "Past, Present, Future",
+			"description": "Black Archives is a multimedia platform that shines a spotlight on the Black experience. Visit our website: https://t.co/bXIaoYeKD3",
+			"url": "https://t.co/A4d0eXLXqy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A4d0eXLXqy",
+							"expanded_url": "https://www.instagram.com/blackarchives.co",
+							"display_url": "instagram.com/blackarchives.…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bXIaoYeKD3",
+							"expanded_url": "http://blackarchives.co",
+							"display_url": "blackarchives.co",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7453,
+			"friends_count": 4,
+			"listed_count": 36,
+			"created_at": "Fri Jul 31 20:35:17 +0000 2020",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289319289078476800/UuzG4Woh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289319289078476800/UuzG4Woh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289298532759814144/1618235454",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2375,
+		"favorite_count": 7624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Footage of the Siler City community in North Carolina between 1937-1939. \n\nOriginally silent, this footage is part of the H. Lee Waters film collection held at Duke University. https://t.co/LjArxdR92Q"
+	},
+	{
+		"created_at": "Wed Apr 14 20:11:49 +0000 2021",
+		"id": 1382426386598654000,
+		"id_str": "1382426386598653959",
+		"full_text": "It has been a complete delight and inspiration to listen to Brooke talk about their work as a printer/historian/queer-future builder. #QueerPastsFutures https://t.co/AQtw7vwR33",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QueerPastsFutures",
+					"indices": [
+						134,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AQtw7vwR33",
+					"expanded_url": "https://twitter.com/archivalagents/status/1382366469455958023",
+					"display_url": "twitter.com/archivalagents…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9734,
+			"friends_count": 446,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382366469455958000,
+		"quoted_status_id_str": "1382366469455958023",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AQtw7vwR33",
+			"expanded": "https://twitter.com/archivalagents/status/1382366469455958023",
+			"display": "twitter.com/archivalagents…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 14 16:13:44 +0000 2021",
+			"id": 1382366469455958000,
+			"id_str": "1382366469455958023",
+			"full_text": "The 2021 Enid Mark Lecture “Queer Pasts Nourish Queer Futures” by Brooke Sylvia Palmieri is happening today at 3pm EDT!\n \n👉 Still need to register? It's not too late! [LINK] https://t.co/AKo5lG52YQ\n \n#⃣Joining us and tweeting about it? Please use the hashtag #QueerPastsFutures ! https://t.co/M80Wni2kVG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "QueerPastsFutures",
+						"indices": [
+							259,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AKo5lG52YQ",
+						"expanded_url": "http://bit.ly/QueerPastsFutures",
+						"display_url": "bit.ly/QueerPastsFutu…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1382365402114703400,
+						"id_str": "1382365402114703366",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey8mAlbWQAYFcTf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey8mAlbWQAYFcTf.jpg",
+						"url": "https://t.co/M80Wni2kVG",
+						"display_url": "pic.twitter.com/M80Wni2kVG",
+						"expanded_url": "https://twitter.com/archivalagents/status/1382366469455958023/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382365402114703400,
+						"id_str": "1382365402114703366",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey8mAlbWQAYFcTf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey8mAlbWQAYFcTf.jpg",
+						"url": "https://t.co/M80Wni2kVG",
+						"display_url": "pic.twitter.com/M80Wni2kVG",
+						"expanded_url": "https://twitter.com/archivalagents/status/1382366469455958023/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740882575816831000,
+				"id_str": "740882575816830976",
+				"name": "Smith College Special Collections",
+				"screen_name": "archivalagents",
+				"location": "Northampton, MA",
+				"description": "Special Collections is home to the Sophia Smith Collection, the Mortimer Rare Book Collection, and the Smith College Archives.",
+				"url": "https://t.co/zPN16AvECY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zPN16AvECY",
+								"expanded_url": "http://www.smith.edu/libraries/libs/specialcollections",
+								"display_url": "smith.edu/libraries/libs…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 765,
+				"friends_count": 275,
+				"listed_count": 34,
+				"created_at": "Thu Jun 09 12:25:45 +0000 2016",
+				"favourites_count": 259,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 863,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040672527578787840/EKjURMIR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040672527578787840/EKjURMIR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740882575816830976/1465476048",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It has been a complete delight and inspiration to listen to Brooke talk about their work as a printer/historian/queer-future builder. #QueerPastsFutures https://t.co/AQtw7vwR33"
+	},
+	{
+		"created_at": "Wed Apr 14 17:40:12 +0000 2021",
+		"id": 1382388232810299400,
+		"id_str": "1382388232810299397",
+		"full_text": "@internetstine Oh no! It’s so great, what a shame it doesn’t fit right!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1382387485280510000,
+		"in_reply_to_status_id_str": "1382387485280509953",
+		"in_reply_to_user_id": 326660319,
+		"in_reply_to_user_id_str": "326660319",
+		"in_reply_to_screen_name": "internetstine",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9734,
+			"friends_count": 446,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 35494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@internetstine Oh no! It’s so great, what a shame it doesn’t fit right!"
+	},
+	{
+		"created_at": "Wed Apr 14 15:35:17 +0000 2021",
+		"id": 1381940250495361000,
+		"id_str": "1382356796636020737",
+		"full_text": "In Knowledge Justice, Black, Indigenous, and Peoples of Color #scholars use critical race theory (CRT) to challenge the foundational principles, values, and assumptions of #Library and #InformationScience and Studies (LIS) in the United States. Read more: https://t.co/tJ31svt9zn https://t.co/WtzJIP9d1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scholars",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"text": "Library",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "InformationScience",
+					"indices": [
+						185,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tJ31svt9zn",
+					"expanded_url": "https://bit.ly/3uABKXQ",
+					"display_url": "bit.ly/3uABKXQ",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1381940249497063400,
+					"id_str": "1381940249497063426",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey2jVcgWUAI2hr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey2jVcgWUAI2hr0.jpg",
+					"url": "https://t.co/WtzJIP9d1B",
+					"display_url": "pic.twitter.com/WtzJIP9d1B",
+					"expanded_url": "https://twitter.com/mitpress/status/1381940250495361025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 590,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 590,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381940249497063400,
+					"id_str": "1381940249497063426",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey2jVcgWUAI2hr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey2jVcgWUAI2hr0.jpg",
+					"url": "https://t.co/WtzJIP9d1B",
+					"display_url": "pic.twitter.com/WtzJIP9d1B",
+					"expanded_url": "https://twitter.com/mitpress/status/1381940250495361025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 590,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 590,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20774514,
+			"id_str": "20774514",
+			"name": "MIT Press",
+			"screen_name": "mitpress",
+			"location": "Cambridge, MA USA",
+			"description": "Committed to the daily re-imagining of what a university press can be since 1962.",
+			"url": "https://t.co/RzshwVKTiD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RzshwVKTiD",
+							"expanded_url": "http://mitpress.mit.edu",
+							"display_url": "mitpress.mit.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68909,
+			"friends_count": 2963,
+			"listed_count": 2407,
+			"created_at": "Fri Feb 13 14:43:47 +0000 2009",
+			"favourites_count": 17195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282783070433603584/rAeA-VBy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282783070433603584/rAeA-VBy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20774514/1545411079",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Knowledge Justice, Black, Indigenous, and Peoples of Color #scholars use critical race theory (CRT) to challenge the foundational principles, values, and assumptions of #Library and #InformationScience and Studies (LIS) in the United States. Read more: https://t.co/tJ31svt9zn https://t.co/WtzJIP9d1B"
+	},
+	{
 		"created_at": "Wed Apr 14 01:49:46 +0000 2021",
 		"id": 1382149046148731000,
 		"id_str": "1382149046148730881",
@@ -720,7 +1584,7 @@ Grailbird.data.tweets_2021_04 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
@@ -2635,7 +3499,7 @@ Grailbird.data.tweets_2021_04 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
