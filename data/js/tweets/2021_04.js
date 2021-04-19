@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 18 17:33:16 +0000 2021",
+		"id": 1383832009508720600,
+		"id_str": "1383836038548787213",
+		"full_text": "why isn’t there a soothing British reality tv show about vicars called Living Vicariously",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49986034,
+			"id_str": "49986034",
+			"name": "Alexandra Petri",
+			"screen_name": "petridishes",
+			"location": "",
+			"description": "Blogs & columns for @WashingtonPost. No pun is beneath me. NOTHING IS WRONG AND HERE IS WHY is out now! https://t.co/kou5mXwrWC",
+			"url": "https://t.co/WHXVUxXr4R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WHXVUxXr4R",
+							"expanded_url": "http://www.washingtonpost.com/blogs/compost",
+							"display_url": "washingtonpost.com/blogs/compost",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kou5mXwrWC",
+							"expanded_url": "http://bit.ly/2Kkv3ob",
+							"display_url": "bit.ly/2Kkv3ob",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 187880,
+			"friends_count": 1282,
+			"listed_count": 2449,
+			"created_at": "Tue Jun 23 14:15:33 +0000 2009",
+			"favourites_count": 59667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2829291960/731bf1385df483e960fb93478a5af453_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2829291960/731bf1385df483e960fb93478a5af453_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49986034/1573657753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 3769,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "why isn’t there a soothing British reality tv show about vicars called Living Vicariously"
+	},
+	{
 		"created_at": "Sun Apr 18 01:34:56 +0000 2021",
 		"id": 1383594865938735000,
 		"id_str": "1383594865938735110",
@@ -622,7 +728,7 @@ Grailbird.data.tweets_2021_04 =
 				"name": "Łink.",
 				"screen_name": "knilirabaj",
 				"location": "Washington, DC",
-				"description": "I do things for @natdlsa ♿️ @jusadastra 👨🏾‍🚀 and @Ctr4AirSpaceLaw 🚀. I get my tweets off to reflect my own opinions.",
+				"description": "I do things for @natdlsa ♿️ @jusadastra 👨🏾🚀 and @Ctr4AirSpaceLaw 🚀. I get my tweets off to reflect my own opinions.",
 				"url": "https://t.co/ycJ885FRSd",
 				"entities": {
 					"url": {
