@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 11:43:51 +0000 2021",
+		"id": 1383929639786082300,
+		"id_str": "1384110490624815116",
+		"full_text": "The let's digitize everything takes (not just this one) in response to irreplaceable materials burning up is equally not feasible and not kind to people currently experiencing loss https://t.co/2E4iO9sEUY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2E4iO9sEUY",
+					"expanded_url": "https://twitter.com/brewster_kahle/status/1383862050141532175",
+					"display_url": "twitter.com/brewster_kahle…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941383982238847000,
+			"id_str": "941383982238846976",
+			"name": "Dorothy Berry",
+			"screen_name": "dorothyjberry",
+			"location": "Cambridge, MA",
+			"description": "i put the old pictures in the computers @houghtonlib\nmissy-pedia",
+			"url": "https://t.co/RooYyKAZvo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RooYyKAZvo",
+							"expanded_url": "http://www.dorothy-berry.com",
+							"display_url": "dorothy-berry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3476,
+			"friends_count": 668,
+			"listed_count": 43,
+			"created_at": "Thu Dec 14 19:06:46 +0000 2017",
+			"favourites_count": 12977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374159875392028675/o53CmyOq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374159875392028675/o53CmyOq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941383982238846976/1616460141",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383862050141532200,
+		"quoted_status_id_str": "1383862050141532175",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2E4iO9sEUY",
+			"expanded": "https://twitter.com/brewster_kahle/status/1383862050141532175",
+			"display": "twitter.com/brewster_kahle…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 18 19:16:38 +0000 2021",
+			"id": 1383862050141532200,
+			"id_str": "1383862050141532175",
+			"full_text": "Heart is out to University of Cape Town's library &amp; community-- burning now.  \n\nLets digitize everything now. https://t.co/fpGJu2vHEe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fpGJu2vHEe",
+						"expanded_url": "https://twitter.com/TheCapeArgus/status/1383790457398849540",
+						"display_url": "twitter.com/TheCapeArgus/s…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 315490964,
+				"id_str": "315490964",
+				"name": "Brewster Kahle",
+				"screen_name": "brewster_kahle",
+				"location": "San Francisco",
+				"description": "Digital Librarian   https://t.co/wyBPqLIZh7   https://t.co/MMUzUr4TGV https://t.co/xBU5lS4Fur @internetarchive @openlibrary @great78project",
+				"url": "http://t.co/Hk02WjLpmL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hk02WjLpmL",
+								"expanded_url": "http://archive.org",
+								"display_url": "archive.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wyBPqLIZh7",
+								"expanded_url": "http://openlibrary.org",
+								"display_url": "openlibrary.org",
+								"indices": [
+									20,
+									43
+								]
+							},
+							{
+								"url": "https://t.co/MMUzUr4TGV",
+								"expanded_url": "http://brewster.kahle.org",
+								"display_url": "brewster.kahle.org",
+								"indices": [
+									46,
+									69
+								]
+							},
+							{
+								"url": "https://t.co/xBU5lS4Fur",
+								"expanded_url": "http://archive.org",
+								"display_url": "archive.org",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15364,
+				"friends_count": 668,
+				"listed_count": 662,
+				"created_at": "Sat Jun 11 23:44:21 +0000 2011",
+				"favourites_count": 1635,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3072,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250580727722205184/OEkuR7Eu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250580727722205184/OEkuR7Eu_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1383790457398849500,
+			"quoted_status_id_str": "1383790457398849540",
+			"quoted_status_permalink": {
+				"url": "https://t.co/fpGJu2vHEe",
+				"expanded": "https://twitter.com/TheCapeArgus/status/1383790457398849540",
+				"display": "twitter.com/TheCapeArgus/s…"
+			},
+			"retweet_count": 37,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 89,
+		"favorite_count": 484,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The let's digitize everything takes (not just this one) in response to irreplaceable materials burning up is equally not feasible and not kind to people currently experiencing loss https://t.co/2E4iO9sEUY"
+	},
+	{
 		"created_at": "Sun Apr 18 17:33:16 +0000 2021",
 		"id": 1383832009508720600,
 		"id_str": "1383836038548787213",
