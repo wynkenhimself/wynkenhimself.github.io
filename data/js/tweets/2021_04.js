@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 23:19:46 +0000 2021",
+		"id": 1386423940449505300,
+		"id_str": "1386459951262994435",
+		"full_text": "Unless we act now, the remarkable success of the #COVID19 vaccine rollout in the U.S. will be forever overshadowed by the disgraceful decision to hoard huge supplies of vaccine instead of getting them to healthcare workers and other vulnerable people around the world.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831279407088148500,
+			"id_str": "831279407088148480",
+			"name": "Craig Spencer MD MPH",
+			"screen_name": "Craig_A_Spencer",
+			"location": "🗽 New York City 🗽",
+			"description": "NYC ER doctor | Ebola Survivor | Director of Global Health in Emergency Medicine @ColumbiaMed | Teach Public Health @ColumbiaMSPH | @MSF_USA Board of Directors",
+			"url": "https://t.co/pIKhIdnvZG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pIKhIdnvZG",
+							"expanded_url": "https://craig-a-spencer.medium.com",
+							"display_url": "craig-a-spencer.medium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 211946,
+			"friends_count": 760,
+			"listed_count": 2446,
+			"created_at": "Mon Feb 13 23:10:29 +0000 2017",
+			"favourites_count": 10361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293916489762971649/fKP9_z1Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293916489762971649/fKP9_z1Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/831279407088148480/1591729707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 595,
+		"favorite_count": 2611,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Unless we act now, the remarkable success of the #COVID19 vaccine rollout in the U.S. will be forever overshadowed by the disgraceful decision to hoard huge supplies of vaccine instead of getting them to healthcare workers and other vulnerable people around the world."
+	},
+	{
+		"created_at": "Sun Apr 25 16:21:38 +0000 2021",
+		"id": 1386331234066907100,
+		"id_str": "1386354725222748163",
+		"full_text": "I do not miss having to be places but I really miss having places to go",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386331233018339300,
+		"in_reply_to_status_id_str": "1386331233018339329",
+		"in_reply_to_user_id": 19114577,
+		"in_reply_to_user_id_str": "19114577",
+		"in_reply_to_screen_name": "zugenia",
+		"user": {
+			"id": 19114577,
+			"id_str": "19114577",
+			"name": "祖思薪🔥🐍 Eugenia Zuroski",
+			"screen_name": "zugenia",
+			"location": "Dish with One Spoon (HamOnt)",
+			"description": "English prof at McMaster, she/her, Chinese/Polish/Italian POC, Editor @ECFjournal, writes books, poems, swears, manifestos #Bigger6 #BIPOC18 #ADHD",
+			"url": "https://t.co/awmiuwtbkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/awmiuwtbkS",
+							"expanded_url": "https://zuroski.wordpress.com/",
+							"display_url": "zuroski.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6648,
+			"friends_count": 2503,
+			"listed_count": 72,
+			"created_at": "Sat Jan 17 16:24:24 +0000 2009",
+			"favourites_count": 62166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283828358292426760/XH_Ahhsp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283828358292426760/XH_Ahhsp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19114577/1500079493",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 81,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I do not miss having to be places but I really miss having places to go"
+	},
+	{
 		"created_at": "Sun Apr 25 01:30:46 +0000 2021",
 		"id": 1386037497319338000,
 		"id_str": "1386130533827203076",
