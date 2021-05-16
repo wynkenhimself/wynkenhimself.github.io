@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 17:04:22 +0000 2021",
+		"id": 1393603666737868800,
+		"id_str": "1393613235874582537",
+		"full_text": "Fellow diaspora Jews, watch this — but like, not in the hell yeah way. This is how Israel uses us. This is the quiet part said right out loud. https://t.co/FmvBf3XyqV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FmvBf3XyqV",
+					"expanded_url": "https://twitter.com/isaacdecastrog/status/1393419641351983105",
+					"display_url": "twitter.com/isaacdecastrog…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15676413,
+			"id_str": "15676413",
+			"name": "Helen Rosner",
+			"screen_name": "hels",
+			"location": "NYC via Chicago",
+			"description": "a nice lady",
+			"url": "https://t.co/90SUx7kHh7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/90SUx7kHh7",
+							"expanded_url": "https://www.newyorker.com/contributors/helen-rosner",
+							"display_url": "newyorker.com/contributors/h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148032,
+			"friends_count": 3000,
+			"listed_count": 1574,
+			"created_at": "Thu Jul 31 16:02:30 +0000 2008",
+			"favourites_count": 131011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676413/1556840951",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393419641351983000,
+		"quoted_status_id_str": "1393419641351983105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FmvBf3XyqV",
+			"expanded": "https://twitter.com/isaacdecastrog/status/1393419641351983105",
+			"display": "twitter.com/isaacdecastrog…"
+		},
+		"retweet_count": 172,
+		"favorite_count": 726,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fellow diaspora Jews, watch this — but like, not in the hell yeah way. This is how Israel uses us. This is the quiet part said right out loud. https://t.co/FmvBf3XyqV"
+	},
+	{
 		"created_at": "Fri May 14 22:11:23 +0000 2021",
 		"id": 1393308087197524000,
 		"id_str": "1393328111320715264",
@@ -47,7 +161,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "vaut le détour",
 			"screen_name": "jvinopal",
 			"location": "Columbus, OH",
-			"description": "As of 1/2021, I’m mostly on hiatus from Twitter. Email or DM to contact me. #blacklivesmatter🏳️‍🌈She/her/hers.",
+			"description": "As of 1/2021, I’m mostly on hiatus from Twitter. Email or DM to contact me. #blacklivesmatter🏳️🌈She/her/hers.",
 			"url": "https://t.co/0r1Dlffv7S",
 			"entities": {
 				"url": {
@@ -153,7 +267,7 @@ Grailbird.data.tweets_2021_05 =
 				"name": "vaut le détour",
 				"screen_name": "jvinopal",
 				"location": "Columbus, OH",
-				"description": "As of 1/2021, I’m mostly on hiatus from Twitter. Email or DM to contact me. #blacklivesmatter🏳️‍🌈She/her/hers.",
+				"description": "As of 1/2021, I’m mostly on hiatus from Twitter. Email or DM to contact me. #blacklivesmatter🏳️🌈She/her/hers.",
 				"url": "https://t.co/0r1Dlffv7S",
 				"entities": {
 					"url": {
