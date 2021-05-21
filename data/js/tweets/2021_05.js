@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 01:28:28 +0000 2021",
+		"id": 1395429538755072000,
+		"id_str": "1395552036159119360",
+		"full_text": "This is the first band I will be RUNNING to see once I get my second shot: https://t.co/FCBAE2TfvU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395429256193216500,
+					"id_str": "1395429256193216512",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395429256193216512/pu/img/hNkDG9k71C9qe18j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395429256193216512/pu/img/hNkDG9k71C9qe18j.jpg",
+					"url": "https://t.co/FCBAE2TfvU",
+					"display_url": "pic.twitter.com/FCBAE2TfvU",
+					"expanded_url": "https://twitter.com/BeckTheGirl/status/1395429538755072002/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395429256193216500,
+					"id_str": "1395429256193216512",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395429256193216512/pu/img/hNkDG9k71C9qe18j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395429256193216512/pu/img/hNkDG9k71C9qe18j.jpg",
+					"url": "https://t.co/FCBAE2TfvU",
+					"display_url": "pic.twitter.com/FCBAE2TfvU",
+					"expanded_url": "https://twitter.com/BeckTheGirl/status/1395429538755072002/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 676,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							222,
+							169
+						],
+						"duration_millis": 125452,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395429256193216512/pu/vid/354x270/iWVh-30LgDDuMFQm.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395429256193216512/pu/vid/888x676/dNM_y0Jp5MGgZQFW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395429256193216512/pu/vid/472x360/rQwH_vNgdd5U4WPl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1395429256193216512/pu/pl/mN_EXNOHR68f9PI6.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749760932524556300,
+			"id_str": "749760932524556288",
+			"name": "Beck",
+			"screen_name": "BeckTheGirl",
+			"location": "Toronto / Vancouver",
+			"description": "it’s mr. steal ur gurl",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1733,
+			"friends_count": 1011,
+			"listed_count": 6,
+			"created_at": "Mon Jul 04 00:25:11 +0000 2016",
+			"favourites_count": 20770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239741721807704064/-eZn9jqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239741721807704064/-eZn9jqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749760932524556288/1490491446",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13210,
+		"favorite_count": 54899,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the first band I will be RUNNING to see once I get my second shot: https://t.co/FCBAE2TfvU"
+	},
+	{
+		"created_at": "Thu May 20 23:56:17 +0000 2021",
+		"id": 1395317452632903700,
+		"id_str": "1395528839762153477",
+		"full_text": "Registration is now open for SHARP 2021. Please consider joining us virtually in July 2021. Details can be found here: https://t.co/IsX7i2Yr3Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IsX7i2Yr3Y",
+					"expanded_url": "https://www.sharpweb.org/movingtexts2021/index.php/registration/",
+					"display_url": "sharpweb.org/movingtexts202…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1311910239952920600,
+			"id_str": "1311910239952920578",
+			"name": "SHARP 2021 Moving Texts",
+			"screen_name": "MovingTexts2021",
+			"location": "Münster, Germany",
+			"description": "Moving texts: from discovery to delivery\nSHARP annual conference\nresponsible organizer WWU Münster (@BookStudies_WWU, #sfb1385)\n26-30 July 2021\nLogo: E. Heinz",
+			"url": "https://t.co/MBKSUDCyvj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MBKSUDCyvj",
+							"expanded_url": "https://www.sharpweb.org/movingtexts2021/",
+							"display_url": "sharpweb.org/movingtexts202…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 25,
+			"listed_count": 7,
+			"created_at": "Fri Oct 02 06:05:59 +0000 2020",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313189873982017536/Y2I2U20O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313189873982017536/Y2I2U20O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1311910239952920578/1601620090",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Registration is now open for SHARP 2021. Please consider joining us virtually in July 2021. Details can be found here: https://t.co/IsX7i2Yr3Y"
+	},
+	{
+		"created_at": "Thu May 20 19:22:54 +0000 2021",
+		"id": 1394976546297979000,
+		"id_str": "1395460040094588938",
+		"full_text": "All the cliches of academic excellence have colonial connotations: \"breaks new ground,\" “pioneering,\" \"path-breaking,\" and the creepy “seminal.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132341976,
+			"id_str": "132341976",
+			"name": "Greg Britton",
+			"screen_name": "gmbritton",
+			"location": "Baltimore",
+			"description": "Editorial Director of the Johns Hopkins University Press. Buys ink by the barrel. (Pronouns: he/him/his)",
+			"url": "https://t.co/JQyLeW7GjH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JQyLeW7GjH",
+							"expanded_url": "https://www.press.jhu.edu/",
+							"display_url": "press.jhu.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5929,
+			"friends_count": 4224,
+			"listed_count": 199,
+			"created_at": "Tue Apr 13 00:09:58 +0000 2010",
+			"favourites_count": 21132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297905179283652609/faUMq2e5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297905179283652609/faUMq2e5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132341976/1450729359",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 1853,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "All the cliches of academic excellence have colonial connotations: \"breaks new ground,\" “pioneering,\" \"path-breaking,\" and the creepy “seminal.\""
+	},
+	{
 		"created_at": "Thu May 20 01:02:45 +0000 2021",
 		"id": 1395183178512572400,
 		"id_str": "1395183178512572419",
