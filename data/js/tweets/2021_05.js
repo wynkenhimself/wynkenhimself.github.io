@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 18:45:45 +0000 2021",
+		"id": 1395811440003588000,
+		"id_str": "1395813079141785600",
+		"full_text": "I was fascinated to read yesterday that in 1990, the FBI made a report to Congress entitled \"Rap Music and Its Effects on National Security\". I’m having no luck tracking it down, though—anybody know where it can be found? (I see some references on Google but not the text.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89477148,
+			"id_str": "89477148",
+			"name": "John Overholt",
+			"screen_name": "john_overholt",
+			"location": "Cambridge/Medford, MA",
+			"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+			"url": "https://t.co/d5qeDpYMtj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d5qeDpYMtj",
+							"expanded_url": "http://library.harvard.edu/hou",
+							"display_url": "library.harvard.edu/hou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23050,
+			"friends_count": 774,
+			"listed_count": 722,
+			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+			"favourites_count": 23913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I was fascinated to read yesterday that in 1990, the FBI made a report to Congress entitled \"Rap Music and Its Effects on National Security\". I’m having no luck tracking it down, though—anybody know where it can be found? (I see some references on Google but not the text.)"
+	},
+	{
+		"created_at": "Fri May 21 17:12:11 +0000 2021",
+		"id": 1395789530679160800,
+		"id_str": "1395789530679160832",
+		"full_text": "@JamesLowryATL @fletcherdurant Oh dear this is very persuasive and mildly upsetting (if also enticing!)",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesLowryATL",
+					"name": "James Lowry",
+					"id": 1612925761,
+					"id_str": "1612925761",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "fletcherdurant",
+					"name": "Fletcher Durant",
+					"id": 50510658,
+					"id_str": "50510658",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1395759668174246000,
+		"in_reply_to_status_id_str": "1395759668174245890",
+		"in_reply_to_user_id": 1612925761,
+		"in_reply_to_user_id_str": "1612925761",
+		"in_reply_to_screen_name": "JamesLowryATL",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9761,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JamesLowryATL @fletcherdurant Oh dear this is very persuasive and mildly upsetting (if also enticing!)"
+	},
+	{
+		"created_at": "Fri May 21 17:11:26 +0000 2021",
+		"id": 1395759668174246000,
+		"id_str": "1395789341830664195",
+		"full_text": "Wait, are archives just gossip from dead people? https://t.co/0hBljckTdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0hBljckTdU",
+					"expanded_url": "https://twitter.com/kimballscott/status/1395587414794461186",
+					"display_url": "twitter.com/kimballscott/s…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1612925761,
+			"id_str": "1612925761",
+			"name": "James Lowry",
+			"screen_name": "JamesLowryATL",
+			"location": "New York, NY",
+			"description": "Assistant Professor, Graduate School of Library and Information Studies, Queens College, @CUNY, PhD @UCLDIS & series editor @routledgebooks Studies in Archives",
+			"url": "https://t.co/DJTKMywdFr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DJTKMywdFr",
+							"expanded_url": "https://www.routledge.com/Displaced-Archives/Lowry/p/book/9781472470690",
+							"display_url": "routledge.com/Displaced-Arch…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1677,
+			"friends_count": 1279,
+			"listed_count": 41,
+			"created_at": "Mon Jul 22 14:01:51 +0000 2013",
+			"favourites_count": 2055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "996B0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113491061480022017/pA8IjZie_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113491061480022017/pA8IjZie_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1612925761/1493598088",
+			"profile_link_color": "303DC9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395587414794461200,
+		"quoted_status_id_str": "1395587414794461186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0hBljckTdU",
+			"expanded": "https://twitter.com/kimballscott/status/1395587414794461186",
+			"display": "twitter.com/kimballscott/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 21 03:49:03 +0000 2021",
+			"id": 1395587414794461200,
+			"id_str": "1395587414794461186",
+			"full_text": "My son at the dinner table tonight: \"Tradition is just peer pressure from dead people.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14696890,
+				"id_str": "14696890",
+				"name": "Kim Scott",
+				"screen_name": "kimballscott",
+				"location": "Silicon Valley",
+				"description": "Author of Radical Candor: Be a Kickass Boss Without Losing Your Humanity and Just Work: Get Sh*t Done Fast and Fair.",
+				"url": "https://t.co/tHyAKDvFzI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tHyAKDvFzI",
+								"expanded_url": "http://www.radicalcandor.com",
+								"display_url": "radicalcandor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20718,
+				"friends_count": 2777,
+				"listed_count": 399,
+				"created_at": "Thu May 08 06:02:58 +0000 2008",
+				"favourites_count": 16757,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10807,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991419987603611648/eR21APGK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991419987603611648/eR21APGK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14696890/1614205044",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5882,
+			"favorite_count": 46064,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wait, are archives just gossip from dead people? https://t.co/0hBljckTdU"
+	},
+	{
+		"created_at": "Fri May 21 17:11:11 +0000 2021",
+		"id": 1395772895088025600,
+		"id_str": "1395789279805288453",
+		"full_text": "Will you be attending #RBMS2021? Sign up to be matched with an \"experienced\" RBMS colleague if you've never attended before/are new to the section, or to connect with a \"new\" RBMS colleague if you have. Deadline: Monday, 5/24 @ 11:59 EDT: https://t.co/mydGC6WD9M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RBMS2021",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mydGC6WD9M",
+					"expanded_url": "https://forms.gle/Ekx9zES31wSQZXm18",
+					"display_url": "forms.gle/Ekx9zES31wSQZX…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18967025,
+			"id_str": "18967025",
+			"name": "Beth DeBold",
+			"screen_name": "eliza_audacis",
+			"location": "Nacotchtank/Piscataway Lands",
+			"description": "Rare Books/MSS | Hot Takes | Quality Memes. All opinions mine & not my employer's. She/her | bi+queer 🏳️‍🌈 | I stand with black lives | Abolish the Police",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2828,
+			"friends_count": 2419,
+			"listed_count": 44,
+			"created_at": "Wed Jan 14 04:31:39 +0000 2009",
+			"favourites_count": 35022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314961386334818306/LD3AAPHz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314961386334818306/LD3AAPHz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18967025/1620604970",
+			"profile_link_color": "0D5810",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will you be attending #RBMS2021? Sign up to be matched with an \"experienced\" RBMS colleague if you've never attended before/are new to the section, or to connect with a \"new\" RBMS colleague if you have. Deadline: Monday, 5/24 @ 11:59 EDT: https://t.co/mydGC6WD9M"
+	},
+	{
+		"created_at": "Fri May 21 15:57:22 +0000 2021",
+		"id": 1395367049547899000,
+		"id_str": "1395770701831970817",
+		"full_text": "This takes my breath away. Congratulations @kateemccaffrey on this magnificent piece of research! https://t.co/jvtTscOCvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kateemccaffrey",
+					"name": "Kate McCaffrey",
+					"id": 2389835557,
+					"id_str": "2389835557",
+					"indices": [
+						43,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jvtTscOCvy",
+					"expanded_url": "https://inews.co.uk/culture/arts/hidden-inscriptions-discovered-in-anne-boleyns-execution-prayer-books-1000131?fbclid=IwAR1F71W_Fd4UCp5er_OeQgg8Ja9W6PYtKNb1dDJZ6usfdStqZk7LKxvSU2s",
+					"display_url": "inews.co.uk/culture/arts/h…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31417996,
+			"id_str": "31417996",
+			"name": "Lisa Fagin Davis",
+			"screen_name": "lisafdavis",
+			"location": "",
+			"description": "Executive Director, @medievalacademy; @simmonslis prof; paleographer, codicologist, manuscript blogger; PhD; @brownuniversity @Yale alum",
+			"url": "https://t.co/CyIKjqehml",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyIKjqehml",
+							"expanded_url": "http://manuscriptroadtrip.wordpress.com",
+							"display_url": "manuscriptroadtrip.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7276,
+			"friends_count": 645,
+			"listed_count": 129,
+			"created_at": "Wed Apr 15 14:22:06 +0000 2009",
+			"favourites_count": 11927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107802651092271104/o9ywrSc6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107802651092271104/o9ywrSc6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31417996/1548258940",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This takes my breath away. Congratulations @kateemccaffrey on this magnificent piece of research! https://t.co/jvtTscOCvy"
+	},
+	{
 		"created_at": "Fri May 21 01:28:28 +0000 2021",
 		"id": 1395429538755072000,
 		"id_str": "1395552036159119360",
