@@ -1,6 +1,509 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 22:29:13 +0000 2021",
+		"id": 1396231705468493800,
+		"id_str": "1396231705468493830",
+		"full_text": "I'm going to delete my request for English-language interfaces for Japanese collections because I think this is exactly what I need. What a great database!!! https://t.co/F7MDTMIik5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F7MDTMIik5",
+					"expanded_url": "https://twitter.com/paularcurtis/status/1396230349970100225",
+					"display_url": "twitter.com/paularcurtis/s…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9760,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1396230349970100200,
+		"quoted_status_id_str": "1396230349970100225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F7MDTMIik5",
+			"expanded": "https://twitter.com/paularcurtis/status/1396230349970100225",
+			"display": "twitter.com/paularcurtis/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 22 22:23:50 +0000 2021",
+			"id": 1396230349970100200,
+			"id_str": "1396230349970100225",
+			"full_text": "@MedievalChina @wynkenhimself Yes! I maintain a database of English-language sites on East Asia. You can filter to Japan, visual tools, premodern and probably find something helpful! https://t.co/dKBmBObA1U",
+			"truncated": false,
+			"display_text_range": [
+				30,
+				206
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MedievalChina",
+						"name": "Michael Höckelmann 何彌夏",
+						"id": 1144974782871613400,
+						"id_str": "1144974782871613441",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "wynkenhimself",
+						"name": "Sarah Werner",
+						"id": 35384223,
+						"id_str": "35384223",
+						"indices": [
+							15,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dKBmBObA1U",
+						"expanded_url": "http://prcurtis.com/DH/resources/",
+						"display_url": "prcurtis.com/DH/resources/",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1396230025775657000,
+			"in_reply_to_status_id_str": "1396230025775656962",
+			"in_reply_to_user_id": 1144974782871613400,
+			"in_reply_to_user_id_str": "1144974782871613441",
+			"in_reply_to_screen_name": "MedievalChina",
+			"user": {
+				"id": 755984013005729800,
+				"id_str": "755984013005729792",
+				"name": "Dr. Paula R. Curtis",
+				"screen_name": "paularcurtis",
+				"location": "Ann Arbor, MI",
+				"description": "Medievalist, historian, premodern Japan, DH, project juggler. @shinpaideshou. She/her. Like my content? 📊Be a patron! https://t.co/DTu4S8mrBG ☕ https://t.co/q1Zu42dVzh",
+				"url": "https://t.co/hoLcyUGNua",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hoLcyUGNua",
+								"expanded_url": "http://prcurtis.com",
+								"display_url": "prcurtis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DTu4S8mrBG",
+								"expanded_url": "http://patreon.com/prcurtis",
+								"display_url": "patreon.com/prcurtis",
+								"indices": [
+									118,
+									141
+								]
+							},
+							{
+								"url": "https://t.co/q1Zu42dVzh",
+								"expanded_url": "http://ko-fi.com/prcurtis",
+								"display_url": "ko-fi.com/prcurtis",
+								"indices": [
+									144,
+									167
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4447,
+				"friends_count": 1447,
+				"listed_count": 83,
+				"created_at": "Thu Jul 21 04:33:29 +0000 2016",
+				"favourites_count": 33513,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22008,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859530201063194624/fp0GmQD5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859530201063194624/fp0GmQD5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755984013005729792/1469078167",
+				"profile_link_color": "830000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm going to delete my request for English-language interfaces for Japanese collections because I think this is exactly what I need. What a great database!!! https://t.co/F7MDTMIik5"
+	},
+	{
+		"created_at": "Sat May 22 22:24:38 +0000 2021",
+		"id": 1396230551636426800,
+		"id_str": "1396230551636426759",
+		"full_text": "@paularcurtis @MedievalChina whoa!!!!!!! This seems super, thanks!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paularcurtis",
+					"name": "Dr. Paula R. Curtis",
+					"id": 755984013005729800,
+					"id_str": "755984013005729792",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MedievalChina",
+					"name": "Michael Höckelmann 何彌夏",
+					"id": 1144974782871613400,
+					"id_str": "1144974782871613441",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1396230349970100200,
+		"in_reply_to_status_id_str": "1396230349970100225",
+		"in_reply_to_user_id": 755984013005729800,
+		"in_reply_to_user_id_str": "755984013005729792",
+		"in_reply_to_screen_name": "paularcurtis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9760,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paularcurtis @MedievalChina whoa!!!!!!! This seems super, thanks!"
+	},
+	{
+		"created_at": "Sat May 22 22:24:02 +0000 2021",
+		"id": 1396230398619832300,
+		"id_str": "1396230398619832324",
+		"full_text": "fwiw what I'm really looking for are images of the sorts of materials that Mary Berry discusses in Japan in Print.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1396229746003005400,
+		"in_reply_to_status_id_str": "1396229746003005440",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9760,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "fwiw what I'm really looking for are images of the sorts of materials that Mary Berry discusses in Japan in Print."
+	},
+	{
 		"created_at": "Fri May 21 18:45:45 +0000 2021",
 		"id": 1395811440003588000,
 		"id_str": "1395813079141785600",
@@ -478,7 +981,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Beth DeBold",
 			"screen_name": "eliza_audacis",
 			"location": "Nacotchtank/Piscataway Lands",
-			"description": "Rare Books/MSS | Hot Takes | Quality Memes. All opinions mine & not my employer's. She/her | bi+queer 🏳️‍🌈 | I stand with black lives | Abolish the Police",
+			"description": "Rare Books/MSS | Hot Takes | Quality Memes. All opinions mine & not my employer's. She/her | bi+queer 🏳️🌈 | I stand with black lives | Abolish the Police",
 			"url": null,
 			"entities": {
 				"description": {
