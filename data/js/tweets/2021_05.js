@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 24 00:36:45 +0000 2021",
+		"id": 1396531064336576500,
+		"id_str": "1396626185958875138",
+		"full_text": "Extremely looking forward to the Behind the Music in this one. https://t.co/2iNhrvVNVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2iNhrvVNVi",
+					"expanded_url": "https://twitter.com/variety/status/1396203525382623233",
+					"display_url": "twitter.com/variety/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15732567,
+			"id_str": "15732567",
+			"name": "Criterium Race Theory",
+			"screen_name": "sashax",
+			"location": "san francisco",
+			"description": "SF Digital Service. Ex @18F. Cyclist, rabble-rouser, programmer, San Franciscan. Not in that order. He/him.(Opinions my own, as should be obvious.)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1062,
+			"friends_count": 747,
+			"listed_count": 36,
+			"created_at": "Tue Aug 05 05:00:16 +0000 2008",
+			"favourites_count": 1700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/107384314/runningtigger_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/107384314/runningtigger_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15732567/1389910777",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1396203525382623200,
+		"quoted_status_id_str": "1396203525382623233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2iNhrvVNVi",
+			"expanded": "https://twitter.com/variety/status/1396203525382623233",
+			"display": "twitter.com/variety/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 22 20:37:15 +0000 2021",
+			"id": 1396203525382623200,
+			"id_str": "1396203525382623233",
+			"full_text": "The Linda Lindas, the all-female rock band that lit up social media this week when a video of their recent performance at the Los Angeles Public Library went viral, have signed with Epitaph Records  https://t.co/sQvfX3VKCl https://t.co/l5PScW6zzh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sQvfX3VKCl",
+						"expanded_url": "https://bit.ly/2Sm312k",
+						"display_url": "bit.ly/2Sm312k",
+						"indices": [
+							199,
+							222
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1396203519225385000,
+						"id_str": "1396203519225384960",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/E2BPtA2UUAAzBQG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2BPtA2UUAAzBQG.jpg",
+						"url": "https://t.co/l5PScW6zzh",
+						"display_url": "pic.twitter.com/l5PScW6zzh",
+						"expanded_url": "https://twitter.com/Variety/status/1396203525382623233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 807,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 807,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1396203519225385000,
+						"id_str": "1396203519225384960",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/E2BPtA2UUAAzBQG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2BPtA2UUAAzBQG.jpg",
+						"url": "https://t.co/l5PScW6zzh",
+						"display_url": "pic.twitter.com/l5PScW6zzh",
+						"expanded_url": "https://twitter.com/Variety/status/1396203525382623233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 807,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 807,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17525171,
+				"id_str": "17525171",
+				"name": "Variety",
+				"screen_name": "Variety",
+				"location": "Los Angeles, CA",
+				"description": "The business of entertainment.",
+				"url": "https://t.co/8QkvN6A5Nf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8QkvN6A5Nf",
+								"expanded_url": "http://www.variety.com",
+								"display_url": "variety.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2584872,
+				"friends_count": 245325,
+				"listed_count": 17727,
+				"created_at": "Thu Nov 20 23:02:29 +0000 2008",
+				"favourites_count": 1258,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 329529,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17525171/1621455717",
+				"profile_link_color": "60728A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 410,
+			"favorite_count": 1987,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Extremely looking forward to the Behind the Music in this one. https://t.co/2iNhrvVNVi"
+	},
+	{
+		"created_at": "Sun May 23 17:04:00 +0000 2021",
+		"id": 1396512247946653700,
+		"id_str": "1396512247946653699",
+		"full_text": "@DDDrewDaniel Here in Rockville we are just getting into it—I think you’ll still be able to catch the joy!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DDDrewDaniel",
+					"name": "DREW DANIEL",
+					"id": 1061650514,
+					"id_str": "1061650514",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1396511107414515700,
+		"in_reply_to_status_id_str": "1396511107414515714",
+		"in_reply_to_user_id": 1061650514,
+		"in_reply_to_user_id_str": "1061650514",
+		"in_reply_to_screen_name": "DDDrewDaniel",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9761,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DDDrewDaniel Here in Rockville we are just getting into it—I think you’ll still be able to catch the joy!"
+	},
+	{
 		"created_at": "Sat May 22 22:29:13 +0000 2021",
 		"id": 1396231705468493800,
 		"id_str": "1396231705468493830",
