@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 26 01:12:06 +0000 2021",
+		"id": 1395387405180473300,
+		"id_str": "1397359857246908419",
+		"full_text": "The Abolition in Special Collections group is conducting a survey abt security &amp; policing in libraries w/the goal of working towards abolition of the PIC. Please take 15 minutes to complete the survey &amp; help us fight for justice in cultural heritage: https://t.co/kMoPpvNhHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kMoPpvNhHw",
+					"expanded_url": "https://bit.ly/2RxpPwd",
+					"display_url": "bit.ly/2RxpPwd",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1199161220,
+			"id_str": "1199161220",
+			"name": "Alison C.",
+			"screen_name": "alisonarchivist",
+			"location": "New Haven, CT",
+			"description": "archivist, abolitionist feminist, lover of pizza (she/her or they/them)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 584,
+			"friends_count": 545,
+			"listed_count": 12,
+			"created_at": "Wed Feb 20 01:04:34 +0000 2013",
+			"favourites_count": 5861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385782432243372032/ui2afCG__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385782432243372032/ui2afCG__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199161220/1483906335",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Abolition in Special Collections group is conducting a survey abt security &amp; policing in libraries w/the goal of working towards abolition of the PIC. Please take 15 minutes to complete the survey &amp; help us fight for justice in cultural heritage: https://t.co/kMoPpvNhHw"
+	},
+	{
+		"created_at": "Tue May 25 17:17:22 +0000 2021",
+		"id": 1397240388277178400,
+		"id_str": "1397240388277178369",
+		"full_text": "@OsbornEarlyMod @BeineckeLibrary 👏👏",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OsbornEarlyMod",
+					"name": "Kathryn James",
+					"id": 89735852,
+					"id_str": "89735852",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "BeineckeLibrary",
+					"name": "Beinecke Library",
+					"id": 34720331,
+					"id_str": "34720331",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1397218034016792600,
+		"in_reply_to_status_id_str": "1397218034016792577",
+		"in_reply_to_user_id": 89735852,
+		"in_reply_to_user_id_str": "89735852",
+		"in_reply_to_screen_name": "OsbornEarlyMod",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9765,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@OsbornEarlyMod @BeineckeLibrary 👏👏"
+	},
+	{
+		"created_at": "Tue May 25 15:47:22 +0000 2021",
+		"id": 1397195187991027700,
+		"id_str": "1397217736376340483",
+		"full_text": "Many people will turn George Floyd into a martyr today. We must fight to remember that he did not *give* his life for justice, for our movement, for an uprising. He wanted to live. He fought to live.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305377439,
+			"id_str": "305377439",
+			"name": "derecka",
+			"screen_name": "dereckapurnell",
+			"location": "St. Louis || DC",
+			"description": "rooting for everybody resisting oppression\nhttps://t.co/Cn5h0q9Mez",
+			"url": "https://t.co/oUx2vL9R2i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oUx2vL9R2i",
+							"expanded_url": "https://www.penguinrandomhouse.com/books/675803/becoming-abolitionists-by-derecka-purnell/",
+							"display_url": "penguinrandomhouse.com/books/675803/b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cn5h0q9Mez",
+							"expanded_url": "http://letmumiaout.com",
+							"display_url": "letmumiaout.com",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 66604,
+			"friends_count": 2032,
+			"listed_count": 385,
+			"created_at": "Thu May 26 03:19:29 +0000 2011",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275467834878017538/1vmQU5Yq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275467834878017538/1vmQU5Yq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305377439/1618854692",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36194,
+		"favorite_count": 136923,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Many people will turn George Floyd into a martyr today. We must fight to remember that he did not *give* his life for justice, for our movement, for an uprising. He wanted to live. He fought to live."
+	},
+	{
+		"created_at": "Tue May 25 03:02:29 +0000 2021",
+		"id": 1397025248315379700,
+		"id_str": "1397025248315379716",
+		"full_text": "@stampedinblind ahhhhh omg!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stampedinblind",
+					"name": "Sarah Burke Cahalan",
+					"id": 267867336,
+					"id_str": "267867336",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1397024436243533800,
+		"in_reply_to_status_id_str": "1397024436243533825",
+		"in_reply_to_user_id": 267867336,
+		"in_reply_to_user_id_str": "267867336",
+		"in_reply_to_screen_name": "stampedinblind",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9765,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@stampedinblind ahhhhh omg!"
+	},
+	{
+		"created_at": "Tue May 25 02:26:05 +0000 2021",
+		"id": 1397016087489831000,
+		"id_str": "1397016087489830917",
+		"full_text": "@djbaskin This map is weird—#BroodX is all over the DC area and we are definitely public transit ready for this tourism",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BroodX",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djbaskin",
+					"name": "Danielle",
+					"id": 55662470,
+					"id_str": "55662470",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1397012705752481800,
+		"in_reply_to_status_id_str": "1397012705752481793",
+		"in_reply_to_user_id": 55662470,
+		"in_reply_to_user_id_str": "55662470",
+		"in_reply_to_screen_name": "djbaskin",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9765,
+			"friends_count": 453,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@djbaskin This map is weird—#BroodX is all over the DC area and we are definitely public transit ready for this tourism"
+	},
+	{
 		"created_at": "Tue May 25 01:54:37 +0000 2021",
 		"id": 1397008171315744800,
 		"id_str": "1397008171315744771",
@@ -16,7 +585,7 @@ Grailbird.data.tweets_2021_05 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
@@ -1012,7 +1581,7 @@ Grailbird.data.tweets_2021_05 =
 		"created_at": "Mon May 24 15:56:56 +0000 2021",
 		"id": 1396857758893420500,
 		"id_str": "1396857758893420544",
-		"full_text": "@frannypak @fletcherdurant But the person selling this is the person who partnered with the forger in “buying” it in the first place. Not saying he knew when he partnered but also 🤷‍♀️",
+		"full_text": "@frannypak @fletcherdurant But the person selling this is the person who partnered with the forger in “buying” it in the first place. Not saying he knew when he partnered but also 🤷♀️",
 		"truncated": false,
 		"display_text_range": [
 			27,
@@ -1133,7 +1702,7 @@ Grailbird.data.tweets_2021_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@frannypak @fletcherdurant But the person selling this is the person who partnered with the forger in “buying” it in the first place. Not saying he knew when he partnered but also 🤷‍♀️"
+		"text": "@frannypak @fletcherdurant But the person selling this is the person who partnered with the forger in “buying” it in the first place. Not saying he knew when he partnered but also 🤷♀️"
 	},
 	{
 		"created_at": "Mon May 24 15:55:37 +0000 2021",
