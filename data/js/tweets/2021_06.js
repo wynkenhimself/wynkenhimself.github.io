@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 00:04:43 +0000 2021",
+		"id": 1400429643610665000,
+		"id_str": "1400604389786755075",
+		"full_text": "Do you have a collection of newspapers, photographs, video, audio, or stacks of hard drives  etc., that tells the story of student organizing over the years in BIPOC communities? We want to support you in preserving these histories. Apply for a micro-grant https://t.co/6YM9gDQi8D https://t.co/FOG39gI1KT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6YM9gDQi8D",
+					"expanded_url": "https://standarchives.com/micro-grants/",
+					"display_url": "standarchives.com/micro-grants/",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400429638422237200,
+					"id_str": "1400429638422237189",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E29TVhsWEAUNu6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E29TVhsWEAUNu6w.jpg",
+					"url": "https://t.co/FOG39gI1KT",
+					"display_url": "pic.twitter.com/FOG39gI1KT",
+					"expanded_url": "https://twitter.com/PrjctSTAND/status/1400429643610664962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400429638422237200,
+					"id_str": "1400429638422237189",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E29TVhsWEAUNu6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E29TVhsWEAUNu6w.jpg",
+					"url": "https://t.co/FOG39gI1KT",
+					"display_url": "pic.twitter.com/FOG39gI1KT",
+					"expanded_url": "https://twitter.com/PrjctSTAND/status/1400429643610664962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1400429639110168600,
+					"id_str": "1400429639110168576",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E29TVkQXEAALv2D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E29TVkQXEAALv2D.jpg",
+					"url": "https://t.co/FOG39gI1KT",
+					"display_url": "pic.twitter.com/FOG39gI1KT",
+					"expanded_url": "https://twitter.com/PrjctSTAND/status/1400429643610664962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 974,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 974,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1400429638912983000,
+					"id_str": "1400429638912983040",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E29TVjhWQAA3_dB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E29TVjhWQAA3_dB.jpg",
+					"url": "https://t.co/FOG39gI1KT",
+					"display_url": "pic.twitter.com/FOG39gI1KT",
+					"expanded_url": "https://twitter.com/PrjctSTAND/status/1400429643610664962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1058063178372911100,
+			"id_str": "1058063178372911106",
+			"name": "ProjectSTAND",
+			"screen_name": "PrjctSTAND",
+			"location": "",
+			"description": "Project STAND provides enhanced access to historical and archival documentation on student activism in historically marginalized communities",
+			"url": "https://t.co/b25xz6S47m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b25xz6S47m",
+							"expanded_url": "https://standarchives.com/",
+							"display_url": "standarchives.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 725,
+			"listed_count": 19,
+			"created_at": "Thu Nov 01 18:28:14 +0000 2018",
+			"favourites_count": 989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058082298988584960/JW6LrSlr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058082298988584960/JW6LrSlr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058063178372911106/1541101358",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you have a collection of newspapers, photographs, video, audio, or stacks of hard drives  etc., that tells the story of student organizing over the years in BIPOC communities? We want to support you in preserving these histories. Apply for a micro-grant https://t.co/6YM9gDQi8D https://t.co/FOG39gI1KT"
+	},
+	{
+		"created_at": "Thu Jun 03 17:14:36 +0000 2021",
+		"id": 1400501183442296800,
+		"id_str": "1400501183442296841",
+		"full_text": "@meau @anarchivist holy fuck that is something",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meau",
+					"name": "Maureen",
+					"id": 17417376,
+					"id_str": "17417376",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "anarchivist",
+					"name": "mark a. matienzo",
+					"id": 8729782,
+					"id_str": "8729782",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1400462285290676200,
+		"in_reply_to_status_id_str": "1400462285290676233",
+		"in_reply_to_user_id": 17417376,
+		"in_reply_to_user_id_str": "17417376",
+		"in_reply_to_screen_name": "meau",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9766,
+			"friends_count": 450,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meau @anarchivist holy fuck that is something"
+	},
+	{
 		"created_at": "Thu Jun 03 00:20:38 +0000 2021",
 		"id": 1400237965792657400,
 		"id_str": "1400246009683456005",
