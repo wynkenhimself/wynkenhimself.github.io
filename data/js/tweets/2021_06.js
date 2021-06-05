@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 21:33:50 +0000 2021",
+		"id": 1400928139899859000,
+		"id_str": "1400928808593768455",
+		"full_text": "@CalRBS course scholarships are due TOMORROW, June 5th! Get those applications in! Classes are starting to fill up so don’t wait. You can still submit applications after 6/5,  of course, but they are not eligible for scholarships.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 124064638,
+		"in_reply_to_user_id_str": "124064638",
+		"in_reply_to_screen_name": "CalRBS",
+		"user": {
+			"id": 124064638,
+			"id_str": "124064638",
+			"name": "CalRBS",
+			"screen_name": "CalRBS",
+			"location": "Los Angeles",
+			"description": "California Rare Book School is a continuing education program dedicated to providing the requisite knowledge and skills for the rare book community.",
+			"url": "https://t.co/S25Awhb8Y5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S25Awhb8Y5",
+							"expanded_url": "http://calrbs.org",
+							"display_url": "calrbs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 666,
+			"friends_count": 135,
+			"listed_count": 32,
+			"created_at": "Thu Mar 18 04:22:55 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331708216237977600/1SYru7nJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331708216237977600/1SYru7nJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124064638/1606338956",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@CalRBS course scholarships are due TOMORROW, June 5th! Get those applications in! Classes are starting to fill up so don’t wait. You can still submit applications after 6/5,  of course, but they are not eligible for scholarships."
+	},
+	{
+		"created_at": "Fri Jun 04 21:17:41 +0000 2021",
+		"id": 1400913530623348700,
+		"id_str": "1400924745034502149",
+		"full_text": "\"Curator Joy Bivins Is Named New Director of the Schomburg Center\" @SchomburgCenter  https://t.co/YqeFq1cidu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchomburgCenter",
+					"name": "SchomburgCenter",
+					"id": 83671419,
+					"id_str": "83671419",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YqeFq1cidu",
+					"expanded_url": "https://www.nytimes.com/2021/06/04/arts/design/schomburg-center-joy-bivins-director.html",
+					"display_url": "nytimes.com/2021/06/04/art…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8039622,
+			"id_str": "8039622",
+			"name": "James Neal",
+			"screen_name": "james3neal",
+			"location": "DCish - Columbia, SC",
+			"description": "MLS @I_UMD | BA @Morehouse | Civil Servant: Urban explorer | Rural dweller: Access/Equity - Libraries - Info Policy (Views are my own)",
+			"url": "https://t.co/493YJdINNy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/493YJdINNy",
+							"expanded_url": "http://james3neal.tumblr.com/",
+							"display_url": "james3neal.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9984,
+			"friends_count": 10997,
+			"listed_count": 662,
+			"created_at": "Tue Aug 07 21:57:03 +0000 2007",
+			"favourites_count": 151224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198225775436189697/tAUZ_6Is_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198225775436189697/tAUZ_6Is_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8039622/1398392088",
+			"profile_link_color": "23B316",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Curator Joy Bivins Is Named New Director of the Schomburg Center\" @SchomburgCenter  https://t.co/YqeFq1cidu"
+	},
+	{
 		"created_at": "Fri Jun 04 00:04:43 +0000 2021",
 		"id": 1400429643610665000,
 		"id_str": "1400604389786755075",
