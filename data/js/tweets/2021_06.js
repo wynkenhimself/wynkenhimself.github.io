@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 03:33:21 +0000 2021",
+		"id": 1401381671006621700,
+		"id_str": "1401381671006621699",
+		"full_text": "@HesterBlum Do hand-fans work? I have a different version of this and less panicky but carrying around a bamboo fan helps me feel safer about not fainting and actually helps cool me off",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HesterBlum",
+					"name": "Hester Blum",
+					"id": 398944447,
+					"id_str": "398944447",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1401376384589742000,
+		"in_reply_to_status_id_str": "1401376384589742080",
+		"in_reply_to_user_id": 398944447,
+		"in_reply_to_user_id_str": "398944447",
+		"in_reply_to_screen_name": "HesterBlum",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9763,
+			"friends_count": 450,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HesterBlum Do hand-fans work? I have a different version of this and less panicky but carrying around a bamboo fan helps me feel safer about not fainting and actually helps cool me off"
+	},
+	{
 		"created_at": "Sat Jun 05 21:35:04 +0000 2021",
 		"id": 1401224224937676800,
 		"id_str": "1401291507961839626",
@@ -355,7 +472,7 @@ Grailbird.data.tweets_2021_06 =
 			"name": "Beth DeBold",
 			"screen_name": "eliza_audacis",
 			"location": "Nacotchtank/Piscataway Lands",
-			"description": "Rare Books/MSS | Hot Takes | Quality Memes. All opinions mine & not my employer's. She/her | bi+queer 🏳️‍🌈 | I stand with black lives | Abolish the Police",
+			"description": "Rare Books/MSS | Hot Takes | Quality Memes. All opinions mine & not my employer's. She/her | bi+queer 🏳️🌈 | I stand with black lives | Abolish the Police",
 			"url": null,
 			"entities": {
 				"description": {
