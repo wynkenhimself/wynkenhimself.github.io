@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 00:32:53 +0000 2021",
+		"id": 1404597746003234800,
+		"id_str": "1404597746003234818",
+		"full_text": "@fletcherdurant 🤯 but also if you need me to taste some books in the name of science that could probably be arranged",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fletcherdurant",
+					"name": "Fletcher Durant",
+					"id": 50510658,
+					"id_str": "50510658",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1404595027112779800,
+		"in_reply_to_status_id_str": "1404595027112779776",
+		"in_reply_to_user_id": 50510658,
+		"in_reply_to_user_id_str": "50510658",
+		"in_reply_to_screen_name": "fletcherdurant",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9764,
+			"friends_count": 451,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 36632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fletcherdurant 🤯 but also if you need me to taste some books in the name of science that could probably be arranged"
+	},
+	{
+		"created_at": "Mon Jun 14 23:27:56 +0000 2021",
+		"id": 1404506143196520400,
+		"id_str": "1404581398938361857",
+		"full_text": "Retweeting for the afternoon crowd.\n1) \"The idea that Europe .. endured a single onslaught of a terrifying pandemic which then disappeared &amp; left survivors 'stronger' has, I believe, unduly skewed the way the epidemiological history of other parts of the world have been framed.\" https://t.co/79KnWPizar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/79KnWPizar",
+					"expanded_url": "https://twitter.com/monicaMedHist/status/1404137805580701701",
+					"display_url": "twitter.com/monicaMedHist/…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2901324041,
+			"id_str": "2901324041",
+			"name": "Monica H Green, PhD",
+			"screen_name": "monicaMedHist",
+			"location": "",
+			"description": "MedHist=medical history; MedHist=medieval history. Medicine in the Long 12thC. #GlobalHealthHistory (plague, leprosy, TB). Fellow @MedievalAcademy. She/her.",
+			"url": "https://t.co/8KELaow4Fz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8KELaow4Fz",
+							"expanded_url": "https://independentscholar.academia.edu/MonicaHGreen",
+							"display_url": "independentscholar.academia.edu/MonicaHGreen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11846,
+			"friends_count": 2709,
+			"listed_count": 272,
+			"created_at": "Mon Dec 01 21:55:00 +0000 2014",
+			"favourites_count": 61076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/539540473967157248/zsI9F9Mw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/539540473967157248/zsI9F9Mw_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2901324041/1515516858",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1404137805580701700,
+		"quoted_status_id_str": "1404137805580701701",
+		"quoted_status_permalink": {
+			"url": "https://t.co/79KnWPizar",
+			"expanded": "https://twitter.com/monicaMedHist/status/1404137805580701701",
+			"display": "twitter.com/monicaMedHist/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 13 18:05:15 +0000 2021",
+			"id": 1404137805580701700,
+			"id_str": "1404137805580701701",
+			"full_text": "Okay, it's posted &amp; open for reading &amp; comments. My essay, \"The Great Dying: The Epidemiological and Medical Implications of Old and New World Encounters in the Pre- and Post-Contact Eras,\" https://t.co/SUI7BKIHwY. #histmed #GlobalHistory #epitwitter #VastEarlyAmerica https://t.co/LIOfR93W75",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "histmed",
+						"indices": [
+							223,
+							231
+						]
+					},
+					{
+						"text": "GlobalHistory",
+						"indices": [
+							232,
+							246
+						]
+					},
+					{
+						"text": "epitwitter",
+						"indices": [
+							247,
+							258
+						]
+					},
+					{
+						"text": "VastEarlyAmerica",
+						"indices": [
+							259,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SUI7BKIHwY",
+						"expanded_url": "https://isiscb.org/special-issue-on-pandemics/essay.html?essayID=25",
+						"display_url": "isiscb.org/special-issue-…",
+						"indices": [
+							198,
+							221
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1404137368177705000,
+						"id_str": "1404137368177704960",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E3x_fzYVgAAxJbX.png",
+						"media_url_https": "https://pbs.twimg.com/media/E3x_fzYVgAAxJbX.png",
+						"url": "https://t.co/LIOfR93W75",
+						"display_url": "pic.twitter.com/LIOfR93W75",
+						"expanded_url": "https://twitter.com/monicaMedHist/status/1404137805580701701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 646,
+								"h": 823,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 646,
+								"h": 823,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1404137368177705000,
+						"id_str": "1404137368177704960",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E3x_fzYVgAAxJbX.png",
+						"media_url_https": "https://pbs.twimg.com/media/E3x_fzYVgAAxJbX.png",
+						"url": "https://t.co/LIOfR93W75",
+						"display_url": "pic.twitter.com/LIOfR93W75",
+						"expanded_url": "https://twitter.com/monicaMedHist/status/1404137805580701701/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 646,
+								"h": 823,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 646,
+								"h": 823,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2901324041,
+				"id_str": "2901324041",
+				"name": "Monica H Green, PhD",
+				"screen_name": "monicaMedHist",
+				"location": "",
+				"description": "MedHist=medical history; MedHist=medieval history. Medicine in the Long 12thC. #GlobalHealthHistory (plague, leprosy, TB). Fellow @MedievalAcademy. She/her.",
+				"url": "https://t.co/8KELaow4Fz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8KELaow4Fz",
+								"expanded_url": "https://independentscholar.academia.edu/MonicaHGreen",
+								"display_url": "independentscholar.academia.edu/MonicaHGreen",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11846,
+				"friends_count": 2709,
+				"listed_count": 272,
+				"created_at": "Mon Dec 01 21:55:00 +0000 2014",
+				"favourites_count": 61076,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54915,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539540473967157248/zsI9F9Mw_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539540473967157248/zsI9F9Mw_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2901324041/1515516858",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweeting for the afternoon crowd.\n1) \"The idea that Europe .. endured a single onslaught of a terrifying pandemic which then disappeared &amp; left survivors 'stronger' has, I believe, unduly skewed the way the epidemiological history of other parts of the world have been framed.\" https://t.co/79KnWPizar"
+	},
+	{
 		"created_at": "Mon Jun 14 01:32:22 +0000 2021",
 		"id": 1404250328514674700,
 		"id_str": "1404250328514674693",
