@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 17:29:55 +0000 2021",
+		"id": 1412463837966700500,
+		"id_str": "1412463837966700562",
+		"full_text": "@meganlcook Same same (also we do match on two so I obvs approve) https://t.co/ydvTQ5OovO",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412463834862960600,
+					"id_str": "1412463834862960641",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E5oUX88XwAEPVPD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5oUX88XwAEPVPD.jpg",
+					"url": "https://t.co/ydvTQ5OovO",
+					"display_url": "pic.twitter.com/ydvTQ5OovO",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1412463837966700562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 681,
+							"h": 849,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 681,
+							"h": 849,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412463834862960600,
+					"id_str": "1412463834862960641",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E5oUX88XwAEPVPD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5oUX88XwAEPVPD.jpg",
+					"url": "https://t.co/ydvTQ5OovO",
+					"display_url": "pic.twitter.com/ydvTQ5OovO",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1412463837966700562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 681,
+							"h": 849,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 681,
+							"h": 849,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412463834862850000,
+					"id_str": "1412463834862850049",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E5oUX88WEAEvSTN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5oUX88WEAEvSTN.jpg",
+					"url": "https://t.co/ydvTQ5OovO",
+					"display_url": "pic.twitter.com/ydvTQ5OovO",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1412463837966700562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 891,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412463834867110000,
+					"id_str": "1412463834867109889",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E5oUX89XEAEsgt1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5oUX89XEAEsgt1.jpg",
+					"url": "https://t.co/ydvTQ5OovO",
+					"display_url": "pic.twitter.com/ydvTQ5OovO",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1412463837966700562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 564,
+							"h": 624,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 564,
+							"h": 624,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1412463134967746600,
+		"in_reply_to_status_id_str": "1412463134967746565",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9836,
+			"friends_count": 455,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@meganlcook Same same (also we do match on two so I obvs approve) https://t.co/ydvTQ5OovO"
+	},
+	{
+		"created_at": "Tue Jul 06 17:26:29 +0000 2021",
+		"id": 1412409621634076700,
+		"id_str": "1412462972966932483",
+		"full_text": "If you read nothing else on this platform today, take a moment and read the entire statement from ⁦@nhannahjones⁩ on her decision not to take the Knight Chair at UNC, and to teach instead as a tenured professor at ⁦@HowardU⁩.  https://t.co/MZ3YsKLiKk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nhannahjones",
+					"name": "Ida Bae Wells",
+					"id": 25598396,
+					"id_str": "25598396",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"screen_name": "HowardU",
+					"name": "Howard University",
+					"id": 27147528,
+					"id_str": "27147528",
+					"indices": [
+						215,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MZ3YsKLiKk",
+					"expanded_url": "https://www.naacpldf.org/press-release/nikole-hannah-jones-issues-statement-on-decision-to-decline-tenure-offer-at-university-of-north-carolina-chapel-hill-and-to-accept-knight-chair-appointment-at-howard-university/",
+					"display_url": "naacpldf.org/press-release/…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1507338108,
+			"id_str": "1507338108",
+			"name": "Sherrilyn Ifill",
+			"screen_name": "Sifill_LDF",
+			"location": "",
+			"description": "President & Director-Counsel of LDF (NAACP Legal Defense and Educational Fund), the nation's premier civil rights law organization. Tweets are my own.",
+			"url": "https://t.co/XAJAQKTizF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XAJAQKTizF",
+							"expanded_url": "http://www.naacpldf.org",
+							"display_url": "naacpldf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329095,
+			"friends_count": 1280,
+			"listed_count": 2356,
+			"created_at": "Tue Jun 11 23:10:03 +0000 2013",
+			"favourites_count": 6523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244006704263639042/OqwfYKFf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244006704263639042/OqwfYKFf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1507338108/1578288125",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4021,
+		"favorite_count": 10794,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you read nothing else on this platform today, take a moment and read the entire statement from ⁦@nhannahjones⁩ on her decision not to take the Knight Chair at UNC, and to teach instead as a tenured professor at ⁦@HowardU⁩.  https://t.co/MZ3YsKLiKk"
+	},
+	{
+		"created_at": "Tue Jul 06 13:55:31 +0000 2021",
+		"id": 1412406793037361200,
+		"id_str": "1412409880053420040",
+		"full_text": "I hope you'll pop over to the @LAReviewofBooks today &amp; read the Antiracism in the Contemporary University series, organized by @TitaChico1, where I a piece \"An Indigenous Future is for Everyone\" \nhttps://t.co/ylvk5XUZWt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAReviewofBooks",
+					"name": "LA Review of Books (LARB)",
+					"id": 124087958,
+					"id_str": "124087958",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "TitaChico1",
+					"name": "Tita Chico",
+					"id": 1039730301625409500,
+					"id_str": "1039730301625409537",
+					"indices": [
+						131,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ylvk5XUZWt",
+					"expanded_url": "https://www.lareviewofbooks.org/article/antiracism-in-the-contemporary-university/#_ftn7",
+					"display_url": "lareviewofbooks.org/article/antira…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 250674666,
+			"id_str": "250674666",
+			"name": "Dr. Megan Peiser",
+			"screen_name": "MeganPeiser",
+			"location": "Waawiyaataanong",
+			"description": "Oklahoma Chahta. 18C Lit, Women Writers, Bibliography, Periodicals, DH. Oakland University. Novels Reviewed Database 1790-1820 (NRD). she/her.",
+			"url": "https://t.co/I2TEYPt44X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I2TEYPt44X",
+							"expanded_url": "http://www.meganpeiser.com",
+							"display_url": "meganpeiser.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2677,
+			"friends_count": 1208,
+			"listed_count": 50,
+			"created_at": "Fri Feb 11 15:35:04 +0000 2011",
+			"favourites_count": 47664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "091304",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286834459753492480/RluNbSK3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286834459753492480/RluNbSK3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/250674666/1484052688",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "262626",
+			"profile_text_color": "7D7D7D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I hope you'll pop over to the @LAReviewofBooks today &amp; read the Antiracism in the Contemporary University series, organized by @TitaChico1, where I a piece \"An Indigenous Future is for Everyone\" \nhttps://t.co/ylvk5XUZWt"
+	},
+	{
 		"created_at": "Tue Jul 06 01:56:56 +0000 2021",
 		"id": 1412229044846923800,
 		"id_str": "1412229044846923776",
