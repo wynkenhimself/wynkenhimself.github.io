@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 02:13:02 +0000 2021",
+		"id": 1412957870296080400,
+		"id_str": "1412957870296080386",
+		"full_text": "Hey I can get the copyright back to _Shakespeare and Feminist Performance_ in only 15 more years! https://t.co/ny7jokweaT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ny7jokweaT",
+					"expanded_url": "https://twitter.com/john_overholt/status/1412457880658251781",
+					"display_url": "twitter.com/john_overholt/…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9834,
+			"friends_count": 455,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412457880658251800,
+		"quoted_status_id_str": "1412457880658251781",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ny7jokweaT",
+			"expanded": "https://twitter.com/john_overholt/status/1412457880658251781",
+			"display": "twitter.com/john_overholt/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 06 17:06:15 +0000 2021",
+			"id": 1412457880658251800,
+			"id_str": "1412457880658251781",
+			"full_text": "Copyright Termination allows creators to gain back their rights from publishers after 35 years regardless of what they signed. A new study examines who’s doing it and how (spoiler: the authors of The Babysitters’ Club and Sweet Valley High series.) https://t.co/LVH5sUKlm1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LVH5sUKlm1",
+						"expanded_url": "https://pluralistic.net/2021/07/06/backsies/",
+						"display_url": "pluralistic.net/2021/07/06/bac…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89477148,
+				"id_str": "89477148",
+				"name": "John Overholt",
+				"screen_name": "john_overholt",
+				"location": "Cambridge/Medford, MA",
+				"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+				"url": "https://t.co/d5qeDpYMtj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d5qeDpYMtj",
+								"expanded_url": "http://library.harvard.edu/hou",
+								"display_url": "library.harvard.edu/hou",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23223,
+				"friends_count": 787,
+				"listed_count": 722,
+				"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+				"favourites_count": 24119,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 55861,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864928749749497857/_TPbmT8t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey I can get the copyright back to _Shakespeare and Feminist Performance_ in only 15 more years! https://t.co/ny7jokweaT"
+	},
+	{
 		"created_at": "Tue Jul 06 17:29:55 +0000 2021",
 		"id": 1412463837966700500,
 		"id_str": "1412463837966700562",
@@ -272,7 +502,7 @@ Grailbird.data.tweets_2021_07 =
 		"created_at": "Tue Jul 06 17:26:29 +0000 2021",
 		"id": 1412409621634076700,
 		"id_str": "1412462972966932483",
-		"full_text": "If you read nothing else on this platform today, take a moment and read the entire statement from ⁦@nhannahjones⁩ on her decision not to take the Knight Chair at UNC, and to teach instead as a tenured professor at ⁦@HowardU⁩.  https://t.co/MZ3YsKLiKk",
+		"full_text": "If you read nothing else on this platform today, take a moment and read the entire statement from @nhannahjones on her decision not to take the Knight Chair at UNC, and to teach instead as a tenured professor at @HowardU.  https://t.co/MZ3YsKLiKk",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -394,7 +624,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "If you read nothing else on this platform today, take a moment and read the entire statement from ⁦@nhannahjones⁩ on her decision not to take the Knight Chair at UNC, and to teach instead as a tenured professor at ⁦@HowardU⁩.  https://t.co/MZ3YsKLiKk"
+		"text": "If you read nothing else on this platform today, take a moment and read the entire statement from @nhannahjones on her decision not to take the Knight Chair at UNC, and to teach instead as a tenured professor at @HowardU.  https://t.co/MZ3YsKLiKk"
 	},
 	{
 		"created_at": "Tue Jul 06 13:55:31 +0000 2021",
