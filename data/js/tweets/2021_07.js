@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 22:33:25 +0000 2021",
+		"id": 1414714541552939000,
+		"id_str": "1414714541552939013",
+		"full_text": "Help I put new product in my hair and now I think someone is stalking me in my house because I keep catching whiffs of it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9842,
+			"friends_count": 457,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Help I put new product in my hair and now I think someone is stalking me in my house because I keep catching whiffs of it"
+	},
+	{
+		"created_at": "Mon Jul 12 15:59:34 +0000 2021",
+		"id": 1414612311130660900,
+		"id_str": "1414615426424791041",
+		"full_text": "Big news! In September, I will be leaving the Graduate Center in order to start my own consultancy focused on higher education reform. \n\nSo many feelings—it's hard to leave after these seven wonderful years, and yet it is deeply exciting to look ahead. \n\nhttps://t.co/mUskIeURhK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mUskIeURhK",
+					"expanded_url": "http://katinarogers.com/2021/07/09/a-new-chapter/",
+					"display_url": "katinarogers.com/2021/07/09/a-n…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47413692,
+			"id_str": "47413692",
+			"name": "Katina Rogers",
+			"screen_name": "katinalynn",
+			"location": "Brooklyn, NY",
+			"description": "Designing equitable structures for higher ed. She/her. Putting the Humanities PhD to Work: https://t.co/fUGa4acqWH #BLM",
+			"url": "https://t.co/xgbNhlEfkK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xgbNhlEfkK",
+							"expanded_url": "http://katinarogers.com",
+							"display_url": "katinarogers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fUGa4acqWH",
+							"expanded_url": "https://www.dukeupress.edu/putting-the-humanities-phd-to-work",
+							"display_url": "dukeupress.edu/putting-the-hu…",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2856,
+			"friends_count": 881,
+			"listed_count": 82,
+			"created_at": "Mon Jun 15 19:05:10 +0000 2009",
+			"favourites_count": 8464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C0D05",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305228178609315840/setp-tbz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305228178609315840/setp-tbz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47413692/1355405573",
+			"profile_link_color": "6D9899",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 178,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big news! In September, I will be leaving the Graduate Center in order to start my own consultancy focused on higher education reform. \n\nSo many feelings—it's hard to leave after these seven wonderful years, and yet it is deeply exciting to look ahead. \n\nhttps://t.co/mUskIeURhK"
+	},
+	{
+		"created_at": "Mon Jul 12 15:59:31 +0000 2021",
+		"id": 1414615413066027000,
+		"id_str": "1414615413066027015",
+		"full_text": "@katinalynn yay, so excited for you!!!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katinalynn",
+					"name": "Katina Rogers",
+					"id": 47413692,
+					"id_str": "47413692",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1414612311130660900,
+		"in_reply_to_status_id_str": "1414612311130660866",
+		"in_reply_to_user_id": 47413692,
+		"in_reply_to_user_id_str": "47413692",
+		"in_reply_to_screen_name": "katinalynn",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9842,
+			"friends_count": 457,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@katinalynn yay, so excited for you!!!"
+	},
+	{
+		"created_at": "Mon Jul 12 04:57:49 +0000 2021",
+		"id": 1414401986464784400,
+		"id_str": "1414448891035099139",
+		"full_text": "Europeans didn't steal masks and drums and pots and stools.\n\nThey harmed practices of sociality organized around and facilitated by these objects.\n\nWhat, then, is it to return objects into damaged relations?\n\nI am dissatisfied.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1414401344241377300,
+		"in_reply_to_status_id_str": "1414401344241377280",
+		"in_reply_to_user_id": 1007674853544128500,
+		"in_reply_to_user_id_str": "1007674853544128512",
+		"in_reply_to_screen_name": "keguro_",
+		"user": {
+			"id": 1007674853544128500,
+			"id_str": "1007674853544128512",
+			"name": "k'eguro",
+			"screen_name": "keguro_",
+			"location": "Nairobi | kegurom@gmail.com",
+			"description": "feminist | gay | black | imagining freedom",
+			"url": "https://t.co/93npb6JIS2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/93npb6JIS2",
+							"expanded_url": "http://gukira.wordpress.com",
+							"display_url": "gukira.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11458,
+			"friends_count": 185,
+			"listed_count": 53,
+			"created_at": "Fri Jun 15 17:23:01 +0000 2018",
+			"favourites_count": 60147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378753973591638016/JszZkmd0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378753973591638016/JszZkmd0_normal.jpg",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Europeans didn't steal masks and drums and pots and stools.\n\nThey harmed practices of sociality organized around and facilitated by these objects.\n\nWhat, then, is it to return objects into damaged relations?\n\nI am dissatisfied."
+	},
+	{
 		"created_at": "Sun Jul 11 18:55:53 +0000 2021",
 		"id": 1414297409832751000,
 		"id_str": "1414297409832751110",
