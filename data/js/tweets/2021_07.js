@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 22:13:52 +0000 2021",
+		"id": 1415424255651717000,
+		"id_str": "1415434397524897792",
+		"full_text": "Retweeting this again, and please also spread widely; let's support graduate #internationalstudents, who have had a very difficult pandemic in even more of the ways that the pandemic has been difficult. https://t.co/wc2kFhzbc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "internationalstudents",
+					"indices": [
+						77,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wc2kFhzbc4",
+					"expanded_url": "https://twitter.com/SaronikB/status/1397908481315938306",
+					"display_url": "twitter.com/SaronikB/statu…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1534997670,
+			"id_str": "1534997670",
+			"name": "Amanda Henrichs",
+			"screen_name": "envynoveritas",
+			"location": "Massachusetts, USA",
+			"description": "Ph.D., baker, cat lady, 17th century humanism, lyric poetry, feminist computational humanities, she/her. All tweets mine.",
+			"url": "https://t.co/qLZgxuO4M6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qLZgxuO4M6",
+							"expanded_url": "http://akhenrichs.com/blog/",
+							"display_url": "akhenrichs.com/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724,
+			"friends_count": 1117,
+			"listed_count": 9,
+			"created_at": "Thu Jun 20 21:10:42 +0000 2013",
+			"favourites_count": 3711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1355887430625341441/qiq8-7CT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355887430625341441/qiq8-7CT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1534997670/1428693523",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1397908481315938300,
+		"quoted_status_id_str": "1397908481315938306",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wc2kFhzbc4",
+			"expanded": "https://twitter.com/SaronikB/status/1397908481315938306",
+			"display": "twitter.com/SaronikB/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 27 13:32:08 +0000 2021",
+			"id": 1397908481315938300,
+			"id_str": "1397908481315938306",
+			"full_text": "*INTERNATIONAL GRADUATE STUDENTS EXPERIENCE SURVEY*\n\nWill be retweeting from time to time. Please spread the word among #internationalstudents and faculty who work with them. RTs most appreciated. https://t.co/MooK0fvBvZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "internationalstudents",
+						"indices": [
+							120,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MooK0fvBvZ",
+						"expanded_url": "https://twitter.com/CoyoteAndBones/status/1394699016710017032",
+						"display_url": "twitter.com/CoyoteAndBones…",
+						"indices": [
+							197,
+							220
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83973662,
+				"id_str": "83973662",
+				"name": "Saronik Bosu (সারণিক বসু)",
+				"screen_name": "SaronikB",
+				"location": "Brooklyn, NY",
+				"description": "Literature and Economic Thought @nyuenglish. Med Humanities & https://t.co/S7V35E0jgY \n\n Host @HighTheoryPodc1 @NewBooksNetwork podcasts. \n\n#homecook.",
+				"url": "https://t.co/NqO2hMHqLR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NqO2hMHqLR",
+								"expanded_url": "https://linktr.ee/saronik",
+								"display_url": "linktr.ee/saronik",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/S7V35E0jgY",
+								"expanded_url": "http://pococene.com",
+								"display_url": "pococene.com",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 897,
+				"friends_count": 1936,
+				"listed_count": 10,
+				"created_at": "Wed Oct 21 01:35:13 +0000 2009",
+				"favourites_count": 7371,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3407,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1405199199235313664/SCO8ZhJN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405199199235313664/SCO8ZhJN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83973662/1622997124",
+				"profile_link_color": "808000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1394699016710017000,
+			"quoted_status_id_str": "1394699016710017032",
+			"quoted_status_permalink": {
+				"url": "https://t.co/MooK0fvBvZ",
+				"expanded": "https://twitter.com/CoyoteAndBones/status/1394699016710017032",
+				"display": "twitter.com/CoyoteAndBones…"
+			},
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweeting this again, and please also spread widely; let's support graduate #internationalstudents, who have had a very difficult pandemic in even more of the ways that the pandemic has been difficult. https://t.co/wc2kFhzbc4"
+	},
+	{
 		"created_at": "Tue Jul 13 23:59:30 +0000 2021",
 		"id": 1415098593057415200,
 		"id_str": "1415098593057415175",
