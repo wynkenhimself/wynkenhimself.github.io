@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 15:20:14 +0000 2021",
+		"id": 1417493749224001500,
+		"id_str": "1417504629462605825",
+		"full_text": "New acquisition alert! \n\nThis unrecorded edition of the Bible, complete with false imprint, is in a very rare deer-pelt binding, with the hair on! \n\nWe have named it The Hairy Bible, and it shall be known as this forever more... https://t.co/eGiDH5R9YK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415596116570161200,
+					"id_str": "1415596116570161152",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/E6U1KvmWQAAL2Ev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6U1KvmWQAAL2Ev.jpg",
+					"url": "https://t.co/eGiDH5R9YK",
+					"display_url": "pic.twitter.com/eGiDH5R9YK",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1417493749224001536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415596116570161200,
+					"id_str": "1415596116570161152",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/E6U1KvmWQAAL2Ev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6U1KvmWQAAL2Ev.jpg",
+					"url": "https://t.co/eGiDH5R9YK",
+					"display_url": "pic.twitter.com/eGiDH5R9YK",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1417493749224001536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415596161516310500,
+					"id_str": "1415596161516310529",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/E6U1NXCWEAE5r1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6U1NXCWEAE5r1A.jpg",
+					"url": "https://t.co/eGiDH5R9YK",
+					"display_url": "pic.twitter.com/eGiDH5R9YK",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1417493749224001536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 868,
+							"h": 1174,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 868,
+							"h": 1174,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092687948523454500,
+			"id_str": "1092687948523454464",
+			"name": "BL printed heritage",
+			"screen_name": "BLprintheritage",
+			"location": "London, England",
+			"description": "Western printed heritage collections @BritishLibrary “showing how to make a glorious Light with a candle like the Sun-shine” (bio pic woodcut: shelfmark 1036c6)",
+			"url": "https://t.co/ABDAwX7Bio",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ABDAwX7Bio",
+							"expanded_url": "https://www.bl.uk/subjects/printed-books",
+							"display_url": "bl.uk/subjects/print…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4632,
+			"friends_count": 857,
+			"listed_count": 56,
+			"created_at": "Tue Feb 05 07:34:42 +0000 2019",
+			"favourites_count": 4933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092687948523454464/1549401221",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 613,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New acquisition alert! \n\nThis unrecorded edition of the Bible, complete with false imprint, is in a very rare deer-pelt binding, with the hair on! \n\nWe have named it The Hairy Bible, and it shall be known as this forever more... https://t.co/eGiDH5R9YK"
+	},
+	{
 		"created_at": "Mon Jul 19 22:23:25 +0000 2021",
 		"id": 1417248738339348500,
 		"id_str": "1417248738339348489",
