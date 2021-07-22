@@ -1,6 +1,1288 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 14:36:17 +0000 2021",
+		"id": 1417855958965948400,
+		"id_str": "1417855958965948419",
+		"full_text": "Hey #FeministBibliography and #HerBook devotees: this looks really interesting https://t.co/67XOUE9r0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FeministBibliography",
+					"indices": [
+						4,
+						25
+					]
+				},
+				{
+					"text": "HerBook",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/67XOUE9r0s",
+					"expanded_url": "https://twitter.com/bibsoc/status/1417812227231453192",
+					"display_url": "twitter.com/bibsoc/status/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9854,
+			"friends_count": 457,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417812227231453200,
+		"quoted_status_id_str": "1417812227231453192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/67XOUE9r0s",
+			"expanded": "https://twitter.com/bibsoc/status/1417812227231453192",
+			"display": "twitter.com/bibsoc/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 21 11:42:31 +0000 2021",
+			"id": 1417812227231453200,
+			"id_str": "1417812227231453192",
+			"full_text": "https://t.co/eCWMiCkKs1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eCWMiCkKs1",
+						"expanded_url": "https://www.eventbrite.co.uk/e/ucl-rare-books-club-2021-women-owners-and-producers-of-ucls-rare-books-tickets-159128897817",
+						"display_url": "eventbrite.co.uk/e/ucl-rare-boo…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1413031513,
+				"id_str": "1413031513",
+				"name": "The Bibliographical Society",
+				"screen_name": "BibSoc",
+				"location": "UK",
+				"description": "The Bibliographical Society exists to promote the study of the history of the book, for librarians, collectors, historians and book lovers everywhere",
+				"url": "http://t.co/6gL5u5WXTS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6gL5u5WXTS",
+								"expanded_url": "http://www.bibsoc.org.uk",
+								"display_url": "bibsoc.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5013,
+				"friends_count": 516,
+				"listed_count": 117,
+				"created_at": "Wed May 08 14:38:44 +0000 2013",
+				"favourites_count": 267,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2576,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3631164105/5651acc5637d893bb1fd9aab3de9543a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3631164105/5651acc5637d893bb1fd9aab3de9543a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413031513/1611136634",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey #FeministBibliography and #HerBook devotees: this looks really interesting https://t.co/67XOUE9r0s"
+	},
+	{
+		"created_at": "Wed Jul 21 14:29:45 +0000 2021",
+		"id": 1417854315704770600,
+		"id_str": "1417854315704770562",
+		"full_text": "next week is @MovingTexts2021 (@SHARPorg's annual gig) and then the week after that is my @CalRBS Feminist Bibliography course and I am so excited about both these things and am preemptively exhausted",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MovingTexts2021",
+					"name": "SHARP 2021 Moving Texts",
+					"id": 1311910239952920600,
+					"id_str": "1311910239952920578",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "SHARPorg",
+					"name": "SHARP",
+					"id": 132462715,
+					"id_str": "132462715",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9854,
+			"friends_count": 457,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "next week is @MovingTexts2021 (@SHARPorg's annual gig) and then the week after that is my @CalRBS Feminist Bibliography course and I am so excited about both these things and am preemptively exhausted"
+	},
+	{
+		"created_at": "Wed Jul 21 14:27:42 +0000 2021",
+		"id": 1417828519200108500,
+		"id_str": "1417853798303899659",
+		"full_text": "\"Brittle, deteriorating paper! A most deadly threat to each of us!\" 🤣 https://t.co/MSH7zz21ry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MSH7zz21ry",
+					"expanded_url": "https://twitter.com/modbooks/status/1417646174459342849",
+					"display_url": "twitter.com/modbooks/statu…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 570932333,
+			"id_str": "570932333",
+			"name": "Emma M. Sarconi",
+			"screen_name": "EmSarconi",
+			"location": "Princeton, NJ",
+			"description": "Curious || Reference Professional for Special Collections @PrincetonRBSC | Editorial Team for BibSite | Chair, @RBMSinfo Leab Exhibition Awards (She/Her)",
+			"url": "https://t.co/qtb0dQEyVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qtb0dQEyVg",
+							"expanded_url": "https://www.emsarconi.com/",
+							"display_url": "emsarconi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825,
+			"friends_count": 1628,
+			"listed_count": 11,
+			"created_at": "Fri May 04 15:45:29 +0000 2012",
+			"favourites_count": 3170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413585635940651009/Ff_l_5u1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413585635940651009/Ff_l_5u1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/570932333/1615256007",
+			"profile_link_color": "FF580A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417646174459342800,
+		"quoted_status_id_str": "1417646174459342849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MSH7zz21ry",
+			"expanded": "https://twitter.com/modbooks/status/1417646174459342849",
+			"display": "twitter.com/modbooks/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 21 00:42:41 +0000 2021",
+			"id": 1417646174459342800,
+			"id_str": "1417646174459342849",
+			"full_text": "A colleague unearthed this incredible treasure today https://t.co/hxPa1TaDrL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1417646165143789600,
+						"id_str": "1417646165143789568",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/E6x9rRqXIAAM_DU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6x9rRqXIAAM_DU.jpg",
+						"url": "https://t.co/hxPa1TaDrL",
+						"display_url": "pic.twitter.com/hxPa1TaDrL",
+						"expanded_url": "https://twitter.com/modbooks/status/1417646174459342849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1417646165143789600,
+						"id_str": "1417646165143789568",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/E6x9rRqXIAAM_DU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6x9rRqXIAAM_DU.jpg",
+						"url": "https://t.co/hxPa1TaDrL",
+						"display_url": "pic.twitter.com/hxPa1TaDrL",
+						"expanded_url": "https://twitter.com/modbooks/status/1417646174459342849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1417646164787310600,
+						"id_str": "1417646164787310596",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/E6x9rQVXsAQl4l_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6x9rQVXsAQl4l_.jpg",
+						"url": "https://t.co/hxPa1TaDrL",
+						"display_url": "pic.twitter.com/hxPa1TaDrL",
+						"expanded_url": "https://twitter.com/modbooks/status/1417646174459342849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1417646165890322400,
+						"id_str": "1417646165890322434",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/E6x9rUcWUAIwi0A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6x9rUcWUAIwi0A.jpg",
+						"url": "https://t.co/hxPa1TaDrL",
+						"display_url": "pic.twitter.com/hxPa1TaDrL",
+						"expanded_url": "https://twitter.com/modbooks/status/1417646174459342849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1417646164841844700,
+						"id_str": "1417646164841844742",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/E6x9rQiX0AYkS1M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6x9rQiX0AYkS1M.jpg",
+						"url": "https://t.co/hxPa1TaDrL",
+						"display_url": "pic.twitter.com/hxPa1TaDrL",
+						"expanded_url": "https://twitter.com/modbooks/status/1417646174459342849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23099465,
+				"id_str": "23099465",
+				"name": "Heather G. Cole",
+				"screen_name": "modbooks",
+				"location": "Providence, RI",
+				"description": "Head of Special Collections Instruction and Curator, Literary & Pop Culture Collections, John Hay Library, Brown University. \nshe/her/hers",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 359,
+				"friends_count": 603,
+				"listed_count": 6,
+				"created_at": "Fri Mar 06 18:33:55 +0000 2009",
+				"favourites_count": 5664,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 275,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134225747969794048/M8xnLISi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134225747969794048/M8xnLISi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23099465/1556052452",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Brittle, deteriorating paper! A most deadly threat to each of us!\" 🤣 https://t.co/MSH7zz21ry"
+	},
+	{
+		"created_at": "Wed Jul 21 14:25:56 +0000 2021",
+		"id": 1417834710999384000,
+		"id_str": "1417853353011384321",
+		"full_text": "We need your help!\n\nWe'll be awarding book prizes for the best tweets/tweeters throughout #MovingTexts. We've got SO MANY books that we're looking forward to giving out!\n\nBut what should our award categories be? The punnier the better, of course.\n\n#bookstudies",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MovingTexts",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "bookstudies",
+					"indices": [
+						248,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1272985049630232600,
+			"id_str": "1272985049630232576",
+			"name": "SHARP News",
+			"screen_name": "SHARPorgNews",
+			"location": "",
+			"description": "A quarterly publication of @SHARPorg. We tweet about #bookstudies, #bookhistory, and #publishing.\n\nAccount run by @leahhenrickson.",
+			"url": "https://t.co/Ih18QM7CD8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ih18QM7CD8",
+							"expanded_url": "http://sharpweb.org/sharpnews",
+							"display_url": "sharpweb.org/sharpnews",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1218,
+			"friends_count": 998,
+			"listed_count": 9,
+			"created_at": "Tue Jun 16 20:12:00 +0000 2020",
+			"favourites_count": 621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324673870264180738/eBUCTmV__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324673870264180738/eBUCTmV__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1272985049630232576/1592353985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We need your help!\n\nWe'll be awarding book prizes for the best tweets/tweeters throughout #MovingTexts. We've got SO MANY books that we're looking forward to giving out!\n\nBut what should our award categories be? The punnier the better, of course.\n\n#bookstudies"
+	},
+	{
+		"created_at": "Wed Jul 21 11:50:12 +0000 2021",
+		"id": 1417812227231453200,
+		"id_str": "1417814161183150081",
+		"full_text": "https://t.co/eCWMiCkKs1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eCWMiCkKs1",
+					"expanded_url": "https://www.eventbrite.co.uk/e/ucl-rare-books-club-2021-women-owners-and-producers-of-ucls-rare-books-tickets-159128897817",
+					"display_url": "eventbrite.co.uk/e/ucl-rare-boo…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413031513,
+			"id_str": "1413031513",
+			"name": "The Bibliographical Society",
+			"screen_name": "BibSoc",
+			"location": "UK",
+			"description": "The Bibliographical Society exists to promote the study of the history of the book, for librarians, collectors, historians and book lovers everywhere",
+			"url": "http://t.co/6gL5u5WXTS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6gL5u5WXTS",
+							"expanded_url": "http://www.bibsoc.org.uk",
+							"display_url": "bibsoc.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5013,
+			"friends_count": 516,
+			"listed_count": 117,
+			"created_at": "Wed May 08 14:38:44 +0000 2013",
+			"favourites_count": 267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3631164105/5651acc5637d893bb1fd9aab3de9543a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3631164105/5651acc5637d893bb1fd9aab3de9543a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413031513/1611136634",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/eCWMiCkKs1"
+	},
+	{
+		"created_at": "Wed Jul 21 11:40:35 +0000 2021",
+		"id": 1417150119477084200,
+		"id_str": "1417811743158439937",
+		"full_text": "In this lecture, I will be talking about the historical construction of different forms of value in rare books collections from the 16-20th centuries by thinking with 'racial capitalism.' https://t.co/kfirhxVDyA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kfirhxVDyA",
+					"expanded_url": "https://twitter.com/CalRBS/status/1417144463751716868",
+					"display_url": "twitter.com/CalRBS/status/…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390140696,
+			"id_str": "1390140696",
+			"name": "Devin Fitzgerald",
+			"screen_name": "DevinFitzger",
+			"location": "Libraries",
+			"description": "Rare Books and History of Printing Curator, UCLA. Historian of East Asia and the Global Book. Fully gruntled.",
+			"url": "https://t.co/I2s3v6pZsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I2s3v6pZsc",
+							"expanded_url": "http://devinfitz.com",
+							"display_url": "devinfitz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6611,
+			"friends_count": 2412,
+			"listed_count": 99,
+			"created_at": "Mon Apr 29 18:29:41 +0000 2013",
+			"favourites_count": 12071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402425006450089988/KWMSmAQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402425006450089988/KWMSmAQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390140696/1574274532",
+			"profile_link_color": "010A0F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417144463751716900,
+		"quoted_status_id_str": "1417144463751716868",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kfirhxVDyA",
+			"expanded": "https://twitter.com/CalRBS/status/1417144463751716868",
+			"display": "twitter.com/CalRBS/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 19 15:29:04 +0000 2021",
+			"id": 1417144463751716900,
+			"id_str": "1417144463751716868",
+			"full_text": "Save the date! @DevinFitzger contributes to this year's CalRBS Speaker Series on 8/4 with his lecture \"Global Book History and the Library.\" Not to be missed! https://t.co/WaYReKKOlu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DevinFitzger",
+						"name": "Devin Fitzgerald",
+						"id": 1390140696,
+						"id_str": "1390140696",
+						"indices": [
+							15,
+							28
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1417144381748826000,
+						"id_str": "1417144381748826112",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/E6q1To2UUAAysEf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6q1To2UUAAysEf.jpg",
+						"url": "https://t.co/WaYReKKOlu",
+						"display_url": "pic.twitter.com/WaYReKKOlu",
+						"expanded_url": "https://twitter.com/CalRBS/status/1417144463751716868/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1417144381748826000,
+						"id_str": "1417144381748826112",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/E6q1To2UUAAysEf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6q1To2UUAAysEf.jpg",
+						"url": "https://t.co/WaYReKKOlu",
+						"display_url": "pic.twitter.com/WaYReKKOlu",
+						"expanded_url": "https://twitter.com/CalRBS/status/1417144463751716868/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124064638,
+				"id_str": "124064638",
+				"name": "CalRBS",
+				"screen_name": "CalRBS",
+				"location": "Los Angeles",
+				"description": "California Rare Book School is a continuing education program dedicated to providing the requisite knowledge and skills for the rare book community.",
+				"url": "https://t.co/q161iTxlbU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q161iTxlbU",
+								"expanded_url": "https://linktr.ee/calrbs",
+								"display_url": "linktr.ee/calrbs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 709,
+				"friends_count": 137,
+				"listed_count": 33,
+				"created_at": "Thu Mar 18 04:22:55 +0000 2010",
+				"favourites_count": 227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 484,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331708216237977600/1SYru7nJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331708216237977600/1SYru7nJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124064638/1606338956",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 77,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this lecture, I will be talking about the historical construction of different forms of value in rare books collections from the 16-20th centuries by thinking with 'racial capitalism.' https://t.co/kfirhxVDyA"
+	},
+	{
 		"created_at": "Tue Jul 20 15:20:14 +0000 2021",
 		"id": 1417493749224001500,
 		"id_str": "1417504629462605825",
