@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 14:49:53 +0000 2021",
+		"id": 1422930945372524500,
+		"id_str": "1422932811212800003",
+		"full_text": "My #BookHistory inspired knitting patterns, the Manuscript Cowl and Printer's Fleuron Mitts, are now available for download (free!) on my website via my GitHub repository! ➡️ https://t.co/JdIGF0XBZ4 #KnittersOfTwitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BookHistory",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"text": "KnittersOfTwitter",
+					"indices": [
+						199,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JdIGF0XBZ4",
+					"expanded_url": "https://kristenchoward.github.io/blog/",
+					"display_url": "kristenchoward.github.io/blog/",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 898569547254345700,
+			"id_str": "898569547254345728",
+			"name": "Dr. Kristen C. Howard",
+			"screen_name": "krchoward",
+			"location": "Montreal, Quebec",
+			"description": "PhD in Early Modern European History, library & information student @mcgillsis, and avid knitter (she/her)",
+			"url": "https://t.co/pHV7Duj12G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pHV7Duj12G",
+							"expanded_url": "http://kristenchoward.github.io/",
+							"display_url": "kristenchoward.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Fri Aug 18 15:37:29 +0000 2017",
+			"favourites_count": 1564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405509383124131845/mgIdeLXz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405509383124131845/mgIdeLXz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/898569547254345728/1536077709",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My #BookHistory inspired knitting patterns, the Manuscript Cowl and Printer's Fleuron Mitts, are now available for download (free!) on my website via my GitHub repository! ➡️ https://t.co/JdIGF0XBZ4 #KnittersOfTwitter"
+	},
+	{
+		"created_at": "Wed Aug 04 14:47:15 +0000 2021",
+		"id": 1422931773521121300,
+		"id_str": "1422932147892068353",
+		"full_text": "Other folks have said the most urgent things about that terrible AHA letter, but I would also ask: how can researchers possibly have moral authority to pressure university admins to keep our classrooms &amp; research spaces safe if we show such disregard for colleagues in archives?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20112111,
+			"id_str": "20112111",
+			"name": "Ryan Cordell",
+			"screen_name": "ryancordell",
+			"location": "Boston",
+			"description": "he/him—textual technologies enthusiast—beacon of effervescent joy—Researcher @ViralTexts—joining the faculty @iSchoolUI—formerly faculty @english_nu & @NUlabTMN",
+			"url": "https://t.co/eNoiXuvxTo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eNoiXuvxTo",
+							"expanded_url": "http://ryancordell.org",
+							"display_url": "ryancordell.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8644,
+			"friends_count": 1735,
+			"listed_count": 421,
+			"created_at": "Thu Feb 05 01:19:14 +0000 2009",
+			"favourites_count": 3683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264627546873901058/3rtII3LL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264627546873901058/3rtII3LL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20112111/1548903345",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "999999",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 151,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Other folks have said the most urgent things about that terrible AHA letter, but I would also ask: how can researchers possibly have moral authority to pressure university admins to keep our classrooms &amp; research spaces safe if we show such disregard for colleagues in archives?"
+	},
+	{
+		"created_at": "Wed Aug 04 12:14:00 +0000 2021",
+		"id": 1422785625460117500,
+		"id_str": "1422893582420254722",
+		"full_text": "enough has been said abt the @AHAhistorians  letter and though it's highly implied by our general demeanor on here what we'd think about that, we'll say it out loud: fuck that noise. but, i'm also struck by the sexism of that moment in a way i'll unpack bc anger inhibits sleep 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHAhistorians",
+					"name": "American Historical Association",
+					"id": 76944176,
+					"id_str": "76944176",
+					"indices": [
+						29,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 724376123665043500,
+			"id_str": "724376123665043456",
+			"name": "WomensBookHistory",
+			"screen_name": "GrubStreetWomen",
+			"location": "Pomona, CA",
+			"description": "tweets about #womenwriters and #feminist #bookhistory, #dh, and #libraries. Frequent RT of academic and popular work. Tweets by Kate Ozment.",
+			"url": "https://t.co/rOdYgCiRTN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rOdYgCiRTN",
+							"expanded_url": "http://womensbookhistory.org",
+							"display_url": "womensbookhistory.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4586,
+			"friends_count": 2514,
+			"listed_count": 67,
+			"created_at": "Sun Apr 24 23:15:00 +0000 2016",
+			"favourites_count": 15948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305200753707950081/WWUmScQx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305200753707950081/WWUmScQx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724376123665043456/1591113326",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "enough has been said abt the @AHAhistorians  letter and though it's highly implied by our general demeanor on here what we'd think about that, we'll say it out loud: fuck that noise. but, i'm also struck by the sexism of that moment in a way i'll unpack bc anger inhibits sleep 1/"
+	},
+	{
 		"created_at": "Wed Aug 04 01:39:38 +0000 2021",
 		"id": 1422733938800439300,
 		"id_str": "1422733938800439303",
@@ -120,7 +445,7 @@ Grailbird.data.tweets_2021_08 =
 			"created_at": "Thu Mar 07 02:33:58 +0000 2019",
 			"id": 1103483902092554200,
 			"id_str": "1103483902092554240",
-			"full_text": "Suck it, Fredson Bowers!!! (I still have a lot of pent-up aggression from DesBib) 🦸‍♀️ https://t.co/NIyF9yM1G2",
+			"full_text": "Suck it, Fredson Bowers!!! (I still have a lot of pent-up aggression from DesBib) 🦸♀️ https://t.co/NIyF9yM1G2",
 			"truncated": false,
 			"display_text_range": [
 				0,
