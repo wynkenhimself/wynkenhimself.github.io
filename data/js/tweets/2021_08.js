@@ -1,6 +1,1201 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 17:26:31 +0000 2021",
+		"id": 1423334616249811000,
+		"id_str": "1423334616249810947",
+		"full_text": "@pykelets Oh, one add: I haven't watched it yet but @DevinFitzger gave a talk for CalRBS last night that I think will be made public and I believe probably is worth engaging in these terms https://t.co/lTEDiyQMDU",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pykelets",
+					"name": "Sarah Pyke",
+					"id": 2401383439,
+					"id_str": "2401383439",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "DevinFitzger",
+					"name": "Devin Fitzgerald",
+					"id": 1390140696,
+					"id_str": "1390140696",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lTEDiyQMDU",
+					"expanded_url": "https://twitter.com/UCLALibrary/status/1422230520826454017",
+					"display_url": "twitter.com/UCLALibrary/st…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1423333713723760600,
+		"in_reply_to_status_id_str": "1423333713723760649",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9872,
+			"friends_count": 465,
+			"listed_count": 381,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1422230520826454000,
+		"quoted_status_id_str": "1422230520826454017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lTEDiyQMDU",
+			"expanded": "https://twitter.com/UCLALibrary/status/1422230520826454017",
+			"display": "twitter.com/UCLALibrary/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 02 16:19:14 +0000 2021",
+			"id": 1422230520826454000,
+			"id_str": "1422230520826454017",
+			"full_text": "This Wednesday, @UCLA librarian @DevinFitzger kicks off the 2021 @CalRBS Speaker Series with \"Global Book History and the Library.” Early hint: You can also Save the Date for an Aug. 18 talk from fellow librarian @tttkay! \n\nView details and register ➡️ https://t.co/cikWYrTWYa https://t.co/Vm7d3eIQ4Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UCLA",
+						"name": "UCLA",
+						"id": 18918483,
+						"id_str": "18918483",
+						"indices": [
+							16,
+							21
+						]
+					},
+					{
+						"screen_name": "DevinFitzger",
+						"name": "Devin Fitzgerald",
+						"id": 1390140696,
+						"id_str": "1390140696",
+						"indices": [
+							32,
+							45
+						]
+					},
+					{
+						"screen_name": "CalRBS",
+						"name": "CalRBS",
+						"id": 124064638,
+						"id_str": "124064638",
+						"indices": [
+							65,
+							72
+						]
+					},
+					{
+						"screen_name": "tttkay",
+						"name": "bibliotekah",
+						"id": 73315263,
+						"id_str": "73315263",
+						"indices": [
+							213,
+							220
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cikWYrTWYa",
+						"expanded_url": "http://bit.ly/ucla-events",
+						"display_url": "bit.ly/ucla-events",
+						"indices": [
+							253,
+							276
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1422229145023500300,
+						"id_str": "1422229145023500299",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E7zF30JVUAstWXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7zF30JVUAstWXx.jpg",
+						"url": "https://t.co/Vm7d3eIQ4Y",
+						"display_url": "pic.twitter.com/Vm7d3eIQ4Y",
+						"expanded_url": "https://twitter.com/UCLALibrary/status/1422230520826454017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1422229145023500300,
+						"id_str": "1422229145023500299",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E7zF30JVUAstWXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7zF30JVUAstWXx.jpg",
+						"url": "https://t.co/Vm7d3eIQ4Y",
+						"display_url": "pic.twitter.com/Vm7d3eIQ4Y",
+						"expanded_url": "https://twitter.com/UCLALibrary/status/1422230520826454017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 392802682,
+				"id_str": "392802682",
+				"name": "UCLA Library",
+				"screen_name": "UCLALibrary",
+				"location": "Los Angeles, CA",
+				"description": "The UCLA Library creates a vibrant nexus of ideas, collections, expertise, and spaces in which users illuminate solutions for local and global challenges.",
+				"url": "https://t.co/SMuIzRxd1x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SMuIzRxd1x",
+								"expanded_url": "http://www.library.ucla.edu",
+								"display_url": "library.ucla.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3335,
+				"friends_count": 408,
+				"listed_count": 123,
+				"created_at": "Mon Oct 17 15:58:03 +0000 2011",
+				"favourites_count": 2412,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6845,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1351369146710204417/cJmtFxcd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351369146710204417/cJmtFxcd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/392802682/1601929080",
+				"profile_link_color": "001EB3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D6BCAE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pykelets Oh, one add: I haven't watched it yet but @DevinFitzger gave a talk for CalRBS last night that I think will be made public and I believe probably is worth engaging in these terms https://t.co/lTEDiyQMDU"
+	},
+	{
+		"created_at": "Thu Aug 05 17:22:56 +0000 2021",
+		"id": 1423333713723760600,
+		"id_str": "1423333713723760649",
+		"full_text": "@pykelets my mind is fuzzy because I'm literally on my lunch break in teaching FemBib but I'd say that Spires's work is really distinct in its goals from the goals of crit bib.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pykelets",
+					"name": "Sarah Pyke",
+					"id": 2401383439,
+					"id_str": "2401383439",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1423333510421663700,
+		"in_reply_to_status_id_str": "1423333510421663751",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9872,
+			"friends_count": 465,
+			"listed_count": 381,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pykelets my mind is fuzzy because I'm literally on my lunch break in teaching FemBib but I'd say that Spires's work is really distinct in its goals from the goals of crit bib."
+	},
+	{
+		"created_at": "Thu Aug 05 17:22:07 +0000 2021",
+		"id": 1423333510421663700,
+		"id_str": "1423333510421663751",
+		"full_text": "@pykelets This seems great! The only thing I would quibble with is the sense that liberation bibliography and critical bibliography are the same--my understanding of how crit bib gets used is that it is interested in connecting bib to other disciplines &amp; culture, but it isn't liberatory +",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pykelets",
+					"name": "Sarah Pyke",
+					"id": 2401383439,
+					"id_str": "2401383439",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1423329924274851800,
+		"in_reply_to_status_id_str": "1423329924274851844",
+		"in_reply_to_user_id": 2401383439,
+		"in_reply_to_user_id_str": "2401383439",
+		"in_reply_to_screen_name": "pykelets",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9872,
+			"friends_count": 465,
+			"listed_count": 381,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pykelets This seems great! The only thing I would quibble with is the sense that liberation bibliography and critical bibliography are the same--my understanding of how crit bib gets used is that it is interested in connecting bib to other disciplines &amp; culture, but it isn't liberatory +"
+	},
+	{
+		"created_at": "Thu Aug 05 17:16:34 +0000 2021",
+		"id": 1423304546936397800,
+		"id_str": "1423332111923228675",
+		"full_text": "Appreciate this follow up message. Hope this can be part of broader work to build solidarity and support with archivists, librarians, curators etc. who all work together to do and support historical work. https://t.co/qgc41ym6T1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qgc41ym6T1",
+					"expanded_url": "https://twitter.com/AHAhistorians/status/1423279871405481985",
+					"display_url": "twitter.com/AHAhistorians/…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10034972,
+			"id_str": "10034972",
+			"name": "Trevor Owens 💾🗄🕚",
+			"screen_name": "tjowens",
+			"location": "Hyattsville, MD",
+			"description": "Head of Digital Content Management @librarycongress, 👨‍🏫 @iSchoolUMD & @AUpublichistory. intersectional feminist/🎻/🐶s & cardigans| he/his | unofficial",
+			"url": "https://t.co/RO0ERAupdh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RO0ERAupdh",
+							"expanded_url": "http://www.trevorowens.org/",
+							"display_url": "trevorowens.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10685,
+			"friends_count": 3195,
+			"listed_count": 550,
+			"created_at": "Wed Nov 07 15:37:52 +0000 2007",
+			"favourites_count": 24350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8FBC1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383850803178262534/IS3GTBy-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383850803178262534/IS3GTBy-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10034972/1398284995",
+			"profile_link_color": "761427",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A7D2B5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01f6465e1150bb6e",
+			"url": "https://api.twitter.com/1.1/geo/id/01f6465e1150bb6e.json",
+			"place_type": "city",
+			"name": "Falmouth",
+			"full_name": "Falmouth, MA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-70.657005,
+							41.53445
+						],
+						[
+							-70.498041,
+							41.53445
+						],
+						[
+							-70.498041,
+							41.640072
+						],
+						[
+							-70.657005,
+							41.640072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1423279871405482000,
+		"quoted_status_id_str": "1423279871405481985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qgc41ym6T1",
+			"expanded": "https://twitter.com/AHAhistorians/status/1423279871405481985",
+			"display": "twitter.com/AHAhistorians/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 05 13:48:59 +0000 2021",
+			"id": 1423279871405482000,
+			"id_str": "1423279871405481985",
+			"full_text": "The American Historical Association apologizes to our colleagues who work in archival institutions for a letter addressed to the National Archives and Records Administration (NARA). Please read: https://t.co/TSzkLvPzSa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1423279776148562000,
+						"id_str": "1423279776148561924",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/E8CBamFVIAQGVmI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8CBamFVIAQGVmI.jpg",
+						"url": "https://t.co/TSzkLvPzSa",
+						"display_url": "pic.twitter.com/TSzkLvPzSa",
+						"expanded_url": "https://twitter.com/AHAhistorians/status/1423279871405481985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1583,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1423279776148562000,
+						"id_str": "1423279776148561924",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/E8CBamFVIAQGVmI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8CBamFVIAQGVmI.jpg",
+						"url": "https://t.co/TSzkLvPzSa",
+						"display_url": "pic.twitter.com/TSzkLvPzSa",
+						"expanded_url": "https://twitter.com/AHAhistorians/status/1423279871405481985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1583,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1423279852073865200,
+						"id_str": "1423279852073865230",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/E8CBfA7VUA4RHO2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8CBfA7VUA4RHO2.jpg",
+						"url": "https://t.co/TSzkLvPzSa",
+						"display_url": "pic.twitter.com/TSzkLvPzSa",
+						"expanded_url": "https://twitter.com/AHAhistorians/status/1423279871405481985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 924,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 524,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1577,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1422569197788348400,
+			"in_reply_to_status_id_str": "1422569197788348427",
+			"in_reply_to_user_id": 76944176,
+			"in_reply_to_user_id_str": "76944176",
+			"in_reply_to_screen_name": "AHAhistorians",
+			"user": {
+				"id": 76944176,
+				"id_str": "76944176",
+				"name": "American Historical Association",
+				"screen_name": "AHAhistorians",
+				"location": "Washington, D.C.",
+				"description": "The American Historical Association is the largest professional organization serving historians in all fields and all professions. https://t.co/S7tRKpQW2V",
+				"url": "http://t.co/TOznS8EzJG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TOznS8EzJG",
+								"expanded_url": "http://www.historians.org",
+								"display_url": "historians.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/S7tRKpQW2V",
+								"expanded_url": "http://historians.org/join",
+								"display_url": "historians.org/join",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 48870,
+				"friends_count": 1891,
+				"listed_count": 1033,
+				"created_at": "Thu Sep 24 13:54:02 +0000 2009",
+				"favourites_count": 5605,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27926,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913406246669217793/my4y6T_7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913406246669217793/my4y6T_7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76944176/1626289355",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 89,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Appreciate this follow up message. Hope this can be part of broader work to build solidarity and support with archivists, librarians, curators etc. who all work together to do and support historical work. https://t.co/qgc41ym6T1"
+	},
+	{
+		"created_at": "Thu Aug 05 12:04:23 +0000 2021",
+		"id": 1423237848958910500,
+		"id_str": "1423253546959581186",
+		"full_text": "We are looking for our next great colleague! \n\nThe Folger Shakespeare Library is seeking an Associate Director for Fellowships at the Folger Institute. Full details at: https://t.co/NjkNyznZeb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NjkNyznZeb",
+					"expanded_url": "https://amherst.wd5.myworkdayjobs.com/FSL_Employment_Opportunities",
+					"display_url": "amherst.wd5.myworkdayjobs.com/FSL_Employment…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245457986,
+			"id_str": "245457986",
+			"name": "Folger Research",
+			"screen_name": "FolgerResearch",
+			"location": "Folger Shakespeare Library",
+			"description": "Research, collections, and scholarly events from the Folger Shakespeare Library.",
+			"url": "http://t.co/LkH0iA7gmz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LkH0iA7gmz",
+							"expanded_url": "http://collation.folger.edu",
+							"display_url": "collation.folger.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10063,
+			"friends_count": 186,
+			"listed_count": 240,
+			"created_at": "Mon Jan 31 18:58:56 +0000 2011",
+			"favourites_count": 2385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCD083",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245457986/1409944581",
+			"profile_link_color": "B35516",
+			"profile_sidebar_border_color": "CC8A6C",
+			"profile_sidebar_fill_color": "FCD083",
+			"profile_text_color": "1A1714",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are looking for our next great colleague! \n\nThe Folger Shakespeare Library is seeking an Associate Director for Fellowships at the Folger Institute. Full details at: https://t.co/NjkNyznZeb"
+	},
+	{
+		"created_at": "Thu Aug 05 11:53:06 +0000 2021",
+		"id": 1423250709252911000,
+		"id_str": "1423250709252911105",
+		"full_text": "@book_historia Exactly my reaction!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "book_historia",
+					"name": "Allie Alvis 🚄",
+					"id": 138620865,
+					"id_str": "138620865",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1423246743043559400,
+		"in_reply_to_status_id_str": "1423246743043559432",
+		"in_reply_to_user_id": 138620865,
+		"in_reply_to_user_id_str": "138620865",
+		"in_reply_to_screen_name": "book_historia",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9872,
+			"friends_count": 465,
+			"listed_count": 381,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@book_historia Exactly my reaction!"
+	},
+	{
 		"created_at": "Wed Aug 04 14:49:53 +0000 2021",
 		"id": 1422930945372524500,
 		"id_str": "1422932811212800003",
