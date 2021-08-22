@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 21 18:00:24 +0000 2021",
+		"id": 1429072634831151000,
+		"id_str": "1429141348276391936",
+		"full_text": "imo the safety of people should always come before the preservation of records. https://t.co/CTTtKKa9dU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CTTtKKa9dU",
+					"expanded_url": "https://twitter.com/sbasijrasikh/status/1428776691820908548",
+					"display_url": "twitter.com/sbasijrasikh/s…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1354458183515959300,
+			"id_str": "1354458183515959296",
+			"name": "Sham",
+			"screen_name": "notshamjanet",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 211,
+			"friends_count": 196,
+			"listed_count": 4,
+			"created_at": "Wed Jan 27 15:56:22 +0000 2021",
+			"favourites_count": 14310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354459794673954818/83GQtnks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354459794673954818/83GQtnks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354458183515959296/1611763868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1428776691820908500,
+		"quoted_status_id_str": "1428776691820908548",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CTTtKKa9dU",
+			"expanded": "https://twitter.com/sbasijrasikh/status/1428776691820908548",
+			"display": "twitter.com/sbasijrasikh/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 20 17:51:23 +0000 2021",
+			"id": 1428776691820908500,
+			"id_str": "1428776691820908548",
+			"full_text": "Nearly 20 years later, as the founder of the only all-girls boarding school in Afghanistan, I’m burning my students’ records not to erase them, but to protect them and their families. \n2/6 https://t.co/JErbZCSPuC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1428776591962820600,
+						"id_str": "1428776591962820612",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428776591962820612/pu/img/y9l7Oy6zHiYfrYfR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428776591962820612/pu/img/y9l7Oy6zHiYfrYfR.jpg",
+						"url": "https://t.co/JErbZCSPuC",
+						"display_url": "pic.twitter.com/JErbZCSPuC",
+						"expanded_url": "https://twitter.com/sbasijrasikh/status/1428776691820908548/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1428776591962820600,
+						"id_str": "1428776591962820612",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428776591962820612/pu/img/y9l7Oy6zHiYfrYfR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428776591962820612/pu/img/y9l7Oy6zHiYfrYfR.jpg",
+						"url": "https://t.co/JErbZCSPuC",
+						"display_url": "pic.twitter.com/JErbZCSPuC",
+						"expanded_url": "https://twitter.com/sbasijrasikh/status/1428776691820908548/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16078,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1428776591962820612/pu/pl/y7wn64O3XfHVhKpM.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1428776591962820612/pu/vid/480x270/ssVUNCnLp0gdhYWy.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1428776591962820612/pu/vid/640x360/WPbi1PmTuL_TqaEi.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1428776586766168000,
+			"in_reply_to_status_id_str": "1428776586766168071",
+			"in_reply_to_user_id": 18552573,
+			"in_reply_to_user_id_str": "18552573",
+			"in_reply_to_screen_name": "sbasijrasikh",
+			"user": {
+				"id": 18552573,
+				"id_str": "18552573",
+				"name": "Shabana Basij-Rasikh",
+				"screen_name": "sbasijrasikh",
+				"location": "Kabul, Afghanistan",
+				"description": "Co-Founder & President @SOLAAfghanistan. Educator and social entrepreneur.",
+				"url": "http://t.co/YyHZf4un",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YyHZf4un",
+								"expanded_url": "http://www.sola-afghanistan.org",
+								"display_url": "sola-afghanistan.org",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12686,
+				"friends_count": 1064,
+				"listed_count": 151,
+				"created_at": "Fri Jan 02 14:12:04 +0000 2009",
+				"favourites_count": 1493,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 830,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966052520383729665/SaITigKk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966052520383729665/SaITigKk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18552573/1519159702",
+				"profile_link_color": "285205",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5834,
+			"favorite_count": 23101,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "imo the safety of people should always come before the preservation of records. https://t.co/CTTtKKa9dU"
+	},
+	{
+		"created_at": "Sat Aug 21 17:01:03 +0000 2021",
+		"id": 1429065784794525700,
+		"id_str": "1429126412804493312",
+		"full_text": "I wish https://t.co/0m3cspoOGq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0m3cspoOGq",
+					"expanded_url": "https://twitter.com/genderoftheday/status/1429063515722199048",
+					"display_url": "twitter.com/genderoftheday…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831563640096620500,
+			"id_str": "831563640096620545",
+			"name": "Simon A Corvid (sometimes a bear)",
+			"screen_name": "SCrow1022",
+			"location": "Chicago, IL",
+			"description": "Writer, runner, seeker. Queer trans man. He/him.\nAbolish ICE & police.\nOn Ojibwe, Odawa, Potawatomi (Council of the Three Fires) land.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 777,
+			"friends_count": 969,
+			"listed_count": 12,
+			"created_at": "Tue Feb 14 17:59:56 +0000 2017",
+			"favourites_count": 189880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192498276597194753/F4WqaUY7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192498276597194753/F4WqaUY7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/831563640096620545/1509029088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1429063515722199000,
+		"quoted_status_id_str": "1429063515722199048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0m3cspoOGq",
+			"expanded": "https://twitter.com/genderoftheday/status/1429063515722199048",
+			"display": "twitter.com/genderoftheday…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 21 12:51:07 +0000 2021",
+			"id": 1429063515722199000,
+			"id_str": "1429063515722199048",
+			"full_text": "The gender of the day is a beguiling dragon in a library.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1006037369001267200,
+				"id_str": "1006037369001267200",
+				"name": "gender of the day",
+				"screen_name": "genderoftheday",
+				"location": "",
+				"description": "Genderbot lets us outsource our feelings about gender to a bot, which I think should free up a lot of mental space for other things. Botparent: @mishafletch",
+				"url": "https://t.co/DD16P5AmEY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DD16P5AmEY",
+								"expanded_url": "https://www.patreon.com/mishafletch",
+								"display_url": "patreon.com/mishafletch",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65381,
+				"friends_count": 0,
+				"listed_count": 208,
+				"created_at": "Mon Jun 11 04:56:14 +0000 2018",
+				"favourites_count": 59,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4678,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036527341382643723/xwF1hHo9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036527341382643723/xwF1hHo9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006037369001267200/1535963797",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 350,
+			"favorite_count": 1244,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wish https://t.co/0m3cspoOGq"
+	},
+	{
+		"created_at": "Sat Aug 21 14:53:29 +0000 2021",
+		"id": 1429094311132549000,
+		"id_str": "1429094311132549132",
+		"full_text": "@internetstine Oh noooo! Although this reminds me of the leak we discovered on Weds that I didn’t have time to deal with and then forgot about 🤣",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1429091488957452300,
+		"in_reply_to_status_id_str": "1429091488957452295",
+		"in_reply_to_user_id": 326660319,
+		"in_reply_to_user_id_str": "326660319",
+		"in_reply_to_screen_name": "internetstine",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9889,
+			"friends_count": 472,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@internetstine Oh noooo! Although this reminds me of the leak we discovered on Weds that I didn’t have time to deal with and then forgot about 🤣"
+	},
+	{
+		"created_at": "Sat Aug 21 13:45:10 +0000 2021",
+		"id": 1429077116675559400,
+		"id_str": "1429077116675559436",
+		"full_text": "I did not watch The Chair last night and I do have a watch party with a bunch of librarian friends tonight for The Mummy, so I feel good about my life choices",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9889,
+			"friends_count": 472,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I did not watch The Chair last night and I do have a watch party with a bunch of librarian friends tonight for The Mummy, so I feel good about my life choices"
+	},
+	{
+		"created_at": "Sat Aug 21 13:41:39 +0000 2021",
+		"id": 1429076233166467000,
+		"id_str": "1429076233166467074",
+		"full_text": "@melissa_hubbard omfg yes this.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissa_hubbard",
+					"name": "Melissa Hubbard",
+					"id": 164796788,
+					"id_str": "164796788",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1429061337204809700,
+		"in_reply_to_status_id_str": "1429061337204809728",
+		"in_reply_to_user_id": 164796788,
+		"in_reply_to_user_id_str": "164796788",
+		"in_reply_to_screen_name": "melissa_hubbard",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9889,
+			"friends_count": 472,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 37879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissa_hubbard omfg yes this."
+	},
+	{
 		"created_at": "Sat Aug 21 00:16:55 +0000 2021",
 		"id": 1428873713089486800,
 		"id_str": "1428873713089486851",
@@ -644,7 +1481,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Fri Aug 20 15:37:33 +0000 2021",
 		"id": 1428743010943176700,
 		"id_str": "1428743010943176705",
-		"full_text": "@john_overholt It is such a self-own, all of this. How could they not have bothered with a better background check, especially given that they knew about his HR problems from before? (I know why: 👱🏻‍♂️)",
+		"full_text": "@john_overholt It is such a self-own, all of this. How could they not have bothered with a better background check, especially given that they knew about his HR problems from before? (I know why: 👱🏻♂️)",
 		"truncated": false,
 		"display_text_range": [
 			15,
@@ -755,7 +1592,7 @@ Grailbird.data.tweets_2021_08 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@john_overholt It is such a self-own, all of this. How could they not have bothered with a better background check, especially given that they knew about his HR problems from before? (I know why: 👱🏻‍♂️)"
+		"text": "@john_overholt It is such a self-own, all of this. How could they not have bothered with a better background check, especially given that they knew about his HR problems from before? (I know why: 👱🏻♂️)"
 	},
 	{
 		"created_at": "Fri Aug 20 15:11:38 +0000 2021",
