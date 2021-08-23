@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 00:23:10 +0000 2021",
+		"id": 1429545629496266800,
+		"id_str": "1429600064306139136",
+		"full_text": "Impresos! Register now for the fall conference Impresos: Printing across Latin American and Caribbean Cultures! Oct. 22-23, online and affordable. Bilingual chat (Span/Eng), with presentations in both languages.  https://t.co/3e0y8C8Osu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3e0y8C8Osu",
+					"expanded_url": "http://Printinghistory.org",
+					"display_url": "Printinghistory.org",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 541258943,
+			"id_str": "541258943",
+			"name": "Dr. Elizabeth Haven Hawley",
+			"screen_name": "ehh_ptr",
+			"location": "Gainesville, FL",
+			"description": "Special collections, public historian, historian of technology and science, printer, she/her (opinions my own)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1139,
+			"friends_count": 1231,
+			"listed_count": 20,
+			"created_at": "Sat Mar 31 01:17:38 +0000 2012",
+			"favourites_count": 20123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2151499192/10-Removing_paper_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2151499192/10-Removing_paper_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Impresos! Register now for the fall conference Impresos: Printing across Latin American and Caribbean Cultures! Oct. 22-23, online and affordable. Bilingual chat (Span/Eng), with presentations in both languages.  https://t.co/3e0y8C8Osu"
+	},
+	{
 		"created_at": "Sat Aug 21 18:00:24 +0000 2021",
 		"id": 1429072634831151000,
 		"id_str": "1429141348276391936",
