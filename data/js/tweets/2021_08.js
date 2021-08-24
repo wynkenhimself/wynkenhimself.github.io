@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 18:23:08 +0000 2021",
+		"id": 1429833674518900700,
+		"id_str": "1429871848137924608",
+		"full_text": "Let’s draw out the whole sordid tale of how this 13thC BCE papyrus came to be in the British Museum: https://t.co/ij41A5UfoV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ij41A5UfoV",
+					"expanded_url": "https://twitter.com/britishmuseum/status/1262050472418062336",
+					"display_url": "twitter.com/britishmuseum/…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14298448,
+			"id_str": "14298448",
+			"name": "Ryan Baumann",
+			"screen_name": "ryanfb",
+			"location": "Durham, NC",
+			"description": "Duke Collaboratory for Classics Computing https://t.co/tnzRiYJ9t7 | https://t.co/IZ5lEZicSx | https://t.co/4dWtlSHdUY | he/they | creator of @podqueue",
+			"url": "https://t.co/kIc1TqHRY3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kIc1TqHRY3",
+							"expanded_url": "https://ryanfb.github.io/",
+							"display_url": "ryanfb.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tnzRiYJ9t7",
+							"expanded_url": "http://dcthree.github.io",
+							"display_url": "dcthree.github.io",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/IZ5lEZicSx",
+							"expanded_url": "http://papyri.info",
+							"display_url": "papyri.info",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/4dWtlSHdUY",
+							"expanded_url": "http://latin-ocr.github.io",
+							"display_url": "latin-ocr.github.io",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3201,
+			"friends_count": 2200,
+			"listed_count": 94,
+			"created_at": "Fri Apr 04 00:58:19 +0000 2008",
+			"favourites_count": 57937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313542385461325825/7QXvbreF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313542385461325825/7QXvbreF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14298448/1588252279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262050472418062300,
+		"quoted_status_id_str": "1262050472418062336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ij41A5UfoV",
+			"expanded": "https://twitter.com/britishmuseum/status/1262050472418062336",
+			"display": "twitter.com/britishmuseum/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 17 16:00:55 +0000 2020",
+			"id": 1262050472418062300,
+			"id_str": "1262050472418062336",
+			"full_text": "This 3,000-year-old ancient Egyptian papyrus contains a carefully arranged list of dreams and their interpretations, including which dreams were good or bad omens 💭💤 https://t.co/vXkFQkKk3A #DreamsMW https://t.co/wqt9mO1BK2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DreamsMW",
+						"indices": [
+							190,
+							199
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vXkFQkKk3A",
+						"expanded_url": "http://ow.ly/Dwn630qEO8r",
+						"display_url": "ow.ly/Dwn630qEO8r",
+						"indices": [
+							166,
+							189
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1262050469234520000,
+						"id_str": "1262050469234520065",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EYO0NxNWsAEGt-c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYO0NxNWsAEGt-c.jpg",
+						"url": "https://t.co/wqt9mO1BK2",
+						"display_url": "pic.twitter.com/wqt9mO1BK2",
+						"expanded_url": "https://twitter.com/britishmuseum/status/1262050472418062336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1960,
+								"h": 1165,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 713,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262050469234520000,
+						"id_str": "1262050469234520065",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EYO0NxNWsAEGt-c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYO0NxNWsAEGt-c.jpg",
+						"url": "https://t.co/wqt9mO1BK2",
+						"display_url": "pic.twitter.com/wqt9mO1BK2",
+						"expanded_url": "https://twitter.com/britishmuseum/status/1262050472418062336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1960,
+								"h": 1165,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 713,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19066345,
+				"id_str": "19066345",
+				"name": "British Museum",
+				"screen_name": "britishmuseum",
+				"location": "London",
+				"description": "A museum of the world, for the world. Book tickets at https://t.co/aG4T7YfZjR \n\nHouse rules: https://t.co/8arKPGlG0I",
+				"url": "https://t.co/RaVlR3mtfP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RaVlR3mtfP",
+								"expanded_url": "http://www.britishmuseum.org",
+								"display_url": "britishmuseum.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/aG4T7YfZjR",
+								"expanded_url": "http://britishmuseum.org",
+								"display_url": "britishmuseum.org",
+								"indices": [
+									54,
+									77
+								]
+							},
+							{
+								"url": "https://t.co/8arKPGlG0I",
+								"expanded_url": "http://ow.ly/Y9zg304exDj",
+								"display_url": "ow.ly/Y9zg304exDj",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2068861,
+				"friends_count": 47818,
+				"listed_count": 14072,
+				"created_at": "Fri Jan 16 13:37:33 +0000 2009",
+				"favourites_count": 43535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23011,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/552394937585500160/BN7fW_Et_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/552394937585500160/BN7fW_Et_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19066345/1591353900",
+				"profile_link_color": "4C90BD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDF8FC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 668,
+			"favorite_count": 2183,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 54,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s draw out the whole sordid tale of how this 13thC BCE papyrus came to be in the British Museum: https://t.co/ij41A5UfoV"
+	},
+	{
+		"created_at": "Mon Aug 23 17:24:40 +0000 2021",
+		"id": 1429817166057123800,
+		"id_str": "1429857134502686721",
+		"full_text": "Tomorrow, 8/24! 12-2pm ET/9-11am PT @internetarchive hosts our own @MikeFurlough to celebrate 20 years of book digitization. Register: https://t.co/9aBdMgQSOC https://t.co/I0m1HNLu8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetarchive",
+					"name": "Internet Archive",
+					"id": 18957805,
+					"id_str": "18957805",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"screen_name": "MikeFurlough",
+					"name": "Mike Furlough",
+					"id": 17103559,
+					"id_str": "17103559",
+					"indices": [
+						67,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9aBdMgQSOC",
+					"expanded_url": "https://www.eventbrite.com/e/enduring-legacy-million-book-project-turns-20-tickets-164522522293",
+					"display_url": "eventbrite.com/e/enduring-leg…",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/I0m1HNLu8U",
+					"expanded_url": "https://twitter.com/internetarchive/status/1429458336857079818",
+					"display_url": "twitter.com/internetarchiv…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29622975,
+			"id_str": "29622975",
+			"name": "HathiTrust",
+			"screen_name": "hathitrust",
+			"location": "",
+			"description": "A not-for-profit collaborative of academic & research libraries with 17+ mil items to search, read, or research. Contact us at feedback@issues.hathitrust.org.",
+			"url": "https://t.co/EfOoQZsahD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EfOoQZsahD",
+							"expanded_url": "https://www.hathitrust.org",
+							"display_url": "hathitrust.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13803,
+			"friends_count": 2840,
+			"listed_count": 501,
+			"created_at": "Wed Apr 08 02:56:34 +0000 2009",
+			"favourites_count": 324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E87C11",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/655121251837476864/hXUrRNqC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/655121251837476864/hXUrRNqC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29622975/1581701991",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "757575",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1429458336857079800,
+		"quoted_status_id_str": "1429458336857079818",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I0m1HNLu8U",
+			"expanded": "https://twitter.com/internetarchive/status/1429458336857079818",
+			"display": "twitter.com/internetarchiv…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 22 15:00:00 +0000 2021",
+			"id": 1429458336857079800,
+			"id_str": "1429458336857079818",
+			"full_text": "Join @hathitrust's @MikeFurlough next week as we celebrate 20 years of book digitization in our virtual event, Enduring Legacy: Million Book Project Turns 20.\n\nAug 24 @ 9am PT. Register now: https://t.co/fjtvooLZE0 https://t.co/TA3CWDsckm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hathitrust",
+						"name": "HathiTrust",
+						"id": 29622975,
+						"id_str": "29622975",
+						"indices": [
+							5,
+							16
+						]
+					},
+					{
+						"screen_name": "MikeFurlough",
+						"name": "Mike Furlough",
+						"id": 17103559,
+						"id_str": "17103559",
+						"indices": [
+							19,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fjtvooLZE0",
+						"expanded_url": "https://www.eventbrite.com/e/enduring-legacy-million-book-project-turns-20-tickets-164522522293",
+						"display_url": "eventbrite.com/e/enduring-leg…",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1428350195566325800,
+						"id_str": "1428350195566325762",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/E9KE72WXMAIOHRx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9KE72WXMAIOHRx.jpg",
+						"url": "https://t.co/TA3CWDsckm",
+						"display_url": "pic.twitter.com/TA3CWDsckm",
+						"expanded_url": "https://twitter.com/internetarchive/status/1429458336857079818/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1428350195566325800,
+						"id_str": "1428350195566325762",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/E9KE72WXMAIOHRx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9KE72WXMAIOHRx.jpg",
+						"url": "https://t.co/TA3CWDsckm",
+						"display_url": "pic.twitter.com/TA3CWDsckm",
+						"expanded_url": "https://twitter.com/internetarchive/status/1429458336857079818/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18957805,
+				"id_str": "18957805",
+				"name": "Internet Archive",
+				"screen_name": "internetarchive",
+				"location": "San Francisco, CA",
+				"description": "Internet Archive is a non-profit digital library offering millions of free books, movies, & audio files, plus billions of saved web pages in the Wayback Machine",
+				"url": "https://t.co/gFtuG5SqUT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gFtuG5SqUT",
+								"expanded_url": "https://archive.org",
+								"display_url": "archive.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 187773,
+				"friends_count": 1118,
+				"listed_count": 4283,
+				"created_at": "Tue Jan 13 23:06:00 +0000 2009",
+				"favourites_count": 7572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717127559134056448/BYGRuZmj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717127559134056448/BYGRuZmj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18957805/1626883181",
+				"profile_link_color": "706870",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0BECA",
+				"profile_text_color": "01010A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow, 8/24! 12-2pm ET/9-11am PT @internetarchive hosts our own @MikeFurlough to celebrate 20 years of book digitization. Register: https://t.co/9aBdMgQSOC https://t.co/I0m1HNLu8U"
+	},
+	{
 		"created_at": "Mon Aug 23 00:23:10 +0000 2021",
 		"id": 1429545629496266800,
 		"id_str": "1429600064306139136",
