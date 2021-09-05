@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 13:30:06 +0000 2021",
+		"id": 1433938233923149800,
+		"id_str": "1434146757814927361",
+		"full_text": "I’d like us to stop using “Taliban” re: events in Texas.\n\nIn the same way that I’d like us to stop describing extreme right-wing behavior as “Nazism.”\n\nBoth words suggest that what’s happening is somehow “foreign.”\n\nBut it isn’t.\nIt’s American.\nAnd needs to be confronted as such.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94741751,
+			"id_str": "94741751",
+			"name": "Dr. Joanne Freeman",
+			"screen_name": "jbf1755",
+			"location": "New Haven, CT",
+			"description": "Award-winning historian, Yale. Early US politics and violence, & A.Ham.✏️\"The Field of Blood: Violence in Congress & the Road to Civil War.” President, SHEAR.",
+			"url": "https://t.co/SrNrQC8vkb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SrNrQC8vkb",
+							"expanded_url": "https://www.joannebfreeman.com/",
+							"display_url": "joannebfreeman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98048,
+			"friends_count": 2081,
+			"listed_count": 1078,
+			"created_at": "Sat Dec 05 06:35:43 +0000 2009",
+			"favourites_count": 59913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 68178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285767103363063814/b7N90OIr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285767103363063814/b7N90OIr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94741751/1595265288",
+			"profile_link_color": "1976D2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1302,
+		"favorite_count": 8028,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’d like us to stop using “Taliban” re: events in Texas.\n\nIn the same way that I’d like us to stop describing extreme right-wing behavior as “Nazism.”\n\nBoth words suggest that what’s happening is somehow “foreign.”\n\nBut it isn’t.\nIt’s American.\nAnd needs to be confronted as such."
+	},
+	{
 		"created_at": "Fri Sep 03 17:38:39 +0000 2021",
 		"id": 1433846916220178400,
 		"id_str": "1433846916220178433",
