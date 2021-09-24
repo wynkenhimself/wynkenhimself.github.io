@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 23 17:27:53 +0000 2021",
+		"id": 1441090394217857000,
+		"id_str": "1441091965387350024",
+		"full_text": "ICYMI, Twitter implemented soft-blocking. I've been curating my followers for years now, I highly recommend it, and it just got easier. \n\n[thanks for the heads-up, @colbysat] https://t.co/msnKPpNrhE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ColbySat",
+					"name": "Colby Sato",
+					"id": 18258543,
+					"id_str": "18258543",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/msnKPpNrhE",
+					"expanded_url": "https://twitter.com/TwitterSupport/status/1435323978734841857",
+					"display_url": "twitter.com/TwitterSupport…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16284697,
+			"id_str": "16284697",
+			"name": "Deb Chachra",
+			"screen_name": "debcha",
+			"location": "Cambridge, MA",
+			"description": "Engineering professor. Infrastructure, nature, education, language, design, intersections. She/her/hers. All enthusiasm is 100% genuine. I block mansplainers.",
+			"url": "https://t.co/j1tDEbz7DF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j1tDEbz7DF",
+							"expanded_url": "http://tinyletter.com/metafoundry",
+							"display_url": "tinyletter.com/metafoundry",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11124,
+			"friends_count": 921,
+			"listed_count": 468,
+			"created_at": "Sun Sep 14 17:00:26 +0000 2008",
+			"favourites_count": 3716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392045813371711490/30pCxTLe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392045813371711490/30pCxTLe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16284697/1406479433",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1435323978734841900,
+		"quoted_status_id_str": "1435323978734841857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/msnKPpNrhE",
+			"expanded": "https://twitter.com/TwitterSupport/status/1435323978734841857",
+			"display": "twitter.com/TwitterSupport…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 07 19:27:58 +0000 2021",
+			"id": 1435323978734841900,
+			"id_str": "1435323978734841857",
+			"full_text": "We're making it easier to be the curator of your own followers list. Now testing on web: remove a follower without blocking them.\n\nTo remove a follower, go to your profile and click “Followers”, then click the three dot icon and select “Remove this follower”. https://t.co/2Ig7Mp8Tnx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1435323969704448000,
+						"id_str": "1435323969704448000",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/E-tLi7fWUAAEGSL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-tLi7fWUAAEGSL.jpg",
+						"url": "https://t.co/2Ig7Mp8Tnx",
+						"display_url": "pic.twitter.com/2Ig7Mp8Tnx",
+						"expanded_url": "https://twitter.com/TwitterSupport/status/1435323978734841857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1654,
+								"h": 1654,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1435323969704448000,
+						"id_str": "1435323969704448000",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/E-tLi7fWUAAEGSL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-tLi7fWUAAEGSL.jpg",
+						"url": "https://t.co/2Ig7Mp8Tnx",
+						"display_url": "pic.twitter.com/2Ig7Mp8Tnx",
+						"expanded_url": "https://twitter.com/TwitterSupport/status/1435323978734841857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1654,
+								"h": 1654,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1435323975031271400,
+						"id_str": "1435323975031271434",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/E-tLjPVXMAoNue8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-tLjPVXMAoNue8.jpg",
+						"url": "https://t.co/2Ig7Mp8Tnx",
+						"display_url": "pic.twitter.com/2Ig7Mp8Tnx",
+						"expanded_url": "https://twitter.com/TwitterSupport/status/1435323978734841857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1654,
+								"h": 1654,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17874544,
+				"id_str": "17874544",
+				"name": "Twitter Support",
+				"screen_name": "TwitterSupport",
+				"location": "Twitter HQ",
+				"description": "Here to help. 💙",
+				"url": "https://t.co/heEvRrl4yN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/heEvRrl4yN",
+								"expanded_url": "https://help.twitter.com",
+								"display_url": "help.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6802378,
+				"friends_count": 22,
+				"listed_count": 15103,
+				"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+				"favourites_count": 549,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53382,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1620746252",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1473,
+			"favorite_count": 5028,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI, Twitter implemented soft-blocking. I've been curating my followers for years now, I highly recommend it, and it just got easier. \n\n[thanks for the heads-up, @colbysat] https://t.co/msnKPpNrhE"
+	},
+	{
 		"created_at": "Thu Sep 23 00:21:08 +0000 2021",
 		"id": 1440833574391804000,
 		"id_str": "1440833574391803905",
