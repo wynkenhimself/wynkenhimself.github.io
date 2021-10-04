@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 01:29:43 +0000 2021",
+		"id": 1444783068594811000,
+		"id_str": "1444837102659817472",
+		"full_text": "⚰️⚰️⚰️⚰️⚰️⚰️⚰️\n\nthe dead don't use computers\na blessing to remember\nsomeday we, too, will be free\n\n⚰️⚰️⚰️⚰️⚰️⚰️⚰️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135354872,
+			"id_str": "135354872",
+			"name": "⚰️ Ruth Fright-Needle 🪦",
+			"screen_name": "ruthbrarian",
+			"location": "On a Pennsylvania Mountain",
+			"description": "[FOLLOWING MAINLY VIA LISTS] Cataloging Systems/LD Librarian. Platypus. #CardCarryingQuilter. Labor. EADiva. Tweets: own. Mennonite: hella. Trolls: Luke 6:28.",
+			"url": "https://t.co/ae5evJr7Re",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ae5evJr7Re",
+							"expanded_url": "http://ruthtillman.com",
+							"display_url": "ruthtillman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4664,
+			"friends_count": 209,
+			"listed_count": 283,
+			"created_at": "Wed Apr 21 02:31:03 +0000 2010",
+			"favourites_count": 17219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251276045870870528/449s7e2S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251276045870870528/449s7e2S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135354872/1501469691",
+			"profile_link_color": "BD2F40",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "⚰️⚰️⚰️⚰️⚰️⚰️⚰️\n\nthe dead don't use computers\na blessing to remember\nsomeday we, too, will be free\n\n⚰️⚰️⚰️⚰️⚰️⚰️⚰️"
+	},
+	{
 		"created_at": "Sun Oct 03 02:05:58 +0000 2021",
 		"id": 1444483836180582400,
 		"id_str": "1444483836180582401",
