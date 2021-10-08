@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 00:44:16 +0000 2021",
+		"id": 1446275217131806700,
+		"id_str": "1446275217131806721",
+		"full_text": "@eliza_audacis @brimwats Yay!!! In person at last!!!!!!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBold",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "brimwats",
+					"name": "bri watson 🐝",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446185751373308000,
+		"in_reply_to_status_id_str": "1446185751373307905",
+		"in_reply_to_user_id": 18967025,
+		"in_reply_to_user_id_str": "18967025",
+		"in_reply_to_screen_name": "eliza_audacis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9955,
+			"friends_count": 479,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eliza_audacis @brimwats Yay!!! In person at last!!!!!!"
+	},
+	{
+		"created_at": "Thu Oct 07 22:53:31 +0000 2021",
+		"id": 1446026878012244000,
+		"id_str": "1446247343540559872",
+		"full_text": "My students in Material Bibliography today are either going to love or hate me, no in between https://t.co/ArCZ09rJFI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446026822773248000,
+					"id_str": "1446026822773248001",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFRu-MWEAE7JGz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFRu-MWEAE7JGz.jpg",
+					"url": "https://t.co/ArCZ09rJFI",
+					"display_url": "pic.twitter.com/ArCZ09rJFI",
+					"expanded_url": "https://twitter.com/elisewatson_/status/1446026878012243970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1435,
+							"h": 774,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446026822773248000,
+					"id_str": "1446026822773248001",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFRu-MWEAE7JGz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFRu-MWEAE7JGz.jpg",
+					"url": "https://t.co/ArCZ09rJFI",
+					"display_url": "pic.twitter.com/ArCZ09rJFI",
+					"expanded_url": "https://twitter.com/elisewatson_/status/1446026878012243970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1435,
+							"h": 774,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985906200473669600,
+			"id_str": "985906200473669633",
+			"name": "Elise Watson",
+			"screen_name": "elisewatson_",
+			"location": "Saint Andrews, Scotland",
+			"description": "PhD candidate @universalstc, Assistant Editor @Brill_History Book History Online studying 17c Dutch Catholic print & #earlymodern #bookhistory | she/her 🌈",
+			"url": "https://t.co/xrQXj8kD6Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xrQXj8kD6Z",
+							"expanded_url": "https://tinyurl.com/y6nxmh4x",
+							"display_url": "tinyurl.com/y6nxmh4x",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 364,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 15:42:10 +0000 2018",
+			"favourites_count": 1412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366743508426641410/zJYe_2c3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366743508426641410/zJYe_2c3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985906200473669633/1561051758",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 766,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My students in Material Bibliography today are either going to love or hate me, no in between https://t.co/ArCZ09rJFI"
+	},
+	{
 		"created_at": "Thu Oct 07 00:45:34 +0000 2021",
 		"id": 1445911292313809000,
 		"id_str": "1445913152735088642",
