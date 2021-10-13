@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 02:07:57 +0000 2021",
+		"id": 1448069177244221400,
+		"id_str": "1448108213312831494",
+		"full_text": "1. 🧵 Tomorrow, the @BORUSG is expected to vote to end tenure for Georgia's public universities. The AAUP has warned that this move will destroy protections for academic freedom, which is indispensable for the quality of teaching and research in higher education.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BORUSG",
+					"name": "UniversitySystemofGA",
+					"id": 35804232,
+					"id_str": "35804232",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108943700,
+			"id_str": "108943700",
+			"name": "American Association of University Professors",
+			"screen_name": "AAUP",
+			"location": "Washington, DC",
+			"description": "We champion #academicfreedom, advance shared governance, and organize all faculty to promote economic security and quality education.",
+			"url": "https://t.co/99hHXoyGfv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/99hHXoyGfv",
+							"expanded_url": "http://www.aaup.org",
+							"display_url": "aaup.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12480,
+			"friends_count": 1777,
+			"listed_count": 349,
+			"created_at": "Wed Jan 27 13:54:29 +0000 2010",
+			"favourites_count": 5714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "750710",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379122587/AAUPlogoTwitter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379122587/AAUPlogoTwitter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108943700/1561481629",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "170C0C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1. 🧵 Tomorrow, the @BORUSG is expected to vote to end tenure for Georgia's public universities. The AAUP has warned that this move will destroy protections for academic freedom, which is indispensable for the quality of teaching and research in higher education."
+	},
+	{
+		"created_at": "Tue Oct 12 23:23:34 +0000 2021",
+		"id": 1448066844552798200,
+		"id_str": "1448066844552798208",
+		"full_text": "@transbookhistry I’m so glad this is working!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447686201000046600,
+		"in_reply_to_status_id_str": "1447686201000046593",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9953,
+			"friends_count": 480,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry I’m so glad this is working!"
+	},
+	{
+		"created_at": "Tue Oct 12 14:17:51 +0000 2021",
+		"id": 1447866626695733200,
+		"id_str": "1447929512746958856",
+		"full_text": "Do you work with Jewish archival materials? We want to hear from you! Any aspect of archives work is welcome, and we especially welcome small institutions.\n\nSend us a short description by October 18 for this @JewishLibraries event. DM for details. #ArchivesMonth https://t.co/vw3YoU1Xic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArchivesMonth",
+					"indices": [
+						248,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JewishLibraries",
+					"name": "Assn JewishLibraries",
+					"id": 110173142,
+					"id_str": "110173142",
+					"indices": [
+						208,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vw3YoU1Xic",
+					"expanded_url": "https://twitter.com/hchesner/status/1447763903782531079",
+					"display_url": "twitter.com/hchesner/statu…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33383694,
+			"id_str": "33383694",
+			"name": "Amalia S. Levi",
+			"screen_name": "amaliasl",
+			"location": "Literally all over the place",
+			"description": "Archivist. #archives + #data; #digitization; #GlobalDH; Jewish history. PhD Candidate at @DependencyBonn.",
+			"url": "https://t.co/XOi8ekhtGn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOi8ekhtGn",
+							"expanded_url": "https://hcommons.org/members/amaliasl/",
+							"display_url": "hcommons.org/members/amalia…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1920,
+			"friends_count": 2055,
+			"listed_count": 59,
+			"created_at": "Mon Apr 20 02:17:45 +0000 2009",
+			"favourites_count": 19183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291373428197515264/yB1wCefj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291373428197515264/yB1wCefj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33383694/1593404372",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447763903782531000,
+		"quoted_status_id_str": "1447763903782531079",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vw3YoU1Xic",
+			"expanded": "https://twitter.com/hchesner/status/1447763903782531079",
+			"display": "twitter.com/hchesner/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 12 03:19:47 +0000 2021",
+			"id": 1447763903782531000,
+			"id_str": "1447763903782531079",
+			"full_text": ".@JewishLibraries will host a  \"pecha kucha\" event on Thursday, October 28, 12:30 pm EST to celebrate American Archives Month.  Small synagogue archives, historical societies, &amp; lesser known collections are particularly welcome &amp; encouraged to apply. Deets on Hasafran! @amaliasl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				287
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JewishLibraries",
+						"name": "Assn JewishLibraries",
+						"id": 110173142,
+						"id_str": "110173142",
+						"indices": [
+							1,
+							17
+						]
+					},
+					{
+						"screen_name": "amaliasl",
+						"name": "Amalia S. Levi",
+						"id": 33383694,
+						"id_str": "33383694",
+						"indices": [
+							278,
+							287
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 414121384,
+				"id_str": "414121384",
+				"name": "Michelle Margolis",
+				"screen_name": "hchesner",
+				"location": "New York",
+				"description": "Judaica @Columbia. @Footprints_Heb #dhjewish, VP @jewishlibraries, Jewish book history, Hebrew incunabula #codexconquestJE #librarylorax @CULhebrewmss. I bake.",
+				"url": "https://t.co/2Cn0vnonQa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2Cn0vnonQa",
+								"expanded_url": "https://blogs.cul.columbia.edu/jewishstudiesatcul/",
+								"display_url": "blogs.cul.columbia.edu/jewishstudiesa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3060,
+				"friends_count": 804,
+				"listed_count": 74,
+				"created_at": "Wed Nov 16 17:15:47 +0000 2011",
+				"favourites_count": 4423,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139635552578396161/l1vLPNRC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139635552578396161/l1vLPNRC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/414121384/1629855960",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you work with Jewish archival materials? We want to hear from you! Any aspect of archives work is welcome, and we especially welcome small institutions.\n\nSend us a short description by October 18 for this @JewishLibraries event. DM for details. #ArchivesMonth https://t.co/vw3YoU1Xic"
+	},
+	{
+		"created_at": "Tue Oct 12 12:28:22 +0000 2021",
+		"id": 1447687730067091500,
+		"id_str": "1447901957902016514",
+		"full_text": "Book historians! Here's a really unusual event: a demonstration of the \"projected books\" (projected from microfilm onto the ceiling) that were used by wounded solders in WW2. @mattrubery will be discussing &amp; demonstrating. \nhttps://t.co/GQALmmvrHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattrubery",
+					"name": "Matt Rubery",
+					"id": 16362156,
+					"id_str": "16362156",
+					"indices": [
+						175,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GQALmmvrHq",
+					"expanded_url": "https://www.eventbrite.com/e/projected-books-for-veterans-of-the-second-world-war-tickets-166919088487",
+					"display_url": "eventbrite.com/e/projected-bo…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 300818902,
+			"id_str": "300818902",
+			"name": "Dennis Duncan",
+			"screen_name": "djbduncan",
+			"location": "London, England",
+			"description": "Book history, Oulipo, translation | FRHistS & Lecturer in English at @UCL | INDEX, A HISTORY OF THE out now from @PenguinUKBooks",
+			"url": "https://t.co/4bk0T10QBT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4bk0T10QBT",
+							"expanded_url": "https://www.penguin.co.uk/books/311/311987/index--a-history-of-the/9780241374238.html",
+							"display_url": "penguin.co.uk/books/311/3119…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2927,
+			"friends_count": 1894,
+			"listed_count": 46,
+			"created_at": "Wed May 18 12:17:33 +0000 2011",
+			"favourites_count": 8589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2179479813/dennis_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2179479813/dennis_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/300818902/1617795137",
+			"profile_link_color": "0088CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Book historians! Here's a really unusual event: a demonstration of the \"projected books\" (projected from microfilm onto the ceiling) that were used by wounded solders in WW2. @mattrubery will be discussing &amp; demonstrating. \nhttps://t.co/GQALmmvrHq"
+	},
+	{
+		"created_at": "Tue Oct 12 12:21:13 +0000 2021",
+		"id": 1447654378278736000,
+		"id_str": "1447900160210649091",
+		"full_text": "I'm currently reviewing a (good!) paper &amp; thinking about lessons I've learned from therapy apply to being a good reviewer! Here are a few: \n\n1. You can't fix everybody or everything\nMy job as a reviewer isn't to identify EVERY mistake in a paper. To do so is impossible &amp; mean.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 250307159,
+			"id_str": "250307159",
+			"name": "Mirya R. Holman",
+			"screen_name": "prof_mirya",
+			"location": "New Orleans, LA",
+			"description": "Poli science prof @ Tulane U. \n\nGender + local + state + climate politics \n\nFounder of #feministmafia & #MHAWS. she/her",
+			"url": "https://t.co/X03bvXfiTp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X03bvXfiTp",
+							"expanded_url": "http://www.miryaholman.com",
+							"display_url": "miryaholman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19015,
+			"friends_count": 761,
+			"listed_count": 199,
+			"created_at": "Thu Feb 10 20:55:20 +0000 2011",
+			"favourites_count": 148207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1441526052333916160/uSzYC-CW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441526052333916160/uSzYC-CW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/250307159/1630546607",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 730,
+		"favorite_count": 3419,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm currently reviewing a (good!) paper &amp; thinking about lessons I've learned from therapy apply to being a good reviewer! Here are a few: \n\n1. You can't fix everybody or everything\nMy job as a reviewer isn't to identify EVERY mistake in a paper. To do so is impossible &amp; mean."
+	},
+	{
 		"created_at": "Mon Oct 11 23:27:12 +0000 2021",
 		"id": 1447679559705325600,
 		"id_str": "1447705370990989316",
