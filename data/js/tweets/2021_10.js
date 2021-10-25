@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 24 23:30:36 +0000 2021",
+		"id": 1452389437732704300,
+		"id_str": "1452417271427735556",
+		"full_text": "omg peak librarian: every time someone goes into Fukui Prefectural Library and asks for a book but gets the title wrong, librarians catalog the mistake into a \"misremembered book titles\" section that gets published to their website\nhttps://t.co/5LNIEZ2i6X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5LNIEZ2i6X",
+					"expanded_url": "https://www.library-archives.pref.fukui.lg.jp/tosyo/category/shiraberu/368.html",
+					"display_url": "library-archives.pref.fukui.lg.jp/tosyo/category…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18905879,
+			"id_str": "18905879",
+			"name": "Spoon & Tamago",
+			"screen_name": "Johnny_suputama",
+			"location": "Brooklyn / Tokyo",
+			"description": "スプタマ編集長。Founder and Editor of @SpoonTamago and @SpoonTamagoShop. Raised in Tokyo, based in Brooklyn.",
+			"url": "https://t.co/MLgEQAsj2S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MLgEQAsj2S",
+							"expanded_url": "http://www.spoon-tamago.com",
+							"display_url": "spoon-tamago.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19438,
+			"friends_count": 202,
+			"listed_count": 438,
+			"created_at": "Mon Jan 12 16:40:48 +0000 2009",
+			"favourites_count": 5103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/917443972791971841/1cjz2yjU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/917443972791971841/1cjz2yjU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18905879/1436819630",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "omg peak librarian: every time someone goes into Fukui Prefectural Library and asks for a book but gets the title wrong, librarians catalog the mistake into a \"misremembered book titles\" section that gets published to their website\nhttps://t.co/5LNIEZ2i6X"
+	},
+	{
+		"created_at": "Sun Oct 24 22:23:34 +0000 2021",
+		"id": 1451670983434190800,
+		"id_str": "1452400401395945472",
+		"full_text": "Dear #librarytwitter\nI submit to you the most library beer eeeeeever \n\n\"I don't remember the title but the cover was blonde\" \n\nin partnership with the Anne Arundel public library system https://t.co/i9gjghKXR2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "librarytwitter",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451670981035036700,
+					"id_str": "1451670981035036681",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FCVfEONWEAkgBrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCVfEONWEAkgBrE.jpg",
+					"url": "https://t.co/i9gjghKXR2",
+					"display_url": "pic.twitter.com/i9gjghKXR2",
+					"expanded_url": "https://twitter.com/Joseph_Koivisto/status/1451670983434190852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451670981035036700,
+					"id_str": "1451670981035036681",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FCVfEONWEAkgBrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCVfEONWEAkgBrE.jpg",
+					"url": "https://t.co/i9gjghKXR2",
+					"display_url": "pic.twitter.com/i9gjghKXR2",
+					"expanded_url": "https://twitter.com/Joseph_Koivisto/status/1451670983434190852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1224804428,
+			"id_str": "1224804428",
+			"name": "Joseph Koivisto",
+			"screen_name": "Joseph_Koivisto",
+			"location": "",
+			"description": "Librarian, mostly systems stuff, institutional repos, & such.\n\nOpinions, links, likes, and retweets are my views, thoughts only.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 713,
+			"friends_count": 833,
+			"listed_count": 58,
+			"created_at": "Wed Feb 27 13:05:24 +0000 2013",
+			"favourites_count": 8576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245415734513143808/xqYOFUXB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245415734513143808/xqYOFUXB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1224804428/1478458780",
+			"profile_link_color": "900E12",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear #librarytwitter\nI submit to you the most library beer eeeeeever \n\n\"I don't remember the title but the cover was blonde\" \n\nin partnership with the Anne Arundel public library system https://t.co/i9gjghKXR2"
+	},
+	{
 		"created_at": "Sat Oct 23 18:31:17 +0000 2021",
 		"id": 1451979557960093700,
 		"id_str": "1451979557960093697",
