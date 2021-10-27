@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 23:39:05 +0000 2021",
+		"id": 1453144179048165400,
+		"id_str": "1453144179048165380",
+		"full_text": "@fletcherdurant I can’t get over this either! I love this? I hate this? I’ll confess I haven’t watched the vid about making them or read anything else about it. But as you can imagine ~~I have incoherent feelings~~",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fletcherdurant",
+					"name": "Fletcher Durant",
+					"id": 50510658,
+					"id_str": "50510658",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1453136972193702000,
+		"in_reply_to_status_id_str": "1453136972193701889",
+		"in_reply_to_user_id": 50510658,
+		"in_reply_to_user_id_str": "50510658",
+		"in_reply_to_screen_name": "fletcherdurant",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9976,
+			"friends_count": 478,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fletcherdurant I can’t get over this either! I love this? I hate this? I’ll confess I haven’t watched the vid about making them or read anything else about it. But as you can imagine ~~I have incoherent feelings~~"
+	},
+	{
+		"created_at": "Tue Oct 26 22:17:33 +0000 2021",
+		"id": 1452715060170735600,
+		"id_str": "1453123661892829187",
+		"full_text": "It feels important to remember that sex has only been on US passports since 1977 (as a response to the rise of “androgyny”). Another system is not only possible, but has a lot more history behind it than the current M/F designations https://t.co/XrW2grL1hM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XrW2grL1hM",
+					"expanded_url": "https://twitter.com/butnotthecity/status/1452704740593311756",
+					"display_url": "twitter.com/butnotthecity/…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936690980274745300,
+			"id_str": "936690980274745345",
+			"name": "Kyle Miron",
+			"screen_name": "kyle_snow_miron",
+			"location": "Madison, WI",
+			"description": "PhD student @UWHistoryDept • Progressive Era US immigration, sex ed, and repro medicine • @Vassar alum • he/they 🏳️‍⚧️•opinions my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 1016,
+			"listed_count": 0,
+			"created_at": "Fri Dec 01 20:18:27 +0000 2017",
+			"favourites_count": 17922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1447951539566436359/3T4y0t8E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1447951539566436359/3T4y0t8E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936690980274745345/1634099204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1452704740593311700,
+		"quoted_status_id_str": "1452704740593311756",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XrW2grL1hM",
+			"expanded": "https://twitter.com/butnotthecity/status/1452704740593311756",
+			"display": "twitter.com/butnotthecity/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 25 18:32:54 +0000 2021",
+			"id": 1452704740593311700,
+			"id_str": "1452704740593311756",
+			"full_text": "I was surprised to get asked, on radio, why we should even keep gender markers on identification documents. I replied that, indeed, many in trans communities have been asking for them to be removed altogether—that they’re at best useless, at worst harmful.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701944493327720400,
+				"id_str": "701944493327720448",
+				"name": "Instructor Florence Ashley",
+				"screen_name": "ButNotTheCity",
+				"location": "(They/Them/That Bitch)",
+				"description": "Transfeminine jurist and bioethicist | SJD candidate at @UofT | BCL/JD, LLM (Bioeth) at @LawMcGill | Clerked for Justice Sheilah Martin at @SCC_eng",
+				"url": "https://t.co/etOZw8oPNQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/etOZw8oPNQ",
+								"expanded_url": "http://www.florenceashley.com",
+								"display_url": "florenceashley.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17119,
+				"friends_count": 6682,
+				"listed_count": 40,
+				"created_at": "Tue Feb 23 01:39:43 +0000 2016",
+				"favourites_count": 26427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25505,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323050892866801666/vLS0r3I__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323050892866801666/vLS0r3I__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701944493327720448/1604111603",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 242,
+			"favorite_count": 3257,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1466,
+		"favorite_count": 4997,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It feels important to remember that sex has only been on US passports since 1977 (as a response to the rise of “androgyny”). Another system is not only possible, but has a lot more history behind it than the current M/F designations https://t.co/XrW2grL1hM"
+	},
+	{
+		"created_at": "Tue Oct 26 16:18:13 +0000 2021",
+		"id": 1453025730787520500,
+		"id_str": "1453033234258874372",
+		"full_text": "And in other newly created opportunities: check out (and repost) the new @rugglesprize, awarding $1000 for an outstanding book collection created by a young collector of color! https://t.co/YUocwljYRf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rugglesprize",
+					"name": "David Ruggles Prize",
+					"id": 1408446733009526800,
+					"id_str": "1408446733009526789",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453023804658225200,
+					"id_str": "1453023804658225153",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCotc67XEAE8CIJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCotc67XEAE8CIJ.png",
+					"url": "https://t.co/YUocwljYRf",
+					"display_url": "pic.twitter.com/YUocwljYRf",
+					"expanded_url": "https://twitter.com/honeyandwaxbks/status/1453025730787520521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 782,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453023804658225200,
+					"id_str": "1453023804658225153",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FCotc67XEAE8CIJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCotc67XEAE8CIJ.png",
+					"url": "https://t.co/YUocwljYRf",
+					"display_url": "pic.twitter.com/YUocwljYRf",
+					"expanded_url": "https://twitter.com/honeyandwaxbks/status/1453025730787520521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 782,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 264549397,
+			"id_str": "264549397",
+			"name": "Heather O'Donnell",
+			"screen_name": "honeyandwaxbks",
+			"location": "Brooklyn, NY",
+			"description": "Honey & Wax Booksellers. Use books as bees use flowers. Rare books in Brooklyn, NY.",
+			"url": "https://t.co/Po014vHn6h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Po014vHn6h",
+							"expanded_url": "http://www.honeyandwaxbooks.com",
+							"display_url": "honeyandwaxbooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2451,
+			"friends_count": 1528,
+			"listed_count": 56,
+			"created_at": "Sat Mar 12 02:45:32 +0000 2011",
+			"favourites_count": 5808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AFC958",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1633093286/OpenSquare_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1633093286/OpenSquare_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264549397/1538706860",
+			"profile_link_color": "234DA3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And in other newly created opportunities: check out (and repost) the new @rugglesprize, awarding $1000 for an outstanding book collection created by a young collector of color! https://t.co/YUocwljYRf"
+	},
+	{
+		"created_at": "Tue Oct 26 14:45:21 +0000 2021",
+		"id": 1453009861822849000,
+		"id_str": "1453009861822849031",
+		"full_text": "@Exhaust_Fumes @roaringgirle lol it really is! I love it",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Exhaust_Fumes",
+					"name": "Vimpire, Ph.Die",
+					"id": 479673005,
+					"id_str": "479673005",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "roaringgirle",
+					"name": "claire m. l. bourne",
+					"id": 1314947870,
+					"id_str": "1314947870",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1453007777694158800,
+		"in_reply_to_status_id_str": "1453007777694158848",
+		"in_reply_to_user_id": 479673005,
+		"in_reply_to_user_id_str": "479673005",
+		"in_reply_to_screen_name": "Exhaust_Fumes",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9976,
+			"friends_count": 478,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Exhaust_Fumes @roaringgirle lol it really is! I love it"
+	},
+	{
+		"created_at": "Tue Oct 26 03:31:53 +0000 2021",
+		"id": 1452840378093158400,
+		"id_str": "1452840378093158404",
+		"full_text": "@vruba I never thought, back when our Twitter paths first crossed because of your insect threads, that this would be where we would find ourselves",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vruba",
+					"name": "Charlie Loyd, lit from below",
+					"id": 14917754,
+					"id_str": "14917754",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1452835895908835300,
+		"in_reply_to_status_id_str": "1452835895908835338",
+		"in_reply_to_user_id": 14917754,
+		"in_reply_to_user_id_str": "14917754",
+		"in_reply_to_screen_name": "vruba",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9976,
+			"friends_count": 478,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vruba I never thought, back when our Twitter paths first crossed because of your insect threads, that this would be where we would find ourselves"
+	},
+	{
 		"created_at": "Tue Oct 26 02:15:00 +0000 2021",
 		"id": 1452821031631081500,
 		"id_str": "1452821031631081475",
