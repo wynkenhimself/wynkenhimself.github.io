@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 17:09:45 +0000 2021",
+		"id": 1454080486872125400,
+		"id_str": "1454133365154660354",
+		"full_text": "Hi, Floridian here. Life did not go on for 59,495 Floridians, nor the tens of thousands more with long Covid. If you think they're insignificant, here's a context you may grasp: DeSantis's pre-pandemic margin of election victory was only half of our state's Covid death toll. https://t.co/sRCAx3uvC0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sRCAx3uvC0",
+					"expanded_url": "https://twitter.com/karol/status/1453911081936621568",
+					"display_url": "twitter.com/karol/status/1…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20725994,
+			"id_str": "20725994",
+			"name": "Adam Weinstein",
+			"screen_name": "AdamWeinstein",
+			"location": "South Florida",
+			"description": "Now: @msnbc/@peacock. Before: @newrepublic, @motherjones, @deptofdefense, these Huggies, and whatever cash you got. adamweinsteinwriter@gmail.com",
+			"url": "https://t.co/ildhalz5PK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ildhalz5PK",
+							"expanded_url": "https://newrepublic.com/authors/adam-weinstein",
+							"display_url": "newrepublic.com/authors/adam-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78034,
+			"friends_count": 6749,
+			"listed_count": 1340,
+			"created_at": "Thu Feb 12 22:21:27 +0000 2009",
+			"favourites_count": 105467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300199148772380674/pbr8dUzX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300199148772380674/pbr8dUzX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20725994/1463611453",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1453911081936621600,
+		"quoted_status_id_str": "1453911081936621568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sRCAx3uvC0",
+			"expanded": "https://twitter.com/karol/status/1453911081936621568",
+			"display": "twitter.com/karol/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 29 02:26:28 +0000 2021",
+			"id": 1453911081936621600,
+			"id_str": "1453911081936621568",
+			"full_text": "Florida has lowest COVID-19 case rate in the country. They did it without vaccine mandates, without mask mandates in school &amp; with no restrictions on businesses. Life simply went on. @GovRonDeSantis was right again. My latest in Friday's @nypost https://t.co/XxO8Hh8Awf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GovRonDeSantis",
+						"name": "Ron DeSantis",
+						"id": 1058807868,
+						"id_str": "1058807868",
+						"indices": [
+							187,
+							202
+						]
+					},
+					{
+						"screen_name": "nypost",
+						"name": "New York Post",
+						"id": 17469289,
+						"id_str": "17469289",
+						"indices": [
+							242,
+							249
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XxO8Hh8Awf",
+						"expanded_url": "https://nypost.com/2021/10/28/florida-gov-ron-desantis-has-shown-how-to-handle-covid-19/",
+						"display_url": "nypost.com/2021/10/28/flo…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17847906,
+				"id_str": "17847906",
+				"name": "Karol Markowicz",
+				"screen_name": "karol",
+				"location": "BK all day",
+				"description": "Born USSR | raised Brooklyn. Columnist @nypost and @foxnews. Contributing Editor @thespectator. Contributing Writer @dcexaminer magazine.",
+				"url": "https://t.co/0GuzZanaiQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0GuzZanaiQ",
+								"expanded_url": "https://www.facebook.com/karolmarkowicz/",
+								"display_url": "facebook.com/karolmarkowicz/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74468,
+				"friends_count": 1985,
+				"listed_count": 660,
+				"created_at": "Wed Dec 03 20:38:26 +0000 2008",
+				"favourites_count": 81124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 94141,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1392611166413803530/cE0Rpcg3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392611166413803530/cE0Rpcg3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17847906/1477444794",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4208,
+			"favorite_count": 15229,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1511,
+		"favorite_count": 7089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi, Floridian here. Life did not go on for 59,495 Floridians, nor the tens of thousands more with long Covid. If you think they're insignificant, here's a context you may grasp: DeSantis's pre-pandemic margin of election victory was only half of our state's Covid death toll. https://t.co/sRCAx3uvC0"
+	},
+	{
+		"created_at": "Fri Oct 29 17:09:14 +0000 2021",
+		"id": 1454133236926406700,
+		"id_str": "1454133236926406664",
+		"full_text": "@lljohnston Still always Zotero",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lljohnston",
+					"name": "Leslie Johnston",
+					"id": 19450230,
+					"id_str": "19450230",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1454129261284106200,
+		"in_reply_to_status_id_str": "1454129261284106247",
+		"in_reply_to_user_id": 19450230,
+		"in_reply_to_user_id_str": "19450230",
+		"in_reply_to_screen_name": "lljohnston",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9977,
+			"friends_count": 478,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lljohnston Still always Zotero"
+	},
+	{
+		"created_at": "Fri Oct 29 14:00:45 +0000 2021",
+		"id": 1454085801592205300,
+		"id_str": "1454085801592205318",
+		"full_text": "@avoiding_bears All extremely wise advice",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avoiding_bears",
+					"name": "The Mysteries of Odd-Rolfo: A Romance",
+					"id": 354306240,
+					"id_str": "354306240",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1454085554845454300,
+		"in_reply_to_status_id_str": "1454085554845454337",
+		"in_reply_to_user_id": 354306240,
+		"in_reply_to_user_id_str": "354306240",
+		"in_reply_to_screen_name": "avoiding_bears",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9977,
+			"friends_count": 478,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@avoiding_bears All extremely wise advice"
+	},
+	{
 		"created_at": "Thu Oct 28 02:17:05 +0000 2021",
 		"id": 1453538326485500000,
 		"id_str": "1453546330660524033",
