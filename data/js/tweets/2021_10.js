@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 31 13:49:26 +0000 2021",
+		"id": 1454803988499550200,
+		"id_str": "1454807730385006597",
+		"full_text": "Trying to square this heartbreaking story with Sen. Joe Manchin's concern for the immortality of a few hundred American dynasties.   https://t.co/APpSBZluwk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/APpSBZluwk",
+					"expanded_url": "https://www.washingtonpost.com/business/2021/10/29/high-cost-unpaid-caregivers/?tid=ss_tw",
+					"display_url": "washingtonpost.com/business/2021/…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18681934,
+			"id_str": "18681934",
+			"name": "Ron Charred",
+			"screen_name": "RonCharles",
+			"location": "Washington, DC",
+			"description": "\"Too cute by half.\" -- Morning Joe. I write about books at The Washington Post. Sometimes, I make silly videos, too.",
+			"url": "https://t.co/LUlxlsdBf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LUlxlsdBf5",
+							"expanded_url": "https://www.totallyhipvideobookreview.com/",
+							"display_url": "totallyhipvideobookreview.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53422,
+			"friends_count": 286,
+			"listed_count": 1624,
+			"created_at": "Tue Jan 06 16:21:01 +0000 2009",
+			"favourites_count": 19159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1454791655920443392/JZnDinI6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1454791655920443392/JZnDinI6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18681934/1635684477",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trying to square this heartbreaking story with Sen. Joe Manchin's concern for the immortality of a few hundred American dynasties.   https://t.co/APpSBZluwk"
+	},
+	{
 		"created_at": "Sat Oct 30 18:59:20 +0000 2021",
 		"id": 1454523329587654700,
 		"id_str": "1454523329587654657",
