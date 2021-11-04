@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 16:22:47 +0000 2021",
+		"id": 1455933484229435400,
+		"id_str": "1455933484229435395",
+		"full_text": "!!!!! https://t.co/9qi6xybyUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9qi6xybyUT",
+					"expanded_url": "https://twitter.com/EmilyMandel/status/1455641841592832001",
+					"display_url": "twitter.com/EmilyMandel/st…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9983,
+			"friends_count": 478,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 38953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1455641841592832000,
+		"quoted_status_id_str": "1455641841592832001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9qi6xybyUT",
+			"expanded": "https://twitter.com/EmilyMandel/status/1455641841592832001",
+			"display": "twitter.com/EmilyMandel/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 02 21:03:54 +0000 2021",
+			"id": 1455641841592832000,
+			"id_str": "1455641841592832001",
+			"full_text": "Here's the Station Eleven trailer. If anyone needs me, I'll just be over here watching it over and over again because I can't quite believe it's real. https://t.co/rlJDHxPWMm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rlJDHxPWMm",
+						"expanded_url": "https://twitter.com/patrickerville/status/1455595645608153088",
+						"display_url": "twitter.com/patrickerville…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17259340,
+				"id_str": "17259340",
+				"name": "Emily St. J. Mandel",
+				"screen_name": "EmilyMandel",
+				"location": "Brooklyn, NY",
+				"description": "Six novels, including Sea of Tranquility (April 2022), The Glass Hotel, and Station Eleven. For more frequent posts, find me on Instagram @emilystjohnmandel.",
+				"url": "https://t.co/qybMxtRpdw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qybMxtRpdw",
+								"expanded_url": "http://www.emilymandel.com",
+								"display_url": "emilymandel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30097,
+				"friends_count": 1756,
+				"listed_count": 881,
+				"created_at": "Sat Nov 08 21:17:51 +0000 2008",
+				"favourites_count": 7757,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "85817E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1157664979040067586/0bTNs1xr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157664979040067586/0bTNs1xr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17259340/1626702047",
+				"profile_link_color": "A60808",
+				"profile_sidebar_border_color": "0E0C0C",
+				"profile_sidebar_fill_color": "C7BDBD",
+				"profile_text_color": "0B0A0A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1455595645608153000,
+			"quoted_status_id_str": "1455595645608153088",
+			"quoted_status_permalink": {
+				"url": "https://t.co/rlJDHxPWMm",
+				"expanded": "https://twitter.com/patrickerville/status/1455595645608153088",
+				"display": "twitter.com/patrickerville…"
+			},
+			"retweet_count": 154,
+			"favorite_count": 1608,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "!!!!! https://t.co/9qi6xybyUT"
+	},
+	{
 		"created_at": "Tue Nov 02 15:03:52 +0000 2021",
 		"id": 1455551236900544500,
 		"id_str": "1455551236900544516",
