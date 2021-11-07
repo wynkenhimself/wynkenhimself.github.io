@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 06 14:40:26 +0000 2021",
+		"id": 1456993822492217300,
+		"id_str": "1456994891779686402",
+		"full_text": "I should let it go, but 170 years after Scrooge sneered, “Are there no prisons?” it's hard for me to fathom that there are still people cruel &amp; clueless enough to imagine that offering a child $300/month and some \"sweetened food stamps\" is a troubling \"disincentive to work.\" https://t.co/GAyMOOmcsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GAyMOOmcsS",
+					"expanded_url": "https://twitter.com/RonCharles/status/1456971207459409920",
+					"display_url": "twitter.com/RonCharles/sta…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18681934,
+			"id_str": "18681934",
+			"name": "Ron Charred",
+			"screen_name": "RonCharles",
+			"location": "Washington, DC",
+			"description": "\"Too cute by half.\" -- Morning Joe. I write about books at The Washington Post. Sometimes, I make silly videos, too.",
+			"url": "https://t.co/LUlxlsvcDF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LUlxlsvcDF",
+							"expanded_url": "https://www.totallyhipvideobookreview.com/",
+							"display_url": "totallyhipvideobookreview.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53484,
+			"friends_count": 287,
+			"listed_count": 1623,
+			"created_at": "Tue Jan 06 16:21:01 +0000 2009",
+			"favourites_count": 19237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455133888188239873/IoCwfgmH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455133888188239873/IoCwfgmH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18681934/1635766365",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1456971207459410000,
+		"quoted_status_id_str": "1456971207459409920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GAyMOOmcsS",
+			"expanded": "https://twitter.com/RonCharles/status/1456971207459409920",
+			"display": "twitter.com/RonCharles/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 06 13:06:19 +0000 2021",
+			"id": 1456971207459410000,
+			"id_str": "1456971207459409920",
+			"full_text": "Editorial writers making six-figures imagine food stamps taste “sweet”:\n“Vac­cine man­dates won’t help. And nei­ther will other gov­ern­ment dis­in­cen­tives to work, in­clud­ing the $300 monthly child allowances and sweet­ened food stamps.” https://t.co/wtLrhL2ABJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wtLrhL2ABJ",
+						"expanded_url": "https://www.wsj.com/articles/unemployment-number-october-jobs-report-11636152516",
+						"display_url": "wsj.com/articles/unemp…",
+						"indices": [
+							242,
+							265
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18681934,
+				"id_str": "18681934",
+				"name": "Ron Charred",
+				"screen_name": "RonCharles",
+				"location": "Washington, DC",
+				"description": "\"Too cute by half.\" -- Morning Joe. I write about books at The Washington Post. Sometimes, I make silly videos, too.",
+				"url": "https://t.co/LUlxlsvcDF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LUlxlsvcDF",
+								"expanded_url": "https://www.totallyhipvideobookreview.com/",
+								"display_url": "totallyhipvideobookreview.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53484,
+				"friends_count": 287,
+				"listed_count": 1623,
+				"created_at": "Tue Jan 06 16:21:01 +0000 2009",
+				"favourites_count": 19237,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1385,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455133888188239873/IoCwfgmH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455133888188239873/IoCwfgmH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18681934/1635766365",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I should let it go, but 170 years after Scrooge sneered, “Are there no prisons?” it's hard for me to fathom that there are still people cruel &amp; clueless enough to imagine that offering a child $300/month and some \"sweetened food stamps\" is a troubling \"disincentive to work.\" https://t.co/GAyMOOmcsS"
+	},
+	{
 		"created_at": "Fri Nov 05 23:19:01 +0000 2021",
 		"id": 1456763008206741500,
 		"id_str": "1456763008206741505",
@@ -16,7 +236,7 @@ Grailbird.data.tweets_2021_11 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
