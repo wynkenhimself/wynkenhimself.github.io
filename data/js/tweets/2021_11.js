@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 15:26:30 +0000 2021",
+		"id": 1459542111737548800,
+		"id_str": "1459543201132523520",
+		"full_text": "Finally. A biblically-accurate depiction of angels for your nativity set. https://t.co/41Kow5e6la",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41Kow5e6la",
+					"expanded_url": "https://twitter.com/phil_lol_ogist/status/1459540002887589889",
+					"display_url": "twitter.com/phil_lol_ogist…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47618483,
+			"id_str": "47618483",
+			"name": "Liesbeth Corens",
+			"screen_name": "onslies",
+			"location": "London, England",
+			"description": "Historian: mobility & recordkeeping of #earlymodern Catholic minorities || Book reviews editor for @CatholicRS [She/Her]",
+			"url": "https://t.co/523CFTUEfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/523CFTUEfB",
+							"expanded_url": "https://liesbethcorens.wordpress.com/",
+							"display_url": "liesbethcorens.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6487,
+			"friends_count": 1287,
+			"listed_count": 139,
+			"created_at": "Tue Jun 16 13:06:18 +0000 2009",
+			"favourites_count": 95362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000032818694/42d9413e6db0b88e572f9c81dc378f2a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000032818694/42d9413e6db0b88e572f9c81dc378f2a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47618483/1362083228",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459540002887590000,
+		"quoted_status_id_str": "1459540002887589889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/41Kow5e6la",
+			"expanded": "https://twitter.com/phil_lol_ogist/status/1459540002887589889",
+			"display": "twitter.com/phil_lol_ogist…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 13 15:13:48 +0000 2021",
+			"id": 1459540002887590000,
+			"id_str": "1459540002887589889",
+			"full_text": "Get yourself a Christmas wreath that really says \"BE NOT AFRAID\" https://t.co/1lbOrYRYom",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1459540001503469600,
+						"id_str": "1459540001503469572",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/FEFT5f0WYAQ3z0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEFT5f0WYAQ3z0j.jpg",
+						"url": "https://t.co/1lbOrYRYom",
+						"display_url": "pic.twitter.com/1lbOrYRYom",
+						"expanded_url": "https://twitter.com/phil_lol_ogist/status/1459540002887589889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 817,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 817,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1459540001503469600,
+						"id_str": "1459540001503469572",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/FEFT5f0WYAQ3z0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEFT5f0WYAQ3z0j.jpg",
+						"url": "https://t.co/1lbOrYRYom",
+						"display_url": "pic.twitter.com/1lbOrYRYom",
+						"expanded_url": "https://twitter.com/phil_lol_ogist/status/1459540002887589889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 817,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 817,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3219416676,
+				"id_str": "3219416676",
+				"name": "Stephen Hopkins",
+				"screen_name": "phil_lol_ogist",
+				"location": "Orlando, FL",
+				"description": "Asst Prof (Old English & Ling) @UCF . Book on hell & apocrypha. Phil-lol-ogist, word-lover, pun-makar, collector of dictionaries, glamorer of grammar. He/his",
+				"url": "https://t.co/hZNCWPDn2K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZNCWPDn2K",
+								"expanded_url": "https://english.cah.ucf.edu/faculty-staff/",
+								"display_url": "english.cah.ucf.edu/faculty-staff/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4453,
+				"friends_count": 1148,
+				"listed_count": 42,
+				"created_at": "Mon May 18 14:27:09 +0000 2015",
+				"favourites_count": 44409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7512,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346560323864637445/oglvx2P5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346560323864637445/oglvx2P5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3219416676/1592178791",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1446,
+			"favorite_count": 6763,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally. A biblically-accurate depiction of angels for your nativity set. https://t.co/41Kow5e6la"
+	},
+	{
 		"created_at": "Fri Nov 12 02:18:45 +0000 2021",
 		"id": 1458982569891016700,
 		"id_str": "1458982569891016709",
