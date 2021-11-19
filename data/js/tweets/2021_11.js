@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 18:03:18 +0000 2021",
+		"id": 1461394597796585500,
+		"id_str": "1461394597796585479",
+		"full_text": "ooh an imprint that specifies the heirs of the widow rather than of the man! interesting #FemBib moment (lots of women who took over husband’s shop when he died; the weird detail here is keeping his name in the imprint but specifying her heirs; read the replies for speculations) https://t.co/uAiyHK72KX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FemBib",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uAiyHK72KX",
+					"expanded_url": "https://twitter.com/colleenlovesbks/status/1461354848071290884",
+					"display_url": "twitter.com/colleenlovesbk…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9992,
+			"friends_count": 478,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461354848071291000,
+		"quoted_status_id_str": "1461354848071290884",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uAiyHK72KX",
+			"expanded": "https://twitter.com/colleenlovesbks/status/1461354848071290884",
+			"display": "twitter.com/colleenlovesbk…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 18 15:25:21 +0000 2021",
+			"id": 1461354848071291000,
+			"id_str": "1461354848071290884",
+			"full_text": "Thursday #FeministBookHistory thought: what does it say when an imprint is \"Por los herederos de la viuda de Francisco Rodriguez Lupercio\" instead of \"Por los herederos de Francisco Rodriguez Lupercio\"?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FeministBookHistory",
+						"indices": [
+							9,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 300879920,
+				"id_str": "300879920",
+				"name": "Colleen Barrett",
+				"screen_name": "Colleenlovesbks",
+				"location": "Lexington, KY",
+				"description": "Champion of the obscure, Rare Books Librarian at UK Libraries, Hobbit-like tendencies, opinions just mine.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1129,
+				"friends_count": 1358,
+				"listed_count": 25,
+				"created_at": "Wed May 18 14:22:34 +0000 2011",
+				"favourites_count": 65373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D69142",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240803895271723009/LfxiHaj3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240803895271723009/LfxiHaj3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/300879920/1362112797",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ooh an imprint that specifies the heirs of the widow rather than of the man! interesting #FemBib moment (lots of women who took over husband’s shop when he died; the weird detail here is keeping his name in the imprint but specifying her heirs; read the replies for speculations) https://t.co/uAiyHK72KX"
+	},
+	{
 		"created_at": "Thu Nov 18 01:25:35 +0000 2021",
 		"id": 1461143514348142600,
 		"id_str": "1461143514348142592",
@@ -902,7 +1124,7 @@ Grailbird.data.tweets_2021_11 =
 			"name": "Ben Fino-Radin",
 			"screen_name": "benfinoradin",
 			"location": "New York",
-			"description": "Move slow and fix things. Host @artobsolescence 🎧 Founder @Small_Data_ Former: MoMA & @rhizome 🌱 🏳️‍🌈 they/them 🏳️‍⚧️",
+			"description": "Move slow and fix things. Host @artobsolescence 🎧 Founder @Small_Data_ Former: MoMA & @rhizome 🌱 🏳️🌈 they/them 🏳️⚧️",
 			"url": "https://t.co/p5rwuw2R90",
 			"entities": {
 				"url": {
