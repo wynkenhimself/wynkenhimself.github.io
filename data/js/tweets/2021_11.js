@@ -1,6 +1,818 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 18:27:44 +0000 2021",
+		"id": 1461761321301680000,
+		"id_str": "1461763136940355585",
+		"full_text": "Makes a person wish they believed in hell",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15676413,
+			"id_str": "15676413",
+			"name": "Helen Rosner",
+			"screen_name": "hels",
+			"location": "NYC via Chicago",
+			"description": "The government is forcing you to read my tweets, there's nothing I can do about it, I'm so sorry",
+			"url": "https://t.co/90SUx7kHh7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/90SUx7kHh7",
+							"expanded_url": "https://www.newyorker.com/contributors/helen-rosner",
+							"display_url": "newyorker.com/contributors/h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153216,
+			"friends_count": 3066,
+			"listed_count": 1597,
+			"created_at": "Thu Jul 31 16:02:30 +0000 2008",
+			"favourites_count": 133755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 87836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676413/1556840951",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 367,
+		"favorite_count": 3772,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Makes a person wish they believed in hell"
+	},
+	{
+		"created_at": "Fri Nov 19 18:24:34 +0000 2021",
+		"id": 1461761426301718500,
+		"id_str": "1461762340420993032",
+		"full_text": "New pub alert! I'm proud of this one, written during a pandemic. Thank you to so many who shared expertise to help me puzzle through it. \"Particularly Red, by a Woman: Anne B. Poyntz and the Printing and Digitization of Her Je ne sçai quoi\" in ERR https://t.co/SrGt8cl4ki https://t.co/6MpQXk1b5s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SrGt8cl4ki",
+					"expanded_url": "https://bit.ly/3r8AL2X",
+					"display_url": "bit.ly/3r8AL2X",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461761295456161800,
+					"id_str": "1461761295456161792",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FEk4J0oUUAAMuTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEk4J0oUUAAMuTQ.jpg",
+					"url": "https://t.co/6MpQXk1b5s",
+					"display_url": "pic.twitter.com/6MpQXk1b5s",
+					"expanded_url": "https://twitter.com/KLeuner/status/1461761426301718535/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1526,
+							"h": 1332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461761295456161800,
+					"id_str": "1461761295456161792",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FEk4J0oUUAAMuTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEk4J0oUUAAMuTQ.jpg",
+					"url": "https://t.co/6MpQXk1b5s",
+					"display_url": "pic.twitter.com/6MpQXk1b5s",
+					"expanded_url": "https://twitter.com/KLeuner/status/1461761426301718535/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1526,
+							"h": 1332,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461761295456235500,
+					"id_str": "1461761295456235520",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FEk4J0oVcAAfdXk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEk4J0oVcAAfdXk.png",
+					"url": "https://t.co/6MpQXk1b5s",
+					"display_url": "pic.twitter.com/6MpQXk1b5s",
+					"expanded_url": "https://twitter.com/KLeuner/status/1461761426301718535/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 892,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1504,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 186497474,
+			"id_str": "186497474",
+			"name": "Kirstyn Leuner, PhD",
+			"screen_name": "KLeuner",
+			"location": "Santa Clara, CA",
+			"description": "Assist. Prof, Santa Clara U, DH, long 18c, book history, women's writing. Director of Stainforth Library of Women's Writing https://t.co/YhytMB2ql7. she/her",
+			"url": "http://t.co/JGXz1ZJo9F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JGXz1ZJo9F",
+							"expanded_url": "http://kirstynleuner.wordpress.com",
+							"display_url": "kirstynleuner.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YhytMB2ql7",
+							"expanded_url": "http://stainforth.scu.edu",
+							"display_url": "stainforth.scu.edu",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1404,
+			"friends_count": 1578,
+			"listed_count": 60,
+			"created_at": "Fri Sep 03 16:34:47 +0000 2010",
+			"favourites_count": 4449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270091656281198593/nJUmzMFf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270091656281198593/nJUmzMFf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/186497474/1615336454",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New pub alert! I'm proud of this one, written during a pandemic. Thank you to so many who shared expertise to help me puzzle through it. \"Particularly Red, by a Woman: Anne B. Poyntz and the Printing and Digitization of Her Je ne sçai quoi\" in ERR https://t.co/SrGt8cl4ki https://t.co/6MpQXk1b5s"
+	},
+	{
+		"created_at": "Fri Nov 19 18:23:18 +0000 2021",
+		"id": 1461762018319507500,
+		"id_str": "1461762018319507461",
+		"full_text": "@RezekJoe lol as a journal editor I am tucking away this helpful incentive to tap you in the future",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RezekJoe",
+					"name": "Joseph Rezek",
+					"id": 821333027338915800,
+					"id_str": "821333027338915841",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1461761702672969700,
+		"in_reply_to_status_id_str": "1461761702672969731",
+		"in_reply_to_user_id": 821333027338915800,
+		"in_reply_to_user_id_str": "821333027338915841",
+		"in_reply_to_screen_name": "RezekJoe",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9993,
+			"friends_count": 478,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RezekJoe lol as a journal editor I am tucking away this helpful incentive to tap you in the future"
+	},
+	{
+		"created_at": "Fri Nov 19 17:41:39 +0000 2021",
+		"id": 1461747264523747300,
+		"id_str": "1461751540520206346",
+		"full_text": "Secretary Haaland takes action to remove derogatory names from federal lands. Sec. Orders declare “sq**w” a derogatory term, create Reconciliation in Place Names advisory committee to identify, replace derogatory names. https://t.co/xTxhQq7lCc via @IndianCountry  #ICTPressPool",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICTPressPool",
+					"indices": [
+						264,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndianCountry",
+					"name": "Indian Country Today",
+					"id": 17870903,
+					"id_str": "17870903",
+					"indices": [
+						248,
+						262
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xTxhQq7lCc",
+					"expanded_url": "https://indiancountrytoday.com/the-press-pool/secretary-haaland-takes-action-to-remove-derogatory-names-from-federal-lands",
+					"display_url": "indiancountrytoday.com/the-press-pool…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088972974764552200,
+			"id_str": "1088972974764552192",
+			"name": "ICTPressPool",
+			"screen_name": "ICTPressPool",
+			"location": "",
+			"description": "Tweets by @IndianCountry's Press Pool Editor, Lisa J.  Ellwood, @IconicImagery. Submit releases for consideration to pressrelease@indiancountrytoday.com",
+			"url": "https://t.co/jntD0hBjOa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jntD0hBjOa",
+							"expanded_url": "https://newsmaven.io/indiancountrytoday/the-press-pool/",
+							"display_url": "newsmaven.io/indiancountryt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2119,
+			"friends_count": 525,
+			"listed_count": 41,
+			"created_at": "Sat Jan 26 01:32:44 +0000 2019",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443941690771968006/QKKTZYqK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443941690771968006/QKKTZYqK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088972974764552192/1633098011",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Secretary Haaland takes action to remove derogatory names from federal lands. Sec. Orders declare “sq**w” a derogatory term, create Reconciliation in Place Names advisory committee to identify, replace derogatory names. https://t.co/xTxhQq7lCc via @IndianCountry  #ICTPressPool"
+	},
+	{
+		"created_at": "Fri Nov 19 15:42:33 +0000 2021",
+		"id": 1461642160395235300,
+		"id_str": "1461721565821906945",
+		"full_text": "Didn't manage to catch our 2021 Sandars Lectures? Or just fancy watching them again?\n\nWell, lucky you! All three are now available on our YouTube channel: https://t.co/XrqgSsFB7d\n\n@orietta_darold @englishunicam https://t.co/QrkcxTTD5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "orietta_darold",
+					"name": "Orietta Da Rold",
+					"id": 372732847,
+					"id_str": "372732847",
+					"indices": [
+						180,
+						195
+					]
+				},
+				{
+					"screen_name": "englishunicam",
+					"name": "Faculty of English",
+					"id": 3823260496,
+					"id_str": "3823260496",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XrqgSsFB7d",
+					"expanded_url": "https://loom.ly/-TGN49E",
+					"display_url": "loom.ly/-TGN49E",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461642156532285400,
+					"id_str": "1461642156532285440",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjLzBjXwAAbUfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjLzBjXwAAbUfN.jpg",
+					"url": "https://t.co/QrkcxTTD5T",
+					"display_url": "pic.twitter.com/QrkcxTTD5T",
+					"expanded_url": "https://twitter.com/theUL/status/1461642160395235332/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461642156532285400,
+					"id_str": "1461642156532285440",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjLzBjXwAAbUfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjLzBjXwAAbUfN.jpg",
+					"url": "https://t.co/QrkcxTTD5T",
+					"display_url": "pic.twitter.com/QrkcxTTD5T",
+					"expanded_url": "https://twitter.com/theUL/status/1461642160395235332/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461642155869585400,
+					"id_str": "1461642155869585414",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjLy_FXwAYhkCk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjLy_FXwAYhkCk.jpg",
+					"url": "https://t.co/QrkcxTTD5T",
+					"display_url": "pic.twitter.com/QrkcxTTD5T",
+					"expanded_url": "https://twitter.com/theUL/status/1461642160395235332/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1051,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.loomly.com/\" rel=\"nofollow\">Loomly</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23050147,
+			"id_str": "23050147",
+			"name": "Cambridge University Library",
+			"screen_name": "theUL",
+			"location": "Cambridge, UK",
+			"description": "Billions of words, millions of books, thousands of years of human thought and discovery. We are one of the world's great libraries.",
+			"url": "https://t.co/UlGG5aGfcC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlGG5aGfcC",
+							"expanded_url": "http://www.lib.cam.ac.uk",
+							"display_url": "lib.cam.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30494,
+			"friends_count": 411,
+			"listed_count": 565,
+			"created_at": "Fri Mar 06 10:13:20 +0000 2009",
+			"favourites_count": 9253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AED9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314567273018011650/Jn2PHRMU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314567273018011650/Jn2PHRMU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23050147/1631020017",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 56,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Didn't manage to catch our 2021 Sandars Lectures? Or just fancy watching them again?\n\nWell, lucky you! All three are now available on our YouTube channel: https://t.co/XrqgSsFB7d\n\n@orietta_darold @englishunicam https://t.co/QrkcxTTD5T"
+	},
+	{
 		"created_at": "Thu Nov 18 18:03:18 +0000 2021",
 		"id": 1461394597796585500,
 		"id_str": "1461394597796585479",
