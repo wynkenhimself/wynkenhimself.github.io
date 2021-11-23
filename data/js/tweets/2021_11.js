@@ -1,6 +1,1663 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 21:25:15 +0000 2021",
+		"id": 1462894974060707800,
+		"id_str": "1462894974060707848",
+		"full_text": "@clareifications @museumbooks Thank you both for coming!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clareifications",
+					"name": "Clare",
+					"id": 25269267,
+					"id_str": "25269267",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "museumbooks",
+					"name": "Gemma Steele",
+					"id": 84692576,
+					"id_str": "84692576",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462887388049395700,
+		"in_reply_to_status_id_str": "1462887388049395712",
+		"in_reply_to_user_id": 25269267,
+		"in_reply_to_user_id_str": "25269267",
+		"in_reply_to_screen_name": "clareifications",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10002,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@clareifications @museumbooks Thank you both for coming!"
+	},
+	{
+		"created_at": "Mon Nov 22 16:00:32 +0000 2021",
+		"id": 1462813254372274200,
+		"id_str": "1462813254372274182",
+		"full_text": "@ilikeoldbooks that is intense!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilikeoldbooks",
+					"name": "Daryl Green",
+					"id": 2753413456,
+					"id_str": "2753413456",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1462813132557013000,
+		"in_reply_to_status_id_str": "1462813132557012997",
+		"in_reply_to_user_id": 2753413456,
+		"in_reply_to_user_id_str": "2753413456",
+		"in_reply_to_screen_name": "ilikeoldbooks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10002,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ilikeoldbooks that is intense!"
+	},
+	{
+		"created_at": "Mon Nov 22 15:46:11 +0000 2021",
+		"id": 1462805881884659700,
+		"id_str": "1462809643139452941",
+		"full_text": "One of my best friends just published a gorgeous Tarot deck inspired by 19thC Am Lit, accompanied by a scholarly book explaining each of 78 cards and their meaning if pulled during a reading. Thea Wirshing has a PhD in English and is a professional astrologer. Buy this deck! https://t.co/mT2nMk6nD1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462805876411089000,
+					"id_str": "1462805876411088898",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzuMb7WQAIUF2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEzuMb7WQAIUF2M.jpg",
+					"url": "https://t.co/mT2nMk6nD1",
+					"display_url": "pic.twitter.com/mT2nMk6nD1",
+					"expanded_url": "https://twitter.com/RezekJoe/status/1462805881884659716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462805876411089000,
+					"id_str": "1462805876411088898",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzuMb7WQAIUF2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEzuMb7WQAIUF2M.jpg",
+					"url": "https://t.co/mT2nMk6nD1",
+					"display_url": "pic.twitter.com/mT2nMk6nD1",
+					"expanded_url": "https://twitter.com/RezekJoe/status/1462805881884659716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1462805876415377400,
+					"id_str": "1462805876415377421",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzuMb8XsA0vyYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEzuMb8XsA0vyYl.jpg",
+					"url": "https://t.co/mT2nMk6nD1",
+					"display_url": "pic.twitter.com/mT2nMk6nD1",
+					"expanded_url": "https://twitter.com/RezekJoe/status/1462805881884659716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 821333027338915800,
+			"id_str": "821333027338915841",
+			"name": "Joseph Rezek",
+			"screen_name": "RezekJoe",
+			"location": "Brookline, MA",
+			"description": "English Prof and Director of Am Studies at BU. Husband and gay dad to 5yo twins. Early-C19 Americanist. Writing a book, “The Racialization of Print.” BLM he/him",
+			"url": "https://t.co/cLeucsn76O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cLeucsn76O",
+							"expanded_url": "http://www.bu.edu/english/people/joseph-rezek/",
+							"display_url": "bu.edu/english/people…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3551,
+			"friends_count": 1945,
+			"listed_count": 17,
+			"created_at": "Tue Jan 17 12:27:08 +0000 2017",
+			"favourites_count": 10960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433508686379421700/a59Dmzk4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433508686379421700/a59Dmzk4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/821333027338915841/1484659679",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of my best friends just published a gorgeous Tarot deck inspired by 19thC Am Lit, accompanied by a scholarly book explaining each of 78 cards and their meaning if pulled during a reading. Thea Wirshing has a PhD in English and is a professional astrologer. Buy this deck! https://t.co/mT2nMk6nD1"
+	},
+	{
+		"created_at": "Mon Nov 22 15:45:00 +0000 2021",
+		"id": 1462809344672686000,
+		"id_str": "1462809344672686089",
+		"full_text": "@RezekJoe This is amazing and gorgeous!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RezekJoe",
+					"name": "Joseph Rezek",
+					"id": 821333027338915800,
+					"id_str": "821333027338915841",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462808805188767700,
+		"in_reply_to_status_id_str": "1462808805188767755",
+		"in_reply_to_user_id": 821333027338915800,
+		"in_reply_to_user_id_str": "821333027338915841",
+		"in_reply_to_screen_name": "RezekJoe",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10002,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RezekJoe This is amazing and gorgeous!"
+	},
+	{
+		"created_at": "Mon Nov 22 15:38:16 +0000 2021",
+		"id": 1462767366731874300,
+		"id_str": "1462807649976791052",
+		"full_text": "Always a good day to be thinking abt the 1661 New Testament translated into the Massachusett language  @JCBLibrary.  A 14 year project by English settler John Eliot, John Nesutan, Massachusett of Natick, and James Printer, Nipmuc of Hassanamesit.  #EarlyAmericas https://t.co/m5kXfEyk6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarlyAmericas",
+					"indices": [
+						248,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JCBLibrary",
+					"name": "John Carter Brown Library",
+					"id": 82347027,
+					"id_str": "82347027",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462765414325313500,
+					"id_str": "1462765414325313538",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzJZO6WYAIdrmY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEzJZO6WYAIdrmY.png",
+					"url": "https://t.co/m5kXfEyk6k",
+					"display_url": "pic.twitter.com/m5kXfEyk6k",
+					"expanded_url": "https://twitter.com/kawulf/status/1462767366731874308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 764,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462765414325313500,
+					"id_str": "1462765414325313538",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzJZO6WYAIdrmY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEzJZO6WYAIdrmY.png",
+					"url": "https://t.co/m5kXfEyk6k",
+					"display_url": "pic.twitter.com/m5kXfEyk6k",
+					"expanded_url": "https://twitter.com/kawulf/status/1462767366731874308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 764,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1462765455429492700,
+					"id_str": "1462765455429492743",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzJboCWYAcg37j.png",
+					"media_url_https": "https://pbs.twimg.com/media/FEzJboCWYAcg37j.png",
+					"url": "https://t.co/m5kXfEyk6k",
+					"display_url": "pic.twitter.com/m5kXfEyk6k",
+					"expanded_url": "https://twitter.com/kawulf/status/1462767366731874308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 586,
+							"h": 806,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2513822461,
+			"id_str": "2513822461",
+			"name": "Karin Wulf",
+			"screen_name": "kawulf",
+			"location": "",
+			"description": "Historian of #VastEarlyAmerica | Director & Librarian @JCBLibrary | History Prof. @BrownUniversity",
+			"url": "https://t.co/jfEzHoZQS1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jfEzHoZQS1",
+							"expanded_url": "http://karinwulf.com",
+							"display_url": "karinwulf.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14667,
+			"friends_count": 1974,
+			"listed_count": 258,
+			"created_at": "Wed May 21 22:11:31 +0000 2014",
+			"favourites_count": 65986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457733404066201603/Q3SxJ7VV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457733404066201603/Q3SxJ7VV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2513822461/1634292138",
+			"profile_link_color": "343A34",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Always a good day to be thinking abt the 1661 New Testament translated into the Massachusett language  @JCBLibrary.  A 14 year project by English settler John Eliot, John Nesutan, Massachusett of Natick, and James Printer, Nipmuc of Hassanamesit.  #EarlyAmericas https://t.co/m5kXfEyk6k"
+	},
+	{
+		"created_at": "Mon Nov 22 15:32:10 +0000 2021",
+		"id": 1462803344771084300,
+		"id_str": "1462806115599757313",
+		"full_text": "I'm thinking something along the lines of Michelle Levy's piece that looks at Romantic women writers in the Norton anthology, but focused on Early Modern. Bonus if it only looks at \"women's\" anthologies.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1462803161932914700,
+		"in_reply_to_status_id_str": "1462803161932914689",
+		"in_reply_to_user_id": 724376123665043500,
+		"in_reply_to_user_id_str": "724376123665043456",
+		"in_reply_to_screen_name": "GrubStreetWomen",
+		"user": {
+			"id": 724376123665043500,
+			"id_str": "724376123665043456",
+			"name": "Dr. Kate Ozment",
+			"screen_name": "GrubStreetWomen",
+			"location": "Los Angeles, CA",
+			"description": "Asst. Prof English, book history, bibliography, #dh, feminist theory, women's lit #unionstrong she/they",
+			"url": "https://t.co/rOdYgCiRTN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rOdYgCiRTN",
+							"expanded_url": "http://womensbookhistory.org",
+							"display_url": "womensbookhistory.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4838,
+			"friends_count": 2595,
+			"listed_count": 72,
+			"created_at": "Sun Apr 24 23:15:00 +0000 2016",
+			"favourites_count": 17281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445889272913883141/S4PZMfy0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445889272913883141/S4PZMfy0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724376123665043456/1633561587",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm thinking something along the lines of Michelle Levy's piece that looks at Romantic women writers in the Norton anthology, but focused on Early Modern. Bonus if it only looks at \"women's\" anthologies."
+	},
+	{
+		"created_at": "Mon Nov 22 15:32:08 +0000 2021",
+		"id": 1462803161932914700,
+		"id_str": "1462806107219501060",
+		"full_text": "I built a corpus of anthologies on Early Modern English women's writing for a digital research methods class that got sidetracked by the pandemic; but it's finally happening soon! Are there any articles out there that analyze what we have printed in EM lit over the years? https://t.co/W957VWILC9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462802844503789600,
+					"id_str": "1462802844503789568",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzrb9MUUAARZlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEzrb9MUUAARZlW.jpg",
+					"url": "https://t.co/W957VWILC9",
+					"display_url": "pic.twitter.com/W957VWILC9",
+					"expanded_url": "https://twitter.com/GrubStreetWomen/status/1462803161932914689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1052,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462802844503789600,
+					"id_str": "1462802844503789568",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FEzrb9MUUAARZlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEzrb9MUUAARZlW.jpg",
+					"url": "https://t.co/W957VWILC9",
+					"display_url": "pic.twitter.com/W957VWILC9",
+					"expanded_url": "https://twitter.com/GrubStreetWomen/status/1462803161932914689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1052,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 724376123665043500,
+			"id_str": "724376123665043456",
+			"name": "Dr. Kate Ozment",
+			"screen_name": "GrubStreetWomen",
+			"location": "Los Angeles, CA",
+			"description": "Asst. Prof English, book history, bibliography, #dh, feminist theory, women's lit #unionstrong she/they",
+			"url": "https://t.co/rOdYgCiRTN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rOdYgCiRTN",
+							"expanded_url": "http://womensbookhistory.org",
+							"display_url": "womensbookhistory.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4838,
+			"friends_count": 2595,
+			"listed_count": 72,
+			"created_at": "Sun Apr 24 23:15:00 +0000 2016",
+			"favourites_count": 17281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445889272913883141/S4PZMfy0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445889272913883141/S4PZMfy0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724376123665043456/1633561587",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I built a corpus of anthologies on Early Modern English women's writing for a digital research methods class that got sidetracked by the pandemic; but it's finally happening soon! Are there any articles out there that analyze what we have printed in EM lit over the years? https://t.co/W957VWILC9"
+	},
+	{
+		"created_at": "Mon Nov 22 15:31:33 +0000 2021",
+		"id": 1462805962209828900,
+		"id_str": "1462805962209828866",
+		"full_text": "This decision by DC’s mayor is especially confounding given that next-door Montgomery County has just reinstated indoor mask mandates due to rising cases https://t.co/F4NOxL7aJA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F4NOxL7aJA",
+					"expanded_url": "https://twitter.com/oliverdepp/status/1462788701554151429",
+					"display_url": "twitter.com/oliverdepp/sta…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10002,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462788701554151400,
+		"quoted_status_id_str": "1462788701554151429",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F4NOxL7aJA",
+			"expanded": "https://twitter.com/oliverdepp/status/1462788701554151429",
+			"display": "twitter.com/oliverdepp/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 22 14:22:58 +0000 2021",
+			"id": 1462788701554151400,
+			"id_str": "1462788701554151429",
+			"full_text": "Again leaving businesses high and dry carrying the safety burden. It’s winter. The numbers are rising. Now my staff have to enforce basic safety to confused/belligerent customers during the stressful customer service months. Supply chain and now mask enforcement. Happy holidays! https://t.co/5yJIsrDtgK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5yJIsrDtgK",
+						"expanded_url": "https://twitter.com/tweetelissa/status/1462772553630601230",
+						"display_url": "twitter.com/tweetelissa/st…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 482411450,
+				"id_str": "482411450",
+				"name": "Hannah a.m. O Depp",
+				"screen_name": "OliverDepp",
+				"location": "washington dc",
+				"description": "Impossible to forget. Hard to remember. Queer, Blackish bookseller. Owner of @LoyaltyBooks and @NAIBABook Board President. Bookish lady about town. She/Her.",
+				"url": "https://t.co/ONv3Iasmp9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ONv3Iasmp9",
+								"expanded_url": "http://www.loyaltybookstores.com",
+								"display_url": "loyaltybookstores.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3580,
+				"friends_count": 1569,
+				"listed_count": 53,
+				"created_at": "Fri Feb 03 21:46:45 +0000 2012",
+				"favourites_count": 127779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16338,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "053266",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336511160284307456/mhlZmnel_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336511160284307456/mhlZmnel_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482411450/1582087023",
+				"profile_link_color": "33CCFF",
+				"profile_sidebar_border_color": "33CCFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "053266",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1462772553630601200,
+			"quoted_status_id_str": "1462772553630601230",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5yJIsrDtgK",
+				"expanded": "https://twitter.com/tweetelissa/status/1462772553630601230",
+				"display": "twitter.com/tweetelissa/st…"
+			},
+			"retweet_count": 16,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This decision by DC’s mayor is especially confounding given that next-door Montgomery County has just reinstated indoor mask mandates due to rising cases https://t.co/F4NOxL7aJA"
+	},
+	{
+		"created_at": "Mon Nov 22 15:30:32 +0000 2021",
+		"id": 1462788701554151400,
+		"id_str": "1462805705644298240",
+		"full_text": "Again leaving businesses high and dry carrying the safety burden. It’s winter. The numbers are rising. Now my staff have to enforce basic safety to confused/belligerent customers during the stressful customer service months. Supply chain and now mask enforcement. Happy holidays! https://t.co/5yJIsrDtgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5yJIsrDtgK",
+					"expanded_url": "https://twitter.com/tweetelissa/status/1462772553630601230",
+					"display_url": "twitter.com/tweetelissa/st…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 482411450,
+			"id_str": "482411450",
+			"name": "Hannah a.m. O Depp",
+			"screen_name": "OliverDepp",
+			"location": "washington dc",
+			"description": "Impossible to forget. Hard to remember. Queer, Blackish bookseller. Owner of @LoyaltyBooks and @NAIBABook Board President. Bookish lady about town. She/Her.",
+			"url": "https://t.co/ONv3Iasmp9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONv3Iasmp9",
+							"expanded_url": "http://www.loyaltybookstores.com",
+							"display_url": "loyaltybookstores.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3580,
+			"friends_count": 1569,
+			"listed_count": 53,
+			"created_at": "Fri Feb 03 21:46:45 +0000 2012",
+			"favourites_count": 127779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "053266",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336511160284307456/mhlZmnel_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336511160284307456/mhlZmnel_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/482411450/1582087023",
+			"profile_link_color": "33CCFF",
+			"profile_sidebar_border_color": "33CCFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "053266",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462772553630601200,
+		"quoted_status_id_str": "1462772553630601230",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5yJIsrDtgK",
+			"expanded": "https://twitter.com/tweetelissa/status/1462772553630601230",
+			"display": "twitter.com/tweetelissa/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 22 13:18:48 +0000 2021",
+			"id": 1462772553630601200,
+			"id_str": "1462772553630601230",
+			"full_text": "On @NPR @MorningEdition Dr. Fauci answers a question about lifting DC’s mask mandate: He says it adds additional risk at a time when it’s uncertain what will happen with the virus.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NPR",
+						"name": "NPR",
+						"id": 5392522,
+						"id_str": "5392522",
+						"indices": [
+							3,
+							7
+						]
+					},
+					{
+						"screen_name": "MorningEdition",
+						"name": "Morning Edition",
+						"id": 20150502,
+						"id_str": "20150502",
+						"indices": [
+							8,
+							23
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33989630,
+				"id_str": "33989630",
+				"name": "Elissa Silverman",
+				"screen_name": "tweetelissa",
+				"location": "Washington, D.C.",
+				"description": "It is my honor to represent the residents of the District of Columbia starting Jan. 2, 2015, as an at-large member of the D.C. Council.",
+				"url": "https://t.co/0Zh3WxNBrl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Zh3WxNBrl",
+								"expanded_url": "http://www.elissasilverman.com",
+								"display_url": "elissasilverman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16200,
+				"friends_count": 826,
+				"listed_count": 364,
+				"created_at": "Tue Apr 21 18:23:20 +0000 2009",
+				"favourites_count": 581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16121,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874818914299125761/veJYy1_B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874818914299125761/veJYy1_B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33989630/1586794943",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 226,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 85,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Again leaving businesses high and dry carrying the safety burden. It’s winter. The numbers are rising. Now my staff have to enforce basic safety to confused/belligerent customers during the stressful customer service months. Supply chain and now mask enforcement. Happy holidays! https://t.co/5yJIsrDtgK"
+	},
+	{
+		"created_at": "Mon Nov 22 15:30:00 +0000 2021",
+		"id": 1462805573087465500,
+		"id_str": "1462805573087465473",
+		"full_text": "@IAmDylanLewis Dylan!! Your body is not cooperating. As a fellow migraine haver, much sympathy",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IAmDylanLewis",
+					"name": "Dylan Lewis",
+					"id": 168566657,
+					"id_str": "168566657",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462803501537542100,
+		"in_reply_to_status_id_str": "1462803501537542148",
+		"in_reply_to_user_id": 168566657,
+		"in_reply_to_user_id_str": "168566657",
+		"in_reply_to_screen_name": "IAmDylanLewis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10002,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IAmDylanLewis Dylan!! Your body is not cooperating. As a fellow migraine haver, much sympathy"
+	},
+	{
 		"created_at": "Mon Nov 22 00:09:52 +0000 2021",
 		"id": 1462574012131909600,
 		"id_str": "1462574012131909634",
