@@ -1,6 +1,1647 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 01:06:24 +0000 2021",
+		"id": 1463313013096788000,
+		"id_str": "1463313013096787972",
+		"full_text": "@plainy @john_overholt This is the tweet that made me click through and 😮",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "plainy",
+					"name": "Ale Checka",
+					"id": 8306282,
+					"id_str": "8306282",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "john_overholt",
+					"name": "John Overholt",
+					"id": 89477148,
+					"id_str": "89477148",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1463299600849191000,
+		"in_reply_to_status_id_str": "1463299600849190913",
+		"in_reply_to_user_id": 8306282,
+		"in_reply_to_user_id_str": "8306282",
+		"in_reply_to_screen_name": "plainy",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10003,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@plainy @john_overholt This is the tweet that made me click through and 😮"
+	},
+	{
+		"created_at": "Wed Nov 24 00:04:32 +0000 2021",
+		"id": 1463297445815898000,
+		"id_str": "1463297445815898116",
+		"full_text": "My favorite computer nerd is back home and he’s already complaining about my wifi speed and fixing cables and routers 💖",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10003,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "My favorite computer nerd is back home and he’s already complaining about my wifi speed and fixing cables and routers 💖"
+	},
+	{
+		"created_at": "Wed Nov 24 00:00:43 +0000 2021",
+		"id": 1463175088325505000,
+		"id_str": "1463296484808564739",
+		"full_text": "With @wirecutter/@nytimes management refusing to come to the table to reach a deal, 100% of our unit will be striking from Thanksgiving through Cyber Monday. The best way you can support us is by boycotting @wirecutter from 11/25-11/29: https://t.co/sLOVFbdbZK https://t.co/KPuru7Kn91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wirecutter",
+					"name": "Wirecutter",
+					"id": 366309158,
+					"id_str": "366309158",
+					"indices": [
+						5,
+						16
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "wirecutter",
+					"name": "Wirecutter",
+					"id": 366309158,
+					"id_str": "366309158",
+					"indices": [
+						207,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sLOVFbdbZK",
+					"expanded_url": "https://www.wirecutterunion.com/support-us/",
+					"display_url": "wirecutterunion.com/support-us/",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463175011997565000,
+					"id_str": "1463175011997564950",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FE4969JXwBYAT3E.png",
+					"media_url_https": "https://pbs.twimg.com/media/FE4969JXwBYAT3E.png",
+					"url": "https://t.co/KPuru7Kn91",
+					"display_url": "pic.twitter.com/KPuru7Kn91",
+					"expanded_url": "https://twitter.com/wirecutterunion/status/1463175088325505035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463175011997565000,
+					"id_str": "1463175011997564950",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FE4969JXwBYAT3E.png",
+					"media_url_https": "https://pbs.twimg.com/media/FE4969JXwBYAT3E.png",
+					"url": "https://t.co/KPuru7Kn91",
+					"display_url": "pic.twitter.com/KPuru7Kn91",
+					"expanded_url": "https://twitter.com/wirecutterunion/status/1463175088325505035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113058423229296600,
+			"id_str": "1113058423229296640",
+			"name": "Wirecutter Union",
+			"screen_name": "wirecutterunion",
+			"location": "",
+			"description": "Making @wirecutter the best place to work. Part of @nyguild.",
+			"url": "https://t.co/ilYB8WHeZc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ilYB8WHeZc",
+							"expanded_url": "http://wirecutterunion.com",
+							"display_url": "wirecutterunion.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5539,
+			"friends_count": 114,
+			"listed_count": 47,
+			"created_at": "Tue Apr 02 12:39:42 +0000 2019",
+			"favourites_count": 1293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276494811604963328/ECDtcbTh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276494811604963328/ECDtcbTh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113058423229296640/1582779397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4228,
+		"favorite_count": 6638,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With @wirecutter/@nytimes management refusing to come to the table to reach a deal, 100% of our unit will be striking from Thanksgiving through Cyber Monday. The best way you can support us is by boycotting @wirecutter from 11/25-11/29: https://t.co/sLOVFbdbZK https://t.co/KPuru7Kn91"
+	},
+	{
+		"created_at": "Tue Nov 23 23:56:47 +0000 2021",
+		"id": 1463295495695220700,
+		"id_str": "1463295495695220739",
+		"full_text": "@eliza_audacis I still haven’t read it yet either 😭 it just sits there on my shelf staring at me",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBold",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1463293091495006200,
+		"in_reply_to_status_id_str": "1463293091495006215",
+		"in_reply_to_user_id": 18967025,
+		"in_reply_to_user_id_str": "18967025",
+		"in_reply_to_screen_name": "eliza_audacis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10003,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eliza_audacis I still haven’t read it yet either 😭 it just sits there on my shelf staring at me"
+	},
+	{
+		"created_at": "Tue Nov 23 23:55:46 +0000 2021",
+		"id": 1463137840750022700,
+		"id_str": "1463295239117021197",
+		"full_text": "We’re going digital with our minute books! We’re in the process of digitising and uploading the minutes of the Society going back to 1718. They record all the papers read and objects shown in meetings. https://t.co/cjHMzoTBMC\n\n#ExploreYourArchive #GoingDigital https://t.co/yKr6JmoqGh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExploreYourArchive",
+					"indices": [
+						227,
+						246
+					]
+				},
+				{
+					"text": "GoingDigital",
+					"indices": [
+						247,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cjHMzoTBMC",
+					"expanded_url": "https://collections.sal.org.uk/sal.02",
+					"display_url": "collections.sal.org.uk/sal.02",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463137834433486800,
+					"id_str": "1463137834433486856",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FE4cG77XoAgkKA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE4cG77XoAgkKA1.jpg",
+					"url": "https://t.co/yKr6JmoqGh",
+					"display_url": "pic.twitter.com/yKr6JmoqGh",
+					"expanded_url": "https://twitter.com/SocAntiquaries/status/1463137840750022658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1172,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 687,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463137834433486800,
+					"id_str": "1463137834433486856",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FE4cG77XoAgkKA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE4cG77XoAgkKA1.jpg",
+					"url": "https://t.co/yKr6JmoqGh",
+					"display_url": "pic.twitter.com/yKr6JmoqGh",
+					"expanded_url": "https://twitter.com/SocAntiquaries/status/1463137840750022658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1172,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 687,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463137835465203700,
+					"id_str": "1463137835465203723",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FE4cG_xWYAsRf7g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE4cG_xWYAsRf7g.jpg",
+					"url": "https://t.co/yKr6JmoqGh",
+					"display_url": "pic.twitter.com/yKr6JmoqGh",
+					"expanded_url": "https://twitter.com/SocAntiquaries/status/1463137840750022658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1219,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1463137834550939600,
+					"id_str": "1463137834550939652",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FE4cG8XX0AQXNtW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE4cG8XX0AQXNtW.jpg",
+					"url": "https://t.co/yKr6JmoqGh",
+					"display_url": "pic.twitter.com/yKr6JmoqGh",
+					"expanded_url": "https://twitter.com/SocAntiquaries/status/1463137840750022658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 889,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1518,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1098516162,
+			"id_str": "1098516162",
+			"name": "SocietyofAntiquaries",
+			"screen_name": "SocAntiquaries",
+			"location": "Burlington House, Piccadilly",
+			"description": "The Society supports conservation and scholarship related to material culture; and manages a library, museum and @KelmscottManor—former home of William Morris.",
+			"url": "https://t.co/bdhE2CYExn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bdhE2CYExn",
+							"expanded_url": "https://www.sal.org.uk/",
+							"display_url": "sal.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10776,
+			"friends_count": 2176,
+			"listed_count": 208,
+			"created_at": "Thu Jan 17 15:50:40 +0000 2013",
+			"favourites_count": 6118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "710D2C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3120999083/70ae5dbc715150524bb258be8b3c9012_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3120999083/70ae5dbc715150524bb258be8b3c9012_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1098516162/1358515542",
+			"profile_link_color": "D6A35A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re going digital with our minute books! We’re in the process of digitising and uploading the minutes of the Society going back to 1718. They record all the papers read and objects shown in meetings. https://t.co/cjHMzoTBMC\n\n#ExploreYourArchive #GoingDigital https://t.co/yKr6JmoqGh"
+	},
+	{
+		"created_at": "Tue Nov 23 19:54:34 +0000 2021",
+		"id": 1463213756419231700,
+		"id_str": "1463234540286136328",
+		"full_text": "Now that this is free, there's no reason not to attend. Let me ever so briefly tell you about the ground breaking work of Cynthia Brokaw as it relates to book history. 1/ https://t.co/WWTBHvtPHj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WWTBHvtPHj",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1458451212790022145",
+					"display_url": "twitter.com/BLprintheritag…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390140696,
+			"id_str": "1390140696",
+			"name": "Devin Fitzgerald",
+			"screen_name": "DevinFitzger",
+			"location": "Libraries",
+			"description": "Rare Books and History of Printing Curator, UCLA. Historian of East Asia and the Global Book. Fully gruntled. GWM™. Bummer at parties.",
+			"url": "https://t.co/I2s3v6pZsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I2s3v6pZsc",
+							"expanded_url": "http://devinfitz.com",
+							"display_url": "devinfitz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7176,
+			"friends_count": 2527,
+			"listed_count": 109,
+			"created_at": "Mon Apr 29 18:29:41 +0000 2013",
+			"favourites_count": 13829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455920562249764864/B3_gefPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455920562249764864/B3_gefPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390140696/1574274532",
+			"profile_link_color": "010A0F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458451212790022100,
+		"quoted_status_id_str": "1458451212790022145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WWTBHvtPHj",
+			"expanded": "https://twitter.com/BLprintheritage/status/1458451212790022145",
+			"display": "twitter.com/BLprintheritag…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 10 15:07:20 +0000 2021",
+			"id": 1458451212790022100,
+			"id_str": "1458451212790022145",
+			"full_text": "The Panizzi Lectures this year will be given by Cynthia Brokaw on the subject of Woodblock publishing and Chinese book culture in the early modern era. The lectures are free in person or there is a small charge for live streaming. For more details:  https://t.co/VrVW5PrgdG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VrVW5PrgdG",
+						"expanded_url": "https://www.bl.uk/projects/panizzi-lectures",
+						"display_url": "bl.uk/projects/paniz…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1092687948523454500,
+				"id_str": "1092687948523454464",
+				"name": "BL Printed Heritage Collections",
+				"screen_name": "BLprintheritage",
+				"location": "London, England",
+				"description": "Western printed heritage collections @BritishLibrary “showing how to make a glorious Light with a candle like the Sun-shine” (bio pic woodcut: shelfmark 1036c6)",
+				"url": "https://t.co/ZJWdwsvyUx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZJWdwsvyUx",
+								"expanded_url": "https://www.bl.uk/subjects/printed-books",
+								"display_url": "bl.uk/subjects/print…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5131,
+				"friends_count": 886,
+				"listed_count": 64,
+				"created_at": "Tue Feb 05 07:34:42 +0000 2019",
+				"favourites_count": 5218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092687948523454464/1549401221",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now that this is free, there's no reason not to attend. Let me ever so briefly tell you about the ground breaking work of Cynthia Brokaw as it relates to book history. 1/ https://t.co/WWTBHvtPHj"
+	},
+	{
+		"created_at": "Tue Nov 23 19:54:16 +0000 2021",
+		"id": 1463088031544533000,
+		"id_str": "1463234464486670348",
+		"full_text": "We are delighted to announce that the Panizzi Lectures will now be available to stream for free, thanks to the generosity of @JAHBookseller Please use the links below to book and if you had previously paid for a ticket you will be refunded. https://t.co/Zywucs4HhK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JAHBookseller",
+					"name": "Jonathan A. Hill, Bookseller",
+					"id": 743815432872820700,
+					"id_str": "743815432872820736",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zywucs4HhK",
+					"expanded_url": "https://twitter.com/BLprintheritage/status/1458451212790022145",
+					"display_url": "twitter.com/BLprintheritag…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092687948523454500,
+			"id_str": "1092687948523454464",
+			"name": "BL Printed Heritage Collections",
+			"screen_name": "BLprintheritage",
+			"location": "London, England",
+			"description": "Western printed heritage collections @BritishLibrary “showing how to make a glorious Light with a candle like the Sun-shine” (bio pic woodcut: shelfmark 1036c6)",
+			"url": "https://t.co/ZJWdwsvyUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZJWdwsvyUx",
+							"expanded_url": "https://www.bl.uk/subjects/printed-books",
+							"display_url": "bl.uk/subjects/print…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5131,
+			"friends_count": 886,
+			"listed_count": 64,
+			"created_at": "Tue Feb 05 07:34:42 +0000 2019",
+			"favourites_count": 5218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092687948523454464/1549401221",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458451212790022100,
+		"quoted_status_id_str": "1458451212790022145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zywucs4HhK",
+			"expanded": "https://twitter.com/BLprintheritage/status/1458451212790022145",
+			"display": "twitter.com/BLprintheritag…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 10 15:07:20 +0000 2021",
+			"id": 1458451212790022100,
+			"id_str": "1458451212790022145",
+			"full_text": "The Panizzi Lectures this year will be given by Cynthia Brokaw on the subject of Woodblock publishing and Chinese book culture in the early modern era. The lectures are free in person or there is a small charge for live streaming. For more details:  https://t.co/VrVW5PrgdG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VrVW5PrgdG",
+						"expanded_url": "https://www.bl.uk/projects/panizzi-lectures",
+						"display_url": "bl.uk/projects/paniz…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1092687948523454500,
+				"id_str": "1092687948523454464",
+				"name": "BL Printed Heritage Collections",
+				"screen_name": "BLprintheritage",
+				"location": "London, England",
+				"description": "Western printed heritage collections @BritishLibrary “showing how to make a glorious Light with a candle like the Sun-shine” (bio pic woodcut: shelfmark 1036c6)",
+				"url": "https://t.co/ZJWdwsvyUx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZJWdwsvyUx",
+								"expanded_url": "https://www.bl.uk/subjects/printed-books",
+								"display_url": "bl.uk/subjects/print…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5131,
+				"friends_count": 886,
+				"listed_count": 64,
+				"created_at": "Tue Feb 05 07:34:42 +0000 2019",
+				"favourites_count": 5218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110154938733260800/AXs7otnw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092687948523454464/1549401221",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are delighted to announce that the Panizzi Lectures will now be available to stream for free, thanks to the generosity of @JAHBookseller Please use the links below to book and if you had previously paid for a ticket you will be refunded. https://t.co/Zywucs4HhK"
+	},
+	{
+		"created_at": "Tue Nov 23 12:58:24 +0000 2021",
+		"id": 1463127192179658800,
+		"id_str": "1463129808913768450",
+		"full_text": "Hello. I would still like your videos of this please. The movie is coming along quite nicely! https://t.co/mXrAwXUuo4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mXrAwXUuo4",
+					"expanded_url": "https://twitter.com/vagtalk/status/1425534973742886919",
+					"display_url": "twitter.com/vagtalk/status…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88697799,
+			"id_str": "88697799",
+			"name": "Sommer Browning",
+			"screen_name": "vagtalk",
+			"location": "Denver",
+			"description": "Poet. Tech Services librarian. Drawer.\nPre-order Good Actors, my new book: https://t.co/36EWFUbLc4\nListen to my joke album: https://t.co/EM6Oxotlnn",
+			"url": "https://t.co/nK4ezfx1Vz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nK4ezfx1Vz",
+							"expanded_url": "http://sommerbrowning.com",
+							"display_url": "sommerbrowning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/36EWFUbLc4",
+							"expanded_url": "http://bit.ly/3faHkf6",
+							"display_url": "bit.ly/3faHkf6",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/EM6Oxotlnn",
+							"expanded_url": "http://bit.ly/3f6BWK5",
+							"display_url": "bit.ly/3f6BWK5",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5535,
+			"friends_count": 2886,
+			"listed_count": 160,
+			"created_at": "Mon Nov 09 16:16:46 +0000 2009",
+			"favourites_count": 39659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947676543639109632/1ybTegrA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947676543639109632/1ybTegrA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88697799/1546784402",
+			"profile_link_color": "850D2D",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1425534973742887000,
+		"quoted_status_id_str": "1425534973742886919",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mXrAwXUuo4",
+			"expanded": "https://twitter.com/vagtalk/status/1425534973742886919",
+			"display": "twitter.com/vagtalk/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 11 19:09:57 +0000 2021",
+			"id": 1425534973742887000,
+			"id_str": "1425534973742886919",
+			"full_text": "WANTED: short videos of automatic soap dispensers dispensing soap. Landscape orientation. Email vid to georgiaartspace@gmail.com. Example below. Merci! (ID: 6 second video of a child's hand reaching under a soap dispenser, the soap dispensing, and the hand being pulled away) https://t.co/EThsBoT0gD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1425534376629178400,
+						"id_str": "1425534376629178368",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425534376629178368/pu/img/vAXHXVPS414hpJHy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425534376629178368/pu/img/vAXHXVPS414hpJHy.jpg",
+						"url": "https://t.co/EThsBoT0gD",
+						"display_url": "pic.twitter.com/EThsBoT0gD",
+						"expanded_url": "https://twitter.com/vagtalk/status/1425534973742886919/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 568,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 568,
+								"h": 320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 568,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1425534376629178400,
+						"id_str": "1425534376629178368",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425534376629178368/pu/img/vAXHXVPS414hpJHy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425534376629178368/pu/img/vAXHXVPS414hpJHy.jpg",
+						"url": "https://t.co/EThsBoT0gD",
+						"display_url": "pic.twitter.com/EThsBoT0gD",
+						"expanded_url": "https://twitter.com/vagtalk/status/1425534973742886919/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 568,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 568,
+								"h": 320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 568,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								71,
+								40
+							],
+							"duration_millis": 6438,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1425534376629178368/pu/vid/568x320/-4ASg2cXbAw0LHbu.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1425534376629178368/pu/vid/478x270/T43O0jUpI_gHbMr3.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1425534376629178368/pu/pl/8PmXqykNIFh1YaRB.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88697799,
+				"id_str": "88697799",
+				"name": "Sommer Browning",
+				"screen_name": "vagtalk",
+				"location": "Denver",
+				"description": "Poet. Tech Services librarian. Drawer.\nPre-order Good Actors, my new book: https://t.co/36EWFUbLc4\nListen to my joke album: https://t.co/EM6Oxotlnn",
+				"url": "https://t.co/nK4ezfx1Vz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nK4ezfx1Vz",
+								"expanded_url": "http://sommerbrowning.com",
+								"display_url": "sommerbrowning.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/36EWFUbLc4",
+								"expanded_url": "http://bit.ly/3faHkf6",
+								"display_url": "bit.ly/3faHkf6",
+								"indices": [
+									75,
+									98
+								]
+							},
+							{
+								"url": "https://t.co/EM6Oxotlnn",
+								"expanded_url": "http://bit.ly/3f6BWK5",
+								"display_url": "bit.ly/3f6BWK5",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5535,
+				"friends_count": 2886,
+				"listed_count": 160,
+				"created_at": "Mon Nov 09 16:16:46 +0000 2009",
+				"favourites_count": 39659,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23837,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947676543639109632/1ybTegrA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947676543639109632/1ybTegrA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88697799/1546784402",
+				"profile_link_color": "850D2D",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello. I would still like your videos of this please. The movie is coming along quite nicely! https://t.co/mXrAwXUuo4"
+	},
+	{
 		"created_at": "Mon Nov 22 21:25:15 +0000 2021",
 		"id": 1462894974060707800,
 		"id_str": "1462894974060707848",
