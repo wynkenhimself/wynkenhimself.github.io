@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 18:52:21 +0000 2021",
+		"id": 1463881213928693800,
+		"id_str": "1463943660018544652",
+		"full_text": "The books are in transit to the distributors, so it's officially official: Shakespeare's 'Lady Editors' will be released in the UK on 9 DECEMBER! Discount code YARN2021 for 20% off through CUP site! #ShakespearesLadyEditors @CUP_LitPerform \n\nhttps://t.co/cK1XnXdKT3 https://t.co/6tmL7dGhg5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShakespearesLadyEditors",
+					"indices": [
+						199,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUP_LitPerform",
+					"name": "Cambridge Literature and Performance",
+					"id": 384393265,
+					"id_str": "384393265",
+					"indices": [
+						224,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cK1XnXdKT3",
+					"expanded_url": "https://www.cambridge.org/gb/academic/subjects/literature/renaissance-and-early-modern-literature/shakespeares-lady-editors-new-history-shakespearean-text?format=HB",
+					"display_url": "cambridge.org/gb/academic/su…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1463880958168473600,
+					"id_str": "1463880958168473603",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FFC_-bkXIAMEB4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFC_-bkXIAMEB4F.jpg",
+					"url": "https://t.co/6tmL7dGhg5",
+					"display_url": "pic.twitter.com/6tmL7dGhg5",
+					"expanded_url": "https://twitter.com/MGYarn/status/1463881213928693763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 427,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 427,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463880958168473600,
+					"id_str": "1463880958168473603",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FFC_-bkXIAMEB4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFC_-bkXIAMEB4F.jpg",
+					"url": "https://t.co/6tmL7dGhg5",
+					"display_url": "pic.twitter.com/6tmL7dGhg5",
+					"expanded_url": "https://twitter.com/MGYarn/status/1463881213928693763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 427,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 427,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1079249448,
+			"id_str": "1079249448",
+			"name": "Molly G. Yarn",
+			"screen_name": "MGYarn",
+			"location": "",
+			"description": "PhD. Independent scholar. Baker. Romance Novel Addict. Ketchup Enthusiast. She/Her. Shax's Lady Editors (CUP), now for sale https://t.co/VYejcleHxn",
+			"url": "https://t.co/944bp0N81m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/944bp0N81m",
+							"expanded_url": "http://www.mollygyarn.com",
+							"display_url": "mollygyarn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VYejcleHxn",
+							"expanded_url": "https://tinyurl.com/45b37wjn",
+							"display_url": "tinyurl.com/45b37wjn",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 744,
+			"friends_count": 1010,
+			"listed_count": 4,
+			"created_at": "Fri Jan 11 10:49:15 +0000 2013",
+			"favourites_count": 1968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317563612039360515/Ji42TzWC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317563612039360515/Ji42TzWC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1079249448/1637604732",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The books are in transit to the distributors, so it's officially official: Shakespeare's 'Lady Editors' will be released in the UK on 9 DECEMBER! Discount code YARN2021 for 20% off through CUP site! #ShakespearesLadyEditors @CUP_LitPerform \n\nhttps://t.co/cK1XnXdKT3 https://t.co/6tmL7dGhg5"
+	},
+	{
+		"created_at": "Thu Nov 25 18:47:19 +0000 2021",
+		"id": 1463942390507520000,
+		"id_str": "1463942390507520009",
+		"full_text": "@avoiding_bears @KathyAcheson You are good enough! They don’t want you to feel you are because they will always want more more more. Kathy is totally right about that. The problem is them not you! But I know this feeling well and I’m really sorry it’s grabbed you.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avoiding_bears",
+					"name": "Kirsty Rolfe",
+					"id": 354306240,
+					"id_str": "354306240",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "KathyAcheson",
+					"name": "koa",
+					"id": 1011836438,
+					"id_str": "1011836438",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1463935088547225600,
+		"in_reply_to_status_id_str": "1463935088547225609",
+		"in_reply_to_user_id": 354306240,
+		"in_reply_to_user_id_str": "354306240",
+		"in_reply_to_screen_name": "avoiding_bears",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10000,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@avoiding_bears @KathyAcheson You are good enough! They don’t want you to feel you are because they will always want more more more. Kathy is totally right about that. The problem is them not you! But I know this feeling well and I’m really sorry it’s grabbed you."
+	},
+	{
+		"created_at": "Thu Nov 25 13:25:08 +0000 2021",
+		"id": 1463861310370848800,
+		"id_str": "1463861310370848774",
+		"full_text": "@KathyAcheson @avoiding_bears Kirsty, a) so much love to you! It is a rotten thing to feel like this and you are in no way inadequate in what you’ve achieved!! And b) Maybe it’d be a helpful perspective to do her nice set of questions just for yourself? Or to slip them into the formal? 💙💙",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KathyAcheson",
+					"name": "koa",
+					"id": 1011836438,
+					"id_str": "1011836438",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "avoiding_bears",
+					"name": "Kirsty Rolfe",
+					"id": 354306240,
+					"id_str": "354306240",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1463858036796272600,
+		"in_reply_to_status_id_str": "1463858036796272645",
+		"in_reply_to_user_id": 1011836438,
+		"in_reply_to_user_id_str": "1011836438",
+		"in_reply_to_screen_name": "KathyAcheson",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10000,
+			"friends_count": 479,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KathyAcheson @avoiding_bears Kirsty, a) so much love to you! It is a rotten thing to feel like this and you are in no way inadequate in what you’ve achieved!! And b) Maybe it’d be a helpful perspective to do her nice set of questions just for yourself? Or to slip them into the formal? 💙💙"
+	},
+	{
 		"created_at": "Wed Nov 24 23:46:42 +0000 2021",
 		"id": 1463618862822396000,
 		"id_str": "1463655347684614149",
