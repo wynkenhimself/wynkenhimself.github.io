@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 28 16:06:51 +0000 2021",
+		"id": 1464978616895299600,
+		"id_str": "1464989173304205318",
+		"full_text": "Folks who teach book history courses: I'm thinking of having my students create an artist book in response to one of our texts (19C American Fiction) as a final project. Does anyone have a prompt for an assignment like this?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1261415036033081300,
+			"id_str": "1261415036033081345",
+			"name": "Kadin Henningsen",
+			"screen_name": "transbookhistry",
+			"location": "Central Illinois",
+			"description": "PhD Student | Trans Book History & 19C Am. Lit. | former sub-sub-librarian | Owner of Meanwhile...Letterpress(@meanwhilelette1) | he/him | Opinions my own.",
+			"url": "https://t.co/jKS7dAtEKE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jKS7dAtEKE",
+							"expanded_url": "https://english.illinois.edu/directory/profile/kjh3",
+							"display_url": "english.illinois.edu/directory/prof…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 932,
+			"friends_count": 1145,
+			"listed_count": 4,
+			"created_at": "Fri May 15 21:56:03 +0000 2020",
+			"favourites_count": 15398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261415036033081345/1636931261",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Folks who teach book history courses: I'm thinking of having my students create an artist book in response to one of our texts (19C American Fiction) as a final project. Does anyone have a prompt for an assignment like this?"
+	},
+	{
 		"created_at": "Sat Nov 27 13:53:29 +0000 2021",
 		"id": 1464593220797714400,
 		"id_str": "1464593220797714434",
