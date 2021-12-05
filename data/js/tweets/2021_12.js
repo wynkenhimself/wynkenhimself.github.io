@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 16:00:22 +0000 2021",
+		"id": 1467161869433675800,
+		"id_str": "1467161869433675779",
+		"full_text": "@IAmDylanLewis @TitaChico1 @LauraRosenthal @karikraus @mkirschenbaum hooray!!",
+		"truncated": false,
+		"display_text_range": [
+			69,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IAmDylanLewis",
+					"name": "Dylan Lewis",
+					"id": 168566657,
+					"id_str": "168566657",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "TitaChico1",
+					"name": "Dr Tita Chico",
+					"id": 1039730301625409500,
+					"id_str": "1039730301625409537",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "LauraRosenthal",
+					"name": "Laura Rosenthal",
+					"id": 110876094,
+					"id_str": "110876094",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "karikraus",
+					"name": "Kari Kraus",
+					"id": 49489995,
+					"id_str": "49489995",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "mkirschenbaum",
+					"name": "Matthew Kirschenbaum",
+					"id": 13598262,
+					"id_str": "13598262",
+					"indices": [
+						54,
+						68
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1466861781721260000,
+		"in_reply_to_status_id_str": "1466861781721260032",
+		"in_reply_to_user_id": 168566657,
+		"in_reply_to_user_id_str": "168566657",
+		"in_reply_to_screen_name": "IAmDylanLewis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10008,
+			"friends_count": 480,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IAmDylanLewis @TitaChico1 @LauraRosenthal @karikraus @mkirschenbaum hooray!!"
+	},
+	{
+		"created_at": "Sat Dec 04 15:57:48 +0000 2021",
+		"id": 1467161223045292000,
+		"id_str": "1467161223045292033",
+		"full_text": "@RickGodden 2 russets, 1 onion, grate, then wrap in a towel and squeeze out as much liquid as possible; mix in one egg, some flour depending on wetness, salt, pepper. Scoop out a forkful, drop into hot oil &amp; flatten, flip when golden, take out, put on paper towel, keep in oven while cooking",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RickGodden",
+					"name": "Rick Godden",
+					"id": 22037438,
+					"id_str": "22037438",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1467160322637189000,
+		"in_reply_to_status_id_str": "1467160322637189125",
+		"in_reply_to_user_id": 22037438,
+		"in_reply_to_user_id_str": "22037438",
+		"in_reply_to_screen_name": "RickGodden",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10008,
+			"friends_count": 480,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RickGodden 2 russets, 1 onion, grate, then wrap in a towel and squeeze out as much liquid as possible; mix in one egg, some flour depending on wetness, salt, pepper. Scoop out a forkful, drop into hot oil &amp; flatten, flip when golden, take out, put on paper towel, keep in oven while cooking"
+	},
+	{
 		"created_at": "Fri Dec 03 17:37:54 +0000 2021",
 		"id": 1466824025867440000,
 		"id_str": "1466824025867440128",
