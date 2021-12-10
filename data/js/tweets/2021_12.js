@@ -1,6 +1,1938 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 22:17:08 +0000 2021",
+		"id": 1469068625621434400,
+		"id_str": "1469068625621434369",
+		"full_text": "@MeganPeiser @SmithsonianNMAI when is ASECS and when are you here because I live here and if you have time I will come downtown to see you!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeganPeiser",
+					"name": "Dr. Megan Peiser",
+					"id": 250674666,
+					"id_str": "250674666",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SmithsonianNMAI",
+					"name": "AmericanIndianMuseum",
+					"id": 18169053,
+					"id_str": "18169053",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1469065651356586000,
+		"in_reply_to_status_id_str": "1469065651356585991",
+		"in_reply_to_user_id": 250674666,
+		"in_reply_to_user_id_str": "250674666",
+		"in_reply_to_screen_name": "MeganPeiser",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MeganPeiser @SmithsonianNMAI when is ASECS and when are you here because I live here and if you have time I will come downtown to see you!"
+	},
+	{
+		"created_at": "Thu Dec 09 22:15:19 +0000 2021",
+		"id": 1469049409216426000,
+		"id_str": "1469068167989374987",
+		"full_text": "Please come join me next summer in🌞 Los Angeles @calRBS and learn about queer 🌈and feminist ✊archival practices! Course info and registration is online now:\nhttps://t.co/b5gRLHhPv9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b5gRLHhPv9",
+					"expanded_url": "https://www.calrbs.org/program/courses/queer-and-feminist-archival-practices/",
+					"display_url": "calrbs.org/program/course…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918609918177022000,
+			"id_str": "918609918177021957",
+			"name": "Rebecka Taves Sheffield, PhD (she/her)",
+			"screen_name": "archivalobjects",
+			"location": "Hamilton, Ontario",
+			"description": "Senior policy advisor for Ontario Digital Service (ODS), archivist by training and affliction, recovering academic. Tweets are my own",
+			"url": "https://t.co/Pp9LxJovyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pp9LxJovyB",
+							"expanded_url": "http://www.rebeckasheffield.com",
+							"display_url": "rebeckasheffield.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 911,
+			"friends_count": 508,
+			"listed_count": 14,
+			"created_at": "Thu Oct 12 22:50:46 +0000 2017",
+			"favourites_count": 2859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219972314470735872/p4pIwQV8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219972314470735872/p4pIwQV8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918609918177021957/1579699042",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please come join me next summer in🌞 Los Angeles @calRBS and learn about queer 🌈and feminist ✊archival practices! Course info and registration is online now:\nhttps://t.co/b5gRLHhPv9"
+	},
+	{
+		"created_at": "Thu Dec 09 17:13:09 +0000 2021",
+		"id": 1468992124729401300,
+		"id_str": "1468992124729401345",
+		"full_text": "@roaringgirle The Grabhorn Press only did 6 maybe but Jane Grabhorn's fake prospectus for a full run is hilarious and amazing (in the 1937 Bookmaking on the Distaff Side): https://t.co/t4BWxK2vVQ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roaringgirle",
+					"name": "claire m. l. bourne",
+					"id": 1314947870,
+					"id_str": "1314947870",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t4BWxK2vVQ",
+					"expanded_url": "https://hdl.handle.net/2027/uc1.c081869458?urlappend=%3Bseq=128%3Bownerid=13510798903932609-132",
+					"display_url": "hdl.handle.net/2027/uc1.c0818…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1468987030671696000,
+		"in_reply_to_status_id_str": "1468987030671695872",
+		"in_reply_to_user_id": 1314947870,
+		"in_reply_to_user_id_str": "1314947870",
+		"in_reply_to_screen_name": "roaringgirle",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@roaringgirle The Grabhorn Press only did 6 maybe but Jane Grabhorn's fake prospectus for a full run is hilarious and amazing (in the 1937 Bookmaking on the Distaff Side): https://t.co/t4BWxK2vVQ"
+	},
+	{
+		"created_at": "Thu Dec 09 17:07:13 +0000 2021",
+		"id": 1468989713608499200,
+		"id_str": "1468990631817134084",
+		"full_text": "BREAKING! In a huge development, the @metmuseum is removing the Sackler name from the Sackler wing and other galleries.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metmuseum",
+					"name": "The Metropolitan Museum of Art",
+					"id": 17057271,
+					"id_str": "17057271",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380524610,
+			"id_str": "380524610",
+			"name": "Patrick Radden Keefe",
+			"screen_name": "praddenkeefe",
+			"location": "1 World Trade Ctr 23rd Fl. NYC",
+			"description": "Staff writer @NewYorker. Author: SAY NOTHING. Podcast: WIND OF CHANGE. New book: EMPIRE OF PAIN: THE SECRET HISTORY OF THE SACKLER DYNASTY out now.",
+			"url": "https://t.co/rZLE4ea6gT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rZLE4ea6gT",
+							"expanded_url": "https://www.patrickraddenkeefe.com/",
+							"display_url": "patrickraddenkeefe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61628,
+			"friends_count": 1243,
+			"listed_count": 613,
+			"created_at": "Mon Sep 26 19:58:33 +0000 2011",
+			"favourites_count": 17524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/446024091653251072/KiQdpLGj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/446024091653251072/KiQdpLGj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380524610/1611681010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2916,
+		"favorite_count": 22859,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING! In a huge development, the @metmuseum is removing the Sackler name from the Sackler wing and other galleries."
+	},
+	{
+		"created_at": "Thu Dec 09 17:04:20 +0000 2021",
+		"id": 1468961358976749600,
+		"id_str": "1468989905518964746",
+		"full_text": "Tomorrow is Emily Dickinson's 191st birthday. How are you planning to celebrate? Might I suggest you join me and my @HoughtonLib colleagues at 3PM EST for a virtual birthday extravaganza?\n\nhttps://t.co/1fe9vNzUnA https://t.co/8HpoY8ZHHr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HoughtonLib",
+					"name": "Houghton Library",
+					"id": 476223503,
+					"id_str": "476223503",
+					"indices": [
+						116,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1fe9vNzUnA",
+					"expanded_url": "https://bit.ly/DickinsonBirthdayParty",
+					"display_url": "bit.ly/DickinsonBirth…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468950332289941500,
+					"id_str": "1468950332289941516",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLCi1zVgAwf_gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGLCi1zVgAwf_gb.jpg",
+					"url": "https://t.co/8HpoY8ZHHr",
+					"display_url": "pic.twitter.com/8HpoY8ZHHr",
+					"expanded_url": "https://twitter.com/internetstine/status/1468961358976749570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468950332289941500,
+					"id_str": "1468950332289941516",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLCi1zVgAwf_gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGLCi1zVgAwf_gb.jpg",
+					"url": "https://t.co/8HpoY8ZHHr",
+					"display_url": "pic.twitter.com/8HpoY8ZHHr",
+					"expanded_url": "https://twitter.com/internetstine/status/1468961358976749570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326660319,
+			"id_str": "326660319",
+			"name": "Christine Jacobson",
+			"screen_name": "internetstine",
+			"location": "Cambridge, MA",
+			"description": "Assistant Curator of Modern Books & Manuscripts @houghtonlibrary ✍️ about material culture, novels, fashion, Slavica, sundry",
+			"url": "https://t.co/gfopvCmZNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gfopvCmZNA",
+							"expanded_url": "https://hcommons.org/members/jacobsoc/",
+							"display_url": "hcommons.org/members/jacobs…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2705,
+			"friends_count": 1797,
+			"listed_count": 25,
+			"created_at": "Thu Jun 30 08:27:18 +0000 2011",
+			"favourites_count": 42743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461054855372443649/FLtQeaBn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461054855372443649/FLtQeaBn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326660319/1608179652",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FEFFF7",
+			"profile_text_color": "0F0E0F",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow is Emily Dickinson's 191st birthday. How are you planning to celebrate? Might I suggest you join me and my @HoughtonLib colleagues at 3PM EST for a virtual birthday extravaganza?\n\nhttps://t.co/1fe9vNzUnA https://t.co/8HpoY8ZHHr"
+	},
+	{
+		"created_at": "Thu Dec 09 16:32:43 +0000 2021",
+		"id": 1468981948563533800,
+		"id_str": "1468981948563533831",
+		"full_text": "@kevinforsyth ahhh that's hilarious and great! twitter jokes ftw",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevinforsyth",
+					"name": "Kevin Forsyth",
+					"id": 21885651,
+					"id_str": "21885651",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468977466911899600,
+		"in_reply_to_status_id_str": "1468977466911899655",
+		"in_reply_to_user_id": 21885651,
+		"in_reply_to_user_id_str": "21885651",
+		"in_reply_to_screen_name": "kevinforsyth",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kevinforsyth ahhh that's hilarious and great! twitter jokes ftw"
+	},
+	{
+		"created_at": "Thu Dec 09 15:47:19 +0000 2021",
+		"id": 1468966987980103700,
+		"id_str": "1468970521849045012",
+		"full_text": "Eileen Myles has the same birthday as John Milton — did you know that? “So I don’t have to / write long poems about / heaven &amp; hell — everything’s / been lost in my lifetime”   Happy birthday! https://t.co/JCFxb9XXFW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468966982271651800,
+					"id_str": "1468966982271651852",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLRr_0UUAwPPtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGLRr_0UUAwPPtw.jpg",
+					"url": "https://t.co/JCFxb9XXFW",
+					"display_url": "pic.twitter.com/JCFxb9XXFW",
+					"expanded_url": "https://twitter.com/AndrewEpstein3/status/1468966987980103688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 950,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1401,
+							"h": 1769,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468966982271651800,
+					"id_str": "1468966982271651852",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLRr_0UUAwPPtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGLRr_0UUAwPPtw.jpg",
+					"url": "https://t.co/JCFxb9XXFW",
+					"display_url": "pic.twitter.com/JCFxb9XXFW",
+					"expanded_url": "https://twitter.com/AndrewEpstein3/status/1468966987980103688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 950,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1401,
+							"h": 1769,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1061101291,
+			"id_str": "1061101291",
+			"name": "Andrew Epstein",
+			"screen_name": "AndrewEpstein3",
+			"location": "Tallahassee, FL",
+			"description": "English prof @FloridaState; Locus Solus: The New York School of Poets; \"Attention Equals Life: The Pursuit of the Everyday in Contemporary Poetry & Culture\"",
+			"url": "https://t.co/Il7wMdScod",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Il7wMdScod",
+							"expanded_url": "https://english.fsu.edu/faculty/andrew-epstein",
+							"display_url": "english.fsu.edu/faculty/andrew…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3812,
+			"friends_count": 3008,
+			"listed_count": 69,
+			"created_at": "Fri Jan 04 18:22:50 +0000 2013",
+			"favourites_count": 84341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959417534268178433/zsHfBPvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959417534268178433/zsHfBPvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1061101291/1467115832",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Eileen Myles has the same birthday as John Milton — did you know that? “So I don’t have to / write long poems about / heaven &amp; hell — everything’s / been lost in my lifetime”   Happy birthday! https://t.co/JCFxb9XXFW"
+	},
+	{
+		"created_at": "Thu Dec 09 15:43:58 +0000 2021",
+		"id": 1468969678961713200,
+		"id_str": "1468969678961713163",
+		"full_text": "Also success is how you define it. Today I am celebrating that I am showered and upright.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468968626166190000,
+		"in_reply_to_status_id_str": "1468968626166190093",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also success is how you define it. Today I am celebrating that I am showered and upright."
+	},
+	{
+		"created_at": "Thu Dec 09 15:40:55 +0000 2021",
+		"id": 1468968911664128000,
+		"id_str": "1468968911664128004",
+		"full_text": "(This is a way better plan than the complaining about weird encounters I’ve had recently with women not being feminist and yet somehow part of feminist activities?)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "(This is a way better plan than the complaining about weird encounters I’ve had recently with women not being feminist and yet somehow part of feminist activities?)"
+	},
+	{
+		"created_at": "Thu Dec 09 15:39:47 +0000 2021",
+		"id": 1468968626166190000,
+		"id_str": "1468968626166190093",
+		"full_text": "Truly the things that make the happiest is when I see great things happening for people I like. Your successes are so joyous! So do you want to brag to me so I can be happy for you? Reply and I will cheer!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Truly the things that make the happiest is when I see great things happening for people I like. Your successes are so joyous! So do you want to brag to me so I can be happy for you? Reply and I will cheer!"
+	},
+	{
+		"created_at": "Thu Dec 09 15:31:48 +0000 2021",
+		"id": 1468966616515833900,
+		"id_str": "1468966616515833861",
+		"full_text": "I should've stuck #FemBib on there because this is absolutely a feminist bibliography issue--both who we've ignored and hidden and how we talk about that importance. Not all women who edit are feminists, btw, so let's not assume that. But definitely let's talk about it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FemBib",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1468965431532654600,
+		"in_reply_to_status_id_str": "1468965431532654610",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I should've stuck #FemBib on there because this is absolutely a feminist bibliography issue--both who we've ignored and hidden and how we talk about that importance. Not all women who edit are feminists, btw, so let's not assume that. But definitely let's talk about it."
+	},
+	{
+		"created_at": "Thu Dec 09 15:27:05 +0000 2021",
+		"id": 1468965431532654600,
+		"id_str": "1468965431532654610",
+		"full_text": "And @MGYarn's response to how Shakespeare would feel is so good I'm just putting the highlights of it here: \"I sort of ... don’t care what he would think. ... We all make our own Shakespeares – his feelings don’t necessarily have much to do with it.” &lt;3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MGYarn",
+					"name": "Molly G. Yarn",
+					"id": 1079249448,
+					"id_str": "1079249448",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1468965123272310800,
+		"in_reply_to_status_id_str": "1468965123272310801",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And @MGYarn's response to how Shakespeare would feel is so good I'm just putting the highlights of it here: \"I sort of ... don’t care what he would think. ... We all make our own Shakespeares – his feelings don’t necessarily have much to do with it.” &lt;3"
+	},
+	{
+		"created_at": "Thu Dec 09 15:25:52 +0000 2021",
+		"id": 1468965123272310800,
+		"id_str": "1468965123272310801",
+		"full_text": "I preordered this and am obviously already excited about Molly Yarn's work, but reading her on what Shakespeare would say about being edited by women? Perfect. Click through for this great Guardian piece. + https://t.co/tnOZF0AXWO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tnOZF0AXWO",
+					"expanded_url": "https://twitter.com/MGYarn/status/1468933796770861064",
+					"display_url": "twitter.com/MGYarn/status/…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10019,
+			"friends_count": 479,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468933796770861000,
+		"quoted_status_id_str": "1468933796770861064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tnOZF0AXWO",
+			"expanded": "https://twitter.com/MGYarn/status/1468933796770861064",
+			"display": "twitter.com/MGYarn/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 09 13:21:23 +0000 2021",
+			"id": 1468933796770861000,
+			"id_str": "1468933796770861064",
+			"full_text": "It's my book's release day in the UK! And it's in the Guardian! Shakespeare's 'Lady Editors': A New History of the Shakespearean Text (CUP) is now available TO BUY. @CUP_LitPerform @CambShakespeare #ShakespearesLadyEditors\n\nhttps://t.co/DdluS1lLEA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ShakespearesLadyEditors",
+						"indices": [
+							198,
+							222
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CUP_LitPerform",
+						"name": "Cambridge Literature and Performance",
+						"id": 384393265,
+						"id_str": "384393265",
+						"indices": [
+							165,
+							180
+						]
+					},
+					{
+						"screen_name": "CambShakespeare",
+						"name": "CambShakespeare",
+						"id": 137374189,
+						"id_str": "137374189",
+						"indices": [
+							181,
+							197
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DdluS1lLEA",
+						"expanded_url": "https://www.theguardian.com/books/2021/dec/09/new-book-celebrates-the-lost-work-of-shakespeares-female-editors",
+						"display_url": "theguardian.com/books/2021/dec…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1079249448,
+				"id_str": "1079249448",
+				"name": "Molly G. Yarn",
+				"screen_name": "MGYarn",
+				"location": "",
+				"description": "PhD. Independent scholar. Baker. Romance Novel Addict. Ketchup Enthusiast. She/Her. Shax's Lady Editors (CUP), now for sale https://t.co/VYejcleHxn",
+				"url": "https://t.co/944bp0N81m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/944bp0N81m",
+								"expanded_url": "http://www.mollygyarn.com",
+								"display_url": "mollygyarn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VYejcleHxn",
+								"expanded_url": "https://tinyurl.com/45b37wjn",
+								"display_url": "tinyurl.com/45b37wjn",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 783,
+				"friends_count": 1013,
+				"listed_count": 4,
+				"created_at": "Fri Jan 11 10:49:15 +0000 2013",
+				"favourites_count": 2078,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1317563612039360515/Ji42TzWC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317563612039360515/Ji42TzWC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1079249448/1637604732",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 176,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I preordered this and am obviously already excited about Molly Yarn's work, but reading her on what Shakespeare would say about being edited by women? Perfect. Click through for this great Guardian piece. + https://t.co/tnOZF0AXWO"
+	},
+	{
+		"created_at": "Thu Dec 09 15:23:12 +0000 2021",
+		"id": 1468933796770861000,
+		"id_str": "1468964454603767808",
+		"full_text": "It's my book's release day in the UK! And it's in the Guardian! Shakespeare's 'Lady Editors': A New History of the Shakespearean Text (CUP) is now available TO BUY. @CUP_LitPerform @CambShakespeare #ShakespearesLadyEditors\n\nhttps://t.co/DdluS1lLEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShakespearesLadyEditors",
+					"indices": [
+						198,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUP_LitPerform",
+					"name": "Cambridge Literature and Performance",
+					"id": 384393265,
+					"id_str": "384393265",
+					"indices": [
+						165,
+						180
+					]
+				},
+				{
+					"screen_name": "CambShakespeare",
+					"name": "CambShakespeare",
+					"id": 137374189,
+					"id_str": "137374189",
+					"indices": [
+						181,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DdluS1lLEA",
+					"expanded_url": "https://www.theguardian.com/books/2021/dec/09/new-book-celebrates-the-lost-work-of-shakespeares-female-editors",
+					"display_url": "theguardian.com/books/2021/dec…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1079249448,
+			"id_str": "1079249448",
+			"name": "Molly G. Yarn",
+			"screen_name": "MGYarn",
+			"location": "",
+			"description": "PhD. Independent scholar. Baker. Romance Novel Addict. Ketchup Enthusiast. She/Her. Shax's Lady Editors (CUP), now for sale https://t.co/VYejcleHxn",
+			"url": "https://t.co/944bp0N81m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/944bp0N81m",
+							"expanded_url": "http://www.mollygyarn.com",
+							"display_url": "mollygyarn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VYejcleHxn",
+							"expanded_url": "https://tinyurl.com/45b37wjn",
+							"display_url": "tinyurl.com/45b37wjn",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 783,
+			"friends_count": 1013,
+			"listed_count": 4,
+			"created_at": "Fri Jan 11 10:49:15 +0000 2013",
+			"favourites_count": 2078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317563612039360515/Ji42TzWC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317563612039360515/Ji42TzWC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1079249448/1637604732",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's my book's release day in the UK! And it's in the Guardian! Shakespeare's 'Lady Editors': A New History of the Shakespearean Text (CUP) is now available TO BUY. @CUP_LitPerform @CambShakespeare #ShakespearesLadyEditors\n\nhttps://t.co/DdluS1lLEA"
+	},
+	{
 		"created_at": "Wed Dec 08 23:14:59 +0000 2021",
 		"id": 1468720794389864400,
 		"id_str": "1468720794389864448",
@@ -906,7 +2838,7 @@ Grailbird.data.tweets_2021_12 =
 			"created_at": "Wed Dec 08 12:40:17 +0000 2021",
 			"id": 1468561066397511700,
 			"id_str": "1468561066397511680",
-			"full_text": "Book unwrap! Huge thanks to everyone ⁦@kingshistory⁩ ⁦@CambridgeUP⁩ who helped sew it together. https://t.co/gQVdNJEGSb",
+			"full_text": "Book unwrap! Huge thanks to everyone @kingshistory @CambridgeUP who helped sew it together. https://t.co/gQVdNJEGSb",
 			"truncated": false,
 			"display_text_range": [
 				0,
