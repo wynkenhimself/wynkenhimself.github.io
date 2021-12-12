@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 18:54:33 +0000 2021",
+		"id": 1469700316702691300,
+		"id_str": "1469742419033874433",
+		"full_text": "“A choice pushed onto those without other options is a choice in name only.” If abortion isn’t an option, adoption isn’t a choice, and Nicole is the best person on earth to write about why https://t.co/duHKGbwrei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/duHKGbwrei",
+					"expanded_url": "https://twitter.com/nicolesjchung/status/1469012625518473221",
+					"display_url": "twitter.com/nicolesjchung/…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14714760,
+			"id_str": "14714760",
+			"name": "Jess Zimmerman",
+			"screen_name": "j_zimms",
+			"location": "Brooklyn",
+			"description": "Editor at @quirkbooks, writer, sad old goth. Submission wishlist: https://t.co/unhckJj90d Women and Other Monsters: https://t.co/Ot2ZCyjjMH jzimmerman@quirkbooks.com",
+			"url": "https://t.co/O8mpth57nq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O8mpth57nq",
+							"expanded_url": "http://jesszimmerman.com",
+							"display_url": "jesszimmerman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/unhckJj90d",
+							"expanded_url": "http://bit.ly/3Bd1Fbw",
+							"display_url": "bit.ly/3Bd1Fbw",
+							"indices": [
+								66,
+								89
+							]
+						},
+						{
+							"url": "https://t.co/Ot2ZCyjjMH",
+							"expanded_url": "http://bit.ly/3BgxyQo",
+							"display_url": "bit.ly/3BgxyQo",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23600,
+			"friends_count": 1082,
+			"listed_count": 422,
+			"created_at": "Fri May 09 15:46:14 +0000 2008",
+			"favourites_count": 56798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 30404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445220563010588673/PpNrPpsy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445220563010588673/PpNrPpsy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14714760/1626443485",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "030303",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1469012625518473200,
+		"quoted_status_id_str": "1469012625518473221",
+		"quoted_status_permalink": {
+			"url": "https://t.co/duHKGbwrei",
+			"expanded": "https://twitter.com/nicolesjchung/status/1469012625518473221",
+			"display": "twitter.com/nicolesjchung/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 09 18:34:37 +0000 2021",
+			"id": 1469012625518473200,
+			"id_str": "1469012625518473221",
+			"full_text": "my latest, on why it is callous and irresponsible to promote adoption as a solution to “the burden of parenthood” and minimize its traumas and complexities: https://t.co/Ou7eq9FUNZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ou7eq9FUNZ",
+						"expanded_url": "https://newsletters.theatlantic.com/i-have-notes/61b0d4b4dd6c7f002330d82a/adoption-birth-parents-choice/",
+						"display_url": "newsletters.theatlantic.com/i-have-notes/6…",
+						"indices": [
+							157,
+							180
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739602678,
+				"id_str": "739602678",
+				"name": "Nicole Chung",
+				"screen_name": "nicolesjchung",
+				"location": "",
+				"description": "author of ALL YOU CAN EVER KNOW, contributing writer & editor @TheAtlantic. newsletter ➡️ https://t.co/zcMyeBMtfR",
+				"url": "https://t.co/eN8q3zLA9u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eN8q3zLA9u",
+								"expanded_url": "https://bookshop.org/books/all-you-can-ever-know/9781948226370",
+								"display_url": "bookshop.org/books/all-you-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zcMyeBMtfR",
+								"expanded_url": "http://newsletters.theatlantic.com/i-have-notes/",
+								"display_url": "newsletters.theatlantic.com/i-have-notes/",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 89607,
+				"friends_count": 3753,
+				"listed_count": 911,
+				"created_at": "Mon Aug 06 01:33:31 +0000 2012",
+				"favourites_count": 116609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59352,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F3F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466138245234888714/aCN1b91R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466138245234888714/aCN1b91R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739602678/1639262914",
+				"profile_link_color": "0665B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 386,
+			"favorite_count": 1555,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“A choice pushed onto those without other options is a choice in name only.” If abortion isn’t an option, adoption isn’t a choice, and Nicole is the best person on earth to write about why https://t.co/duHKGbwrei"
+	},
+	{
+		"created_at": "Sat Dec 11 18:13:50 +0000 2021",
+		"id": 1469731192094269400,
+		"id_str": "1469732172265365512",
+		"full_text": "icymi, I wrote about how those who claim that abortion is unnecessary because adoption and “safe haven” laws exist are making a cruel and misleading argument https://t.co/EEbSZh8GDv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EEbSZh8GDv",
+					"expanded_url": "https://twitter.com/nicolesjchung/status/1469012625518473221",
+					"display_url": "twitter.com/nicolesjchung/…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739602678,
+			"id_str": "739602678",
+			"name": "Nicole Chung",
+			"screen_name": "nicolesjchung",
+			"location": "",
+			"description": "author of ALL YOU CAN EVER KNOW, contributing writer & editor @TheAtlantic. newsletter ➡️ https://t.co/zcMyeBMtfR",
+			"url": "https://t.co/eN8q3zLA9u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eN8q3zLA9u",
+							"expanded_url": "https://bookshop.org/books/all-you-can-ever-know/9781948226370",
+							"display_url": "bookshop.org/books/all-you-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zcMyeBMtfR",
+							"expanded_url": "http://newsletters.theatlantic.com/i-have-notes/",
+							"display_url": "newsletters.theatlantic.com/i-have-notes/",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 89607,
+			"friends_count": 3753,
+			"listed_count": 911,
+			"created_at": "Mon Aug 06 01:33:31 +0000 2012",
+			"favourites_count": 116609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 59352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F3F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466138245234888714/aCN1b91R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466138245234888714/aCN1b91R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739602678/1639262914",
+			"profile_link_color": "0665B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1469012625518473200,
+		"quoted_status_id_str": "1469012625518473221",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EEbSZh8GDv",
+			"expanded": "https://twitter.com/nicolesjchung/status/1469012625518473221",
+			"display": "twitter.com/nicolesjchung/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 09 18:34:37 +0000 2021",
+			"id": 1469012625518473200,
+			"id_str": "1469012625518473221",
+			"full_text": "my latest, on why it is callous and irresponsible to promote adoption as a solution to “the burden of parenthood” and minimize its traumas and complexities: https://t.co/Ou7eq9FUNZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ou7eq9FUNZ",
+						"expanded_url": "https://newsletters.theatlantic.com/i-have-notes/61b0d4b4dd6c7f002330d82a/adoption-birth-parents-choice/",
+						"display_url": "newsletters.theatlantic.com/i-have-notes/6…",
+						"indices": [
+							157,
+							180
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739602678,
+				"id_str": "739602678",
+				"name": "Nicole Chung",
+				"screen_name": "nicolesjchung",
+				"location": "",
+				"description": "author of ALL YOU CAN EVER KNOW, contributing writer & editor @TheAtlantic. newsletter ➡️ https://t.co/zcMyeBMtfR",
+				"url": "https://t.co/eN8q3zLA9u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eN8q3zLA9u",
+								"expanded_url": "https://bookshop.org/books/all-you-can-ever-know/9781948226370",
+								"display_url": "bookshop.org/books/all-you-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zcMyeBMtfR",
+								"expanded_url": "http://newsletters.theatlantic.com/i-have-notes/",
+								"display_url": "newsletters.theatlantic.com/i-have-notes/",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 89607,
+				"friends_count": 3753,
+				"listed_count": 911,
+				"created_at": "Mon Aug 06 01:33:31 +0000 2012",
+				"favourites_count": 116609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59352,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F3F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466138245234888714/aCN1b91R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466138245234888714/aCN1b91R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739602678/1639262914",
+				"profile_link_color": "0665B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 386,
+			"favorite_count": 1555,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 39,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "icymi, I wrote about how those who claim that abortion is unnecessary because adoption and “safe haven” laws exist are making a cruel and misleading argument https://t.co/EEbSZh8GDv"
+	},
+	{
+		"created_at": "Sat Dec 11 15:34:29 +0000 2021",
+		"id": 1469692067483897900,
+		"id_str": "1469692067483897856",
+		"full_text": "@meganlcook It’s the worst. I wear them at home sometimes but really my lipsticks deserve to be seen out and about. Especially because my whole style is basically a strong lip and if you can’t see that then what even is the point?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook is trying her best",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469691044916781000,
+		"in_reply_to_status_id_str": "1469691044916781056",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10023,
+			"friends_count": 480,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook It’s the worst. I wear them at home sometimes but really my lipsticks deserve to be seen out and about. Especially because my whole style is basically a strong lip and if you can’t see that then what even is the point?"
+	},
+	{
+		"created_at": "Sat Dec 11 15:10:54 +0000 2021",
+		"id": 1469686132799684600,
+		"id_str": "1469686132799684614",
+		"full_text": "@meganlcook Also the Sephora line of cream lip stains is really great. Pre-pandemic they were my go-to and they actually keep on decently under a mask too",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook is trying her best",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469685868785025000,
+		"in_reply_to_status_id_str": "1469685868785025028",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10023,
+			"friends_count": 480,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook Also the Sephora line of cream lip stains is really great. Pre-pandemic they were my go-to and they actually keep on decently under a mask too"
+	},
+	{
 		"created_at": "Fri Dec 10 23:37:10 +0000 2021",
 		"id": 1469451152743932000,
 		"id_str": "1469451152743931906",
