@@ -1,6 +1,1127 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 01:46:53 +0000 2021",
+		"id": 1471291213651366000,
+		"id_str": "1471295736189009936",
+		"full_text": "Climate change is revealing all sorts of terrifying new tragedies https://t.co/60u0330bA6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/60u0330bA6",
+					"expanded_url": "https://twitter.com/capitalweather/status/1471242354698952704",
+					"display_url": "twitter.com/capitalweather…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 681473,
+			"id_str": "681473",
+			"name": "Jacob Harris",
+			"screen_name": "harrisj",
+			"location": "Takoma Park, MD",
+			"description": "Software Engineering Lead at @NavaPBC, proud former troublemaker at @18F and @nytimes. Data scold. Personal account: @harrisj_self. Views solely my own.",
+			"url": "https://t.co/rINZDLBcoa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rINZDLBcoa",
+							"expanded_url": "https://harrisj.github.io/",
+							"display_url": "harrisj.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15883,
+			"friends_count": 711,
+			"listed_count": 1104,
+			"created_at": "Mon Jan 22 17:04:43 +0000 2007",
+			"favourites_count": 26128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 188602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/596413350533320704/A8kBJwuw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/596413350533320704/A8kBJwuw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/681473/1398864865",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "585858",
+			"profile_sidebar_fill_color": "D2D2D2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471242354698952700,
+		"quoted_status_id_str": "1471242354698952704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/60u0330bA6",
+			"expanded": "https://twitter.com/capitalweather/status/1471242354698952704",
+			"display": "twitter.com/capitalweather…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 15 22:14:46 +0000 2021",
+			"id": 1471242354698952700,
+			"id_str": "1471242354698952704",
+			"full_text": "Wildly dangerous situation in Central US.\n* Derecho/storm complex with 60-95 mph winds + tornadoes, racing into Iowa at speeds of 85-100 mph\n* Dust storms in Kansas\n* Fires in Texas/Okla panhandle\nThe latest: https://t.co/S4WsX84QkW https://t.co/od5ZWRAbCO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S4WsX84QkW",
+						"expanded_url": "https://wapo.st/3GKhRDL",
+						"display_url": "wapo.st/3GKhRDL",
+						"indices": [
+							209,
+							232
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1471241540915896300,
+						"id_str": "1471241540915896330",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/FGrmYvEXIAouLM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGrmYvEXIAouLM1.jpg",
+						"url": "https://t.co/od5ZWRAbCO",
+						"display_url": "pic.twitter.com/od5ZWRAbCO",
+						"expanded_url": "https://twitter.com/capitalweather/status/1471242354698952704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 694,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1361,
+								"h": 787,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1471241540915896300,
+						"id_str": "1471241540915896330",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/FGrmYvEXIAouLM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGrmYvEXIAouLM1.jpg",
+						"url": "https://t.co/od5ZWRAbCO",
+						"display_url": "pic.twitter.com/od5ZWRAbCO",
+						"expanded_url": "https://twitter.com/capitalweather/status/1471242354698952704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 694,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1361,
+								"h": 787,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15309804,
+				"id_str": "15309804",
+				"name": "Capital Weather Gang",
+				"screen_name": "capitalweather",
+				"location": "Washington, D.C.",
+				"description": "D.C.-area and worldwide weather news from the Washington Post | contact: weather@washpost.com",
+				"url": "https://t.co/7ZF54aI7po",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7ZF54aI7po",
+								"expanded_url": "https://www.washingtonpost.com/weather",
+								"display_url": "washingtonpost.com/weather",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1092930,
+				"friends_count": 2121,
+				"listed_count": 5766,
+				"created_at": "Thu Jul 03 16:18:31 +0000 2008",
+				"favourites_count": 37737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 104103,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690370402997125120/z108UqEi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690370402997125120/z108UqEi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15309804/1616531345",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Climate change is revealing all sorts of terrifying new tragedies https://t.co/60u0330bA6"
+	},
+	{
+		"created_at": "Wed Dec 15 18:10:26 +0000 2021",
+		"id": 1471180868656013300,
+		"id_str": "1471180868656013320",
+		"full_text": "just gutted about bell hooks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10025,
+			"friends_count": 480,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "just gutted about bell hooks"
+	},
+	{
+		"created_at": "Wed Dec 15 18:06:23 +0000 2021",
+		"id": 1471177693295169500,
+		"id_str": "1471179848957796365",
+		"full_text": "shocking, devastating, devastating, devastating...69 years old. Black women can never rest and so we die early.\nhttps://t.co/Y75AQWAYad #BellHooks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BellHooks",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y75AQWAYad",
+					"expanded_url": "https://www.kentucky.com/news/state/kentucky/article256616171.html",
+					"display_url": "kentucky.com/news/state/ken…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148192924,
+			"id_str": "148192924",
+			"name": "Keeanga-Yamahtta Taylor",
+			"screen_name": "KeeangaYamahtta",
+			"location": "Philadelphia, PA",
+			"description": "Professor of African American Studies, Princeton, 2021 MacArthur Fellow, Pulitzer finalist, contributing writer @NewYorker",
+			"url": "https://t.co/iJm8d0zrY7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iJm8d0zrY7",
+							"expanded_url": "http://keeangataylor.com",
+							"display_url": "keeangataylor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124363,
+			"friends_count": 1379,
+			"listed_count": 1044,
+			"created_at": "Wed May 26 02:37:39 +0000 2010",
+			"favourites_count": 30203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126285191784357890/nYeCtP-D_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126285191784357890/nYeCtP-D_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148192924/1557362250",
+			"profile_link_color": "74B300",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "shocking, devastating, devastating, devastating...69 years old. Black women can never rest and so we die early.\nhttps://t.co/Y75AQWAYad #BellHooks"
+	},
+	{
+		"created_at": "Wed Dec 15 18:05:01 +0000 2021",
+		"id": 1471163008260968400,
+		"id_str": "1471179505037463560",
+		"full_text": "Rest In Peace and Power, bell hooks. \n\nThank you for everything. https://t.co/3oaIdTrAfD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471162985892692000,
+					"id_str": "1471162985892691968",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqe8OzWQAAK5Q2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqe8OzWQAAK5Q2.jpg",
+					"url": "https://t.co/3oaIdTrAfD",
+					"display_url": "pic.twitter.com/3oaIdTrAfD",
+					"expanded_url": "https://twitter.com/blkwomenradical/status/1471163008260968451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 870,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1550,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471162985892692000,
+					"id_str": "1471162985892691968",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqe8OzWQAAK5Q2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqe8OzWQAAK5Q2.jpg",
+					"url": "https://t.co/3oaIdTrAfD",
+					"display_url": "pic.twitter.com/3oaIdTrAfD",
+					"expanded_url": "https://twitter.com/blkwomenradical/status/1471163008260968451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 870,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1550,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1036779185660993500,
+			"id_str": "1036779185660993536",
+			"name": "Black Women Radicals",
+			"screen_name": "blkwomenradical",
+			"location": "Everywhere",
+			"description": "Black Women Radicals is a Black feminist advocacy organization dedicated to uplifting Black feminist activism. We are here & always have been.",
+			"url": "https://t.co/53hUDrWJpj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/53hUDrWJpj",
+							"expanded_url": "https://linktr.ee/blackwomenradicals",
+							"display_url": "linktr.ee/blackwomenradi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63606,
+			"friends_count": 2760,
+			"listed_count": 399,
+			"created_at": "Tue Sep 04 00:53:15 +0000 2018",
+			"favourites_count": 64038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1430604218327523332/vaOAWdsj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430604218327523332/vaOAWdsj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1036779185660993536/1613523528",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11457,
+		"favorite_count": 33795,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rest In Peace and Power, bell hooks. \n\nThank you for everything. https://t.co/3oaIdTrAfD"
+	},
+	{
+		"created_at": "Wed Dec 15 18:04:15 +0000 2021",
+		"id": 1471155911133704200,
+		"id_str": "1471179309188538373",
+		"full_text": "Obituary: bell hooks, a Hopkinsville native who went on to an international career as an author, critic, feminist and public intellectual, died on Dec. 15 at her home in Berea. She was 69. @lbblackford  https://t.co/aYwR0vTjQx https://t.co/46IwlLuxzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lbblackford",
+					"name": "Linda Blackford",
+					"id": 20619454,
+					"id_str": "20619454",
+					"indices": [
+						189,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aYwR0vTjQx",
+					"expanded_url": "https://www.kentucky.com/news/state/kentucky/article256616171.html",
+					"display_url": "kentucky.com/news/state/ken…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471155564243730400,
+					"id_str": "1471155564243730437",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqYMPAWQAU1IC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqYMPAWQAU1IC4.jpg",
+					"url": "https://t.co/46IwlLuxzf",
+					"display_url": "pic.twitter.com/46IwlLuxzf",
+					"expanded_url": "https://twitter.com/heraldleader/status/1471155911133704197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471155564243730400,
+					"id_str": "1471155564243730437",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqYMPAWQAU1IC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqYMPAWQAU1IC4.jpg",
+					"url": "https://t.co/46IwlLuxzf",
+					"display_url": "pic.twitter.com/46IwlLuxzf",
+					"expanded_url": "https://twitter.com/heraldleader/status/1471155911133704197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471155629230370800,
+					"id_str": "1471155629230370827",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqYQBGXsAsdCz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqYQBGXsAsdCz5.jpg",
+					"url": "https://t.co/46IwlLuxzf",
+					"display_url": "pic.twitter.com/46IwlLuxzf",
+					"expanded_url": "https://twitter.com/heraldleader/status/1471155911133704197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1140,
+							"h": 760,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11612722,
+			"id_str": "11612722",
+			"name": "Lexington Herald-Leader",
+			"screen_name": "heraldleader",
+			"location": "Lexington, Kentucky",
+			"description": "Follow us for news from the Lexington Herald-Leader and our\nwebsite https://t.co/HHcHyaozFG. Also follow @kentuckysports, @hlpublicsafety, @BGPolitics, @LexGoEat",
+			"url": "https://t.co/kuopLJud1f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kuopLJud1f",
+							"expanded_url": "http://www.kentucky.com",
+							"display_url": "kentucky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HHcHyaozFG",
+							"expanded_url": "http://Kentucky.com",
+							"display_url": "Kentucky.com",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73200,
+			"friends_count": 10763,
+			"listed_count": 1088,
+			"created_at": "Fri Dec 28 22:22:39 +0000 2007",
+			"favourites_count": 3532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 194056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "005A92",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421068561372614657/rfwkn3CC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421068561372614657/rfwkn3CC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11612722/1347986577",
+			"profile_link_color": "B40200",
+			"profile_sidebar_border_color": "020318",
+			"profile_sidebar_fill_color": "FF9900",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9427,
+		"favorite_count": 18371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Obituary: bell hooks, a Hopkinsville native who went on to an international career as an author, critic, feminist and public intellectual, died on Dec. 15 at her home in Berea. She was 69. @lbblackford  https://t.co/aYwR0vTjQx https://t.co/46IwlLuxzf"
+	},
+	{
+		"created_at": "Wed Dec 15 15:41:29 +0000 2021",
+		"id": 1471142894400647200,
+		"id_str": "1471143382403665927",
+		"full_text": "When your hardware is your software. A volvelle in a fifteenth-century manuscript from England. [British library, Cotton Vespasian E vii] https://t.co/3EnRyjYpjB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471141799842484200,
+					"id_str": "1471141799842484227",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqLrCnXEAMEJQ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqLrCnXEAMEJQ4.jpg",
+					"url": "https://t.co/3EnRyjYpjB",
+					"display_url": "pic.twitter.com/3EnRyjYpjB",
+					"expanded_url": "https://twitter.com/Sonja_Drimmer/status/1471142894400647172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471141799842484200,
+					"id_str": "1471141799842484227",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FGqLrCnXEAMEJQ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGqLrCnXEAMEJQ4.jpg",
+					"url": "https://t.co/3EnRyjYpjB",
+					"display_url": "pic.twitter.com/3EnRyjYpjB",
+					"expanded_url": "https://twitter.com/Sonja_Drimmer/status/1471142894400647172/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29133,
+			"id_str": "29133",
+			"name": "𝕊onja Drimmer",
+			"screen_name": "Sonja_Drimmer",
+			"location": "",
+			"description": "Associate Professor of Medieval Art, UMass Amherst. Author of Art of Allusion: Illuminators & the Making of English Literature https://t.co/m8T4cNylPh She/her",
+			"url": "https://t.co/c44wxQ8KYz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c44wxQ8KYz",
+							"expanded_url": "https://umass.academia.edu/SonjaDrimmer",
+							"display_url": "umass.academia.edu/SonjaDrimmer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/m8T4cNylPh",
+							"expanded_url": "http://tinyurl.com/y6g9s9oc",
+							"display_url": "tinyurl.com/y6g9s9oc",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8274,
+			"friends_count": 1090,
+			"listed_count": 108,
+			"created_at": "Wed Nov 29 01:05:03 +0000 2006",
+			"favourites_count": 21644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403015166309109767/9Kbdtv27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403015166309109767/9Kbdtv27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29133/1471257916",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 78,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When your hardware is your software. A volvelle in a fifteenth-century manuscript from England. [British library, Cotton Vespasian E vii] https://t.co/3EnRyjYpjB"
+	},
+	{
 		"created_at": "Tue Dec 14 22:36:11 +0000 2021",
 		"id": 1470885358820905000,
 		"id_str": "1470885358820904968",
