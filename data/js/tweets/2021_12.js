@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 29 01:29:33 +0000 2021",
+		"id": 1476002415962906600,
+		"id_str": "1476002415962906624",
+		"full_text": "How much do I love a bookstore that says we’re prioritizing rest for the holiday? So much. https://t.co/gMCXjC6vj6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gMCXjC6vj6",
+					"expanded_url": "https://twitter.com/loyaltybooks/status/1474487882639454215",
+					"display_url": "twitter.com/loyaltybooks/s…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10043,
+			"friends_count": 480,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1474487882639454200,
+		"quoted_status_id_str": "1474487882639454215",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gMCXjC6vj6",
+			"expanded": "https://twitter.com/loyaltybooks/status/1474487882639454215",
+			"display": "twitter.com/loyaltybooks/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 24 21:11:20 +0000 2021",
+			"id": 1474487882639454200,
+			"id_str": "1474487882639454215",
+			"full_text": "Loyalty is offline &amp; closed from 12/25-12/31! We aren't processing orders while we're closed but if you want to order something &amp; don't need it urgently, we got you! Use special code CHILL10 at checkout to get 10% off your orders on our website! https://t.co/bbawnDDODH https://t.co/BEmDpRNpTF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bbawnDDODH",
+						"expanded_url": "http://loyaltybookstores.com",
+						"display_url": "loyaltybookstores.com",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1474483836855763000,
+						"id_str": "1474483836855762944",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FHZrPMrXwAAvAk2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHZrPMrXwAAvAk2.jpg",
+						"url": "https://t.co/BEmDpRNpTF",
+						"display_url": "pic.twitter.com/BEmDpRNpTF",
+						"expanded_url": "https://twitter.com/Loyaltybooks/status/1474487882639454215/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1474483836855763000,
+						"id_str": "1474483836855762944",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FHZrPMrXwAAvAk2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHZrPMrXwAAvAk2.jpg",
+						"url": "https://t.co/BEmDpRNpTF",
+						"display_url": "pic.twitter.com/BEmDpRNpTF",
+						"expanded_url": "https://twitter.com/Loyaltybooks/status/1474487882639454215/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2482685490,
+				"id_str": "2482685490",
+				"name": "Loyalty Bookstores",
+				"screen_name": "Loyaltybooks",
+				"location": "Washington, D.C.",
+				"description": "Indie bookstore in DC+MD specializing in diverse books. Limited browsing available in both stores, website open! #BlackLivesMatter",
+				"url": "https://t.co/DjeN5qVWSQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DjeN5qVWSQ",
+								"expanded_url": "https://linktr.ee/loyaltybooks",
+								"display_url": "linktr.ee/loyaltybooks",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12334,
+				"friends_count": 1318,
+				"listed_count": 225,
+				"created_at": "Wed May 07 20:04:23 +0000 2014",
+				"favourites_count": 15209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6893,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093288504946290688/3EVbqxL3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093288504946290688/3EVbqxL3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2482685490/1551330432",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How much do I love a bookstore that says we’re prioritizing rest for the holiday? So much. https://t.co/gMCXjC6vj6"
+	},
+	{
+		"created_at": "Wed Dec 29 00:08:24 +0000 2021",
+		"id": 1475674852954710000,
+		"id_str": "1475981994546933761",
+		"full_text": "Three small moments of humanity observed while in transit in past day at a time sorely lacking in such:\n1) A 40ish Texan, ex-Army, chatting up the Dutch couple across aisle of a NE Corridor Amtrak. \"This is my first time riding a train in America. We don't have trains in Texas.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 436925910,
+			"id_str": "436925910",
+			"name": "Alec MacGillis",
+			"screen_name": "AlecMacGillis",
+			"location": "Baltimore via Pittsfield, Mass",
+			"description": "Reporter @ProPublica. FULFILLMENT: Winning and Losing in One-Click America. \"Like Leadbelly says, no use for the bourgeois towns.\"\nalec.macgillis@propublica.org",
+			"url": "https://t.co/Fg1jqdVwoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fg1jqdVwoN",
+							"expanded_url": "http://www.alecmacgillis.com",
+							"display_url": "alecmacgillis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88577,
+			"friends_count": 8659,
+			"listed_count": 1932,
+			"created_at": "Wed Dec 14 19:05:49 +0000 2011",
+			"favourites_count": 22541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 60548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385842542693031937/AJGBjkLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385842542693031937/AJGBjkLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436925910/1620319893",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 644,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Three small moments of humanity observed while in transit in past day at a time sorely lacking in such:\n1) A 40ish Texan, ex-Army, chatting up the Dutch couple across aisle of a NE Corridor Amtrak. \"This is my first time riding a train in America. We don't have trains in Texas.\""
+	},
+	{
 		"created_at": "Tue Dec 28 01:36:19 +0000 2021",
 		"id": 1475641731521687600,
 		"id_str": "1475641731521687554",
