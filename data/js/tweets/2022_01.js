@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 01:51:47 +0000 2022",
+		"id": 1478835516816638000,
+		"id_str": "1478907113065926657",
+		"full_text": "We are absolutely devastated about today's fire, which killed 13 people. Though we don't yet have all of the information, we know that our society is structurally designed for tragedies to occur, with broken systems that include a lack of affordable housing &amp; no safety net.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22833425,
+			"id_str": "22833425",
+			"name": "Community Legal Services of Philadelphia",
+			"screen_name": "CLSphila",
+			"location": "Philadelphia",
+			"description": "Our mission is to fight poverty, challenge systems that perpetuate injustice, and change lives through cutting-edge advocacy & exceptional legal representation.",
+			"url": "https://t.co/xRmbRrpa9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xRmbRrpa9y",
+							"expanded_url": "http://www.clsphila.org",
+							"display_url": "clsphila.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6019,
+			"friends_count": 779,
+			"listed_count": 170,
+			"created_at": "Wed Mar 04 21:01:05 +0000 2009",
+			"favourites_count": 6257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "111B43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816344451241115648/pdu054rv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816344451241115648/pdu054rv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22833425/1595338882",
+			"profile_link_color": "323E8A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 422,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are absolutely devastated about today's fire, which killed 13 people. Though we don't yet have all of the information, we know that our society is structurally designed for tragedies to occur, with broken systems that include a lack of affordable housing &amp; no safety net."
+	},
+	{
+		"created_at": "Wed Jan 05 18:42:59 +0000 2022",
+		"id": 1478799205238026200,
+		"id_str": "1478799205238026248",
+		"full_text": "@swallowsong @meganlcook fwiw I’ve been using the free version of PDF Expert and it’s usually great (although you have to remember to set files to sync and I forgot a recent folder…)",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "swallowsong",
+					"name": "Sarah Wall-Randell",
+					"id": 16468752,
+					"id_str": "16468752",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478794829324771300,
+		"in_reply_to_status_id_str": "1478794829324771334",
+		"in_reply_to_user_id": 16468752,
+		"in_reply_to_user_id_str": "16468752",
+		"in_reply_to_screen_name": "swallowsong",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10048,
+			"friends_count": 480,
+			"listed_count": 390,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@swallowsong @meganlcook fwiw I’ve been using the free version of PDF Expert and it’s usually great (although you have to remember to set files to sync and I forgot a recent folder…)"
+	},
+	{
 		"created_at": "Wed Jan 05 02:05:56 +0000 2022",
 		"id": 1478548288907448300,
 		"id_str": "1478548288907448333",
