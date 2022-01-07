@@ -1,6 +1,1841 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 00:34:31 +0000 2022",
+		"id": 1479250058923196400,
+		"id_str": "1479250058923196421",
+		"full_text": "@transbookhistry Yay!!!! I love this picture and am very excited to see tweets about your adventures together. Also about how the dog and cats get up to printing and injustice-solving while you’re not looking at them",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1479223805545484300,
+		"in_reply_to_status_id_str": "1479223805545484293",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10051,
+			"friends_count": 480,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry Yay!!!! I love this picture and am very excited to see tweets about your adventures together. Also about how the dog and cats get up to printing and injustice-solving while you’re not looking at them"
+	},
+	{
+		"created_at": "Fri Jan 07 00:32:36 +0000 2022",
+		"id": 1479249577131847700,
+		"id_str": "1479249577131847683",
+		"full_text": "@hels hbd H. You’re a delight, even though I think I’m delightful when drunk and stoned and maybe might be wrong about this",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hels",
+					"name": "Helen Rosner",
+					"id": 15676413,
+					"id_str": "15676413",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1479248237664080000,
+		"in_reply_to_status_id_str": "1479248237664079872",
+		"in_reply_to_user_id": 15676413,
+		"in_reply_to_user_id_str": "15676413",
+		"in_reply_to_screen_name": "hels",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10051,
+			"friends_count": 480,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hels hbd H. You’re a delight, even though I think I’m delightful when drunk and stoned and maybe might be wrong about this"
+	},
+	{
+		"created_at": "Fri Jan 07 00:30:02 +0000 2022",
+		"id": 1479248928445026300,
+		"id_str": "1479248928445026305",
+		"full_text": "As an almost 53yo, I can endorse the vast majority of Helen’s wisdom in this thread. Also she is a joy, so wish her happy birthday!! 🎉 https://t.co/ZNxONFT9zG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZNxONFT9zG",
+					"expanded_url": "https://twitter.com/hels/status/1479245794427424772",
+					"display_url": "twitter.com/hels/status/14…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10051,
+			"friends_count": 480,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1479245794427424800,
+		"quoted_status_id_str": "1479245794427424772",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZNxONFT9zG",
+			"expanded": "https://twitter.com/hels/status/1479245794427424772",
+			"display": "twitter.com/hels/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 07 00:17:35 +0000 2022",
+			"id": 1479245794427424800,
+			"id_str": "1479245794427424772",
+			"full_text": "I’m so sorry to be sincere but today is my 40th birthday (this is insane to me) and here are some important things I’ve learned over the last few decades. I absolutely would not have internalized any of this when I was 20-39 so I don’t expect anyone to actually listen to me.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15676413,
+				"id_str": "15676413",
+				"name": "Helen Rosner",
+				"screen_name": "hels",
+				"location": "NYC via Chicago",
+				"description": "I write for the New Yorker and I cook a lot",
+				"url": "https://t.co/90SUx7kHh7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/90SUx7kHh7",
+								"expanded_url": "https://www.newyorker.com/contributors/helen-rosner",
+								"display_url": "newyorker.com/contributors/h…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158005,
+				"friends_count": 3081,
+				"listed_count": 1640,
+				"created_at": "Thu Jul 31 16:02:30 +0000 2008",
+				"favourites_count": 135930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 88511,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336748050623176705/zKn_rh_9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676413/1556840951",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 801,
+			"favorite_count": 9887,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As an almost 53yo, I can endorse the vast majority of Helen’s wisdom in this thread. Also she is a joy, so wish her happy birthday!! 🎉 https://t.co/ZNxONFT9zG"
+	},
+	{
+		"created_at": "Thu Jan 06 16:26:32 +0000 2022",
+		"id": 1479090914710667300,
+		"id_str": "1479127252868681732",
+		"full_text": "GOOD MORNING MY SITE IS LAUNCHED, PLEASE EXPLORE AND ENJOY AND LEARN https://t.co/AwQ1e8PAP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AwQ1e8PAP5",
+					"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029",
+					"display_url": "twitter.com/HoughtonLib/st…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941383982238847000,
+			"id_str": "941383982238846976",
+			"name": "Dorothy Berry",
+			"screen_name": "dorothyjberry",
+			"location": "Cambridge, MA",
+			"description": "\"missy-pedia\"\n\"a pocket venus\" \ni put the old pictures in the computers @houghtonlib\nhttps://t.co/rfcnu6Mo42",
+			"url": "https://t.co/ONnlHkVlbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONnlHkVlbw",
+							"expanded_url": "http://www.dorothy-berry.com",
+							"display_url": "dorothy-berry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rfcnu6Mo42",
+							"expanded_url": "http://linktr.ee/dorothyberry",
+							"display_url": "linktr.ee/dorothyberry",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5522,
+			"friends_count": 818,
+			"listed_count": 65,
+			"created_at": "Thu Dec 14 19:06:46 +0000 2017",
+			"favourites_count": 23177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478753867928154112/KsbDAGhs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478753867928154112/KsbDAGhs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941383982238846976/1634398426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1479090377172865000,
+		"quoted_status_id_str": "1479090377172865029",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AwQ1e8PAP5",
+			"expanded": "https://twitter.com/HoughtonLib/status/1479090377172865029",
+			"display": "twitter.com/HoughtonLib/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 06 14:00:00 +0000 2022",
+			"id": 1479090377172865000,
+			"id_str": "1479090377172865029",
+			"full_text": "@HoughtonLib is proud to announce the launch of a years-long effort to make primary sources by and about African Americans and the diaspora available digitally. This site offers collections and context, and we invite you to explore!\n\nVisit: https://t.co/zQHIMwFwQ9 https://t.co/uBmaoGxgis",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HoughtonLib",
+						"name": "Houghton Library",
+						"id": 476223503,
+						"id_str": "476223503",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zQHIMwFwQ9",
+						"expanded_url": "https://curiosity.lib.harvard.edu/slavery-abolition-emancipation-and-freedom",
+						"display_url": "curiosity.lib.harvard.edu/slavery-abolit…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1478840969524965400,
+						"id_str": "1478840969524965377",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"url": "https://t.co/uBmaoGxgis",
+						"display_url": "pic.twitter.com/uBmaoGxgis",
+						"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478840969524965400,
+						"id_str": "1478840969524965377",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"url": "https://t.co/uBmaoGxgis",
+						"display_url": "pic.twitter.com/uBmaoGxgis",
+						"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 476223503,
+			"in_reply_to_user_id_str": "476223503",
+			"in_reply_to_screen_name": "HoughtonLib",
+			"user": {
+				"id": 476223503,
+				"id_str": "476223503",
+				"name": "Houghton Library",
+				"screen_name": "HoughtonLib",
+				"location": "Cambridge, MA",
+				"description": "@Harvard’s principal repository for rare books and manuscripts, literary and performing arts archives, and more. (Avatar by Audubon.)",
+				"url": "https://t.co/ZbRkmyRQ8q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZbRkmyRQ8q",
+								"expanded_url": "https://library.harvard.edu/libraries/houghton",
+								"display_url": "library.harvard.edu/libraries/houg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13512,
+				"friends_count": 168,
+				"listed_count": 402,
+				"created_at": "Fri Jan 27 22:16:40 +0000 2012",
+				"favourites_count": 592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/476223503/1524070254",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 398,
+			"favorite_count": 832,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 714,
+		"favorite_count": 2064,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOOD MORNING MY SITE IS LAUNCHED, PLEASE EXPLORE AND ENJOY AND LEARN https://t.co/AwQ1e8PAP5"
+	},
+	{
+		"created_at": "Thu Jan 06 16:10:24 +0000 2022",
+		"id": 1479090377172865000,
+		"id_str": "1479123191075377154",
+		"full_text": "@HoughtonLib is proud to announce the launch of a years-long effort to make primary sources by and about African Americans and the diaspora available digitally. This site offers collections and context, and we invite you to explore!\n\nVisit: https://t.co/zQHIMwFwQ9 https://t.co/uBmaoGxgis",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HoughtonLib",
+					"name": "Houghton Library",
+					"id": 476223503,
+					"id_str": "476223503",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zQHIMwFwQ9",
+					"expanded_url": "https://curiosity.lib.harvard.edu/slavery-abolition-emancipation-and-freedom",
+					"display_url": "curiosity.lib.harvard.edu/slavery-abolit…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478840969524965400,
+					"id_str": "1478840969524965377",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+					"url": "https://t.co/uBmaoGxgis",
+					"display_url": "pic.twitter.com/uBmaoGxgis",
+					"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478840969524965400,
+					"id_str": "1478840969524965377",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+					"url": "https://t.co/uBmaoGxgis",
+					"display_url": "pic.twitter.com/uBmaoGxgis",
+					"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 476223503,
+		"in_reply_to_user_id_str": "476223503",
+		"in_reply_to_screen_name": "HoughtonLib",
+		"user": {
+			"id": 476223503,
+			"id_str": "476223503",
+			"name": "Houghton Library",
+			"screen_name": "HoughtonLib",
+			"location": "Cambridge, MA",
+			"description": "@Harvard’s principal repository for rare books and manuscripts, literary and performing arts archives, and more. (Avatar by Audubon.)",
+			"url": "https://t.co/ZbRkmyRQ8q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZbRkmyRQ8q",
+							"expanded_url": "https://library.harvard.edu/libraries/houghton",
+							"display_url": "library.harvard.edu/libraries/houg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13512,
+			"friends_count": 168,
+			"listed_count": 402,
+			"created_at": "Fri Jan 27 22:16:40 +0000 2012",
+			"favourites_count": 592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/476223503/1524070254",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 398,
+		"favorite_count": 832,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HoughtonLib is proud to announce the launch of a years-long effort to make primary sources by and about African Americans and the diaspora available digitally. This site offers collections and context, and we invite you to explore!\n\nVisit: https://t.co/zQHIMwFwQ9 https://t.co/uBmaoGxgis"
+	},
+	{
+		"created_at": "Thu Jan 06 16:09:56 +0000 2022",
+		"id": 1479118478715932700,
+		"id_str": "1479123074775724036",
+		"full_text": "@SHARPorgNews would LOVE a reviewer to take a look at this awesome site. We especially welcome grad students, practitioners, and early career folks to write for us. DM for details! https://t.co/4cbro6hc41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHARPorgNews",
+					"name": "SHARP News",
+					"id": 1272985049630232600,
+					"id_str": "1272985049630232576",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4cbro6hc41",
+					"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029",
+					"display_url": "twitter.com/HoughtonLib/st…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1272985049630232600,
+		"in_reply_to_user_id_str": "1272985049630232576",
+		"in_reply_to_screen_name": "SHARPorgNews",
+		"user": {
+			"id": 762462920366170100,
+			"id_str": "762462920366170112",
+			"name": "Emily Spunaugle",
+			"screen_name": "the_embrarian",
+			"location": "Detroit, MI",
+			"description": "humanities & rare bks lbn at oakland u // associate editor at @SHARPorgNews // she/hers.",
+			"url": "https://t.co/Rk44vioWr4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rk44vioWr4",
+							"expanded_url": "https://margueritehickspro.wixsite.com/home",
+							"display_url": "margueritehickspro.wixsite.com/home",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748,
+			"friends_count": 1144,
+			"listed_count": 13,
+			"created_at": "Mon Aug 08 01:38:20 +0000 2016",
+			"favourites_count": 12831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336141071928135682/RJni4v3X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336141071928135682/RJni4v3X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762462920366170112/1563489905",
+			"profile_link_color": "76C45D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1479090377172865000,
+		"quoted_status_id_str": "1479090377172865029",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4cbro6hc41",
+			"expanded": "https://twitter.com/HoughtonLib/status/1479090377172865029",
+			"display": "twitter.com/HoughtonLib/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 06 14:00:00 +0000 2022",
+			"id": 1479090377172865000,
+			"id_str": "1479090377172865029",
+			"full_text": "@HoughtonLib is proud to announce the launch of a years-long effort to make primary sources by and about African Americans and the diaspora available digitally. This site offers collections and context, and we invite you to explore!\n\nVisit: https://t.co/zQHIMwFwQ9 https://t.co/uBmaoGxgis",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HoughtonLib",
+						"name": "Houghton Library",
+						"id": 476223503,
+						"id_str": "476223503",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zQHIMwFwQ9",
+						"expanded_url": "https://curiosity.lib.harvard.edu/slavery-abolition-emancipation-and-freedom",
+						"display_url": "curiosity.lib.harvard.edu/slavery-abolit…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1478840969524965400,
+						"id_str": "1478840969524965377",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"url": "https://t.co/uBmaoGxgis",
+						"display_url": "pic.twitter.com/uBmaoGxgis",
+						"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478840969524965400,
+						"id_str": "1478840969524965377",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIXmBsvUcAEYEwl.jpg",
+						"url": "https://t.co/uBmaoGxgis",
+						"display_url": "pic.twitter.com/uBmaoGxgis",
+						"expanded_url": "https://twitter.com/HoughtonLib/status/1479090377172865029/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 476223503,
+			"in_reply_to_user_id_str": "476223503",
+			"in_reply_to_screen_name": "HoughtonLib",
+			"user": {
+				"id": 476223503,
+				"id_str": "476223503",
+				"name": "Houghton Library",
+				"screen_name": "HoughtonLib",
+				"location": "Cambridge, MA",
+				"description": "@Harvard’s principal repository for rare books and manuscripts, literary and performing arts archives, and more. (Avatar by Audubon.)",
+				"url": "https://t.co/ZbRkmyRQ8q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZbRkmyRQ8q",
+								"expanded_url": "https://library.harvard.edu/libraries/houghton",
+								"display_url": "library.harvard.edu/libraries/houg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13512,
+				"friends_count": 168,
+				"listed_count": 402,
+				"created_at": "Fri Jan 27 22:16:40 +0000 2012",
+				"favourites_count": 592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/476223503/1524070254",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 398,
+			"favorite_count": 832,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SHARPorgNews would LOVE a reviewer to take a look at this awesome site. We especially welcome grad students, practitioners, and early career folks to write for us. DM for details! https://t.co/4cbro6hc41"
+	},
+	{
+		"created_at": "Thu Jan 06 16:09:10 +0000 2022",
+		"id": 1479122880923193300,
+		"id_str": "1479122880923193347",
+		"full_text": "So much great stuff happening for #BSABibWeek22! Register now and (i hope) vote for the amazing slate at the annual meeting https://t.co/uPRIsvxQNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BSABibWeek22",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPRIsvxQNX",
+					"expanded_url": "https://twitter.com/BibSocAmer/status/1478436158782816265",
+					"display_url": "twitter.com/BibSocAmer/sta…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10051,
+			"friends_count": 480,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478436158782816300,
+		"quoted_status_id_str": "1478436158782816265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uPRIsvxQNX",
+			"expanded": "https://twitter.com/BibSocAmer/status/1478436158782816265",
+			"display": "twitter.com/BibSocAmer/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 04 18:40:22 +0000 2022",
+			"id": 1478436158782816300,
+			"id_str": "1478436158782816265",
+			"full_text": "It's January! #BSABibWeek22 is right around the corner. Join us for a week of free, virtual programs. Full listing @\nhttps://t.co/XNmIDKquF8\n\nMembers: your participation in the annual meeting is KEY! Cast your vote in our Council election: the slate is A+. https://t.co/x3LDxt0loO https://t.co/VwXbjI54jM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BSABibWeek22",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XNmIDKquF8",
+						"expanded_url": "https://bibsocamer.org/programs/bibweek22/",
+						"display_url": "bibsocamer.org/programs/bibwe…",
+						"indices": [
+							117,
+							140
+						]
+					},
+					{
+						"url": "https://t.co/x3LDxt0loO",
+						"expanded_url": "https://bit.ly/bsabibweek22-NSAM",
+						"display_url": "bit.ly/bsabibweek22-N…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1478435385621557200,
+						"id_str": "1478435385621557255",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FIR1Jm9XMAcMCQL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIR1Jm9XMAcMCQL.jpg",
+						"url": "https://t.co/VwXbjI54jM",
+						"display_url": "pic.twitter.com/VwXbjI54jM",
+						"expanded_url": "https://twitter.com/BibSocAmer/status/1478436158782816265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 529,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1593,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 934,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478435385621557200,
+						"id_str": "1478435385621557255",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FIR1Jm9XMAcMCQL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIR1Jm9XMAcMCQL.jpg",
+						"url": "https://t.co/VwXbjI54jM",
+						"display_url": "pic.twitter.com/VwXbjI54jM",
+						"expanded_url": "https://twitter.com/BibSocAmer/status/1478436158782816265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 529,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1593,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 934,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1171414914730201000,
+				"id_str": "1171414914730201088",
+				"name": "The Bibliographical Society of America",
+				"screen_name": "BibSocAmer",
+				"location": "",
+				"description": "Dedicated to the study of material texts in traditional and emerging formats. Membership starts at $25/year for bibliographers 35 and under.",
+				"url": "https://t.co/q5qSGjjqBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/q5qSGjjqBt",
+								"expanded_url": "https://bibsocamer.org/join-bsa/join-or-renew/",
+								"display_url": "bibsocamer.org/join-bsa/join-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2249,
+				"friends_count": 578,
+				"listed_count": 35,
+				"created_at": "Tue Sep 10 13:27:41 +0000 2019",
+				"favourites_count": 1010,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 888,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295807152561557504/n-prwneg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295807152561557504/n-prwneg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171414914730201088/1597779475",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So much great stuff happening for #BSABibWeek22! Register now and (i hope) vote for the amazing slate at the annual meeting https://t.co/uPRIsvxQNX"
+	},
+	{
+		"created_at": "Thu Jan 06 16:07:26 +0000 2022",
+		"id": 1479120322309857300,
+		"id_str": "1479122444162146305",
+		"full_text": "Interested in publishing in PBSA? Join Editors @wynkenhimself &amp; @Bibli_be_Us for a Q&amp;A this #BSABibWeek22, 1/26 @ 4pm EST. \n\nAll are welcome! Free w/ registration thanks to sponsorship by James Gray Bookseller ➡️ https://t.co/nTCuv1D77Q https://t.co/fgBePqX0Ma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BSABibWeek22",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wynkenhimself",
+					"name": "Sarah Werner",
+					"id": 35384223,
+					"id_str": "35384223",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"screen_name": "Bibli_be_Us",
+					"name": "Jesse Erickson",
+					"id": 81071879,
+					"id_str": "81071879",
+					"indices": [
+						68,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nTCuv1D77Q",
+					"expanded_url": "http://bit.ly/bsabibweek22-pbsa",
+					"display_url": "bit.ly/bsabibweek22-p…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478440977371218000,
+					"id_str": "1478440977371217927",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FIR6PF2XwAc5E9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIR6PF2XwAc5E9e.jpg",
+					"url": "https://t.co/fgBePqX0Ma",
+					"display_url": "pic.twitter.com/fgBePqX0Ma",
+					"expanded_url": "https://twitter.com/BibSocAmer/status/1479120322309857280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478440977371218000,
+					"id_str": "1478440977371217927",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FIR6PF2XwAc5E9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIR6PF2XwAc5E9e.jpg",
+					"url": "https://t.co/fgBePqX0Ma",
+					"display_url": "pic.twitter.com/fgBePqX0Ma",
+					"expanded_url": "https://twitter.com/BibSocAmer/status/1479120322309857280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1171414914730201000,
+			"id_str": "1171414914730201088",
+			"name": "The Bibliographical Society of America",
+			"screen_name": "BibSocAmer",
+			"location": "",
+			"description": "Dedicated to the study of material texts in traditional and emerging formats. Membership starts at $25/year for bibliographers 35 and under.",
+			"url": "https://t.co/q5qSGjjqBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q5qSGjjqBt",
+							"expanded_url": "https://bibsocamer.org/join-bsa/join-or-renew/",
+							"display_url": "bibsocamer.org/join-bsa/join-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2249,
+			"friends_count": 578,
+			"listed_count": 35,
+			"created_at": "Tue Sep 10 13:27:41 +0000 2019",
+			"favourites_count": 1010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295807152561557504/n-prwneg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295807152561557504/n-prwneg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171414914730201088/1597779475",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in publishing in PBSA? Join Editors @wynkenhimself &amp; @Bibli_be_Us for a Q&amp;A this #BSABibWeek22, 1/26 @ 4pm EST. \n\nAll are welcome! Free w/ registration thanks to sponsorship by James Gray Bookseller ➡️ https://t.co/nTCuv1D77Q https://t.co/fgBePqX0Ma"
+	},
+	{
 		"created_at": "Thu Jan 06 01:51:47 +0000 2022",
 		"id": 1478835516816638000,
 		"id_str": "1478907113065926657",
