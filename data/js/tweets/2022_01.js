@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 09 23:08:44 +0000 2022",
+		"id": 1480315634542071800,
+		"id_str": "1480315634542071809",
+		"full_text": "@harrisj Also except for spouses of people with health care because sometimes people can’t leave their marriage because they won’t have insurance!!!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harrisj",
+					"name": "Jacob Harris",
+					"id": 681473,
+					"id_str": "681473",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480314615078731800,
+		"in_reply_to_status_id_str": "1480314615078731776",
+		"in_reply_to_user_id": 681473,
+		"in_reply_to_user_id_str": "681473",
+		"in_reply_to_screen_name": "harrisj",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10051,
+			"friends_count": 480,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@harrisj Also except for spouses of people with health care because sometimes people can’t leave their marriage because they won’t have insurance!!!"
+	},
+	{
+		"created_at": "Sun Jan 09 22:54:03 +0000 2022",
+		"id": 1480211541861486600,
+		"id_str": "1480311938416582668",
+		"full_text": "Starting TOMORROW Montgomery County residents will be able to pick up free, rapid at-home test kits at @MCPL_Libraries. Plan ahead ➡️ https://t.co/OWk01xmDut. https://t.co/i9wjE8IHyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MCPL_Libraries",
+					"name": "mcpl_Libraries",
+					"id": 41903059,
+					"id_str": "41903059",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OWk01xmDut",
+					"expanded_url": "https://buff.ly/31DY6z4",
+					"display_url": "buff.ly/31DY6z4",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480211538220826600,
+					"id_str": "1480211538220826624",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FIrEjTAWQAAA_yd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIrEjTAWQAAA_yd.jpg",
+					"url": "https://t.co/i9wjE8IHyX",
+					"display_url": "pic.twitter.com/i9wjE8IHyX",
+					"expanded_url": "https://twitter.com/MontgomeryCoMD/status/1480211541861486595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1301,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480211538220826600,
+					"id_str": "1480211538220826624",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FIrEjTAWQAAA_yd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIrEjTAWQAAA_yd.jpg",
+					"url": "https://t.co/i9wjE8IHyX",
+					"display_url": "pic.twitter.com/i9wjE8IHyX",
+					"expanded_url": "https://twitter.com/MontgomeryCoMD/status/1480211541861486595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1301,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480211538220826600,
+					"id_str": "1480211538220826628",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FIrEjTAWQAQu_1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIrEjTAWQAQu_1v.jpg",
+					"url": "https://t.co/i9wjE8IHyX",
+					"display_url": "pic.twitter.com/i9wjE8IHyX",
+					"expanded_url": "https://twitter.com/MontgomeryCoMD/status/1480211541861486595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1301,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18009561,
+			"id_str": "18009561",
+			"name": "Montgomery County MD",
+			"screen_name": "MontgomeryCoMD",
+			"location": "Rockville, Maryland USA",
+			"description": "Official account of Montgomery County Government. Not monitored 24/7, but we try to be responsive. \nFor nonemergency requests, call 3-1-1 or @311MC311.",
+			"url": "https://t.co/iocMfljk7G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iocMfljk7G",
+							"expanded_url": "http://www.montgomerycountymd.gov",
+							"display_url": "montgomerycountymd.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92029,
+			"friends_count": 619,
+			"listed_count": 903,
+			"created_at": "Wed Dec 10 02:17:42 +0000 2008",
+			"favourites_count": 3476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2C405B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078070983276281857/8s7Of6lZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078070983276281857/8s7Of6lZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18009561/1630613962",
+			"profile_link_color": "6B8AB8",
+			"profile_sidebar_border_color": "6B8AB8",
+			"profile_sidebar_fill_color": "EBEFF0",
+			"profile_text_color": "0D0B0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting TOMORROW Montgomery County residents will be able to pick up free, rapid at-home test kits at @MCPL_Libraries. Plan ahead ➡️ https://t.co/OWk01xmDut. https://t.co/i9wjE8IHyX"
+	},
+	{
+		"created_at": "Sun Jan 09 18:39:15 +0000 2022",
+		"id": 1480247814189949000,
+		"id_str": "1480247814189948937",
+		"full_text": "@ETreharne That quill really is exuberant and delightful!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ETreharne",
+					"name": "Elaine Treharne",
+					"id": 306969311,
+					"id_str": "306969311",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480243695123189800,
+		"in_reply_to_status_id_str": "1480243695123189760",
+		"in_reply_to_user_id": 306969311,
+		"in_reply_to_user_id_str": "306969311",
+		"in_reply_to_screen_name": "ETreharne",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10051,
+			"friends_count": 480,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ETreharne That quill really is exuberant and delightful!"
+	},
+	{
 		"created_at": "Sat Jan 08 18:09:04 +0000 2022",
 		"id": 1479877830884438000,
 		"id_str": "1479877830884438017",
