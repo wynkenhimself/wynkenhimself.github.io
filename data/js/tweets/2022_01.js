@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 19:10:40 +0000 2022",
+		"id": 1480552655772479500,
+		"id_str": "1480618109845356544",
+		"full_text": "#essentialreading for #openGLAM practitioners. “...there is growing evidence that risk perception overwhelmingly outweighs the actual reality of risk...” Reminds me of what @mweinberg2D said “bad actors will do bad things regardless of copyright” 1/ https://t.co/ouhfiufRFI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "essentialreading",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "openGLAM",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mweinberg2D",
+					"name": "Michael Weinberg",
+					"id": 74274192,
+					"id_str": "74274192",
+					"indices": [
+						173,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ouhfiufRFI",
+					"expanded_url": "https://twitter.com/AndeeWallace/status/1479511194683822084",
+					"display_url": "twitter.com/AndeeWallace/s…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14396038,
+			"id_str": "14396038",
+			"name": "Effie Kapsalis",
+			"screen_name": "digitaleffie",
+			"location": "Washington, D.C.",
+			"description": "#digitalstrategy #BecauseOfHerStory #SmithsonianOpenAccess | #musetech | #openGLAM | @dcpublicschools mom | she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3108,
+			"friends_count": 1837,
+			"listed_count": 204,
+			"created_at": "Tue Apr 15 12:48:45 +0000 2008",
+			"favourites_count": 2751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8794C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131301129013354496/lJ32Z1ZW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131301129013354496/lJ32Z1ZW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14396038/1593725865",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "83AB0D",
+			"profile_sidebar_fill_color": "F5B3B3",
+			"profile_text_color": "094157",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1479511194683822000,
+		"quoted_status_id_str": "1479511194683822084",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ouhfiufRFI",
+			"expanded": "https://twitter.com/AndeeWallace/status/1479511194683822084",
+			"display": "twitter.com/AndeeWallace/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 07 17:52:11 +0000 2022",
+			"id": 1479511194683822000,
+			"id_str": "1479511194683822084",
+			"full_text": "Check out my summary of the empirical evidence on #Copyright and the #PublicDomain relevant to how cultural institutions make digital collections available online! And expect to find some new resources in https://t.co/Bw08iu5h0j very soon... 😉 https://t.co/bHDE9cRifo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Copyright",
+						"indices": [
+							50,
+							60
+						]
+					},
+					{
+						"text": "PublicDomain",
+						"indices": [
+							69,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Bw08iu5h0j",
+						"expanded_url": "http://CopyrightEvidence.org",
+						"display_url": "CopyrightEvidence.org",
+						"indices": [
+							205,
+							228
+						]
+					},
+					{
+						"url": "https://t.co/bHDE9cRifo",
+						"expanded_url": "https://twitter.com/copyrightcentre/status/1479415586161577985",
+						"display_url": "twitter.com/copyrightcentr…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3148428545,
+				"id_str": "3148428545",
+				"name": "Dr. Andrea Wallace",
+				"screen_name": "AndeeWallace",
+				"location": "Exeter, England",
+				"description": "Senior Lecturer in Law at the University of Exeter, CREATe alumna, IP and digital heritage nerd, viva la public domain (she/her) https://t.co/sSjnMCCNRZ",
+				"url": "https://t.co/PY3zajWIAS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PY3zajWIAS",
+								"expanded_url": "http://displayatyourownrisk.org",
+								"display_url": "displayatyourownrisk.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sSjnMCCNRZ",
+								"expanded_url": "https://surrogateiprights.org/",
+								"display_url": "surrogateiprights.org",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1844,
+				"friends_count": 456,
+				"listed_count": 63,
+				"created_at": "Wed Apr 08 16:21:02 +0000 2015",
+				"favourites_count": 11621,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6209,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1387889382561099787/Ig51vPlr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387889382561099787/Ig51vPlr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3148428545/1431806410",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1479415586161578000,
+			"quoted_status_id_str": "1479415586161577985",
+			"quoted_status_permalink": {
+				"url": "https://t.co/bHDE9cRifo",
+				"expanded": "https://twitter.com/copyrightcentre/status/1479415586161577985",
+				"display": "twitter.com/copyrightcentr…"
+			},
+			"retweet_count": 16,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#essentialreading for #openGLAM practitioners. “...there is growing evidence that risk perception overwhelmingly outweighs the actual reality of risk...” Reminds me of what @mweinberg2D said “bad actors will do bad things regardless of copyright” 1/ https://t.co/ouhfiufRFI"
+	},
+	{
+		"created_at": "Mon Jan 10 19:08:12 +0000 2022",
+		"id": 1480617487972642800,
+		"id_str": "1480617487972642829",
+		"full_text": "@oldcatsle @RickGodden I’ve been using Project N95–usually super easy and v reliable",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oldcatsle",
+					"name": "OldCatsle",
+					"id": 910998098,
+					"id_str": "910998098",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "RickGodden",
+					"name": "Rick Godden",
+					"id": 22037438,
+					"id_str": "22037438",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480611188434210800,
+		"in_reply_to_status_id_str": "1480611188434210820",
+		"in_reply_to_user_id": 910998098,
+		"in_reply_to_user_id_str": "910998098",
+		"in_reply_to_screen_name": "oldcatsle",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10052,
+			"friends_count": 480,
+			"listed_count": 391,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 39958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oldcatsle @RickGodden I’ve been using Project N95–usually super easy and v reliable"
+	},
+	{
 		"created_at": "Sun Jan 09 23:08:44 +0000 2022",
 		"id": 1480315634542071800,
 		"id_str": "1480315634542071809",
