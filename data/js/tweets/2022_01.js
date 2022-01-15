@@ -1,6 +1,1039 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 15 00:11:04 +0000 2022",
+		"id": 1482140736636129300,
+		"id_str": "1482143260755771405",
+		"full_text": "Seriously this is so misleading, please stop spreading it. *None of the daily death counts you are following come from the HHS data.* They all come from CDC or by rolling up state/local health authority data directly like we did at @COVID19Tracking. https://t.co/kwX0xj8k7r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "COVID19Tracking",
+					"name": "The COVID Tracking Project",
+					"id": 1236557193752658000,
+					"id_str": "1236557193752657926",
+					"indices": [
+						232,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kwX0xj8k7r",
+					"expanded_url": "https://twitter.com/Andre__Damon/status/1482069977826009092",
+					"display_url": "twitter.com/Andre__Damon/s…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13145012,
+			"id_str": "13145012",
+			"name": "Erin Kissane",
+			"screen_name": "kissane",
+			"location": "PNW",
+			"description": "Off Twitter for a bit. Co-founded @covid19tracking. Data cicada. Prev. @opennews @contents, tech/culture orgs. Mutual aid + liberation.",
+			"url": "https://t.co/RDcsTt6EO6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RDcsTt6EO6",
+							"expanded_url": "https://covidtracking.com/",
+							"display_url": "covidtracking.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31588,
+			"friends_count": 967,
+			"listed_count": 1895,
+			"created_at": "Wed Feb 06 06:18:23 +0000 2008",
+			"favourites_count": 45065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244118916806279168/6a0UcJTu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244118916806279168/6a0UcJTu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13145012/1591827879",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482069977826009000,
+		"quoted_status_id_str": "1482069977826009092",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kwX0xj8k7r",
+			"expanded": "https://twitter.com/Andre__Damon/status/1482069977826009092",
+			"display": "twitter.com/Andre__Damon/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 14 19:19:52 +0000 2022",
+			"id": 1482069977826009000,
+			"id_str": "1482069977826009092",
+			"full_text": "🚨BREAKING🚨\n\nUS Government to end daily COVID death reporting \n\nA document issued issued Jan 6 by the US Health and Human Services tells hospitals they are no longer required to report daily COVID-19 deaths to the federal government starting Feb 2.\n\nStory broken by @DataDrivenMD https://t.co/jpxQi2yItZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DataDrivenMD",
+						"name": "Jorge A. Caballero, MD",
+						"id": 738806388,
+						"id_str": "738806388",
+						"indices": [
+							265,
+							278
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1482067232758943700,
+						"id_str": "1482067232758943746",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFcS73X0AI713r.png",
+						"media_url_https": "https://pbs.twimg.com/media/FJFcS73X0AI713r.png",
+						"url": "https://t.co/jpxQi2yItZ",
+						"display_url": "pic.twitter.com/jpxQi2yItZ",
+						"expanded_url": "https://twitter.com/Andre__Damon/status/1482069977826009092/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 758,
+								"h": 345,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 758,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1482067232758943700,
+						"id_str": "1482067232758943746",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFcS73X0AI713r.png",
+						"media_url_https": "https://pbs.twimg.com/media/FJFcS73X0AI713r.png",
+						"url": "https://t.co/jpxQi2yItZ",
+						"display_url": "pic.twitter.com/jpxQi2yItZ",
+						"expanded_url": "https://twitter.com/Andre__Damon/status/1482069977826009092/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 758,
+								"h": 345,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 309,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 758,
+								"h": 345,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1482067284252401700,
+						"id_str": "1482067284252401671",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFcV7sXoAcYPeA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJFcV7sXoAcYPeA.jpg",
+						"url": "https://t.co/jpxQi2yItZ",
+						"display_url": "pic.twitter.com/jpxQi2yItZ",
+						"expanded_url": "https://twitter.com/Andre__Damon/status/1482069977826009092/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 467,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1595,
+								"h": 621,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 265,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1482068876129091600,
+						"id_str": "1482068876129091588",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFdyl5WQAQtfFr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJFdyl5WQAQtfFr.jpg",
+						"url": "https://t.co/jpxQi2yItZ",
+						"display_url": "pic.twitter.com/jpxQi2yItZ",
+						"expanded_url": "https://twitter.com/Andre__Damon/status/1482069977826009092/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1324,
+								"h": 709,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 643,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 364,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 976948534053343200,
+				"id_str": "976948534053343233",
+				"name": "Andre Damon",
+				"screen_name": "Andre__Damon",
+				"location": "",
+				"description": "Writer and editor for the World Socialist Web Site specializing in geopolitics and economics.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2609,
+				"friends_count": 2037,
+				"listed_count": 32,
+				"created_at": "Thu Mar 22 22:27:36 +0000 2018",
+				"favourites_count": 943,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2263,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1350238106281267201/s2VYSVS3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350238106281267201/s2VYSVS3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976948534053343233/1641364163",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2619,
+			"favorite_count": 4095,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 196,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seriously this is so misleading, please stop spreading it. *None of the daily death counts you are following come from the HHS data.* They all come from CDC or by rolling up state/local health authority data directly like we did at @COVID19Tracking. https://t.co/kwX0xj8k7r"
+	},
+	{
+		"created_at": "Fri Jan 14 18:38:27 +0000 2022",
+		"id": 1482059551524503600,
+		"id_str": "1482059551524503555",
+		"full_text": "@amaliasl @tropy I really love it and I only use a tiny portion of its power!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amaliasl",
+					"name": "Amalia S. Levi",
+					"id": 33383694,
+					"id_str": "33383694",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "tropy",
+					"name": "Tropy",
+					"id": 29171107,
+					"id_str": "29171107",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1482059343617007600,
+		"in_reply_to_status_id_str": "1482059343617007619",
+		"in_reply_to_user_id": 33383694,
+		"in_reply_to_user_id_str": "33383694",
+		"in_reply_to_screen_name": "amaliasl",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10055,
+			"friends_count": 481,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amaliasl @tropy I really love it and I only use a tiny portion of its power!"
+	},
+	{
+		"created_at": "Fri Jan 14 18:29:59 +0000 2022",
+		"id": 1482057423926005800,
+		"id_str": "1482057423926005760",
+		"full_text": "@jentalleydesign I think that’s right! I really think she’s in it for the caring about people and not the worship and grandstanding others enter politics for",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jentalleydesign",
+					"name": "Jeneration X",
+					"id": 8822562,
+					"id_str": "8822562",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1482056774039572500,
+		"in_reply_to_status_id_str": "1482056774039572483",
+		"in_reply_to_user_id": 8822562,
+		"in_reply_to_user_id_str": "8822562",
+		"in_reply_to_screen_name": "jentalleydesign",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10055,
+			"friends_count": 481,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jentalleydesign I think that’s right! I really think she’s in it for the caring about people and not the worship and grandstanding others enter politics for"
+	},
+	{
+		"created_at": "Fri Jan 14 18:23:19 +0000 2022",
+		"id": 1482055744757371000,
+		"id_str": "1482055744757370889",
+		"full_text": "@jentalleydesign I have complicated feelings about her (who doesn’t) but definitely agree. She evolves.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jentalleydesign",
+					"name": "Jeneration X",
+					"id": 8822562,
+					"id_str": "8822562",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1482054938985484300,
+		"in_reply_to_status_id_str": "1482054938985484298",
+		"in_reply_to_user_id": 8822562,
+		"in_reply_to_user_id_str": "8822562",
+		"in_reply_to_screen_name": "jentalleydesign",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10055,
+			"friends_count": 481,
+			"listed_count": 389,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jentalleydesign I have complicated feelings about her (who doesn’t) but definitely agree. She evolves."
+	},
+	{
+		"created_at": "Fri Jan 14 17:45:00 +0000 2022",
+		"id": 1482042058420281300,
+		"id_str": "1482046102048284674",
+		"full_text": "This looks like it's going to be beyond incredible. https://t.co/g7cBv1xnmV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g7cBv1xnmV",
+					"expanded_url": "https://twitter.com/anne_goldgar/status/1482040917582245889",
+					"display_url": "twitter.com/anne_goldgar/s…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390140696,
+			"id_str": "1390140696",
+			"name": "Devin Fitzgerald",
+			"screen_name": "DevinFitzger",
+			"location": "Libraries",
+			"description": "Rare Books and History of Printing Curator, UCLA. Dr. Lord Keeper of the Book. Historian of East Asia and the Global Book. Fully gruntled. Bummer at parties.",
+			"url": "https://t.co/I2s3v6pZsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I2s3v6pZsc",
+							"expanded_url": "http://devinfitz.com",
+							"display_url": "devinfitz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7423,
+			"friends_count": 2536,
+			"listed_count": 109,
+			"created_at": "Mon Apr 29 18:29:41 +0000 2013",
+			"favourites_count": 14614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455920562249764864/B3_gefPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455920562249764864/B3_gefPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390140696/1639790098",
+			"profile_link_color": "010A0F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482040917582246000,
+		"quoted_status_id_str": "1482040917582245889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g7cBv1xnmV",
+			"expanded": "https://twitter.com/anne_goldgar/status/1482040917582245889",
+			"display": "twitter.com/anne_goldgar/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 14 17:24:24 +0000 2022",
+			"id": 1482040917582246000,
+			"id_str": "1482040917582245889",
+			"full_text": "Online conference! The Netherlands – Culture and Global History, 1500-1700 https://t.co/BbwAovUJmm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BbwAovUJmm",
+						"expanded_url": "https://netherlands.princeton.edu/",
+						"display_url": "netherlands.princeton.edu",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4492456353,
+				"id_str": "4492456353",
+				"name": "Anne Goldgar",
+				"screen_name": "anne_goldgar",
+				"location": "",
+				"description": "Prof early modern history, University of Southern California. History/art/science, tulipmania, collecting, Netherlands, arctic, Nova Zembla. Tweets personal.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5354,
+				"friends_count": 3523,
+				"listed_count": 97,
+				"created_at": "Tue Dec 15 13:43:04 +0000 2015",
+				"favourites_count": 38743,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20515,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677153579837300736/apVlhDUB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677153579837300736/apVlhDUB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4492456353/1580556920",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This looks like it's going to be beyond incredible. https://t.co/g7cBv1xnmV"
+	},
+	{
+		"created_at": "Fri Jan 14 16:05:43 +0000 2022",
+		"id": 1481938420733816800,
+		"id_str": "1482021115635683330",
+		"full_text": "Hello everyone! I would really appreciate if y’all shared this!\n\nIf your library/org needs an EDI audit, staff training, workplace development, management workshopping, etc. please contact me! \n\nI really enjoy consulting, and would like to continue to grow. Thanks in advance! :)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 802941198,
+			"id_str": "802941198",
+			"name": "Fobazi Ettarh",
+			"screen_name": "Fobettarh",
+			"location": "Chicago (but NJ in spirit!)",
+			"description": "Academic. Librarian. Creator of the concept “vocational awe.” Scholar. Game designer of Killing Me Softly. Lovingly trapped by @elenamaris1",
+			"url": "https://t.co/BqxCGwWiMC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BqxCGwWiMC",
+							"expanded_url": "https://linktr.ee/Fobettarh",
+							"display_url": "linktr.ee/Fobettarh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6325,
+			"friends_count": 333,
+			"listed_count": 94,
+			"created_at": "Tue Sep 04 18:24:50 +0000 2012",
+			"favourites_count": 127200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/427201412250882048/Rid5lcn-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/427201412250882048/Rid5lcn-_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/802941198/1440169523",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 519,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello everyone! I would really appreciate if y’all shared this!\n\nIf your library/org needs an EDI audit, staff training, workplace development, management workshopping, etc. please contact me! \n\nI really enjoy consulting, and would like to continue to grow. Thanks in advance! :)"
+	},
+	{
 		"created_at": "Thu Jan 13 23:40:04 +0000 2022",
 		"id": 1481773070327107600,
 		"id_str": "1481773070327107585",
