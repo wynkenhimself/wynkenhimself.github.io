@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 03:42:01 +0000 2022",
+		"id": 1482557126681763800,
+		"id_str": "1482558732227723265",
+		"full_text": "#Breaking Confirming the explosion and gunshots at #ColleyvilleSynagogue were an offensive move to rescue the hostages. All three hostages are safe. Law enforcement sources say hostage taker shot, condition as yet not clear. @CBSDFW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Breaking",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "ColleyvilleSynagogue",
+					"indices": [
+						51,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CBSDFW",
+					"name": "CBSDFW",
+					"id": 10878852,
+					"id_str": "10878852",
+					"indices": [
+						225,
+						232
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127106048,
+			"id_str": "127106048",
+			"name": "Doug Dunbar",
+			"screen_name": "cbs11doug",
+			"location": "Dallas/Fort Worth",
+			"description": "CBS11 5-6-10pm. I share stories. ❤️Family-Country-Army Gold Star Son-Pilot-Triathlete-Ironman Worlds Kona 2016-Cancer sucks \nhttps://t.co/ta4o4SJ73M",
+			"url": "https://t.co/sD7JWaqpI2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sD7JWaqpI2",
+							"expanded_url": "http://facebook.com/cbs11doug",
+							"display_url": "facebook.com/cbs11doug",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ta4o4SJ73M",
+							"expanded_url": "http://dougdunbar22.wixsite.com/mysite",
+							"display_url": "dougdunbar22.wixsite.com/mysite",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22989,
+			"friends_count": 5890,
+			"listed_count": 251,
+			"created_at": "Sun Mar 28 02:32:47 +0000 2010",
+			"favourites_count": 8263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/807703951986540544/n3sA9FBa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/807703951986540544/n3sA9FBa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127106048/1391035324",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 365,
+		"favorite_count": 972,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#Breaking Confirming the explosion and gunshots at #ColleyvilleSynagogue were an offensive move to rescue the hostages. All three hostages are safe. Law enforcement sources say hostage taker shot, condition as yet not clear. @CBSDFW"
+	},
+	{
 		"created_at": "Sun Jan 16 02:06:29 +0000 2022",
 		"id": 1482534691123216400,
 		"id_str": "1482534691123216389",
