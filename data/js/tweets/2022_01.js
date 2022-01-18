@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 02:10:48 +0000 2022",
+		"id": 1483246907518500900,
+		"id_str": "1483260553934118918",
+		"full_text": "::praise hands:: A truly glorious own, (literally) befitting MLK himself. Thread. https://t.co/9TbPmbKqhV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9TbPmbKqhV",
+					"expanded_url": "https://twitter.com/nhannahjones/status/1483191560288321536",
+					"display_url": "twitter.com/nhannahjones/s…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17974481,
+			"id_str": "17974481",
+			"name": "N. K. Jemisin",
+			"screen_name": "nkjemisin",
+			"location": "",
+			"description": "Award-winning bestselling SFF writer & reviewer. I use robust autoblockers due to harassment. They catch some friendlies. Unavoidable; sorry. She/her.",
+			"url": "http://t.co/05KwgT5OR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/05KwgT5OR0",
+							"expanded_url": "http://nkjemisin.com",
+							"display_url": "nkjemisin.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209137,
+			"friends_count": 891,
+			"listed_count": 2623,
+			"created_at": "Mon Dec 08 21:45:41 +0000 2008",
+			"favourites_count": 26509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562958942506991616/nR2WRprS_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562958942506991616/nR2WRprS_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17974481/1402152191",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483191560288321500,
+		"quoted_status_id_str": "1483191560288321536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9TbPmbKqhV",
+			"expanded": "https://twitter.com/nhannahjones/status/1483191560288321536",
+			"display": "twitter.com/nhannahjones/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 17 21:36:38 +0000 2022",
+			"id": 1483191560288321500,
+			"id_str": "1483191560288321536",
+			"full_text": "I left them with this: People who oppose today what he stood for back then do not get to be the arbiters of his legacy. The real Dr. King cannot be commodified, homogenized, and white-washed and whatever side you stand on TODAY is the side you would have been back then.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1483191112244379600,
+			"in_reply_to_status_id_str": "1483191112244379652",
+			"in_reply_to_user_id": 25598396,
+			"in_reply_to_user_id_str": "25598396",
+			"in_reply_to_screen_name": "nhannahjones",
+			"user": {
+				"id": 25598396,
+				"id_str": "25598396",
+				"name": "Ida Bae Wells",
+				"screen_name": "nhannahjones",
+				"location": "nhannahjones@nytimes.com",
+				"description": "Reporter @nytmag//Slanderous & nasty-minded mulattress//Co-founder https://t.co/7oIBBhJTB4 //smart&thuggish//Knight Chair @howardu//Creator #1619Project//",
+				"url": "https://t.co/ltiExoYMSy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ltiExoYMSy",
+								"expanded_url": "https://1619books.com/",
+								"display_url": "1619books.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7oIBBhJTB4",
+								"expanded_url": "http://idabwellssociety.org",
+								"display_url": "idabwellssociety.org",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 645059,
+				"friends_count": 2526,
+				"listed_count": 4646,
+				"created_at": "Fri Mar 20 23:26:56 +0000 2009",
+				"favourites_count": 48803,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12705,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1461384626925150210/LeWOru_W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461384626925150210/LeWOru_W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25598396/1620754449",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2247,
+			"favorite_count": 16273,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 55,
+		"favorite_count": 477,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "::praise hands:: A truly glorious own, (literally) befitting MLK himself. Thread. https://t.co/9TbPmbKqhV"
+	},
+	{
+		"created_at": "Mon Jan 17 16:29:23 +0000 2022",
+		"id": 1483110883337330700,
+		"id_str": "1483114235001454601",
+		"full_text": "“I think the tragedy is that we have a Congress with a Senate that has a minority of misguided senators who will use the filibuster to keep the majority of people from even voting.” —Dr. Martin Luther King Jr., 1963 https://t.co/FNdZsXctYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483110472756998100,
+					"id_str": "1483110472756998144",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FJURHftXsAAlFVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJURHftXsAAlFVu.jpg",
+					"url": "https://t.co/FNdZsXctYe",
+					"display_url": "pic.twitter.com/FNdZsXctYe",
+					"expanded_url": "https://twitter.com/DrIbram/status/1483110883337330693/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483110472756998100,
+					"id_str": "1483110472756998144",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FJURHftXsAAlFVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJURHftXsAAlFVu.jpg",
+					"url": "https://t.co/FNdZsXctYe",
+					"display_url": "pic.twitter.com/FNdZsXctYe",
+					"expanded_url": "https://twitter.com/DrIbram/status/1483110883337330693/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 474154291,
+			"id_str": "474154291",
+			"name": "Ibram X. Kendi",
+			"screen_name": "DrIbram",
+			"location": "Boston, MA",
+			"description": "@BU_Tweets Mellon Prof. Dir @AntiracismCtr. National Book Award Winner. #1 NYT Bestselling Author. Contributor @TheAtlantic @CBSNews. MacArthur Fellow. 🐍 💙",
+			"url": "https://t.co/PsQkhhdC3B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PsQkhhdC3B",
+							"expanded_url": "http://ibramxkendi.com",
+							"display_url": "ibramxkendi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418210,
+			"friends_count": 1440,
+			"listed_count": 2653,
+			"created_at": "Wed Jan 25 18:12:41 +0000 2012",
+			"favourites_count": 19771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/911210240187731969/gEonmNwX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/911210240187731969/gEonmNwX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/474154291/1634318661",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8215,
+		"favorite_count": 26893,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I think the tragedy is that we have a Congress with a Senate that has a minority of misguided senators who will use the filibuster to keep the majority of people from even voting.” —Dr. Martin Luther King Jr., 1963 https://t.co/FNdZsXctYe"
+	},
+	{
+		"created_at": "Mon Jan 17 14:59:05 +0000 2022",
+		"id": 1483087602244890600,
+		"id_str": "1483091512497823751",
+		"full_text": "Your annual reminder that Dr. King believed in guaranteed universal basic income that gave all people a dignified life, guaranteed housing for all, guaranteed access to a high quality education, &amp; said that “no one should be forced to live in poverty while others live in luxury.” https://t.co/dLUc7PEDkr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483087592283381800,
+					"id_str": "1483087592283381761",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FJT8TrTXIAE_iyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJT8TrTXIAE_iyF.jpg",
+					"url": "https://t.co/dLUc7PEDkr",
+					"display_url": "pic.twitter.com/dLUc7PEDkr",
+					"expanded_url": "https://twitter.com/ClintSmithIII/status/1483087602244890633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 870,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1484,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483087592283381800,
+					"id_str": "1483087592283381761",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FJT8TrTXIAE_iyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJT8TrTXIAE_iyF.jpg",
+					"url": "https://t.co/dLUc7PEDkr",
+					"display_url": "pic.twitter.com/dLUc7PEDkr",
+					"expanded_url": "https://twitter.com/ClintSmithIII/status/1483087602244890633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 870,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1484,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483087592279228400,
+					"id_str": "1483087592279228417",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FJT8TrSXwAEXNpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJT8TrSXwAEXNpW.jpg",
+					"url": "https://t.co/dLUc7PEDkr",
+					"display_url": "pic.twitter.com/dLUc7PEDkr",
+					"expanded_url": "https://twitter.com/ClintSmithIII/status/1483087602244890633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 892,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1522,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483087592388243500,
+					"id_str": "1483087592388243458",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FJT8TrsXMAIzCC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJT8TrsXMAIzCC-.jpg",
+					"url": "https://t.co/dLUc7PEDkr",
+					"display_url": "pic.twitter.com/dLUc7PEDkr",
+					"expanded_url": "https://twitter.com/ClintSmithIII/status/1483087602244890633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 752,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1283,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483087592442810400,
+					"id_str": "1483087592442810371",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FJT8Tr5X0AML3Tz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJT8Tr5X0AML3Tz.jpg",
+					"url": "https://t.co/dLUc7PEDkr",
+					"display_url": "pic.twitter.com/dLUc7PEDkr",
+					"expanded_url": "https://twitter.com/ClintSmithIII/status/1483087602244890633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 915,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 472587261,
+			"id_str": "472587261",
+			"name": "Clint Smith",
+			"screen_name": "ClintSmithIII",
+			"location": "",
+			"description": "Writer, @TheAtlantic. Author of Counting Descent and How the Word Is Passed.",
+			"url": "https://t.co/T9ELqNdiJC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T9ELqNdiJC",
+							"expanded_url": "http://www.clintsmithiii.com",
+							"display_url": "clintsmithiii.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418563,
+			"friends_count": 2100,
+			"listed_count": 3160,
+			"created_at": "Tue Jan 24 03:09:01 +0000 2012",
+			"favourites_count": 31906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402607189475442688/OsJUCyBJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402607189475442688/OsJUCyBJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/472587261/1613823140",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14348,
+		"favorite_count": 48990,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your annual reminder that Dr. King believed in guaranteed universal basic income that gave all people a dignified life, guaranteed housing for all, guaranteed access to a high quality education, &amp; said that “no one should be forced to live in poverty while others live in luxury.” https://t.co/dLUc7PEDkr"
+	},
+	{
+		"created_at": "Mon Jan 17 14:26:22 +0000 2022",
+		"id": 1483083277732913200,
+		"id_str": "1483083277732913158",
+		"full_text": "@CristinaLAlfar Not liking for the deaths but for the glam",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CristinaLAlfar",
+					"name": "Cristina León Alfar 🐈‍⬛😷📚🎭 👠💃🐈#BLM",
+					"id": 822519986698612700,
+					"id_str": "822519986698612737",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483065906980954000,
+		"in_reply_to_status_id_str": "1483065906980954113",
+		"in_reply_to_user_id": 822519986698612700,
+		"in_reply_to_user_id_str": "822519986698612737",
+		"in_reply_to_screen_name": "CristinaLAlfar",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10056,
+			"friends_count": 481,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CristinaLAlfar Not liking for the deaths but for the glam"
+	},
+	{
 		"created_at": "Sun Jan 16 03:42:01 +0000 2022",
 		"id": 1482557126681763800,
 		"id_str": "1482558732227723265",
