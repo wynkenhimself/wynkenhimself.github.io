@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 22:24:46 +0000 2022",
+		"id": 1483928446736777200,
+		"id_str": "1483928446736777221",
+		"full_text": "@vcmcguire Oooh I just read Becky Chambers’s Psalm for the Wild-Built and loved it. Short, cozy but deep, generally delightful.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vcmcguire",
+					"name": "Claire McGuire 🏳️‍🌈",
+					"id": 18105922,
+					"id_str": "18105922",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483921824178229200,
+		"in_reply_to_status_id_str": "1483921824178229248",
+		"in_reply_to_user_id": 18105922,
+		"in_reply_to_user_id_str": "18105922",
+		"in_reply_to_screen_name": "vcmcguire",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10058,
+			"friends_count": 481,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vcmcguire Oooh I just read Becky Chambers’s Psalm for the Wild-Built and loved it. Short, cozy but deep, generally delightful."
+	},
+	{
+		"created_at": "Wed Jan 19 03:04:50 +0000 2022",
+		"id": 1483629265564450800,
+		"id_str": "1483636539779334146",
+		"full_text": "This thread is glorious. https://t.co/ED9IzAe1oa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ED9IzAe1oa",
+					"expanded_url": "https://twitter.com/kathleen_belew/status/1483559598317518848",
+					"display_url": "twitter.com/kathleen_belew…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29133,
+			"id_str": "29133",
+			"name": "𝕊onja Drimmer",
+			"screen_name": "Sonja_Drimmer",
+			"location": "",
+			"description": "Associate Professor of Medieval Art, UMass Amherst. Author of Art of Allusion: Illuminators & the Making of English Literature https://t.co/m8T4cNylPh She/her",
+			"url": "https://t.co/c44wxQ8KYz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c44wxQ8KYz",
+							"expanded_url": "https://umass.academia.edu/SonjaDrimmer",
+							"display_url": "umass.academia.edu/SonjaDrimmer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/m8T4cNylPh",
+							"expanded_url": "http://tinyurl.com/y6g9s9oc",
+							"display_url": "tinyurl.com/y6g9s9oc",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8722,
+			"friends_count": 1096,
+			"listed_count": 117,
+			"created_at": "Wed Nov 29 01:05:03 +0000 2006",
+			"favourites_count": 21989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403015166309109767/9Kbdtv27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403015166309109767/9Kbdtv27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29133/1471257916",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483559598317518800,
+		"quoted_status_id_str": "1483559598317518848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ED9IzAe1oa",
+			"expanded": "https://twitter.com/kathleen_belew/status/1483559598317518848",
+			"display": "twitter.com/kathleen_belew…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 18 21:59:06 +0000 2022",
+			"id": 1483559598317518800,
+			"id_str": "1483559598317518848",
+			"full_text": "Hey #twitterstorians, want to help me with a thought exercise for students? I want a quick way to explain how different historical methodologies would approach a question, and I was thinking of the classic Why Did the Chicken Cross the Road (1)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "twitterstorians",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 897466731551219700,
+				"id_str": "897466731551219717",
+				"name": "Kathleen Belew",
+				"screen_name": "kathleen_belew",
+				"location": "University of Chicago",
+				"description": "Historian of the present, the white power movement, mass violence, & apocalypse | *Bring the War Home* | *A Field Guide to White Supremacy* | tenured! U Chicago",
+				"url": "https://t.co/y1al4wzODA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y1al4wzODA",
+								"expanded_url": "https://www.kathleenbelew.com",
+								"display_url": "kathleenbelew.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79962,
+				"friends_count": 1228,
+				"listed_count": 917,
+				"created_at": "Tue Aug 15 14:35:17 +0000 2017",
+				"favourites_count": 6976,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9100,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912320004972007425/t2Y-6JbQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912320004972007425/t2Y-6JbQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/897466731551219717/1639962023",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 305,
+			"favorite_count": 1083,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This thread is glorious. https://t.co/ED9IzAe1oa"
+	},
+	{
 		"created_at": "Wed Jan 19 01:42:25 +0000 2022",
 		"id": 1483525883075907600,
 		"id_str": "1483615801110372353",
