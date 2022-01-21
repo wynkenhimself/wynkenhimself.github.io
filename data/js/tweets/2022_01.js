@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 19:37:06 +0000 2022",
+		"id": 1484248639295963100,
+		"id_str": "1484248639295963140",
+		"full_text": "@lynnemthomas @katyrawdon @archivists_org @ALALibrary Ooh, congratulations!!",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lynnemthomas",
+					"name": "Lynne M. Thomas 🏳️‍🌈🦄🚀",
+					"id": 16263018,
+					"id_str": "16263018",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "katyrawdon",
+					"name": "Katy Rawdon",
+					"id": 15274817,
+					"id_str": "15274817",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "archivists_org",
+					"name": "Soc Amer Archivists",
+					"id": 44433400,
+					"id_str": "44433400",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "ALALibrary",
+					"name": "American Library Association",
+					"id": 21799699,
+					"id_str": "21799699",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484207823819088000,
+		"in_reply_to_status_id_str": "1484207823819087873",
+		"in_reply_to_user_id": 16263018,
+		"in_reply_to_user_id_str": "16263018",
+		"in_reply_to_screen_name": "lynnemthomas",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 481,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lynnemthomas @katyrawdon @archivists_org @ALALibrary Ooh, congratulations!!"
+	},
+	{
+		"created_at": "Thu Jan 20 14:38:18 +0000 2022",
+		"id": 1484160185455235000,
+		"id_str": "1484173444136816640",
+		"full_text": "One of the most persistent misconceptions about the pandemic is that it's a crisis of personal irresponsibility rather than political inaction. The instinct to punish individuals instead of holding leaders accountable is another manifestation of that 7/  \n\nhttps://t.co/Qo9dqvuPwV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qo9dqvuPwV",
+					"expanded_url": "https://www.theatlantic.com/health/archive/2022/01/unvaccinated-medical-care-hospitals-omicron/621299/",
+					"display_url": "theatlantic.com/health/archive…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1484160184192802800,
+		"in_reply_to_status_id_str": "1484160184192802820",
+		"in_reply_to_user_id": 19767193,
+		"in_reply_to_user_id_str": "19767193",
+		"in_reply_to_screen_name": "edyong209",
+		"user": {
+			"id": 19767193,
+			"id_str": "19767193",
+			"name": "Ed Yong",
+			"screen_name": "edyong209",
+			"location": "At home",
+			"description": "Science writer at The Atlantic. Many words; some awards. Author of I Contain Multitudes (2016). Married to Liz Neeley. Parent to Typo https://t.co/znswoodKfp (he/him)",
+			"url": "https://t.co/SryclItRYG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SryclItRYG",
+							"expanded_url": "http://www.theatlantic.com/author/ed-yong/",
+							"display_url": "theatlantic.com/author/ed-yong/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/znswoodKfp",
+							"expanded_url": "http://edyong.me",
+							"display_url": "edyong.me",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 373623,
+			"friends_count": 1910,
+			"listed_count": 7944,
+			"created_at": "Fri Jan 30 13:35:35 +0000 2009",
+			"favourites_count": 39805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 119380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506076644233219/L65yQxI-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506076644233219/L65yQxI-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19767193/1452795865",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 1608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the most persistent misconceptions about the pandemic is that it's a crisis of personal irresponsibility rather than political inaction. The instinct to punish individuals instead of holding leaders accountable is another manifestation of that 7/  \n\nhttps://t.co/Qo9dqvuPwV"
+	},
+	{
 		"created_at": "Wed Jan 19 22:24:46 +0000 2022",
 		"id": 1483928446736777200,
 		"id_str": "1483928446736777221",
@@ -16,7 +280,7 @@ Grailbird.data.tweets_2022_01 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
