@@ -1,6 +1,1055 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 20:46:37 +0000 2022",
+		"id": 1484626542881824800,
+		"id_str": "1484628524069752839",
+		"full_text": "I hate when I publish a newsletter and then realize there was one big point I forgot! That point is: A society in which abortion is outlawed is one in which women are second-class citizens, and that affects ALL women. It means fewer opportunities for women across the board.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1484626252501864400,
+		"in_reply_to_status_id_str": "1484626252501864452",
+		"in_reply_to_user_id": 16378093,
+		"in_reply_to_user_id_str": "16378093",
+		"in_reply_to_screen_name": "JillFilipovic",
+		"user": {
+			"id": 16378093,
+			"id_str": "16378093",
+			"name": "Jill Filipovic",
+			"screen_name": "JillFilipovic",
+			"location": "Brooklyn, NY",
+			"description": "Writer. Lawyer. Author. Subscribe to my substack for news and analysis on women's rights, politics, law, and global affairs.",
+			"url": "https://t.co/OIpAFTRxJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OIpAFTRxJt",
+							"expanded_url": "http://jill.substack.com",
+							"display_url": "jill.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162325,
+			"friends_count": 7073,
+			"listed_count": 2413,
+			"created_at": "Sat Sep 20 14:36:18 +0000 2008",
+			"favourites_count": 53791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B89807",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926027853090738176/k9dPL2mY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926027853090738176/k9dPL2mY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16378093/1589901850",
+			"profile_link_color": "0E0C54",
+			"profile_sidebar_border_color": "FFBF00",
+			"profile_sidebar_fill_color": "88DAE8",
+			"profile_text_color": "611961",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I hate when I publish a newsletter and then realize there was one big point I forgot! That point is: A society in which abortion is outlawed is one in which women are second-class citizens, and that affects ALL women. It means fewer opportunities for women across the board."
+	},
+	{
+		"created_at": "Fri Jan 21 15:27:49 +0000 2022",
+		"id": 1484548294860853200,
+		"id_str": "1484548294860853249",
+		"full_text": "@ruth_franklin My answer is @shannonmattern and @debcha especially because they both see structure as tied to systems and people in expansive ways",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ruth_franklin",
+					"name": "Ruth Franklin",
+					"id": 44235372,
+					"id_str": "44235372",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "shannonmattern",
+					"name": "Shannon Mattern",
+					"id": 357916553,
+					"id_str": "357916553",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "debcha",
+					"name": "Deb Chachra",
+					"id": 16284697,
+					"id_str": "16284697",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484544780310925300,
+		"in_reply_to_status_id_str": "1484544780310925313",
+		"in_reply_to_user_id": 44235372,
+		"in_reply_to_user_id_str": "44235372",
+		"in_reply_to_screen_name": "ruth_franklin",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 482,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ruth_franklin My answer is @shannonmattern and @debcha especially because they both see structure as tied to systems and people in expansive ways"
+	},
+	{
+		"created_at": "Fri Jan 21 15:25:17 +0000 2022",
+		"id": 1484547656311623700,
+		"id_str": "1484547656311623680",
+		"full_text": "And apparently this year there is another march by anti-vaxxers on Sunday. Just a whole weekend of people arguing for violence and bringing disease to a city that is already overwhelmed.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484546931321979000,
+		"in_reply_to_status_id_str": "1484546931321978884",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 482,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And apparently this year there is another march by anti-vaxxers on Sunday. Just a whole weekend of people arguing for violence and bringing disease to a city that is already overwhelmed."
+	},
+	{
+		"created_at": "Fri Jan 21 15:22:24 +0000 2022",
+		"id": 1484546931321979000,
+		"id_str": "1484546931321978884",
+		"full_text": "It’s the hordes of kids dragged on a field trip that used to get to me. The lies they spread about life, the using of kids as props. The way they treated as a party the denial of my agency as a person. I hated everything about it. Much love to my library on the Hill friends",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484546245830062000,
+		"in_reply_to_status_id_str": "1484546245830062084",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 482,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s the hordes of kids dragged on a field trip that used to get to me. The lies they spread about life, the using of kids as props. The way they treated as a party the denial of my agency as a person. I hated everything about it. Much love to my library on the Hill friends"
+	},
+	{
+		"created_at": "Fri Jan 21 15:19:41 +0000 2022",
+		"id": 1484546245830062000,
+		"id_str": "1484546245830062084",
+		"full_text": "Today is what was always my least favorite day when I worked at the Folger, which is right next to the Supreme Court and the Capitol. It’s the day the anti-abortion crowds descend with all their Catholic high schoolers, rude and messy and loud and WRONG. #AbortionIsHealthcare",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AbortionIsHealthcare",
+					"indices": [
+						255,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 482,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Today is what was always my least favorite day when I worked at the Folger, which is right next to the Supreme Court and the Capitol. It’s the day the anti-abortion crowds descend with all their Catholic high schoolers, rude and messy and loud and WRONG. #AbortionIsHealthcare"
+	},
+	{
+		"created_at": "Fri Jan 21 14:30:49 +0000 2022",
+		"id": 1484529973809627100,
+		"id_str": "1484533949653299205",
+		"full_text": "Calling PhDs in humanities &amp; interpretive social sciences: ACLS is hiring a Program Officer, US Programs! Please share, and see full job description and how to apply here: https://t.co/U0PaNqNYrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U0PaNqNYrT",
+					"expanded_url": "https://bit.ly/33Tf0ua",
+					"display_url": "bit.ly/33Tf0ua",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84596845,
+			"id_str": "84596845",
+			"name": "ACLS",
+			"screen_name": "ACLS1919",
+			"location": "New York City",
+			"description": "ACLS, a private, nonprofit federation of 78 national scholarly organizations, is the leading representative of American scholarship in the humanities.",
+			"url": "https://t.co/oTCeM5IE6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oTCeM5IE6H",
+							"expanded_url": "http://www.acls.org",
+							"display_url": "acls.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8792,
+			"friends_count": 1475,
+			"listed_count": 169,
+			"created_at": "Fri Oct 23 13:56:21 +0000 2009",
+			"favourites_count": 3394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/486090119/ACLS_Symbol_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/486090119/ACLS_Symbol_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84596845/1516634922",
+			"profile_link_color": "961126",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9DEE0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling PhDs in humanities &amp; interpretive social sciences: ACLS is hiring a Program Officer, US Programs! Please share, and see full job description and how to apply here: https://t.co/U0PaNqNYrT"
+	},
+	{
+		"created_at": "Fri Jan 21 14:30:17 +0000 2022",
+		"id": 1484527862296285200,
+		"id_str": "1484533815410319363",
+		"full_text": "I wonder if any early printing people might be in a position to identify the printer of these fragments of a Dutch edition (possibly Antwerp, c. 1510) of 'The seven sages of Rome' @theULSpecColl. Textblock 90x145mm; four pages; no signatures; @universalstc 436814 (unique). (1/3) https://t.co/S9ic9zflKl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theULSpecColl",
+					"name": "Cambridge UL Special Collections",
+					"id": 997052614297571300,
+					"id_str": "997052614297571329",
+					"indices": [
+						180,
+						194
+					]
+				},
+				{
+					"screen_name": "universalstc",
+					"name": "USTC 📖🔍",
+					"id": 107271321,
+					"id_str": "107271321",
+					"indices": [
+						243,
+						256
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484517831320424400,
+					"id_str": "1484517831320424455",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoRGi6WUAceLnA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoRGi6WUAceLnA.jpg",
+					"url": "https://t.co/S9ic9zflKl",
+					"display_url": "pic.twitter.com/S9ic9zflKl",
+					"expanded_url": "https://twitter.com/liamsims/status/1484527862296285191/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484517831320424400,
+					"id_str": "1484517831320424455",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoRGi6WUAceLnA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoRGi6WUAceLnA.jpg",
+					"url": "https://t.co/S9ic9zflKl",
+					"display_url": "pic.twitter.com/S9ic9zflKl",
+					"expanded_url": "https://twitter.com/liamsims/status/1484527862296285191/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484517874014298000,
+					"id_str": "1484517874014298117",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoRJB9XIAUep0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoRJB9XIAUep0B.jpg",
+					"url": "https://t.co/S9ic9zflKl",
+					"display_url": "pic.twitter.com/S9ic9zflKl",
+					"expanded_url": "https://twitter.com/liamsims/status/1484527862296285191/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1484517913872715800,
+					"id_str": "1484517913872715781",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FJoRLWcWUAU855a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJoRLWcWUAU855a.jpg",
+					"url": "https://t.co/S9ic9zflKl",
+					"display_url": "pic.twitter.com/S9ic9zflKl",
+					"expanded_url": "https://twitter.com/liamsims/status/1484527862296285191/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 543676361,
+			"id_str": "543676361",
+			"name": "Liam Sims 🏳️‍🌈",
+			"screen_name": "liamsims",
+			"location": "Cambridge",
+			"description": "PhD student @UoLEnglish on C18 antiquarian networks @sg_soc | Rare Books Specialist @theUL | @BibSoc Council | Fellow @SocAntiquaries | Venetophile | Catdad |",
+			"url": "https://t.co/zmoYA9xb3i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zmoYA9xb3i",
+							"expanded_url": "https://www.midlands4cities.ac.uk/student_profile/liam-sims/",
+							"display_url": "midlands4cities.ac.uk/student_profil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4311,
+			"friends_count": 4853,
+			"listed_count": 33,
+			"created_at": "Mon Apr 02 19:38:42 +0000 2012",
+			"favourites_count": 26355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289511911118299138/vFeWhWA0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289511911118299138/vFeWhWA0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/543676361/1556463855",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder if any early printing people might be in a position to identify the printer of these fragments of a Dutch edition (possibly Antwerp, c. 1510) of 'The seven sages of Rome' @theULSpecColl. Textblock 90x145mm; four pages; no signatures; @universalstc 436814 (unique). (1/3) https://t.co/S9ic9zflKl"
+	},
+	{
+		"created_at": "Fri Jan 21 03:46:54 +0000 2022",
+		"id": 1484199472578056200,
+		"id_str": "1484371903103987712",
+		"full_text": "if you are thinking of not voting #Emily4ALA, this is for you: something @edrabinski would never tell you, because, for her, this is just “what you do,” and the idea of being celebrated for this would seem profane.\n\nhopefully she’ll forgive my posting about it. (sorry, E.) 🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Emily4ALA",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edrabinski",
+					"name": "Emily Drabinski",
+					"id": 14089871,
+					"id_str": "14089871",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363880637296480300,
+			"id_str": "1363880637296480263",
+			"name": "maxwig",
+			"screen_name": "maxwigg",
+			"location": "Baltimore, MD",
+			"description": "Collective Power, Public Good. #Emily4ALA (they/them)",
+			"url": "https://t.co/NHHYjuWBFW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NHHYjuWBFW",
+							"expanded_url": "https://bit.ly/3zMphnQ",
+							"display_url": "bit.ly/3zMphnQ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 348,
+			"listed_count": 0,
+			"created_at": "Mon Feb 22 15:57:48 +0000 2021",
+			"favourites_count": 1541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363880973637742593/Rm9bB4mO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363880973637742593/Rm9bB4mO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363880637296480263/1639190101",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "if you are thinking of not voting #Emily4ALA, this is for you: something @edrabinski would never tell you, because, for her, this is just “what you do,” and the idea of being celebrated for this would seem profane.\n\nhopefully she’ll forgive my posting about it. (sorry, E.) 🧵"
+	},
+	{
 		"created_at": "Thu Jan 20 19:37:06 +0000 2022",
 		"id": 1484248639295963100,
 		"id_str": "1484248639295963140",
@@ -16,7 +1065,7 @@ Grailbird.data.tweets_2022_01 =
 			"user_mentions": [
 				{
 					"screen_name": "lynnemthomas",
-					"name": "Lynne M. Thomas 🏳️‍🌈🦄🚀",
+					"name": "Lynne M. Thomas 🏳️🌈🦄🚀",
 					"id": 16263018,
 					"id_str": "16263018",
 					"indices": [
