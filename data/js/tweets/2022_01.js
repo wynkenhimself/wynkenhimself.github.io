@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 23:24:50 +0000 2022",
+		"id": 1485393113598378000,
+		"id_str": "1485393113598377984",
+		"full_text": "@pnuemoman @meganlcook This is strong incentive! I will add that Out of Print has amazing Where the Wild Things Are socks with different pics on each and words on the bottom all knitted in, not printed on. Very satisfying to access my inner Max.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pnuemoman",
+					"name": "John W",
+					"id": 24321870,
+					"id_str": "24321870",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1485385750426357800,
+		"in_reply_to_status_id_str": "1485385750426357766",
+		"in_reply_to_user_id": 24321870,
+		"in_reply_to_user_id_str": "24321870",
+		"in_reply_to_screen_name": "pnuemoman",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10064,
+			"friends_count": 483,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pnuemoman @meganlcook This is strong incentive! I will add that Out of Print has amazing Where the Wild Things Are socks with different pics on each and words on the bottom all knitted in, not printed on. Very satisfying to access my inner Max."
+	},
+	{
+		"created_at": "Sun Jan 23 19:57:44 +0000 2022",
+		"id": 1485005121314562000,
+		"id_str": "1485340998150594560",
+		"full_text": "This would be a good opportunity to discuss the long history of slavery in this country and its relevance to present day power and politics but they're making it illegal to do that as well https://t.co/7obBo7LGvi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7obBo7LGvi",
+					"expanded_url": "https://twitter.com/AskAManager/status/1484967544876408838",
+					"display_url": "twitter.com/AskAManager/st…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14114254,
+			"id_str": "14114254",
+			"name": "skooks",
+			"screen_name": "skooks",
+			"location": "New Orleans",
+			"description": "Probably hungover \n(the update is it might be a brain cloud)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11522,
+			"friends_count": 3945,
+			"listed_count": 277,
+			"created_at": "Mon Mar 10 14:49:11 +0000 2008",
+			"favourites_count": 51750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 262142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/51659740/1330859349_l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/51659740/1330859349_l_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484967544876408800,
+		"quoted_status_id_str": "1484967544876408838",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7obBo7LGvi",
+			"expanded": "https://twitter.com/AskAManager/status/1484967544876408838",
+			"display": "twitter.com/AskAManager/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 22 19:13:46 +0000 2022",
+			"id": 1484967544876408800,
+			"id_str": "1484967544876408838",
+			"full_text": "This is seriously f'd up: at-will workers quit their jobs for higher pay, old employer asks court to block them from starting said new jobs until they can re-hire, judge grants injunction preventing them from starting their new jobs. AT-WILL WORKERS.\nhttps://t.co/LQx3mjY5ey",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LQx3mjY5ey",
+						"expanded_url": "https://www.postcrescent.com/story/news/2022/01/21/what-we-know-ascension-thedacare-court-battle-over-employees/6607417001/",
+						"display_url": "postcrescent.com/story/news/202…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15951681,
+				"id_str": "15951681",
+				"name": "Ask a Manager",
+				"screen_name": "AskAManager",
+				"location": "Washington, DC",
+				"description": "Creator of Ask a Manager – home to all your questions about lunch-stealing bosses, coworkers who won't stop hugging you, and how much you can drink at work.",
+				"url": "https://t.co/MlJw4OYFCA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MlJw4OYFCA",
+								"expanded_url": "http://askamanager.org",
+								"display_url": "askamanager.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84851,
+				"friends_count": 4722,
+				"listed_count": 1399,
+				"created_at": "Fri Aug 22 23:30:39 +0000 2008",
+				"favourites_count": 23358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5785,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "135779",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890276334324396032/52IXM-Yr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890276334324396032/52IXM-Yr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15951681/1634487987",
+				"profile_link_color": "66B4AB",
+				"profile_sidebar_border_color": "328184",
+				"profile_sidebar_fill_color": "A5E6D7",
+				"profile_text_color": "060C4A",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5745,
+			"favorite_count": 12034,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This would be a good opportunity to discuss the long history of slavery in this country and its relevance to present day power and politics but they're making it illegal to do that as well https://t.co/7obBo7LGvi"
+	},
+	{
+		"created_at": "Sun Jan 23 19:54:08 +0000 2022",
+		"id": 1485340088628359200,
+		"id_str": "1485340088628359174",
+		"full_text": "@meganlcook I’m a big fan of smartwool’s socks and their lighter weight ones aren’t too hot (although I have cold feet). I’ve a few pairs from Out of Print that I adore. And the Bombas footies I have are amazing so I’d be optimistic about their others",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1485318025377157000,
+		"in_reply_to_status_id_str": "1485318025377157123",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10064,
+			"friends_count": 483,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook I’m a big fan of smartwool’s socks and their lighter weight ones aren’t too hot (although I have cold feet). I’ve a few pairs from Out of Print that I adore. And the Bombas footies I have are amazing so I’d be optimistic about their others"
+	},
+	{
 		"created_at": "Sun Jan 23 01:08:57 +0000 2022",
 		"id": 1485056929856692200,
 		"id_str": "1485056929856692229",
