@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 31 20:18:19 +0000 2022",
+		"id": 1488177780382736400,
+		"id_str": "1488245278473924612",
+		"full_text": "last day to use this resource! there are still funds available for YOU ❤️#MutualAid @ALALibrary https://t.co/WU4iBLrjDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MutualAid",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ALALibrary",
+					"name": "American Library Association",
+					"id": 21799699,
+					"id_str": "21799699",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WU4iBLrjDl",
+					"expanded_url": "https://twitter.com/rareleah/status/1487547024446828546",
+					"display_url": "twitter.com/rareleah/statu…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363880637296480300,
+			"id_str": "1363880637296480263",
+			"name": "maxwig",
+			"screen_name": "maxwigg",
+			"location": "Baltimore, MD",
+			"description": "Collective Power, Public Good. #Emily4ALA (they/them)",
+			"url": "https://t.co/NHHYjuWBFW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NHHYjuWBFW",
+							"expanded_url": "https://bit.ly/3zMphnQ",
+							"display_url": "bit.ly/3zMphnQ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 866,
+			"listed_count": 2,
+			"created_at": "Mon Feb 22 15:57:48 +0000 2021",
+			"favourites_count": 1842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1486203342573510656/VtShoGcN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486203342573510656/VtShoGcN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363880637296480263/1639190101",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1487547024446828500,
+		"quoted_status_id_str": "1487547024446828546",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WU4iBLrjDl",
+			"expanded": "https://twitter.com/rareleah/status/1487547024446828546",
+			"display": "twitter.com/rareleah/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 29 22:03:42 +0000 2022",
+			"id": 1487547024446828500,
+			"id_str": "1487547024446828546",
+			"full_text": "Inspired by the generosity of our library community: $3,784 contributed to Mutual Aid for ALA Membership. 62 memberships (37 students!) funded.\n2 days left to join/renew ALA membership in order to vote in the March election. \nFunds are still available: https://t.co/qIkUjFS9uw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qIkUjFS9uw",
+						"expanded_url": "https://bit.ly/3zMphnQ",
+						"display_url": "bit.ly/3zMphnQ",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2726499146,
+				"id_str": "2726499146",
+				"name": "Leah R",
+				"screen_name": "RareLeah",
+				"location": "Occupied Pamunkey land",
+				"description": "abolitionist | lefty-leftist | clipboards | radically vulnerable witchcraft | #Blacklivesmatter #Emily4ALA | library + archives worker | she/they",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 762,
+				"friends_count": 1331,
+				"listed_count": 0,
+				"created_at": "Tue Aug 12 15:25:21 +0000 2014",
+				"favourites_count": 8645,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2792,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1483904477845504005/SnH3M3Mi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483904477845504005/SnH3M3Mi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2726499146/1597823616",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "last day to use this resource! there are still funds available for YOU ❤️#MutualAid @ALALibrary https://t.co/WU4iBLrjDl"
+	},
+	{
+		"created_at": "Mon Jan 31 03:05:36 +0000 2022",
+		"id": 1487924854640754700,
+		"id_str": "1487985386882228227",
+		"full_text": "A win! Billings School Board votes to keep controversial books addressing LGBTQ+ issues | Local News | https://t.co/NbcntyCwJy https://t.co/ojliGEDs6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NbcntyCwJy",
+					"expanded_url": "http://billingsgazette.com",
+					"display_url": "billingsgazette.com",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/ojliGEDs6s",
+					"expanded_url": "https://billingsgazette.com/news/local/billings-school-board-votes-to-keep-controversial-books-addressing-lgbtq-issues/article_44a1966a-5d0c-5743-bb5b-053b5ef79e2a.html",
+					"display_url": "billingsgazette.com/news/local/bil…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1458470847031693300,
+			"id_str": "1458470847031693313",
+			"name": "FReadom",
+			"screen_name": "FReadomFighters",
+			"location": "",
+			"description": "We believe in the right to read. We support #FReadom.",
+			"url": "https://t.co/7oinBvxaiA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7oinBvxaiA",
+							"expanded_url": "https://www.freadom.us/",
+							"display_url": "freadom.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6228,
+			"friends_count": 422,
+			"listed_count": 32,
+			"created_at": "Wed Nov 10 16:25:51 +0000 2021",
+			"favourites_count": 2976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1458471826212937739/WQPnSfcG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458471826212937739/WQPnSfcG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1458470847031693313/1636562407",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A win! Billings School Board votes to keep controversial books addressing LGBTQ+ issues | Local News | https://t.co/NbcntyCwJy https://t.co/ojliGEDs6s"
+	},
+	{
+		"created_at": "Mon Jan 31 02:23:45 +0000 2022",
+		"id": 1487974855173623800,
+		"id_str": "1487974855173623809",
+		"full_text": "@stegan To Have and Have Not tho is the right answer",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stegan",
+					"name": "Steve Ammidown",
+					"id": 16649882,
+					"id_str": "16649882",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1487946811163750400,
+		"in_reply_to_status_id_str": "1487946811163750407",
+		"in_reply_to_user_id": 16649882,
+		"in_reply_to_user_id_str": "16649882",
+		"in_reply_to_screen_name": "stegan",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10079,
+			"friends_count": 486,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stegan To Have and Have Not tho is the right answer"
+	},
+	{
 		"created_at": "Mon Jan 31 02:09:56 +0000 2022",
 		"id": 1487971377672040400,
 		"id_str": "1487971377672040448",
@@ -16,7 +475,7 @@ Grailbird.data.tweets_2022_01 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
