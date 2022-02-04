@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 21:50:03 +0000 2022",
+		"id": 1489355529365475300,
+		"id_str": "1489355529365475337",
+		"full_text": "@BiblioraptorPhD I thought I could do better than I did with January, but I look to be on track with failing February",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BiblioraptorPhD",
+					"name": "Biblioraptor, PhD l",
+					"id": 16083240,
+					"id_str": "16083240",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1489349745571209200,
+		"in_reply_to_status_id_str": "1489349745571209216",
+		"in_reply_to_user_id": 16083240,
+		"in_reply_to_user_id_str": "16083240",
+		"in_reply_to_screen_name": "BiblioraptorPhD",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/aDAGu7rvJP | #TeamBacchae | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/5cZS3cbqcx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5cZS3cbqcx",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aDAGu7rvJP",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10084,
+			"friends_count": 488,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BiblioraptorPhD I thought I could do better than I did with January, but I look to be on track with failing February"
+	},
+	{
+		"created_at": "Thu Feb 03 20:11:17 +0000 2022",
+		"id": 1489329175496466400,
+		"id_str": "1489330672309317638",
+		"full_text": "In the spirit of Valentine’s Day, has anyone written a textual history of chocolate truffle keys/guides? https://t.co/aVMwaODyKV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489329070668193800,
+					"id_str": "1489329070668193798",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FKso5iLXIAYQzqd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKso5iLXIAYQzqd.jpg",
+					"url": "https://t.co/aVMwaODyKV",
+					"display_url": "pic.twitter.com/aVMwaODyKV",
+					"expanded_url": "https://twitter.com/IAmDylanLewis/status/1489329175496466446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 447,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 447,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489329070668193800,
+					"id_str": "1489329070668193798",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FKso5iLXIAYQzqd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKso5iLXIAYQzqd.jpg",
+					"url": "https://t.co/aVMwaODyKV",
+					"display_url": "pic.twitter.com/aVMwaODyKV",
+					"expanded_url": "https://twitter.com/IAmDylanLewis/status/1489329175496466446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 447,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 447,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1489329070668234800,
+					"id_str": "1489329070668234757",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FKso5iLXwAUfcTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKso5iLXwAUfcTa.jpg",
+					"url": "https://t.co/aVMwaODyKV",
+					"display_url": "pic.twitter.com/aVMwaODyKV",
+					"expanded_url": "https://twitter.com/IAmDylanLewis/status/1489329175496466446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1522,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1489329070685003800,
+					"id_str": "1489329070685003779",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FKso5iPXoAMZnTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKso5iPXoAMZnTC.jpg",
+					"url": "https://t.co/aVMwaODyKV",
+					"display_url": "pic.twitter.com/aVMwaODyKV",
+					"expanded_url": "https://twitter.com/IAmDylanLewis/status/1489329175496466446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1498,
+							"h": 1590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1131,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168566657,
+			"id_str": "168566657",
+			"name": "Dylan Lewis",
+			"screen_name": "IAmDylanLewis",
+			"location": "Washington, DC ",
+			"description": "¶TX in DC ¶PhD candidate ¶Eighteenth centuryist, book historian, bibliographer ¶Gaymer ¶Real Housewives historian ¶Librarian-in-training ¶He/Him 🇺🇸🇩🇪🏳️‍🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5646,
+			"friends_count": 3011,
+			"listed_count": 27,
+			"created_at": "Tue Jul 20 07:15:21 +0000 2010",
+			"favourites_count": 158132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1458091453956112398/uC17w0qo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458091453956112398/uC17w0qo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168566657/1641585515",
+			"profile_link_color": "7791B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the spirit of Valentine’s Day, has anyone written a textual history of chocolate truffle keys/guides? https://t.co/aVMwaODyKV"
+	},
+	{
+		"created_at": "Thu Feb 03 17:21:26 +0000 2022",
+		"id": 1489280759433150500,
+		"id_str": "1489287930321506305",
+		"full_text": "Calling all undergrads/recent grads interested in Women's History, African American History, archives, digital humanities: apply for our virtual and PAID #BecauseOfHerStory internship w @TranscribeSI and @NMAAHC - amplifying the stories of women in the #FreedmensBureau records. https://t.co/ym1zgBoHy1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BecauseOfHerStory",
+					"indices": [
+						154,
+						172
+					]
+				},
+				{
+					"text": "FreedmensBureau",
+					"indices": [
+						253,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TranscribeSI",
+					"name": "Smithsonian Transcription Center",
+					"id": 2244547699,
+					"id_str": "2244547699",
+					"indices": [
+						186,
+						199
+					]
+				},
+				{
+					"screen_name": "NMAAHC",
+					"name": "Smithsonian NMAAHC",
+					"id": 36972997,
+					"id_str": "36972997",
+					"indices": [
+						204,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ym1zgBoHy1",
+					"expanded_url": "https://twitter.com/TranscribeSI/status/1489246174808887300",
+					"display_url": "twitter.com/TranscribeSI/s…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3517290796,
+			"id_str": "3517290796",
+			"name": "Caitlin Haynes",
+			"screen_name": "CaitlinEHaynes",
+			"location": "Bowie, MD",
+			"description": "Surprisingly loud, genuinely excited. Focused on #DigitalEngagement in #GLAMs 🏛. Program Manager @TranscribeSI. Board member @GreenbeltMuseum. Views mine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 2738,
+			"listed_count": 12,
+			"created_at": "Tue Sep 01 23:08:44 +0000 2015",
+			"favourites_count": 4678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395487649771761665/dgaLiXhq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395487649771761665/dgaLiXhq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3517290796/1621545158",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1489246174808887300,
+		"quoted_status_id_str": "1489246174808887300",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ym1zgBoHy1",
+			"expanded": "https://twitter.com/TranscribeSI/status/1489246174808887300",
+			"display": "twitter.com/TranscribeSI/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 03 14:35:31 +0000 2022",
+			"id": 1489246174808887300,
+			"id_str": "1489246174808887300",
+			"full_text": "#Volunpeers have transcribed over 315K pages of #FreedmensBureau Records. Now we need your help magnifying the stories of American women found within these documents. #BHM \n\nApply for our PAID virtual #BecauseOfHerStory internship with @NMAAHC by 2/28: https://t.co/9h7uVaZ4SV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Volunpeers",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "FreedmensBureau",
+						"indices": [
+							48,
+							64
+						]
+					},
+					{
+						"text": "BHM",
+						"indices": [
+							167,
+							171
+						]
+					},
+					{
+						"text": "BecauseOfHerStory",
+						"indices": [
+							201,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NMAAHC",
+						"name": "Smithsonian NMAAHC",
+						"id": 36972997,
+						"id_str": "36972997",
+						"indices": [
+							236,
+							243
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9h7uVaZ4SV",
+						"expanded_url": "https://womenshistory.si.edu/news/2022/01/applications-now-open-paid-virtual-2022-because-her-story-cohort-internship",
+						"display_url": "womenshistory.si.edu/news/2022/01/a…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2244547699,
+				"id_str": "2244547699",
+				"name": "Smithsonian Transcription Center",
+				"screen_name": "TranscribeSI",
+				"location": "Washington, D.C. ",
+				"description": "We nurture collaborative engagement, empower discovery, and enhance accessibility of Smithsonian collections alongside digital #volunpeers. Legal https://t.co/kTqZsf5qzP",
+				"url": "https://t.co/W5WY60W2At",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W5WY60W2At",
+								"expanded_url": "https://transcription.si.edu/",
+								"display_url": "transcription.si.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kTqZsf5qzP",
+								"expanded_url": "http://s.si.edu/legal",
+								"display_url": "s.si.edu/legal",
+								"indices": [
+									146,
+									169
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13694,
+				"friends_count": 2373,
+				"listed_count": 275,
+				"created_at": "Fri Dec 13 21:42:31 +0000 2013",
+				"favourites_count": 32137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19126,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809828410788823040/DZlB6tTw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809828410788823040/DZlB6tTw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2244547699/1627517269",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling all undergrads/recent grads interested in Women's History, African American History, archives, digital humanities: apply for our virtual and PAID #BecauseOfHerStory internship w @TranscribeSI and @NMAAHC - amplifying the stories of women in the #FreedmensBureau records. https://t.co/ym1zgBoHy1"
+	},
+	{
 		"created_at": "Thu Feb 03 00:21:18 +0000 2022",
 		"id": 1489031203902705700,
 		"id_str": "1489031203902705667",
@@ -1325,7 +1969,7 @@ Grailbird.data.tweets_2022_02 =
 				"name": "Eve Harms",
 				"screen_name": "EveHarmsWrites",
 				"location": "Los Angeles, CA",
-				"description": "Horror writer & Zine Clown. Anti-literalist. Runs @zc_mag. Get my trans body horror book 👉 https://t.co/GfShwdFWZ6… 🏳️‍⚧️🏳️‍🌈✡️(she)",
+				"description": "Horror writer & Zine Clown. Anti-literalist. Runs @zc_mag. Get my trans body horror book 👉 https://t.co/GfShwdFWZ6… 🏳️⚧️🏳️🌈✡️(she)",
 				"url": "https://t.co/9yeujtGoEp",
 				"entities": {
 					"url": {
