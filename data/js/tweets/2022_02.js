@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 18:33:40 +0000 2022",
+		"id": 1492107639328809000,
+		"id_str": "1492205208197386243",
+		"full_text": "Have you always wanted to know about mimeographs, hectographs, ditto machines, and other copying and duplicating methods? Have I got the class for you. https://t.co/Y17xUZre4q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y17xUZre4q",
+					"expanded_url": "https://twitter.com/rarebookschool/status/1491858282373427203",
+					"display_url": "twitter.com/rarebookschool…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6522942,
+			"id_str": "6522942",
+			"name": "Brian Cassidy",
+			"screen_name": "briancassidy",
+			"location": "Washington DC",
+			"description": "Rare book & archives dealer. Co-founder @typepunchmatrix. Faculty @bookseminars & @rarebookschool. Member @abaa49. Lapsed poet. Commodifying print since 2004.",
+			"url": "https://t.co/6p5yes8OQl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6p5yes8OQl",
+							"expanded_url": "http://www.briancassidy.net",
+							"display_url": "briancassidy.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2863,
+			"friends_count": 874,
+			"listed_count": 67,
+			"created_at": "Sat Jun 02 14:01:10 +0000 2007",
+			"favourites_count": 5978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213572535842828288/vIlESa8J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213572535842828288/vIlESa8J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6522942/1578233354",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "161715",
+			"profile_sidebar_fill_color": "FDFFFA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1491858282373427200,
+		"quoted_status_id_str": "1491858282373427203",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y17xUZre4q",
+			"expanded": "https://twitter.com/rarebookschool/status/1491858282373427203",
+			"display": "twitter.com/rarebookschool…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 10 19:35:06 +0000 2022",
+			"id": 1491858282373427200,
+			"id_str": "1491858282373427203",
+			"full_text": "We are now accepting applications for our in-person and online summer 2022 courses in our new myRBS system, which has just gone live! Visit https://t.co/C1TkYHun7v for details, and be sure to check out our walkthrough of the new myRBS:  https://t.co/9pxGqq8P54 \n#rbs2022",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rbs2022",
+						"indices": [
+							262,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C1TkYHun7v",
+						"expanded_url": "https://rarebookschool.org/schedule/",
+						"display_url": "rarebookschool.org/schedule/",
+						"indices": [
+							140,
+							163
+						]
+					},
+					{
+						"url": "https://t.co/9pxGqq8P54",
+						"expanded_url": "https://www.youtube.com/watch?v=vqVX0qeJDYs",
+						"display_url": "youtube.com/watch?v=vqVX0q…",
+						"indices": [
+							237,
+							260
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23403378,
+				"id_str": "23403378",
+				"name": "Rare Book School",
+				"screen_name": "rarebookschool",
+				"location": "Charlottesville, VA",
+				"description": "RBS is a non-profit institute that provides advocacy, education, and outreach for the study, care, and uses of written, printed, and born-digital materials.",
+				"url": "http://t.co/fnHY2Ivf33",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fnHY2Ivf33",
+								"expanded_url": "http://www.rarebookschool.org",
+								"display_url": "rarebookschool.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10219,
+				"friends_count": 575,
+				"listed_count": 251,
+				"created_at": "Mon Mar 09 04:49:06 +0000 2009",
+				"favourites_count": 792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1271,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/585887099670421504/hIXz5vXJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/585887099670421504/hIXz5vXJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23403378/1428521395",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 20,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you always wanted to know about mimeographs, hectographs, ditto machines, and other copying and duplicating methods? Have I got the class for you. https://t.co/Y17xUZre4q"
+	},
+	{
+		"created_at": "Fri Feb 11 18:31:56 +0000 2022",
+		"id": 1492204772983779300,
+		"id_str": "1492204772983779332",
+		"full_text": "Love this! Congrats to @kaappiah in her new role and to all of @UVALibrary for having her skills in broadening their collections! https://t.co/6seYiYhPPm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kaappiah",
+					"name": "Krystal Appiah",
+					"id": 117639860,
+					"id_str": "117639860",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "UVALibrary",
+					"name": "University of Virginia Library",
+					"id": 55295077,
+					"id_str": "55295077",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6seYiYhPPm",
+					"expanded_url": "https://twitter.com/uvalibrary/status/1491879491391664141",
+					"display_url": "twitter.com/uvalibrary/sta…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10088,
+			"friends_count": 491,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1491879491391664000,
+		"quoted_status_id_str": "1491879491391664141",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6seYiYhPPm",
+			"expanded": "https://twitter.com/uvalibrary/status/1491879491391664141",
+			"display": "twitter.com/uvalibrary/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 10 20:59:23 +0000 2022",
+			"id": 1491879491391664000,
+			"id_str": "1491879491391664141",
+			"full_text": "Defining parameters, filling gaps, and broadening outreach: Curator @kaappiah talks about her new role, and plans for selecting and acquiring local, state, and regional holdings in the Small Special Collections Library @RareUVA.  \nhttps://t.co/duxspILvbg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kaappiah",
+						"name": "Krystal Appiah",
+						"id": 117639860,
+						"id_str": "117639860",
+						"indices": [
+							68,
+							77
+						]
+					},
+					{
+						"screen_name": "RareUVA",
+						"name": "Small Special Collections Library (UVA)",
+						"id": 2315649210,
+						"id_str": "2315649210",
+						"indices": [
+							219,
+							227
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/duxspILvbg",
+						"expanded_url": "https://news.library.virginia.edu/2022/02/10/get-to-know-krystal-appiah-curator-in-the-small-special-collections-library/",
+						"display_url": "news.library.virginia.edu/2022/02/10/get…",
+						"indices": [
+							231,
+							254
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55295077,
+				"id_str": "55295077",
+				"name": "University of Virginia Library",
+				"screen_name": "UVALibrary",
+				"location": "Charlottesville, Virginia",
+				"description": "Acquiring, preserving, organizing, and sharing material @UVA to further teaching and learning. Collections, spaces, services, collaboration, and discovery.",
+				"url": "http://t.co/6rj6wd1lBl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6rj6wd1lBl",
+								"expanded_url": "http://www.library.virginia.edu",
+								"display_url": "library.virginia.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3600,
+				"friends_count": 404,
+				"listed_count": 131,
+				"created_at": "Thu Jul 09 17:10:06 +0000 2009",
+				"favourites_count": 5440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7305,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "97D2D6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131643885694775296/cg-Wgdpi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131643885694775296/cg-Wgdpi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55295077/1498163508",
+				"profile_link_color": "6F8D2F",
+				"profile_sidebar_border_color": "FFD47D",
+				"profile_sidebar_fill_color": "E2E4E3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this! Congrats to @kaappiah in her new role and to all of @UVALibrary for having her skills in broadening their collections! https://t.co/6seYiYhPPm"
+	},
+	{
+		"created_at": "Fri Feb 11 16:37:10 +0000 2022",
+		"id": 1492175889869725700,
+		"id_str": "1492175889869725702",
+		"full_text": "@arifried @transbookhistry Could you cite it along lines of \"Anon., Title B, Year Y; reprint edition of Author, Title A, Year X\"? That's a pretty standard way of other sorts of editions/facsimiles/etc",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arifried",
+					"name": "Ari Friedlander",
+					"id": 96402598,
+					"id_str": "96402598",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1492165008507211800,
+		"in_reply_to_status_id_str": "1492165008507211776",
+		"in_reply_to_user_id": 96402598,
+		"in_reply_to_user_id_str": "96402598",
+		"in_reply_to_screen_name": "arifried",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10088,
+			"friends_count": 491,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@arifried @transbookhistry Could you cite it along lines of \"Anon., Title B, Year Y; reprint edition of Author, Title A, Year X\"? That's a pretty standard way of other sorts of editions/facsimiles/etc"
+	},
+	{
 		"created_at": "Thu Feb 10 01:19:57 +0000 2022",
 		"id": 1491582676830232600,
 		"id_str": "1491582676830232579",
@@ -970,7 +1606,7 @@ Grailbird.data.tweets_2022_02 =
 		"user": {
 			"id": 1351279653671997400,
 			"id_str": "1351279653671997440",
-			"name": "Dr. Barbara L. Voss 🏳️‍🌈",
+			"name": "Dr. Barbara L. Voss 🏳️🌈",
 			"screen_name": "BarbVossArchaeo",
 			"location": "Stanford, California",
 			"description": "Anthro Prof., Director, Stanford Archaeology Center: community-based / historical / queer archaeology, Chinese diaspora studies, she/they, views my own",
