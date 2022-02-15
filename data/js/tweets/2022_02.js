@@ -1,6 +1,834 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 02:05:05 +0000 2022",
+		"id": 1493385466967576600,
+		"id_str": "1493405974010507267",
+		"full_text": "Holy fuck did I really just read in a letter of recommendation that the woman in question is \"unprepossessing in person but is nonetheless a strongly independent, critical, and creative thinker.\" Just don't do this ever.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2881264591,
+			"id_str": "2881264591",
+			"name": "Stephen Guy-Bray",
+			"screen_name": "SGUYBRAY",
+			"location": "",
+			"description": "Professor specializing in Renaissance poetry, queer theory, & poetics. Opinions solely mine & always correct. he / him 🏳️‍🌈",
+			"url": "https://t.co/5aBF9jWQMU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5aBF9jWQMU",
+							"expanded_url": "http://blogs.ubc.ca/sguybray",
+							"display_url": "blogs.ubc.ca/sguybray",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19585,
+			"friends_count": 15974,
+			"listed_count": 94,
+			"created_at": "Tue Oct 28 21:10:19 +0000 2014",
+			"favourites_count": 384545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181592658143088640/WMoIUKzB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181592658143088640/WMoIUKzB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881264591/1607037846",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 266,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Holy fuck did I really just read in a letter of recommendation that the woman in question is \"unprepossessing in person but is nonetheless a strongly independent, critical, and creative thinker.\" Just don't do this ever."
+	},
+	{
+		"created_at": "Mon Feb 14 23:00:25 +0000 2022",
+		"id": 1493359198364598300,
+		"id_str": "1493359501835128836",
+		"full_text": "It's Valentine's Day! Here's a webinar about how the romance myth messes up our lives and our movement groups and how friendship might help us change this. https://t.co/3itUftJSD8 \nFollow up workshop on the patterns of the romance cycle this Weds 2/16 with @fireweedHJ!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fireweedHJ",
+					"name": "Fireweed Collective",
+					"id": 104884438,
+					"id_str": "104884438",
+					"indices": [
+						257,
+						268
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3itUftJSD8",
+					"expanded_url": "http://www.deanspade.net/2021/12/25/video-the-revolution-is-my-personfriend-workshop/",
+					"display_url": "deanspade.net/2021/12/25/vid…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39568851,
+			"id_str": "39568851",
+			"name": "dean spade",
+			"screen_name": "deanspade",
+			"location": "Seattle, WA",
+			"description": "https://t.co/yKGAdDj8T2",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yKGAdDj8T2",
+							"expanded_url": "http://linktr.ee/deanspade",
+							"display_url": "linktr.ee/deanspade",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23797,
+			"friends_count": 827,
+			"listed_count": 148,
+			"created_at": "Tue May 12 19:04:18 +0000 2009",
+			"favourites_count": 3410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010183269533380608/ElHy4FfF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010183269533380608/ElHy4FfF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39568851/1607230979",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's Valentine's Day! Here's a webinar about how the romance myth messes up our lives and our movement groups and how friendship might help us change this. https://t.co/3itUftJSD8 \nFollow up workshop on the patterns of the romance cycle this Weds 2/16 with @fireweedHJ!"
+	},
+	{
+		"created_at": "Mon Feb 14 22:56:24 +0000 2022",
+		"id": 1493358494065598500,
+		"id_str": "1493358494065598465",
+		"full_text": "@IAmDylanLewis as a mom who likes to give her kids socks, and as a queer who likes to wear socks, this is delightful",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IAmDylanLewis",
+					"name": "Dylan Lewis",
+					"id": 168566657,
+					"id_str": "168566657",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1493358164061925400,
+		"in_reply_to_status_id_str": "1493358164061925378",
+		"in_reply_to_user_id": 168566657,
+		"in_reply_to_user_id_str": "168566657",
+		"in_reply_to_screen_name": "IAmDylanLewis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10091,
+			"friends_count": 492,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IAmDylanLewis as a mom who likes to give her kids socks, and as a queer who likes to wear socks, this is delightful"
+	},
+	{
+		"created_at": "Mon Feb 14 22:52:59 +0000 2022",
+		"id": 1493342167099744300,
+		"id_str": "1493357631792197634",
+		"full_text": "Are you a 2Spirit / LGBTQ+ Native interested in winning this gorgeous blanket?\n\nWe need your input for the strategic planning and development of a new National Two-Spirit &amp; Native LGBTQ+ Resource Center! Please fill out this short survey to enter.\n\nhttps://t.co/DeAJmkA87n https://t.co/lrfAzuC742",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DeAJmkA87n",
+					"expanded_url": "https://www.surveymonkey.com/r/CMDCB8X",
+					"display_url": "surveymonkey.com/r/CMDCB8X",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493342160816640000,
+					"id_str": "1493342160816640002",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FLlqyH-XEAIULhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLlqyH-XEAIULhh.jpg",
+					"url": "https://t.co/lrfAzuC742",
+					"display_url": "pic.twitter.com/lrfAzuC742",
+					"expanded_url": "https://twitter.com/rebeccanagle/status/1493342167099744261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 641,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493342160816640000,
+					"id_str": "1493342160816640002",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FLlqyH-XEAIULhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLlqyH-XEAIULhh.jpg",
+					"url": "https://t.co/lrfAzuC742",
+					"display_url": "pic.twitter.com/lrfAzuC742",
+					"expanded_url": "https://twitter.com/rebeccanagle/status/1493342167099744261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 641,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87853386,
+			"id_str": "87853386",
+			"name": "Rebecca Nagle",
+			"screen_name": "rebeccanagle",
+			"location": "Tahlequah, OK",
+			"description": "Cherokee writer, advocate & language learner. Host #ThisLand podcast at @Crookedmedia Bylines @WashingtonPost @TeenVogue @HuffPost. Queer. She/hers. ᏣᏗᎮ.",
+			"url": "https://t.co/TLiVzRRtbE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TLiVzRRtbE",
+							"expanded_url": "http://thislandpodcast.com",
+							"display_url": "thislandpodcast.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102609,
+			"friends_count": 1372,
+			"listed_count": 0,
+			"created_at": "Fri Nov 06 03:01:12 +0000 2009",
+			"favourites_count": 13659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936447465632432129/hYsKXPLO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936447465632432129/hYsKXPLO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87853386/1631042492",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you a 2Spirit / LGBTQ+ Native interested in winning this gorgeous blanket?\n\nWe need your input for the strategic planning and development of a new National Two-Spirit &amp; Native LGBTQ+ Resource Center! Please fill out this short survey to enter.\n\nhttps://t.co/DeAJmkA87n https://t.co/lrfAzuC742"
+	},
+	{
+		"created_at": "Mon Feb 14 15:44:13 +0000 2022",
+		"id": 1493238416565321700,
+		"id_str": "1493249731031613444",
+		"full_text": "It's finally here - Happy Douglass Day!\n\nWe'll begin our live stream today at noon Eastern. \n\nAnd no need to sign up anymore. Just come on through and join ~5,000 people working together to transcribe the Colored Conventions!\n\nhttps://t.co/rDPMW1xSTU | #DouglassDay | @CCP_org https://t.co/wEfoaN1D5s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DouglassDay",
+					"indices": [
+						253,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CCP_org",
+					"name": "Colored Conventions",
+					"id": 1131275857,
+					"id_str": "1131275857",
+					"indices": [
+						268,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rDPMW1xSTU",
+					"expanded_url": "http://DouglassDay.org",
+					"display_url": "DouglassDay.org",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493237413493289000,
+					"id_str": "1493237413493288964",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FLkLhByXMAQe2_8.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLkLhByXMAQe2_8.png",
+					"url": "https://t.co/wEfoaN1D5s",
+					"display_url": "pic.twitter.com/wEfoaN1D5s",
+					"expanded_url": "https://twitter.com/DouglassDayorg/status/1493238416565321738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 605,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 605,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493237413493289000,
+					"id_str": "1493237413493288964",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FLkLhByXMAQe2_8.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLkLhByXMAQe2_8.png",
+					"url": "https://t.co/wEfoaN1D5s",
+					"display_url": "pic.twitter.com/wEfoaN1D5s",
+					"expanded_url": "https://twitter.com/DouglassDayorg/status/1493238416565321738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 605,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 605,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1196951705033818000,
+			"id_str": "1196951705033818113",
+			"name": "Douglass Day",
+			"screen_name": "DouglassDayorg",
+			"location": "",
+			"description": "Join us to celebrate the birthday of Frederick Douglass every February 14th. #DouglassDay",
+			"url": "https://t.co/b1Xart9FIu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1Xart9FIu",
+							"expanded_url": "http://douglassday.org/",
+							"display_url": "douglassday.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1083,
+			"friends_count": 1248,
+			"listed_count": 12,
+			"created_at": "Wed Nov 20 00:41:45 +0000 2019",
+			"favourites_count": 1422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360000356571353098/XggYig6U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360000356571353098/XggYig6U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1196951705033818113/1612915124",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's finally here - Happy Douglass Day!\n\nWe'll begin our live stream today at noon Eastern. \n\nAnd no need to sign up anymore. Just come on through and join ~5,000 people working together to transcribe the Colored Conventions!\n\nhttps://t.co/rDPMW1xSTU | #DouglassDay | @CCP_org https://t.co/wEfoaN1D5s"
+	},
+	{
+		"created_at": "Mon Feb 14 13:33:58 +0000 2022",
+		"id": 1493151122990813200,
+		"id_str": "1493216953258979331",
+		"full_text": "Many of followers are not UK academics, so here's a quick 🧵 on why higher education staff across the UK are on strike this week (and beyond). There are two big issues at play here: (1) pensions, and (2) the four fights. #UCUstrike  #OneOfUsAllOfUs /1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UCUstrike",
+					"indices": [
+						220,
+						230
+					]
+				},
+				{
+					"text": "OneOfUsAllOfUs",
+					"indices": [
+						232,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910034487114788900,
+			"id_str": "910034487114788864",
+			"name": "Rory Turnbull is on strike",
+			"screen_name": "_roryturnbull",
+			"location": "Newcastle upon Tyne",
+			"description": "Lecturer in Phonetics and Phonology @UniOfNewcastle ✦ Previously @UHManoa @ENS_ULM @OhioState @EdinburghUni ✦ Bahá’í ✦ Scottish ✦ he/him",
+			"url": "https://t.co/YVbU6uV3sy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YVbU6uV3sy",
+							"expanded_url": "http://www2.hawaii.edu/~rory9/",
+							"display_url": "www2.hawaii.edu/~rory9/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11705,
+			"friends_count": 1204,
+			"listed_count": 91,
+			"created_at": "Tue Sep 19 06:55:04 +0000 2017",
+			"favourites_count": 25652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1486272091582251012/fnvHGZBa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486272091582251012/fnvHGZBa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910034487114788864/1581667988",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 789,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Many of followers are not UK academics, so here's a quick 🧵 on why higher education staff across the UK are on strike this week (and beyond). There are two big issues at play here: (1) pensions, and (2) the four fights. #UCUstrike  #OneOfUsAllOfUs /1"
+	},
+	{
 		"created_at": "Mon Feb 14 01:52:09 +0000 2022",
 		"id": 1493040333743132700,
 		"id_str": "1493040333743132675",
