@@ -1,6 +1,755 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 00:14:53 +0000 2022",
+		"id": 1495889518251188200,
+		"id_str": "1495914956335820800",
+		"full_text": "Interested in historical Indigenous literature? I have assembled a webpage with links to all the freely available public domain works by 19th century Anishinaabe writers at https://t.co/gwnacq3Hzy\n\nCheck it out, use it for teaching, lmk if you have other suggestions to add!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gwnacq3Hzy",
+					"expanded_url": "https://anishinaabelit.wordpress.com/",
+					"display_url": "anishinaabelit.wordpress.com",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 696190388214833200,
+			"id_str": "696190388214833154",
+			"name": "ᒣᐦᑲᑌᐱᓀᔅ (Kai Minosh Pyle)",
+			"screen_name": "greatlakesqueer",
+			"location": "once and future prairielands",
+			"description": "niizh ojichaag indayaawaag. baawiting nishnaabe + rivyer ruuzh michif + polak. pucīhkit/moga šuuc oschi niya. they/them/wiin/wiya",
+			"url": "https://t.co/V0d9gOpwE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V0d9gOpwE9",
+							"expanded_url": "http://mekadebinesikwe.com",
+							"display_url": "mekadebinesikwe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2866,
+			"friends_count": 468,
+			"listed_count": 10,
+			"created_at": "Sun Feb 07 04:34:57 +0000 2016",
+			"favourites_count": 30283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282294421883703296/kvwidolH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282294421883703296/kvwidolH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/696190388214833154/1545431735",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 165,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in historical Indigenous literature? I have assembled a webpage with links to all the freely available public domain works by 19th century Anishinaabe writers at https://t.co/gwnacq3Hzy\n\nCheck it out, use it for teaching, lmk if you have other suggestions to add!"
+	},
+	{
+		"created_at": "Mon Feb 21 17:12:29 +0000 2022",
+		"id": 1495766109332676600,
+		"id_str": "1495808659502342147",
+		"full_text": "“NFTs aren’t as stupid as you think. They’re far, far stupider” \n\nby Mikey Dickerson https://t.co/0P2aU0KDZR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0P2aU0KDZR",
+					"expanded_url": "https://link.medium.com/GxqbebPlEnb",
+					"display_url": "link.medium.com/GxqbebPlEnb",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74541831,
+			"id_str": "74541831",
+			"name": "Kate Zwaard",
+			"screen_name": "kzwa",
+			"location": "Washington D.C.",
+			"description": "Your Jersey-Italian grandmother. Capitol Hill mom working at a library. My personal account for whistling in the dark.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2934,
+			"friends_count": 1351,
+			"listed_count": 98,
+			"created_at": "Tue Sep 15 20:09:42 +0000 2009",
+			"favourites_count": 6992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117619709048913923/9N6oCgoM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117619709048913923/9N6oCgoM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74541831/1360087726",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“NFTs aren’t as stupid as you think. They’re far, far stupider” \n\nby Mikey Dickerson https://t.co/0P2aU0KDZR"
+	},
+	{
+		"created_at": "Mon Feb 21 16:13:09 +0000 2022",
+		"id": 1495735837161660400,
+		"id_str": "1495793727310385156",
+		"full_text": ".@adamkotsko wrote a very good essay for us, about what happened to Agamben in COVID: https://t.co/8q7Mft9Lex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamkotsko",
+					"name": "Adam Kotsko",
+					"id": 3357176170,
+					"id_str": "3357176170",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8q7Mft9Lex",
+					"expanded_url": "https://slate.com/human-interest/2022/02/giorgio-agamben-covid-holocaust-comparison-right-wing-protest.html",
+					"display_url": "slate.com/human-interest…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193473814,
+			"id_str": "193473814",
+			"name": "Rebecca Onion",
+			"screen_name": "rebeccaonion",
+			"location": "Athens, OH",
+			"description": "Staff writer & editor, @Slate, working on ideas, history, culture, &c. Member, @SlateUnion @WGAEast. Ph.D, @AmStudies. rebecca.onion@slate.com",
+			"url": "https://t.co/284NDIRSRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/284NDIRSRr",
+							"expanded_url": "http://www.rebeccaonion.com",
+							"display_url": "rebeccaonion.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11799,
+			"friends_count": 2231,
+			"listed_count": 362,
+			"created_at": "Tue Sep 21 22:26:21 +0000 2010",
+			"favourites_count": 13713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "196B19",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1482066514442399744/d3eu7NqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1482066514442399744/d3eu7NqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193473814/1479831133",
+			"profile_link_color": "1C662E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "141214",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@adamkotsko wrote a very good essay for us, about what happened to Agamben in COVID: https://t.co/8q7Mft9Lex"
+	},
+	{
+		"created_at": "Mon Feb 21 15:55:18 +0000 2022",
+		"id": 1495472811946782700,
+		"id_str": "1495789232450854918",
+		"full_text": "“We tried to talk to them about the Religious Freedom Act,” Bear-Schneider said. “We tried to talk to them about our sovereignty. They didn’t want to hear anything.”\n\nAn officer can be heard in the video saying, “Sovereign stuff is not valid.\" \n\nhttps://t.co/mlyBa4iRoQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mlyBa4iRoQ",
+					"expanded_url": "https://www.freep.com/story/news/local/michigan/detroit/2022/02/19/detroit-police-break-up-native-ceremony/6861547001/",
+					"display_url": "freep.com/story/news/loc…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2237868823,
+			"id_str": "2237868823",
+			"name": "Kaitlin Curtice",
+			"screen_name": "KaitlinCurtice",
+			"location": "Turtle Island ",
+			"description": "Award-Winning Essayist, Poet, and Author//Public Speaker//Author of #NativeBook with @Brazospress//Citizen Potawatomi Nation//she/her",
+			"url": "https://t.co/Z1ILuUoXV4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z1ILuUoXV4",
+							"expanded_url": "https://kaitlincurtice.substack.com/p/welcome-to-the-liminality-journal",
+							"display_url": "kaitlincurtice.substack.com/p/welcome-to-t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43189,
+			"friends_count": 3215,
+			"listed_count": 366,
+			"created_at": "Mon Dec 09 16:05:09 +0000 2013",
+			"favourites_count": 102744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455200629392084992/Atc23r2g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455200629392084992/Atc23r2g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2237868823/1630505906",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We tried to talk to them about the Religious Freedom Act,” Bear-Schneider said. “We tried to talk to them about our sovereignty. They didn’t want to hear anything.”\n\nAn officer can be heard in the video saying, “Sovereign stuff is not valid.\" \n\nhttps://t.co/mlyBa4iRoQ"
+	},
+	{
+		"created_at": "Mon Feb 21 15:51:28 +0000 2022",
+		"id": 1495783251838967800,
+		"id_str": "1495788269539364864",
+		"full_text": "Nice post by Kinaya Hassane, Curatorial Fellow @librarycompany, on early C20 lantern slides by William Jennings. Wonderful images of Black Jamaican &amp; Barbadian life but through colonial lens. https://t.co/OGVA2NLnjj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "librarycompany",
+					"name": "The Library Company",
+					"id": 36125666,
+					"id_str": "36125666",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OGVA2NLnjj",
+					"expanded_url": "https://librarycompany.org/2022/02/15/a-philadelphia-photographers-visions-of-race-and-empire/",
+					"display_url": "librarycompany.org/2022/02/15/a-p…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117639860,
+			"id_str": "117639860",
+			"name": "Krystal Appiah",
+			"screen_name": "kaappiah",
+			"location": "",
+			"description": "Archives. Special collections. African American history. Public humanities. She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2634,
+			"friends_count": 1400,
+			"listed_count": 128,
+			"created_at": "Fri Feb 26 04:19:50 +0000 2010",
+			"favourites_count": 27133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8A2D56",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3167183215/4d710a06978c8b4d9de49ccd26a50750_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3167183215/4d710a06978c8b4d9de49ccd26a50750_normal.jpeg",
+			"profile_link_color": "0A37A8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice post by Kinaya Hassane, Curatorial Fellow @librarycompany, on early C20 lantern slides by William Jennings. Wonderful images of Black Jamaican &amp; Barbadian life but through colonial lens. https://t.co/OGVA2NLnjj"
+	},
+	{
+		"created_at": "Mon Feb 21 04:03:32 +0000 2022",
+		"id": 1495605967181996000,
+		"id_str": "1495610113671024642",
+		"full_text": "For me, these issues go along with an insistence that digital collections are a group of archival surrogates &amp; not entirely new grouping with their own collection development policies etc I personally think it's fine to do all your research digitally, if it's a stated methodology https://t.co/w2Cf8NxVor",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2Cf8NxVor",
+					"expanded_url": "https://twitter.com/amaliasl/status/1495528224700440578",
+					"display_url": "twitter.com/amaliasl/statu…",
+					"indices": [
+						285,
+						308
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941383982238847000,
+			"id_str": "941383982238846976",
+			"name": "Dorothy Berry",
+			"screen_name": "dorothyjberry",
+			"location": "Cambridge, MA",
+			"description": "\"missy-pedia\"\n\"a pocket venus\" \ni put the old pictures in the computers @houghtonlib\nhttps://t.co/rfcnu6Mo42",
+			"url": "https://t.co/ONnlHkVlbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONnlHkVlbw",
+							"expanded_url": "http://www.dorothy-berry.com",
+							"display_url": "dorothy-berry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rfcnu6Mo42",
+							"expanded_url": "http://linktr.ee/dorothyberry",
+							"display_url": "linktr.ee/dorothyberry",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6441,
+			"friends_count": 858,
+			"listed_count": 71,
+			"created_at": "Thu Dec 14 19:06:46 +0000 2017",
+			"favourites_count": 25333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487594703189168133/DSiCygaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487594703189168133/DSiCygaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941383982238846976/1643505120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1495528224700440600,
+		"quoted_status_id_str": "1495528224700440578",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w2Cf8NxVor",
+			"expanded": "https://twitter.com/amaliasl/status/1495528224700440578",
+			"display": "twitter.com/amaliasl/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 20 22:38:08 +0000 2022",
+			"id": 1495528224700440600,
+			"id_str": "1495528224700440578",
+			"full_text": "I think one of the most important skills to teach to undergraduates is the paucity of the digital (despite the incredible amount of things that exist digitized) and the imperative to go back to the source (the analogue collections).\n10/10",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1495528222875918300,
+			"in_reply_to_status_id_str": "1495528222875918339",
+			"in_reply_to_user_id": 33383694,
+			"in_reply_to_user_id_str": "33383694",
+			"in_reply_to_screen_name": "amaliasl",
+			"user": {
+				"id": 33383694,
+				"id_str": "33383694",
+				"name": "Amalia S. Levi",
+				"screen_name": "amaliasl",
+				"location": "Literally all over the place",
+				"description": "Archivist by night, PhD by day at @DependencyBonn. #archives #digitization #GlobalDH, Caribbean Jewish history.",
+				"url": "https://t.co/XOi8ekhtGn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XOi8ekhtGn",
+								"expanded_url": "https://hcommons.org/members/amaliasl/",
+								"display_url": "hcommons.org/members/amalia…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2251,
+				"friends_count": 2247,
+				"listed_count": 60,
+				"created_at": "Mon Apr 20 02:17:45 +0000 2009",
+				"favourites_count": 20475,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291373428197515264/yB1wCefj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291373428197515264/yB1wCefj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33383694/1636930235",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 167,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For me, these issues go along with an insistence that digital collections are a group of archival surrogates &amp; not entirely new grouping with their own collection development policies etc I personally think it's fine to do all your research digitally, if it's a stated methodology https://t.co/w2Cf8NxVor"
+	},
+	{
 		"created_at": "Mon Feb 21 01:07:29 +0000 2022",
 		"id": 1495563025423933400,
 		"id_str": "1495565809409830912",
