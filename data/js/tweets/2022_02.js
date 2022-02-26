@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 18:24:11 +0000 2022",
+		"id": 1497270656995672000,
+		"id_str": "1497276253078007808",
+		"full_text": "Just announced: #RBMS22 will be held as a virtual event. https://t.co/0LyYVj6Lon (Lots of mixed feelings personally, but it's kind of a relief not to have another choice to agonize over.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RBMS22",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0LyYVj6Lon",
+					"expanded_url": "https://rbms2022.us2.pathable.com/",
+					"display_url": "rbms2022.us2.pathable.com",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89477148,
+			"id_str": "89477148",
+			"name": "John Overholt",
+			"screen_name": "john_overholt",
+			"location": "Cambridge/Medford, MA",
+			"description": "Curator of Early Books & Manuscripts, Houghton Library, Harvard University. Opinions are my own. He/him/his",
+			"url": "https://t.co/9YAHh93Qr4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9YAHh93Qr4",
+							"expanded_url": "http://library.harvard.edu/hou",
+							"display_url": "library.harvard.edu/hou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25437,
+			"friends_count": 828,
+			"listed_count": 729,
+			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
+			"favourites_count": 26482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1463155608937537550/fR-xvQvi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463155608937537550/fR-xvQvi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89477148/1398194289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just announced: #RBMS22 will be held as a virtual event. https://t.co/0LyYVj6Lon (Lots of mixed feelings personally, but it's kind of a relief not to have another choice to agonize over.)"
+	},
+	{
+		"created_at": "Fri Feb 25 18:23:40 +0000 2022",
+		"id": 1497271788656599000,
+		"id_str": "1497276124862291980",
+		"full_text": "Library folk. Let's be ready for the next uninformed attack on libraries and/or librarians. I have created this handy Woke Librarian Bingo card. https://t.co/3gJCJy1lIO https://t.co/1nGz9ueqCb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3gJCJy1lIO",
+					"expanded_url": "https://www.canva.com/design/DAE5UvoxxAA/MYert1eMbqlNKiSSXcweGQ/view",
+					"display_url": "canva.com/design/DAE5Uvo…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497271247327137800,
+					"id_str": "1497271247327137792",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FMdgRD1XEAAuJE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMdgRD1XEAAuJE3.jpg",
+					"url": "https://t.co/1nGz9ueqCb",
+					"display_url": "pic.twitter.com/1nGz9ueqCb",
+					"expanded_url": "https://twitter.com/jessamyn/status/1497271788656599044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497271247327137800,
+					"id_str": "1497271247327137792",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FMdgRD1XEAAuJE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMdgRD1XEAAuJE3.jpg",
+					"url": "https://t.co/1nGz9ueqCb",
+					"display_url": "pic.twitter.com/1nGz9ueqCb",
+					"expanded_url": "https://twitter.com/jessamyn/status/1497271788656599044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75913,
+			"id_str": "75913",
+			"name": "Jessamyn West",
+			"screen_name": "jessamyn",
+			"location": "VT (unceded Abenaki territory)",
+			"description": "Rural tech geek. Researcher. Proud member of the librarian resistance. Collector of mosses. Enjoyer of postcards. ✉️ box 345 05060 ✉️ She/her.",
+			"url": "https://t.co/EFwfsJCaD3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EFwfsJCaD3",
+							"expanded_url": "http://tinyletter.com/jessamyn",
+							"display_url": "tinyletter.com/jessamyn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26818,
+			"friends_count": 2003,
+			"listed_count": 1495,
+			"created_at": "Sun Dec 17 19:27:43 +0000 2006",
+			"favourites_count": 50090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F3FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1382385351965212687/uy_q1iZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382385351965212687/uy_q1iZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75913/1641164510",
+			"profile_link_color": "6E818A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E2F0EA",
+			"profile_text_color": "263663",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 222,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Library folk. Let's be ready for the next uninformed attack on libraries and/or librarians. I have created this handy Woke Librarian Bingo card. https://t.co/3gJCJy1lIO https://t.co/1nGz9ueqCb"
+	},
+	{
+		"created_at": "Fri Feb 25 02:53:50 +0000 2022",
+		"id": 1496935022476988400,
+		"id_str": "1497042121290747906",
+		"full_text": "Digital Collections Program Manager @dorothyjberry has a new column for @JSTOR_Daily called \"Archives Unbound\"--check out the first installment here: https://t.co/svShyMUFVK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dorothyjberry",
+					"name": "Dorothy Berry",
+					"id": 941383982238847000,
+					"id_str": "941383982238846976",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "JSTOR_Daily",
+					"name": "JSTOR Daily",
+					"id": 2696503964,
+					"id_str": "2696503964",
+					"indices": [
+						72,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/svShyMUFVK",
+					"expanded_url": "https://daily.jstor.org/introducing-archives-unbound/",
+					"display_url": "daily.jstor.org/introducing-ar…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 476223503,
+			"id_str": "476223503",
+			"name": "Houghton Library",
+			"screen_name": "HoughtonLib",
+			"location": "Cambridge, MA",
+			"description": "@Harvard’s principal repository for rare books and manuscripts, literary and performing arts archives, and more. (Avatar by Audubon.)",
+			"url": "https://t.co/ZbRkmyRQ8q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZbRkmyRQ8q",
+							"expanded_url": "https://library.harvard.edu/libraries/houghton",
+							"display_url": "library.harvard.edu/libraries/houg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13875,
+			"friends_count": 171,
+			"listed_count": 404,
+			"created_at": "Fri Jan 27 22:16:40 +0000 2012",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1785816569/Audubon_blue_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/476223503/1524070254",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digital Collections Program Manager @dorothyjberry has a new column for @JSTOR_Daily called \"Archives Unbound\"--check out the first installment here: https://t.co/svShyMUFVK"
+	},
+	{
 		"created_at": "Thu Feb 24 19:45:42 +0000 2022",
 		"id": 1496681193068281900,
 		"id_str": "1496934379653779461",
