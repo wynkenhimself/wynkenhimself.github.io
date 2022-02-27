@@ -1,6 +1,1251 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 00:44:24 +0000 2022",
+		"id": 1497710348580708400,
+		"id_str": "1497734325562793986",
+		"full_text": "This is Marjorie Taylor Greene shaking hands with antisemitic racist Nick Fuentes.\n\nThis picture was taken right after he finished praising Hitler and Putin. \n\nRep. Greene is a disgrace and I will defeat her. https://t.co/P5C1Chmx1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497710343593898000,
+					"id_str": "1497710343593897994",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FMjvn05XsAodBOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMjvn05XsAodBOc.jpg",
+					"url": "https://t.co/P5C1Chmx1f",
+					"display_url": "pic.twitter.com/P5C1Chmx1f",
+					"expanded_url": "https://twitter.com/Marcus4Georgia/status/1497710348580708356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 729,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 934,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497710343593898000,
+					"id_str": "1497710343593897994",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FMjvn05XsAodBOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMjvn05XsAodBOc.jpg",
+					"url": "https://t.co/P5C1Chmx1f",
+					"display_url": "pic.twitter.com/P5C1Chmx1f",
+					"expanded_url": "https://twitter.com/Marcus4Georgia/status/1497710348580708356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 934,
+							"h": 729,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 934,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1267866658586136600,
+			"id_str": "1267866658586136577",
+			"name": "Marcus Flowers",
+			"screen_name": "Marcus4Georgia",
+			"location": "Rome, GA",
+			"description": "Proud Army Veteran. Patriot. Georgia Democrat running for Congress to replace Marjorie Taylor Greene. #GA14 #SendCongressFlowers",
+			"url": "https://t.co/qynxHxzN5E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qynxHxzN5E",
+							"expanded_url": "https://linktr.ee/marcus4georgia",
+							"display_url": "linktr.ee/marcus4georgia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306931,
+			"friends_count": 8001,
+			"listed_count": 466,
+			"created_at": "Tue Jun 02 17:12:35 +0000 2020",
+			"favourites_count": 22520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422649297091313671/xAh4s_jJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422649297091313671/xAh4s_jJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1267866658586136577/1614553464",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 681,
+		"favorite_count": 2845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is Marjorie Taylor Greene shaking hands with antisemitic racist Nick Fuentes.\n\nThis picture was taken right after he finished praising Hitler and Putin. \n\nRep. Greene is a disgrace and I will defeat her. https://t.co/P5C1Chmx1f"
+	},
+	{
+		"created_at": "Sun Feb 27 00:42:58 +0000 2022",
+		"id": 1497733966291472400,
+		"id_str": "1497733966291472389",
+		"full_text": "@ryancordell @eviedc Happy anniversary, friends!",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryancordell",
+					"name": "Ryan Cordell",
+					"id": 20112111,
+					"id_str": "20112111",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "eviedc",
+					"name": "Eves",
+					"id": 16010765,
+					"id_str": "16010765",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497732359373955000,
+		"in_reply_to_status_id_str": "1497732359373955076",
+		"in_reply_to_user_id": 20112111,
+		"in_reply_to_user_id_str": "20112111",
+		"in_reply_to_screen_name": "ryancordell",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10113,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ryancordell @eviedc Happy anniversary, friends!"
+	},
+	{
+		"created_at": "Sun Feb 27 00:42:00 +0000 2022",
+		"id": 1497733721260232700,
+		"id_str": "1497733721260232714",
+		"full_text": "@morgan_forde_ @internetstine Also now I need to praise Morgan because that gif is adorable and I needed to laugh",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "morgan_forde_",
+					"name": "Morgan Forde",
+					"id": 584234331,
+					"id_str": "584234331",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson 🇺🇦",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497733570747670500,
+		"in_reply_to_status_id_str": "1497733570747670529",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10113,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@morgan_forde_ @internetstine Also now I need to praise Morgan because that gif is adorable and I needed to laugh"
+	},
+	{
+		"created_at": "Sun Feb 27 00:41:24 +0000 2022",
+		"id": 1497733570747670500,
+		"id_str": "1497733570747670529",
+		"full_text": "@morgan_forde_ @internetstine Definitely with Morgan on this!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "morgan_forde_",
+					"name": "Morgan Forde",
+					"id": 584234331,
+					"id_str": "584234331",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson 🇺🇦",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497732681421009000,
+		"in_reply_to_status_id_str": "1497732681421008898",
+		"in_reply_to_user_id": 584234331,
+		"in_reply_to_user_id_str": "584234331",
+		"in_reply_to_screen_name": "morgan_forde_",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10113,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@morgan_forde_ @internetstine Definitely with Morgan on this!"
+	},
+	{
+		"created_at": "Sun Feb 27 00:26:16 +0000 2022",
+		"id": 1497729764219629600,
+		"id_str": "1497729764219629570",
+		"full_text": "@morgan_forde_ @internetstine We are lucky to have her—and her book club vision",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "morgan_forde_",
+					"name": "Morgan Forde",
+					"id": 584234331,
+					"id_str": "584234331",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson 🇺🇦",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497729414368477200,
+		"in_reply_to_status_id_str": "1497729414368477187",
+		"in_reply_to_user_id": 584234331,
+		"in_reply_to_user_id_str": "584234331",
+		"in_reply_to_screen_name": "morgan_forde_",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10113,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@morgan_forde_ @internetstine We are lucky to have her—and her book club vision"
+	},
+	{
+		"created_at": "Sun Feb 27 00:25:37 +0000 2022",
+		"id": 1497729414368477200,
+		"id_str": "1497729597789589513",
+		"full_text": "Good read of the day from the ever elegant and talented @internetstine ❤️ #BookishBookClub https://t.co/MGxsTbC0nx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BookishBookClub",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Jacobson 🇺🇦",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MGxsTbC0nx",
+					"expanded_url": "https://twitter.com/lareviewofbooks/status/1497724913221787648",
+					"display_url": "twitter.com/lareviewofbook…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 584234331,
+			"id_str": "584234331",
+			"name": "Morgan Forde",
+			"screen_name": "morgan_forde_",
+			"location": "Cambridge, MA via DC",
+			"description": "1st gen PhD student, Black+Soviet urban history @HarvardGSD. MPhil @Cambridge_uni. Words @pshares @lareviewofbooks @popmech @The_Rumpus @industrydive @mic",
+			"url": "https://t.co/mvZWkvUURd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mvZWkvUURd",
+							"expanded_url": "https://muckrack.com/morgan-forde",
+							"display_url": "muckrack.com/morgan-forde",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 906,
+			"friends_count": 1906,
+			"listed_count": 28,
+			"created_at": "Fri May 18 20:58:38 +0000 2012",
+			"favourites_count": 132398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359276056184819713/2JlYu4ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359276056184819713/2JlYu4ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/584234331/1645720796",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1497724913221787600,
+		"quoted_status_id_str": "1497724913221787648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MGxsTbC0nx",
+			"expanded": "https://twitter.com/lareviewofbooks/status/1497724913221787648",
+			"display": "twitter.com/lareviewofbook…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 27 00:07:00 +0000 2022",
+			"id": 1497724913221787600,
+			"id_str": "1497724913221787648",
+			"full_text": "Book clubs took off during the pandemic. Yiyun Li was just one of many hosts, connecting thousands of readers through Leo Tolstoy’s “War and Peace.” Christine Jacobson (@internetstine) on Li's experience documented in her latest work, “Tolstoy Together.\" https://t.co/fub5VOoUMp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "internetstine",
+						"name": "Christine Jacobson 🇺🇦",
+						"id": 326660319,
+						"id_str": "326660319",
+						"indices": [
+							169,
+							183
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fub5VOoUMp",
+						"expanded_url": "https://loom.ly/hSGhCs0",
+						"display_url": "loom.ly/hSGhCs0",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.loomly.com/\" rel=\"nofollow\">Loomly</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124087958,
+				"id_str": "124087958",
+				"name": "LA Review of Books (LARB)",
+				"screen_name": "LAReviewofBooks",
+				"location": "Los Angeles, CA",
+				"description": "🎈 #10YearsOfLARB 🎈 LARB is a nonprofit dedicated to promoting & disseminating rigorous, incisive, & engaging writing on literature, culture, & the arts.",
+				"url": "https://t.co/vfGlbCVTIG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vfGlbCVTIG",
+								"expanded_url": "https://lareviewofbooks.org/donate",
+								"display_url": "lareviewofbooks.org/donate",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 320093,
+				"friends_count": 5581,
+				"listed_count": 3994,
+				"created_at": "Thu Mar 18 06:23:09 +0000 2010",
+				"favourites_count": 23105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 109566,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1370431528589737985/-mxSzgfJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370431528589737985/-mxSzgfJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124087958/1638384572",
+				"profile_link_color": "B31500",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good read of the day from the ever elegant and talented @internetstine ❤️ #BookishBookClub https://t.co/MGxsTbC0nx"
+	},
+	{
+		"created_at": "Sat Feb 26 17:21:04 +0000 2022",
+		"id": 1462450734163767300,
+		"id_str": "1497622757890314252",
+		"full_text": "Lauren Frances Adams transforms elements from 19th-century quilts and decorative furniture to explore difficult legacies from the enslavement era of the U.S. that continue to impact us today. \n\nVisit All Due Respect now through April 3, 2022: https://t.co/YvglgBf7FQ https://t.co/xFnED6wjWF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YvglgBf7FQ",
+					"expanded_url": "https://artb.ma/3kPwi0L",
+					"display_url": "artb.ma/3kPwi0L",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461816618145751000,
+					"id_str": "1461816618145751042",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FElqeBtXIAINNm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FElqeBtXIAINNm6.jpg",
+					"url": "https://t.co/xFnED6wjWF",
+					"display_url": "pic.twitter.com/xFnED6wjWF",
+					"expanded_url": "https://twitter.com/artbma/status/1462450734163767299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1766,
+							"h": 1179,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461816618145751000,
+					"id_str": "1461816618145751042",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FElqeBtXIAINNm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FElqeBtXIAINNm6.jpg",
+					"url": "https://t.co/xFnED6wjWF",
+					"display_url": "pic.twitter.com/xFnED6wjWF",
+					"expanded_url": "https://twitter.com/artbma/status/1462450734163767299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1766,
+							"h": 1179,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35777188,
+			"id_str": "35777188",
+			"name": "Baltimore Museum of Art",
+			"screen_name": "artbma",
+			"location": "Baltimore, Maryland",
+			"description": "Home to an internationally renowned collection of 19th-century, modern, and contemporary art. Plan your visit: https://t.co/ZasrDfFyOL",
+			"url": "https://t.co/eiSN4xiVxd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eiSN4xiVxd",
+							"expanded_url": "http://www.artbma.org",
+							"display_url": "artbma.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZasrDfFyOL",
+							"expanded_url": "http://artbma.org",
+							"display_url": "artbma.org",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16823,
+			"friends_count": 1850,
+			"listed_count": 557,
+			"created_at": "Mon Apr 27 15:57:33 +0000 2009",
+			"favourites_count": 5526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389203568222220292/5K3_Om6o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389203568222220292/5K3_Om6o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35777188/1624652339",
+			"profile_link_color": "29AAE2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lauren Frances Adams transforms elements from 19th-century quilts and decorative furniture to explore difficult legacies from the enslavement era of the U.S. that continue to impact us today. \n\nVisit All Due Respect now through April 3, 2022: https://t.co/YvglgBf7FQ https://t.co/xFnED6wjWF"
+	},
+	{
+		"created_at": "Sat Feb 26 17:20:44 +0000 2022",
+		"id": 1497622675317010400,
+		"id_str": "1497622675317010438",
+		"full_text": "@sehovde I feel like we’re a pretty high-compliance area in general so 🤞",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sehovde",
+					"name": "Sarah Hovde",
+					"id": 331318117,
+					"id_str": "331318117",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497616476483768300,
+		"in_reply_to_status_id_str": "1497616476483768329",
+		"in_reply_to_user_id": 331318117,
+		"in_reply_to_user_id_str": "331318117",
+		"in_reply_to_screen_name": "sehovde",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10113,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sehovde I feel like we’re a pretty high-compliance area in general so 🤞"
+	},
+	{
 		"created_at": "Fri Feb 25 18:24:11 +0000 2022",
 		"id": 1497270656995672000,
 		"id_str": "1497276253078007808",
