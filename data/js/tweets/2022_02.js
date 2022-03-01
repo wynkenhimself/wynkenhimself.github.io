@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 23:54:31 +0000 2022",
+		"id": 1498429905675206700,
+		"id_str": "1498446547582861314",
+		"full_text": "Somebody needs to write a cozy mystery where the detective rules out the rare books librarian as a suspect because the murderer wore white cotton gloves. https://t.co/hQ1V54UIW4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hQ1V54UIW4",
+					"expanded_url": "https://twitter.com/rebeccaromney/status/1498410989796134914",
+					"display_url": "twitter.com/rebeccaromney/…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 661173,
+			"id_str": "661173",
+			"name": "Skee-Ball Librarian",
+			"screen_name": "oodja",
+			"location": "Bryn Mawr, PA",
+			"description": "'I'm gonna have to library science the shit out of this!' Author, librarian, dad, Skee-Ball junkie. Loves robots, funny dice, dragons & Fireball Island.  He/him",
+			"url": "https://t.co/zhBdn4NmxR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zhBdn4NmxR",
+							"expanded_url": "https://www.amazon.com/Tom-Bruno/e/B0075E4D6Q",
+							"display_url": "amazon.com/Tom-Bruno/e/B0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5358,
+			"friends_count": 5823,
+			"listed_count": 494,
+			"created_at": "Thu Jan 18 18:39:24 +0000 2007",
+			"favourites_count": 90676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 169879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834107775001165825/9UyfrjOL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834107775001165825/9UyfrjOL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/661173/1636038604",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498410989796135000,
+		"quoted_status_id_str": "1498410989796134914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hQ1V54UIW4",
+			"expanded": "https://twitter.com/rebeccaromney/status/1498410989796134914",
+			"display": "twitter.com/rebeccaromney/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 28 21:33:13 +0000 2022",
+			"id": 1498410989796135000,
+			"id_str": "1498410989796134914",
+			"full_text": "Since rare book twitter is on the subject -- a White Gloves Conversation in Three Acts, from a DM I received a few months ago: https://t.co/Ba31FSrAAl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1498410629476012000,
+						"id_str": "1498410629476012039",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FMtsh1GWUAcxWWi.png",
+						"media_url_https": "https://pbs.twimg.com/media/FMtsh1GWUAcxWWi.png",
+						"url": "https://t.co/Ba31FSrAAl",
+						"display_url": "pic.twitter.com/Ba31FSrAAl",
+						"expanded_url": "https://twitter.com/rebeccaromney/status/1498410989796134914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 494,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 830,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1498410629476012000,
+						"id_str": "1498410629476012039",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FMtsh1GWUAcxWWi.png",
+						"media_url_https": "https://pbs.twimg.com/media/FMtsh1GWUAcxWWi.png",
+						"url": "https://t.co/Ba31FSrAAl",
+						"display_url": "pic.twitter.com/Ba31FSrAAl",
+						"expanded_url": "https://twitter.com/rebeccaromney/status/1498410989796134914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 494,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 830,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1498409469323186200,
+						"id_str": "1498409469323186187",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FMtreTMXEAst_gm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMtreTMXEAst_gm.jpg",
+						"url": "https://t.co/Ba31FSrAAl",
+						"display_url": "pic.twitter.com/Ba31FSrAAl",
+						"expanded_url": "https://twitter.com/rebeccaromney/status/1498410989796134914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1358,
+								"h": 810,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 716,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1498409469402886100,
+						"id_str": "1498409469402886148",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FMtreTfXMAQfEGh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMtreTfXMAQfEGh.jpg",
+						"url": "https://t.co/Ba31FSrAAl",
+						"display_url": "pic.twitter.com/Ba31FSrAAl",
+						"expanded_url": "https://twitter.com/rebeccaromney/status/1498410989796134914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1348,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 579,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34857868,
+				"id_str": "34857868",
+				"name": "Rebecca Romney",
+				"screen_name": "rebeccaromney",
+				"location": "Washington, DC",
+				"description": "Rare book dealer @typepunchmatrix, author, expert @PawnStars. Eccentricity enabler. “A cockeyed optimist of bibliophilia” - VARIETY",
+				"url": "https://t.co/mC4LpqBhLB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mC4LpqBhLB",
+								"expanded_url": "http://www.typepunchmatrix.com",
+								"display_url": "typepunchmatrix.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50151,
+				"friends_count": 1854,
+				"listed_count": 228,
+				"created_at": "Fri Apr 24 05:28:17 +0000 2009",
+				"favourites_count": 15588,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4077,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/689290313555378176/7A5_CYDu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/689290313555378176/7A5_CYDu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34857868/1596673208",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 345,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 58,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Somebody needs to write a cozy mystery where the detective rules out the rare books librarian as a suspect because the murderer wore white cotton gloves. https://t.co/hQ1V54UIW4"
+	},
+	{
+		"created_at": "Mon Feb 28 23:54:24 +0000 2022",
+		"id": 1498446517941805000,
+		"id_str": "1498446517941805059",
+		"full_text": "@rebeccaromney there are so many things about this exchange that are amazing! I'm sorry about that dude but thank you for sharing, book-expert-whose-expertise-I-actually-do-respect-because-it's-expertise",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rebeccaromney",
+					"name": "Rebecca Romney",
+					"id": 34857868,
+					"id_str": "34857868",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1498410989796135000,
+		"in_reply_to_status_id_str": "1498410989796134914",
+		"in_reply_to_user_id": 34857868,
+		"in_reply_to_user_id_str": "34857868",
+		"in_reply_to_screen_name": "rebeccaromney",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10112,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rebeccaromney there are so many things about this exchange that are amazing! I'm sorry about that dude but thank you for sharing, book-expert-whose-expertise-I-actually-do-respect-because-it's-expertise"
+	},
+	{
+		"created_at": "Mon Feb 28 17:38:41 +0000 2022",
+		"id": 1498351968326201300,
+		"id_str": "1498351968326201351",
+		"full_text": "@abbymullen wonderful news--congrats, Abby!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abbymullen",
+					"name": "Abby Mullen",
+					"id": 247089092,
+					"id_str": "247089092",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1498295785842036700,
+		"in_reply_to_status_id_str": "1498295785842036736",
+		"in_reply_to_user_id": 247089092,
+		"in_reply_to_user_id_str": "247089092",
+		"in_reply_to_screen_name": "abbymullen",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10112,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@abbymullen wonderful news--congrats, Abby!"
+	},
+	{
 		"created_at": "Sun Feb 27 04:00:15 +0000 2022",
 		"id": 1497773647930527700,
 		"id_str": "1497783611113684995",
