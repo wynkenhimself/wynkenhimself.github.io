@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 02:12:55 +0000 2022",
+		"id": 1499206152139288600,
+		"id_str": "1499206152139288578",
+		"full_text": "@LaraDodds Amazing! And happy birthday!!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaraDodds",
+					"name": "Lara Dodds",
+					"id": 1058164614,
+					"id_str": "1058164614",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1499192218107531300,
+		"in_reply_to_status_id_str": "1499192218107531264",
+		"in_reply_to_user_id": 1058164614,
+		"in_reply_to_user_id_str": "1058164614",
+		"in_reply_to_screen_name": "LaraDodds",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10111,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LaraDodds Amazing! And happy birthday!!"
+	},
+	{
+		"created_at": "Thu Mar 03 00:53:47 +0000 2022",
+		"id": 1499176668216369200,
+		"id_str": "1499186240758894594",
+		"full_text": "AUSTIN, Texas (AP) — Texas judge blocks state from investigating parents of transgender teen over gender-confirmation care.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21316253,
+			"id_str": "21316253",
+			"name": "Zeke Miller",
+			"screen_name": "ZekeJMiller",
+			"location": "Washington, DC",
+			"description": "White House Reporter @AP",
+			"url": "https://t.co/a88HHzdBAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a88HHzdBAp",
+							"expanded_url": "https://apnews.com/",
+							"display_url": "apnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265625,
+			"friends_count": 6015,
+			"listed_count": 4839,
+			"created_at": "Thu Feb 19 17:01:16 +0000 2009",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 181728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595261015731740673/uvXc_cII_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595261015731740673/uvXc_cII_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21316253/1542308318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 2536,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "AUSTIN, Texas (AP) — Texas judge blocks state from investigating parents of transgender teen over gender-confirmation care."
+	},
+	{
+		"created_at": "Wed Mar 02 14:36:03 +0000 2022",
+		"id": 1499029493473812500,
+		"id_str": "1499030782396014597",
+		"full_text": "Book historians: can anyone help me get oriented with post-classical erasable (rather than inscribed/printed) writing media, eg tablets, pencil, chalk? Like, say I've read Stallybrass, Chartier, Mowery &amp; Wolfe 2004, and I want more more more",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2493655928,
+			"id_str": "2493655928",
+			"name": "Joseph A. Howley",
+			"screen_name": "hashtagoras",
+			"location": "angulis librorū ac magistrorū",
+			"description": "Latinist, historian of Roman literature & culture and the book at @CUDeptClassics. Writing a book about ancient slavery and the Roman book. He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5540,
+			"friends_count": 2046,
+			"listed_count": 122,
+			"created_at": "Wed May 14 01:13:22 +0000 2014",
+			"favourites_count": 13317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1381371727695990796/ZpspX6ky_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381371727695990796/ZpspX6ky_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2493655928/1567123530",
+			"profile_link_color": "660000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Book historians: can anyone help me get oriented with post-classical erasable (rather than inscribed/printed) writing media, eg tablets, pencil, chalk? Like, say I've read Stallybrass, Chartier, Mowery &amp; Wolfe 2004, and I want more more more"
+	},
+	{
 		"created_at": "Tue Mar 01 23:29:07 +0000 2022",
 		"id": 1498802542419103700,
 		"id_str": "1498802542419103744",
@@ -1578,7 +1874,7 @@ Grailbird.data.tweets_2022_03 =
 			"user": {
 				"id": 606935130,
 				"id_str": "606935130",
-				"name": "Cat 🐈‍⬛",
+				"name": "Cat 🐈⬛",
 				"screen_name": "useless_couch",
 				"location": "",
 				"description": "💜🤍💚🖤 fuck 12",
@@ -1763,7 +2059,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Tue Mar 01 14:56:28 +0000 2022",
 		"id": 1498673531944673300,
 		"id_str": "1498673531944673280",
-		"full_text": "I am trying not to be driven by despair and rage but this ongoing and worsening demonization of trans people is really making it hard 🏳️‍⚧️ https://t.co/PlP85HLJxf",
+		"full_text": "I am trying not to be driven by despair and rage but this ongoing and worsening demonization of trans people is really making it hard 🏳️⚧️ https://t.co/PlP85HLJxf",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1981,7 +2277,7 @@ Grailbird.data.tweets_2022_03 =
 				"name": "Erin, Trail Mom",
 				"screen_name": "ErinInTheMorn",
 				"location": "Washington, DC",
-				"description": "Solidarity w/ trans kids ✊Leftist Dem ⬅️ Mom 👩‍👦Weather nerd ⛈ DC 🇺🇸 Deacon ✝️ D&D DM 🐲 She/her. All opinions my own. \n\nVenmo erin888",
+				"description": "Solidarity w/ trans kids ✊Leftist Dem ⬅️ Mom 👩👦Weather nerd ⛈ DC 🇺🇸 Deacon ✝️ D&D DM 🐲 She/her. All opinions my own. \n\nVenmo erin888",
 				"url": null,
 				"entities": {
 					"description": {
@@ -2042,7 +2338,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "I am trying not to be driven by despair and rage but this ongoing and worsening demonization of trans people is really making it hard 🏳️‍⚧️ https://t.co/PlP85HLJxf"
+		"text": "I am trying not to be driven by despair and rage but this ongoing and worsening demonization of trans people is really making it hard 🏳️⚧️ https://t.co/PlP85HLJxf"
 	},
 	{
 		"created_at": "Tue Mar 01 14:40:42 +0000 2022",
