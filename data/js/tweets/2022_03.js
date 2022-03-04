@@ -1,6 +1,1217 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 04 00:03:15 +0000 2022",
+		"id": 1499535908890157000,
+		"id_str": "1499535908890157057",
+		"full_text": "I literally just a couple days ago thanked someone for their May 2020 email and said I would get back to them about it 😬 https://t.co/UADNXxXn2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UADNXxXn2r",
+					"expanded_url": "https://twitter.com/mina__t/status/1499062978750169098",
+					"display_url": "twitter.com/mina__t/status…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10112,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1499062978750169000,
+		"quoted_status_id_str": "1499062978750169098",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UADNXxXn2r",
+			"expanded": "https://twitter.com/mina__t/status/1499062978750169098",
+			"display": "twitter.com/mina__t/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 02 16:44:00 +0000 2022",
+			"id": 1499062978750169000,
+			"id_str": "1499062978750169098",
+			"full_text": "Academics have two and only two speeds: \n\n1. Can you review this manuscript by this afternoon? \n\nOr\n\n2. Sorry I missed your email in 2016 - do you still want to chat? \n\n#epitwitter #AcademicChatter #phdchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "epitwitter",
+						"indices": [
+							169,
+							180
+						]
+					},
+					{
+						"text": "AcademicChatter",
+						"indices": [
+							181,
+							197
+						]
+					},
+					{
+						"text": "phdchat",
+						"indices": [
+							198,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27499097,
+				"id_str": "27499097",
+				"name": "Mina T.",
+				"screen_name": "Mina__T",
+				"location": "Toronto",
+				"description": "I like drugs, data, & sports- and where they overlap.  \n\nAsst Prof: @UofTPharmacy\nAffil w/@wchresearch @ODPRN_research @ICESOntario \n\nWorking on my dad jokes!",
+				"url": "https://t.co/Aiv2NgAWEW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Aiv2NgAWEW",
+								"expanded_url": "https://www.pharmacy.utoronto.ca/faculty/mina-tadrous-assistant-professor-status",
+								"display_url": "pharmacy.utoronto.ca/faculty/mina-t…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1716,
+				"friends_count": 1340,
+				"listed_count": 21,
+				"created_at": "Sun Mar 29 20:40:52 +0000 2009",
+				"favourites_count": 15175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2223,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1480904621707116544/5a5xUIaH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480904621707116544/5a5xUIaH_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 733,
+			"favorite_count": 7088,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I literally just a couple days ago thanked someone for their May 2020 email and said I would get back to them about it 😬 https://t.co/UADNXxXn2r"
+	},
+	{
+		"created_at": "Fri Mar 04 00:01:31 +0000 2022",
+		"id": 1499535472724488200,
+		"id_str": "1499535472724488194",
+		"full_text": "@kawulf @john_overholt The inclusion of a birthdate is a touch I haven’t seen before!!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawulf",
+					"name": "Karin Wulf",
+					"id": 2513822461,
+					"id_str": "2513822461",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "john_overholt",
+					"name": "John Overholt",
+					"id": 89477148,
+					"id_str": "89477148",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1499520102739370000,
+		"in_reply_to_status_id_str": "1499520102739369991",
+		"in_reply_to_user_id": 2513822461,
+		"in_reply_to_user_id_str": "2513822461",
+		"in_reply_to_screen_name": "kawulf",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10112,
+			"friends_count": 494,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kawulf @john_overholt The inclusion of a birthdate is a touch I haven’t seen before!!"
+	},
+	{
+		"created_at": "Thu Mar 03 23:59:36 +0000 2022",
+		"id": 1499062978750169000,
+		"id_str": "1499534990140448778",
+		"full_text": "Academics have two and only two speeds: \n\n1. Can you review this manuscript by this afternoon? \n\nOr\n\n2. Sorry I missed your email in 2016 - do you still want to chat? \n\n#epitwitter #AcademicChatter #phdchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "epitwitter",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"text": "AcademicChatter",
+					"indices": [
+						181,
+						197
+					]
+				},
+				{
+					"text": "phdchat",
+					"indices": [
+						198,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27499097,
+			"id_str": "27499097",
+			"name": "Mina T.",
+			"screen_name": "Mina__T",
+			"location": "Toronto",
+			"description": "I like drugs, data, & sports- and where they overlap.  \n\nAsst Prof: @UofTPharmacy\nAffil w/@wchresearch @ODPRN_research @ICESOntario \n\nWorking on my dad jokes!",
+			"url": "https://t.co/Aiv2NgAWEW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Aiv2NgAWEW",
+							"expanded_url": "https://www.pharmacy.utoronto.ca/faculty/mina-tadrous-assistant-professor-status",
+							"display_url": "pharmacy.utoronto.ca/faculty/mina-t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1716,
+			"friends_count": 1340,
+			"listed_count": 21,
+			"created_at": "Sun Mar 29 20:40:52 +0000 2009",
+			"favourites_count": 15175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1480904621707116544/5a5xUIaH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480904621707116544/5a5xUIaH_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 733,
+		"favorite_count": 7088,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Academics have two and only two speeds: \n\n1. Can you review this manuscript by this afternoon? \n\nOr\n\n2. Sorry I missed your email in 2016 - do you still want to chat? \n\n#epitwitter #AcademicChatter #phdchat"
+	},
+	{
+		"created_at": "Thu Mar 03 21:19:54 +0000 2022",
+		"id": 1499435755462004700,
+		"id_str": "1499494801162616837",
+		"full_text": "\"Reframing Digital Preservation Through An Anti-Racist Lens.\" There's still time to apply to this amazing workshop (BIPOC-only) by @sofiayleung and I. Application due date has been extended to Friday, March 4. \nhttps://t.co/rGWzzGmb2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sofiayleung",
+					"name": "sofiaaaaa",
+					"id": 24089751,
+					"id_str": "24089751",
+					"indices": [
+						131,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rGWzzGmb2K",
+					"expanded_url": "https://dpoe.network/workshops/",
+					"display_url": "dpoe.network/workshops/",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468785078,
+			"id_str": "468785078",
+			"name": "abolish everything",
+			"screen_name": "elvia_arroyo",
+			"location": "California, USA",
+			"description": "digital archives laborer; hyphens and diacritics for life 💪🏽🔥✨. let’s help us get free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1874,
+			"friends_count": 1584,
+			"listed_count": 43,
+			"created_at": "Thu Jan 19 22:30:41 +0000 2012",
+			"favourites_count": 8686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991412365395574784/QowpKjYl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991412365395574784/QowpKjYl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468785078/1462418925",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Reframing Digital Preservation Through An Anti-Racist Lens.\" There's still time to apply to this amazing workshop (BIPOC-only) by @sofiayleung and I. Application due date has been extended to Friday, March 4. \nhttps://t.co/rGWzzGmb2K"
+	},
+	{
+		"created_at": "Thu Mar 03 21:19:23 +0000 2022",
+		"id": 1499441225170047000,
+		"id_str": "1499494672615497733",
+		"full_text": "Join us virtually (!) in BookLab on March 28th at 3pm EST for an interactive paleography workshop! Guest instructor Kathryn Brunet (@mmebibliophile) will be providing tips and tricks for reading historical handwriting.\n\nRegister for this (free) event here: https://t.co/kVM7UwNLfz https://t.co/7jhRT5LpIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mmebibliophile",
+					"name": "🌷 Kathryn A. Brunet 🌷",
+					"id": 2553515028,
+					"id_str": "2553515028",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kVM7UwNLfz",
+					"expanded_url": "https://tinyurl.com/2p8k939x",
+					"display_url": "tinyurl.com/2p8k939x",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1499441220371816400,
+					"id_str": "1499441220371816461",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FM8V2HXXIA0LQiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM8V2HXXIA0LQiG.jpg",
+					"url": "https://t.co/7jhRT5LpIb",
+					"display_url": "pic.twitter.com/7jhRT5LpIb",
+					"expanded_url": "https://twitter.com/umd_BookLab/status/1499441225170046978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1587,
+							"h": 1764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499441220371816400,
+					"id_str": "1499441220371816461",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FM8V2HXXIA0LQiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM8V2HXXIA0LQiG.jpg",
+					"url": "https://t.co/7jhRT5LpIb",
+					"display_url": "pic.twitter.com/7jhRT5LpIb",
+					"expanded_url": "https://twitter.com/umd_BookLab/status/1499441225170046978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1587,
+							"h": 1764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1039256136959094800,
+			"id_str": "1039256136959094785",
+			"name": "BookLab at UMD English",
+			"screen_name": "umd_BookLab",
+			"location": "College Park, MD",
+			"description": "BookLab is @umdenglish's hands-on space for teaching, study, and experimentation with our discipline's most iconic artifact: the codex book. 3248 Tawes Hall.",
+			"url": "https://t.co/JhyLLyN3Qy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JhyLLyN3Qy",
+							"expanded_url": "http://www.english.umd.edu/booklab",
+							"display_url": "english.umd.edu/booklab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 669,
+			"listed_count": 14,
+			"created_at": "Mon Sep 10 20:55:46 +0000 2018",
+			"favourites_count": 1000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453461965448388615/55DlaDEh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453461965448388615/55DlaDEh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039256136959094785/1567979486",
+			"profile_link_color": "8B0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us virtually (!) in BookLab on March 28th at 3pm EST for an interactive paleography workshop! Guest instructor Kathryn Brunet (@mmebibliophile) will be providing tips and tricks for reading historical handwriting.\n\nRegister for this (free) event here: https://t.co/kVM7UwNLfz https://t.co/7jhRT5LpIb"
+	},
+	{
+		"created_at": "Thu Mar 03 16:08:46 +0000 2022",
+		"id": 1499408882724188200,
+		"id_str": "1499416501539020806",
+		"full_text": "What are limp parchment bindings you ask? They are books with covers that are, as the name states – limp! Stiff boards were not used to construct the book binding. Instead a large sheet of parchment was used as a cover. #WorldBookDay https://t.co/mr21szAB73",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldBookDay",
+					"indices": [
+						220,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499408743645294600,
+					"id_str": "1499408743645294598",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499408743645294598/pu/img/WGpUdiBLRXqCfO-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499408743645294598/pu/img/WGpUdiBLRXqCfO-x.jpg",
+					"url": "https://t.co/mr21szAB73",
+					"display_url": "pic.twitter.com/mr21szAB73",
+					"expanded_url": "https://twitter.com/UkNatArchives/status/1499408882724188166/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499408743645294600,
+					"id_str": "1499408743645294598",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1499408743645294598/pu/img/WGpUdiBLRXqCfO-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1499408743645294598/pu/img/WGpUdiBLRXqCfO-x.jpg",
+					"url": "https://t.co/mr21szAB73",
+					"display_url": "pic.twitter.com/mr21szAB73",
+					"expanded_url": "https://twitter.com/UkNatArchives/status/1499408882724188166/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9218,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499408743645294598/pu/vid/480x270/ULXBb5JelZgiPDBn.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499408743645294598/pu/vid/1280x720/dtmIeZCHk0F-JDNB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1499408743645294598/pu/pl/EKjPADi3sk5sgVg3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1499408743645294598/pu/vid/640x360/Bun7Bx6Dqi2wt09l.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1499408603329056800,
+		"in_reply_to_status_id_str": "1499408603329056773",
+		"in_reply_to_user_id": 55190298,
+		"in_reply_to_user_id_str": "55190298",
+		"in_reply_to_screen_name": "UkNatArchives",
+		"user": {
+			"id": 55190298,
+			"id_str": "55190298",
+			"name": "The National Archives",
+			"screen_name": "UkNatArchives",
+			"location": "Kew, London",
+			"description": "Official archive of the UK government. Discover our online collections, research guides and educational resources, spanning 1000 years of history.",
+			"url": "https://t.co/JTUW8zvsi1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JTUW8zvsi1",
+							"expanded_url": "http://www.nationalarchives.gov.uk",
+							"display_url": "nationalarchives.gov.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169911,
+			"friends_count": 659,
+			"listed_count": 2553,
+			"created_at": "Thu Jul 09 09:30:16 +0000 2009",
+			"favourites_count": 17051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "716B6B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1464190903241916428/5V88uM0Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1464190903241916428/5V88uM0Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55190298/1641291233",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What are limp parchment bindings you ask? They are books with covers that are, as the name states – limp! Stiff boards were not used to construct the book binding. Instead a large sheet of parchment was used as a cover. #WorldBookDay https://t.co/mr21szAB73"
+	},
+	{
+		"created_at": "Thu Mar 03 16:03:21 +0000 2022",
+		"id": 1499033921392107500,
+		"id_str": "1499415140206325764",
+		"full_text": "I'm really excited to announce a new fellowship for Theatre and Technology that may appeal especially to my friends and colleagues in Digital Humanities: https://t.co/LZA1bXUjyr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LZA1bXUjyr",
+					"expanded_url": "https://www.nypl.org/press/press-release/march-1-2022/library-performing-arts-announces-new-theatre-and-technology-1",
+					"display_url": "nypl.org/press/press-re…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14185715,
+			"id_str": "14185715",
+			"name": "Doug Reside",
+			"screen_name": "dougreside",
+			"location": "New York City",
+			"description": "Curator of the Billy Rose Theater Division @nypl\r\n[My opinions do not necessarily reflect those of anyone or any institution with whom/which  I associate]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1816,
+			"friends_count": 1321,
+			"listed_count": 116,
+			"created_at": "Thu Mar 20 17:56:53 +0000 2008",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/487871405157916672/EBuY23sc_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/487871405157916672/EBuY23sc_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14185715/1578485152",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm really excited to announce a new fellowship for Theatre and Technology that may appeal especially to my friends and colleagues in Digital Humanities: https://t.co/LZA1bXUjyr"
+	},
+	{
+		"created_at": "Thu Mar 03 16:02:43 +0000 2022",
+		"id": 1499400956735279000,
+		"id_str": "1499414978931081228",
+		"full_text": "Register now for the free virtual session \"Scaling the Archives: Curating the Corpus of Early English Print\" with @abasu_ \n\nThis session will take place live on Zoom at 7pm ET on March 10th \n\nLearn more: https://t.co/nyR6gcIsgL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abasu_",
+					"name": "Anupam Basu",
+					"id": 264046271,
+					"id_str": "264046271",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nyR6gcIsgL",
+					"expanded_url": "http://bit.ly/3IP18kt",
+					"display_url": "bit.ly/3IP18kt",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245457986,
+			"id_str": "245457986",
+			"name": "Folger Research",
+			"screen_name": "FolgerResearch",
+			"location": "Folger Shakespeare Library",
+			"description": "Research, collections, and scholarly events from the Folger Shakespeare Library.",
+			"url": "http://t.co/LkH0iA7gmz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LkH0iA7gmz",
+							"expanded_url": "http://collation.folger.edu",
+							"display_url": "collation.folger.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10319,
+			"friends_count": 186,
+			"listed_count": 241,
+			"created_at": "Mon Jan 31 18:58:56 +0000 2011",
+			"favourites_count": 2436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCD083",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245457986/1409944581",
+			"profile_link_color": "B35516",
+			"profile_sidebar_border_color": "CC8A6C",
+			"profile_sidebar_fill_color": "FCD083",
+			"profile_text_color": "1A1714",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Register now for the free virtual session \"Scaling the Archives: Curating the Corpus of Early English Print\" with @abasu_ \n\nThis session will take place live on Zoom at 7pm ET on March 10th \n\nLearn more: https://t.co/nyR6gcIsgL"
+	},
+	{
 		"created_at": "Thu Mar 03 02:12:55 +0000 2022",
 		"id": 1499206152139288600,
 		"id_str": "1499206152139288578",
