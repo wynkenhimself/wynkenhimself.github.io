@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 04 18:20:40 +0000 2022",
+		"id": 1499811553968808000,
+		"id_str": "1499812085433356305",
+		"full_text": "In this short Life\nthat only lasts an hour\nHow much - how\nlittle - is\nwithin our\npower \n\nEmily Dickinson Collection, @amherstlibrary https://t.co/IyWKOU5Syd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amherstlibrary",
+					"name": "Amherst College Library",
+					"id": 289968746,
+					"id_str": "289968746",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499809202260299800,
+					"id_str": "1499809202260299783",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FNBkheuWUAccM8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNBkheuWUAccM8G.jpg",
+					"url": "https://t.co/IyWKOU5Syd",
+					"display_url": "pic.twitter.com/IyWKOU5Syd",
+					"expanded_url": "https://twitter.com/internetstine/status/1499811553968807939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499809202260299800,
+					"id_str": "1499809202260299783",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FNBkheuWUAccM8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNBkheuWUAccM8G.jpg",
+					"url": "https://t.co/IyWKOU5Syd",
+					"display_url": "pic.twitter.com/IyWKOU5Syd",
+					"expanded_url": "https://twitter.com/internetstine/status/1499811553968807939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326660319,
+			"id_str": "326660319",
+			"name": "Christine Jacobson 🇺🇦",
+			"screen_name": "internetstine",
+			"location": "Cambridge, MA",
+			"description": "Asst Curator of Modern Books & Manuscripts @houghtonlib ✍️ about material culture, novels, fashion, Slavica, sundry.",
+			"url": "https://t.co/nZNYxLOio8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZNYxLOio8",
+							"expanded_url": "https://linktr.ee/cejacobson",
+							"display_url": "linktr.ee/cejacobson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3162,
+			"friends_count": 2043,
+			"listed_count": 27,
+			"created_at": "Thu Jun 30 08:27:18 +0000 2011",
+			"favourites_count": 45551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326660319/1646171266",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FEFFF7",
+			"profile_text_color": "0F0E0F",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this short Life\nthat only lasts an hour\nHow much - how\nlittle - is\nwithin our\npower \n\nEmily Dickinson Collection, @amherstlibrary https://t.co/IyWKOU5Syd"
+	},
+	{
+		"created_at": "Fri Mar 04 14:55:11 +0000 2022",
+		"id": 1499760223359312000,
+		"id_str": "1499760371103674369",
+		"full_text": "Are you kidding this is dope https://t.co/5kN93GpNak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5kN93GpNak",
+					"expanded_url": "https://twitter.com/WhackNicholson/status/1499455798375763974",
+					"display_url": "twitter.com/WhackNicholson…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452382673,
+			"id_str": "452382673",
+			"name": "Stephanie Insley Hershinow",
+			"screen_name": "S_Insley_H",
+			"location": "the 6th borough",
+			"description": "Quite good: cook, reader, procrastinator. Decent: mom, writer, teacher. Terribly bad: athlete, winker, cat trainer. RTs are jokes I wish I'd made first.",
+			"url": "https://t.co/UavO2Zdu9W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UavO2Zdu9W",
+							"expanded_url": "https://stephaniehershinow.hcommons.org/",
+							"display_url": "stephaniehershinow.hcommons.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8083,
+			"friends_count": 2587,
+			"listed_count": 44,
+			"created_at": "Sun Jan 01 19:41:31 +0000 2012",
+			"favourites_count": 118394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489721827412819973/16hyhGQO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489721827412819973/16hyhGQO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452382673/1538745397",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1499455798375764000,
+		"quoted_status_id_str": "1499455798375763974",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5kN93GpNak",
+			"expanded": "https://twitter.com/WhackNicholson/status/1499455798375763974",
+			"display": "twitter.com/WhackNicholson…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 03 18:44:55 +0000 2022",
+			"id": 1499455798375764000,
+			"id_str": "1499455798375763974",
+			"full_text": "Maryland will answer for it's crimes. https://t.co/ukVQlQbJOb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1499455790054363100,
+						"id_str": "1499455790054363140",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FM8jGLqX0AQTk_U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FM8jGLqX0AQTk_U.jpg",
+						"url": "https://t.co/ukVQlQbJOb",
+						"display_url": "pic.twitter.com/ukVQlQbJOb",
+						"expanded_url": "https://twitter.com/WhackNicholson/status/1499455798375763974/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 347,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1044,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1499455790054363100,
+						"id_str": "1499455790054363140",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FM8jGLqX0AQTk_U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FM8jGLqX0AQTk_U.jpg",
+						"url": "https://t.co/ukVQlQbJOb",
+						"display_url": "pic.twitter.com/ukVQlQbJOb",
+						"expanded_url": "https://twitter.com/WhackNicholson/status/1499455798375763974/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 347,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 612,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1044,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1061454999572701200,
+				"id_str": "1061454999572701184",
+				"name": "🇷🇺Whack, with a silent 'h'🇺🇦",
+				"screen_name": "WhackNicholson",
+				"location": "He, Him",
+				"description": "You are welcome",
+				"url": "https://t.co/wh4fOViIMd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wh4fOViIMd",
+								"expanded_url": "https://soundcloud.com/whack-nicholson",
+								"display_url": "soundcloud.com/whack-nicholson",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8072,
+				"friends_count": 3008,
+				"listed_count": 22,
+				"created_at": "Sun Nov 11 03:06:07 +0000 2018",
+				"favourites_count": 173063,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50823,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1486489314087297031/Wwoim439_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486489314087297031/Wwoim439_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1061454999572701184/1622733163",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 357,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you kidding this is dope https://t.co/5kN93GpNak"
+	},
+	{
 		"created_at": "Fri Mar 04 00:03:15 +0000 2022",
 		"id": 1499535908890157000,
 		"id_str": "1499535908890157057",
