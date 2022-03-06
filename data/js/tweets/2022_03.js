@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 06 00:51:25 +0000 2022",
+		"id": 1500272649955598300,
+		"id_str": "1500272807267213313",
+		"full_text": "I am looking forward to the #BookishBookClub's discussion with ALA presidential candidate @edrabinski in ten minutes (dm me or @wynkenhimself for details if you want to join) and it is currently blowing my mind that she did an interview with @timheidecker https://t.co/KgWlv9fv6A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BookishBookClub",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edrabinski",
+					"name": "Emily Drabinski",
+					"id": 14089871,
+					"id_str": "14089871",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"screen_name": "wynkenhimself",
+					"name": "Sarah Werner",
+					"id": 35384223,
+					"id_str": "35384223",
+					"indices": [
+						127,
+						141
+					]
+				},
+				{
+					"screen_name": "timheidecker",
+					"name": "Tim Heidecker",
+					"id": 15108422,
+					"id_str": "15108422",
+					"indices": [
+						242,
+						255
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500272338528620500,
+					"id_str": "1500272338528620546",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FNIJvjxX0AIGqIP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNIJvjxX0AIGqIP.jpg",
+					"url": "https://t.co/KgWlv9fv6A",
+					"display_url": "pic.twitter.com/KgWlv9fv6A",
+					"expanded_url": "https://twitter.com/internetstine/status/1500272649955598336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500272338528620500,
+					"id_str": "1500272338528620546",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FNIJvjxX0AIGqIP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNIJvjxX0AIGqIP.jpg",
+					"url": "https://t.co/KgWlv9fv6A",
+					"display_url": "pic.twitter.com/KgWlv9fv6A",
+					"expanded_url": "https://twitter.com/internetstine/status/1500272649955598336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326660319,
+			"id_str": "326660319",
+			"name": "Christine Jacobson 🇺🇦",
+			"screen_name": "internetstine",
+			"location": "Cambridge, MA",
+			"description": "Asst Curator of Modern Books & Manuscripts @houghtonlib ✍️ about material culture, novels, fashion, Slavica, sundry.",
+			"url": "https://t.co/nZNYxLOio8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZNYxLOio8",
+							"expanded_url": "https://linktr.ee/cejacobson",
+							"display_url": "linktr.ee/cejacobson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3165,
+			"friends_count": 2045,
+			"listed_count": 27,
+			"created_at": "Thu Jun 30 08:27:18 +0000 2011",
+			"favourites_count": 45578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326660319/1646171266",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FEFFF7",
+			"profile_text_color": "0F0E0F",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am looking forward to the #BookishBookClub's discussion with ALA presidential candidate @edrabinski in ten minutes (dm me or @wynkenhimself for details if you want to join) and it is currently blowing my mind that she did an interview with @timheidecker https://t.co/KgWlv9fv6A"
+	},
+	{
+		"created_at": "Sun Mar 06 00:47:48 +0000 2022",
+		"id": 1499929699144720400,
+		"id_str": "1500271894737690627",
+		"full_text": "I received this apology for an accidental mass email from a theatre and it is the only way I will be apologizing from now on. https://t.co/b0uwmhMi8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499929695659257900,
+					"id_str": "1499929695659257856",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FNDSHHnUcAAAYnp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNDSHHnUcAAAYnp.jpg",
+					"url": "https://t.co/b0uwmhMi8M",
+					"display_url": "pic.twitter.com/b0uwmhMi8M",
+					"expanded_url": "https://twitter.com/daniellevalore/status/1499929699144720385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499929695659257900,
+					"id_str": "1499929695659257856",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FNDSHHnUcAAAYnp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNDSHHnUcAAAYnp.jpg",
+					"url": "https://t.co/b0uwmhMi8M",
+					"display_url": "pic.twitter.com/b0uwmhMi8M",
+					"expanded_url": "https://twitter.com/daniellevalore/status/1499929699144720385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 211236045,
+			"id_str": "211236045",
+			"name": "Danielle Evans",
+			"screen_name": "daniellevalore",
+			"location": "Baltimore, MD",
+			"description": "Mild-mannered writing professor. Author of Before You Suffocate Your Own Fool Self and The Office of Historical Corrections.",
+			"url": "https://t.co/h3Od2O31yZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h3Od2O31yZ",
+							"expanded_url": "https://daniellevevans.wordpress.com/",
+							"display_url": "daniellevevans.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16254,
+			"friends_count": 2163,
+			"listed_count": 227,
+			"created_at": "Tue Nov 02 18:08:58 +0000 2010",
+			"favourites_count": 50338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392943330334584838/CTF8GSQb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392943330334584838/CTF8GSQb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211236045/1635642258",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 1578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I received this apology for an accidental mass email from a theatre and it is the only way I will be apologizing from now on. https://t.co/b0uwmhMi8M"
+	},
+	{
+		"created_at": "Sat Mar 05 21:07:08 +0000 2022",
+		"id": 1499781718668202000,
+		"id_str": "1500216363742334979",
+		"full_text": "If we can shift attention a little bit from advocacy to organizing as a framework for change I’ll feel like #Emily4ALA can count as a win.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Emily4ALA",
+					"indices": [
+						108,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14089871,
+			"id_str": "14089871",
+			"name": "Emily Drabinski",
+			"screen_name": "edrabinski",
+			"location": "Brooklyn",
+			"description": "Interim Chief @cunyGClibrary. The problem is profit. Organize your workplace. Running for American Library Association prez: https://t.co/r0DJxSWKJ9",
+			"url": "https://t.co/2FtbCviXl9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2FtbCviXl9",
+							"expanded_url": "http://www.emilydrabinski.com",
+							"display_url": "emilydrabinski.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/r0DJxSWKJ9",
+							"expanded_url": "http://emilydrabinski.com",
+							"display_url": "emilydrabinski.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17246,
+			"friends_count": 4866,
+			"listed_count": 441,
+			"created_at": "Thu Mar 06 17:04:36 +0000 2008",
+			"favourites_count": 87707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483811045101781000/wro4tRwG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483811045101781000/wro4tRwG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14089871/1422498406",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If we can shift attention a little bit from advocacy to organizing as a framework for change I’ll feel like #Emily4ALA can count as a win."
+	},
+	{
+		"created_at": "Sat Mar 05 18:27:45 +0000 2022",
+		"id": 1500176255005700000,
+		"id_str": "1500176255005700098",
+		"full_text": "@melissa_hubbard Ok I really need to start the new series so I can watch along with you! I love how books/archives/etc keep popping up",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissa_hubbard",
+					"name": "Melissa Hubbard",
+					"id": 164796788,
+					"id_str": "164796788",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1500113729886859300,
+		"in_reply_to_status_id_str": "1500113729886859265",
+		"in_reply_to_user_id": 164796788,
+		"in_reply_to_user_id_str": "164796788",
+		"in_reply_to_screen_name": "melissa_hubbard",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10113,
+			"friends_count": 495,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissa_hubbard Ok I really need to start the new series so I can watch along with you! I love how books/archives/etc keep popping up"
+	},
+	{
 		"created_at": "Fri Mar 04 18:20:40 +0000 2022",
 		"id": 1499811553968808000,
 		"id_str": "1499812085433356305",
