@@ -1,6 +1,925 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 08 21:29:46 +0000 2022",
+		"id": 1501309223199821800,
+		"id_str": "1501309223199821828",
+		"full_text": "@eliza_audacis Even getting that far seems really big. Fingers crossed the board approves!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBold",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501308898552291300,
+		"in_reply_to_status_id_str": "1501308898552291338",
+		"in_reply_to_user_id": 18967025,
+		"in_reply_to_user_id_str": "18967025",
+		"in_reply_to_screen_name": "eliza_audacis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10115,
+			"friends_count": 496,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eliza_audacis Even getting that far seems really big. Fingers crossed the board approves!"
+	},
+	{
+		"created_at": "Tue Mar 08 21:27:42 +0000 2022",
+		"id": 1501308405461532700,
+		"id_str": "1501308701797400586",
+		"full_text": "In today's good news, Smithsonian is returning their collection of Benin bronzes to Nigeria: https://t.co/teCKYBJ6te",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/teCKYBJ6te",
+					"expanded_url": "https://wapo.st/3IUMp7B",
+					"display_url": "wapo.st/3IUMp7B",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18967025,
+			"id_str": "18967025",
+			"name": "Beth DeBold",
+			"screen_name": "eliza_audacis",
+			"location": "Nacotchtank/Piscataway Lands",
+			"description": "Special collections worker | cats, chickens, and bread | all opinions mine | Currently writing about: early modern gender and emotion🏳️‍🌈 📚🐈‍⬛🐈‍⬛🐓",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3130,
+			"friends_count": 2532,
+			"listed_count": 46,
+			"created_at": "Wed Jan 14 04:31:39 +0000 2009",
+			"favourites_count": 38544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466470814782533640/j3evSWjQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466470814782533640/j3evSWjQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18967025/1638468925",
+			"profile_link_color": "0D5810",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In today's good news, Smithsonian is returning their collection of Benin bronzes to Nigeria: https://t.co/teCKYBJ6te"
+	},
+	{
+		"created_at": "Tue Mar 08 21:27:38 +0000 2022",
+		"id": 1501308686874017800,
+		"id_str": "1501308686874017792",
+		"full_text": "@eliza_audacis Yes!!!!!!!!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBold",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1501308405461532700,
+		"in_reply_to_status_id_str": "1501308405461532673",
+		"in_reply_to_user_id": 18967025,
+		"in_reply_to_user_id_str": "18967025",
+		"in_reply_to_screen_name": "eliza_audacis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10115,
+			"friends_count": 496,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@eliza_audacis Yes!!!!!!!!"
+	},
+	{
+		"created_at": "Tue Mar 08 21:10:50 +0000 2022",
+		"id": 1501298954583093200,
+		"id_str": "1501304459758026762",
+		"full_text": "\"Regan’s three daughters urged voters not to elect him to office in a viral tweet during his 2020 bid for the state House.\" https://t.co/bSlEvdgePA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bSlEvdgePA",
+					"expanded_url": "https://twitter.com/marianaa_alfaro/status/1501294875144302609",
+					"display_url": "twitter.com/marianaa_alfar…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1403129251,
+			"id_str": "1403129251",
+			"name": "Grace Segers",
+			"screen_name": "Grace_Segers",
+			"location": "Washington, DC",
+			"description": "staff writer @newrepublic covering Congress + politics | prev. @CBSNews | all pop culture takes objectively correct | Philippians 4:4-9 | gsegers@tnr.com",
+			"url": "https://t.co/29BpgWdGPw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29BpgWdGPw",
+							"expanded_url": "http://hothtakes.wordpress.com",
+							"display_url": "hothtakes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36954,
+			"friends_count": 2338,
+			"listed_count": 631,
+			"created_at": "Sat May 04 18:51:09 +0000 2013",
+			"favourites_count": 41279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401880736207192070/E0bm7l_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401880736207192070/E0bm7l_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1403129251/1610216759",
+			"profile_link_color": "880000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501294875144302600,
+		"quoted_status_id_str": "1501294875144302609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bSlEvdgePA",
+			"expanded": "https://twitter.com/marianaa_alfaro/status/1501294875144302609",
+			"display": "twitter.com/marianaa_alfar…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 08 20:32:45 +0000 2022",
+			"id": 1501294875144302600,
+			"id_str": "1501294875144302609",
+			"full_text": "While attempting to make an analogy about abandoning efforts to decertify the 2020 election, Robert Regan, a GOP candidate favored to win a seat in the Michigan House, said he tells his daughters to \"lie back and enjoy it\" if raped:  https://t.co/aWqmg870fY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aWqmg870fY",
+						"expanded_url": "https://www.washingtonpost.com/politics/2022/03/08/gop-candidate-rape-2020-election/",
+						"display_url": "washingtonpost.com/politics/2022/…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 205251093,
+				"id_str": "205251093",
+				"name": "Mariana Alfaro",
+				"screen_name": "marianaa_alfaro",
+				"location": "dc/san salv/cdmx",
+				"description": "periodista salvadoreña-mexicana. escribo sobre política para el @washingtonpost. @postguild member, @northwesternu grad. semi-trilingual. she/ella.",
+				"url": "https://t.co/Xhi4NDP3hU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xhi4NDP3hU",
+								"expanded_url": "http://wapo.st/politics",
+								"display_url": "wapo.st/politics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4615,
+				"friends_count": 1568,
+				"listed_count": 102,
+				"created_at": "Wed Oct 20 13:10:06 +0000 2010",
+				"favourites_count": 25607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14312,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103785461548498944/2drr10Bl_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103785461548498944/2drr10Bl_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/205251093/1552037927",
+				"profile_link_color": "708090",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "3ABFED",
+				"profile_text_color": "A820B4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 58,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Regan’s three daughters urged voters not to elect him to office in a viral tweet during his 2020 bid for the state House.\" https://t.co/bSlEvdgePA"
+	},
+	{
+		"created_at": "Tue Mar 08 20:38:42 +0000 2022",
+		"id": 1501296371587948500,
+		"id_str": "1501296371587948546",
+		"full_text": "@BookStudies_WWU @lesliehowsam @GrubStreetWomen thank you! Leslie and Kate are at the top of my list of favorite feminist book historians too!",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BookStudies_WWU",
+					"name": "BookStudies_WWU",
+					"id": 1239844124410478600,
+					"id_str": "1239844124410478592",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "lesliehowsam",
+					"name": "Leslie Howsam",
+					"id": 163084924,
+					"id_str": "163084924",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "GrubStreetWomen",
+					"name": "Dr. Kate Ozment",
+					"id": 724376123665043500,
+					"id_str": "724376123665043456",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1501291841773351000,
+		"in_reply_to_status_id_str": "1501291841773350920",
+		"in_reply_to_user_id": 1239844124410478600,
+		"in_reply_to_user_id_str": "1239844124410478592",
+		"in_reply_to_screen_name": "BookStudies_WWU",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10115,
+			"friends_count": 496,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 40837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BookStudies_WWU @lesliehowsam @GrubStreetWomen thank you! Leslie and Kate are at the top of my list of favorite feminist book historians too!"
+	},
+	{
+		"created_at": "Tue Mar 08 19:45:42 +0000 2022",
+		"id": 1501281479778705400,
+		"id_str": "1501283032287875077",
+		"full_text": "Pls RT -\n\nAuthorizing Early Modern European Women: From Biography to Biofiction, edited by @JamesFitzmauri1, @NaomiMillerBks &amp; Sara Jayne Steen, is now published as #OpenAccess!\n\nYou can download the online version, courtesy of @KUnlatched, here:\nhttps://t.co/YK7oih6esQ https://t.co/DxYPMTmXcS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenAccess",
+					"indices": [
+						169,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesFitzmauri1",
+					"name": "James Fitzmaurice",
+					"id": 726163664,
+					"id_str": "726163664",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"screen_name": "NaomiMillerBks",
+					"name": "Naomi Miller Books",
+					"id": 1290689997868277800,
+					"id_str": "1290689997868277760",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"screen_name": "KUnlatched",
+					"name": "Knowledge Unlatched",
+					"id": 588308841,
+					"id_str": "588308841",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YK7oih6esQ",
+					"expanded_url": "https://www.aup.nl/en/book/9789048552900/authorizing-early-modern-european-women",
+					"display_url": "aup.nl/en/book/978904…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1501279918713290800,
+					"id_str": "1501279918713290752",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FNWeIcdVQAAKlVS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNWeIcdVQAAKlVS.jpg",
+					"url": "https://t.co/DxYPMTmXcS",
+					"display_url": "pic.twitter.com/DxYPMTmXcS",
+					"expanded_url": "https://twitter.com/egaffney4/status/1501281479778705409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501279918713290800,
+					"id_str": "1501279918713290752",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FNWeIcdVQAAKlVS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNWeIcdVQAAKlVS.jpg",
+					"url": "https://t.co/DxYPMTmXcS",
+					"display_url": "pic.twitter.com/DxYPMTmXcS",
+					"expanded_url": "https://twitter.com/egaffney4/status/1501281479778705409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1192,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2858795547,
+			"id_str": "2858795547",
+			"name": "Erika Gaffney",
+			"screen_name": "egaffney4",
+			"location": "Burlington, VT",
+			"description": "Sr Acq Editor, Early Modern Studies, @AmsterdamUPress. Comm Editor, Art History, @LHArtBooks. Founder, https://t.co/U2DMH82QEx, @NoteArtHerstory",
+			"url": "https://t.co/dW2MwQg1dr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dW2MwQg1dr",
+							"expanded_url": "https://artherstory.net",
+							"display_url": "artherstory.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U2DMH82QEx",
+							"expanded_url": "http://artherstory.net",
+							"display_url": "artherstory.net",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3502,
+			"friends_count": 3574,
+			"listed_count": 40,
+			"created_at": "Mon Nov 03 13:18:21 +0000 2014",
+			"favourites_count": 16974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193720398686412806/Jq8c2KKZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193720398686412806/Jq8c2KKZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2858795547/1620687722",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pls RT -\n\nAuthorizing Early Modern European Women: From Biography to Biofiction, edited by @JamesFitzmauri1, @NaomiMillerBks &amp; Sara Jayne Steen, is now published as #OpenAccess!\n\nYou can download the online version, courtesy of @KUnlatched, here:\nhttps://t.co/YK7oih6esQ https://t.co/DxYPMTmXcS"
+	},
+	{
 		"created_at": "Mon Mar 07 15:55:00 +0000 2022",
 		"id": 1500862587608649700,
 		"id_str": "1500862587608649728",
