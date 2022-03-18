@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 19:34:32 +0000 2022",
+		"id": 1504535026125480000,
+		"id_str": "1504541714970779654",
+		"full_text": "Come work with us!\n\nAnnouncing Oral History Postdoctoral Fellow in Trans Studies | The Program in Gender, Sexuality, and Women’s StudiesThe Center for Research in Feminist, Queer, and Transgender Studies https://t.co/OtNcB546OB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OtNcB546OB",
+					"expanded_url": "https://gsws.sas.upenn.edu/news/2022/03/17/announcing-oral-history-postdoctoral-fellow-trans-studies",
+					"display_url": "gsws.sas.upenn.edu/news/2022/03/1…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7894682,
+			"id_str": "7894682",
+			"name": "Dr. Gwendolyn Beetham",
+			"screen_name": "gwendolynb",
+			"location": "",
+			"description": "she/hers. tweets on feminism, parenting, politics, & queer stuff. @PennGSWS associate director. @LSEGenderTweet alum. opinions my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1594,
+			"friends_count": 2151,
+			"listed_count": 52,
+			"created_at": "Wed Aug 01 23:58:49 +0000 2007",
+			"favourites_count": 43098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466169588555689986/v5Z5-eBh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466169588555689986/v5Z5-eBh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7894682/1571617216",
+			"profile_link_color": "047285",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come work with us!\n\nAnnouncing Oral History Postdoctoral Fellow in Trans Studies | The Program in Gender, Sexuality, and Women’s StudiesThe Center for Research in Feminist, Queer, and Transgender Studies https://t.co/OtNcB546OB"
+	},
+	{
+		"created_at": "Thu Mar 17 14:12:58 +0000 2022",
+		"id": 1504438604457672700,
+		"id_str": "1504460788693712896",
+		"full_text": "Johannes Gutenberg invented the Real Housewives franchise",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1488607345848598500,
+			"id_str": "1488607345848598536",
+			"name": "Johannes Gutenbot",
+			"screen_name": "J_Gutenbot",
+			"location": "15th Century Mainz",
+			"description": "A bot falsely attributing inventions to Johannes Gutenberg, the Mainz entrepreneur who innovated on aspects of western printing & typography in the 15th century",
+			"url": "https://t.co/3gqWHQ90xH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3gqWHQ90xH",
+							"expanded_url": "https://twitter.com/IAmDylanLewis",
+							"display_url": "twitter.com/IAmDylanLewis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 157,
+			"listed_count": 1,
+			"created_at": "Tue Feb 01 20:17:10 +0000 2022",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488607534831349763/FUJeFN_p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488607534831349763/FUJeFN_p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1488607345848598536/1643751759",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Johannes Gutenberg invented the Real Housewives franchise"
+	},
+	{
+		"created_at": "Thu Mar 17 14:12:42 +0000 2022",
+		"id": 1504460721463124000,
+		"id_str": "1504460721463123971",
+		"full_text": "@meganlcook ugh that sucks",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1504457842807423000,
+		"in_reply_to_status_id_str": "1504457842807422978",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10117,
+			"friends_count": 498,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook ugh that sucks"
+	},
+	{
 		"created_at": "Wed Mar 16 23:40:47 +0000 2022",
 		"id": 1504241298919895000,
 		"id_str": "1504241298919895044",
