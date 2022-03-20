@@ -1,6 +1,1271 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 20 00:07:07 +0000 2022",
+		"id": 1505293711726588000,
+		"id_str": "1505335090011848706",
+		"full_text": "In this round of DC v Fascist Convoy, guess who wins, again? https://t.co/7hDfb8WZAv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1505293561486532600,
+					"id_str": "1505293561486532608",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505293561486532608/pu/img/9iZCWnJHZJx8BxHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505293561486532608/pu/img/9iZCWnJHZJx8BxHG.jpg",
+					"url": "https://t.co/7hDfb8WZAv",
+					"display_url": "pic.twitter.com/7hDfb8WZAv",
+					"expanded_url": "https://twitter.com/VVertuccio/status/1505293711726587904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505293561486532600,
+					"id_str": "1505293561486532608",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1505293561486532608/pu/img/9iZCWnJHZJx8BxHG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1505293561486532608/pu/img/9iZCWnJHZJx8BxHG.jpg",
+					"url": "https://t.co/7hDfb8WZAv",
+					"display_url": "pic.twitter.com/7hDfb8WZAv",
+					"expanded_url": "https://twitter.com/VVertuccio/status/1505293711726587904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13501,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505293561486532608/pu/vid/480x270/FVCS0M-4kBuVX_Fz.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1505293561486532608/pu/vid/640x360/60LzQbqWVkj6yCdH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1505293561486532608/pu/pl/pCId0cmArmE0RCEn.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3413918416,
+			"id_str": "3413918416",
+			"name": "Vincent Vertuccio 🌲",
+			"screen_name": "VVertuccio",
+			"location": "DC / New York",
+			"description": "he/they, organizer\n@sbpaction",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 1635,
+			"listed_count": 12,
+			"created_at": "Mon Aug 10 23:55:02 +0000 2015",
+			"favourites_count": 32662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505041380846063616/qzd-Zulc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505041380846063616/qzd-Zulc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3413918416/1633301121",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 3229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this round of DC v Fascist Convoy, guess who wins, again? https://t.co/7hDfb8WZAv"
+	},
+	{
+		"created_at": "Sat Mar 19 19:16:28 +0000 2022",
+		"id": 1505249676056006700,
+		"id_str": "1505261945435435014",
+		"full_text": "in this thread, @diddabee offers her Venmo handle and a list of local orgs who need help. Britta has a Ukrainian bank account and can easily transfer the money to these orgs. I just made a donation to the Central State Historical Archive of Ukraine in L'viv. You can too: https://t.co/Ijb1VzMrUd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "diddabee",
+					"name": "Britta Ellwanger🇺🇦",
+					"id": 2273928432,
+					"id_str": "2273928432",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ijb1VzMrUd",
+					"expanded_url": "https://twitter.com/diddabee/status/1501354723936514052",
+					"display_url": "twitter.com/diddabee/statu…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326660319,
+			"id_str": "326660319",
+			"name": "Christine Jacobson 🇺🇦",
+			"screen_name": "internetstine",
+			"location": "Cambridge, MA",
+			"description": "Asst Curator of Modern Books & Manuscripts @houghtonlib ✍️ about material culture, novels, fashion, Slavica, sundry.",
+			"url": "https://t.co/nZNYxLOio8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZNYxLOio8",
+							"expanded_url": "https://linktr.ee/cejacobson",
+							"display_url": "linktr.ee/cejacobson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3215,
+			"friends_count": 2085,
+			"listed_count": 27,
+			"created_at": "Thu Jun 30 08:27:18 +0000 2011",
+			"favourites_count": 46070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326660319/1646171266",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FEFFF7",
+			"profile_text_color": "0F0E0F",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501354723936514000,
+		"quoted_status_id_str": "1501354723936514052",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ijb1VzMrUd",
+			"expanded": "https://twitter.com/diddabee/status/1501354723936514052",
+			"display": "twitter.com/diddabee/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 09 00:30:34 +0000 2022",
+			"id": 1501354723936514000,
+			"id_str": "1501354723936514052",
+			"full_text": "Funding to protect the archives at the Central State Historical Archive of Ukraine in Lviv.\n\nhttps://t.co/VKsAaf1gmr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VKsAaf1gmr",
+						"expanded_url": "https://networks.h-net.org/node/4555727/discussions/9882296/central-state-historical-archive-ukraine-lviv-%C2%A0-request-support",
+						"display_url": "networks.h-net.org/node/4555727/d…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1501338520115314700,
+			"in_reply_to_status_id_str": "1501338520115314693",
+			"in_reply_to_user_id": 2273928432,
+			"in_reply_to_user_id_str": "2273928432",
+			"in_reply_to_screen_name": "diddabee",
+			"user": {
+				"id": 2273928432,
+				"id_str": "2273928432",
+				"name": "Britta Ellwanger🇺🇦",
+				"screen_name": "diddabee",
+				"location": "",
+				"description": "🇩🇪🇺🇸 grad student studying anticorruption in 🇺🇦 before the escalation of Putin's Russian war and crimes against humanity in Ukraine. Now working from 🇵🇱",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108,
+				"friends_count": 4349,
+				"listed_count": 0,
+				"created_at": "Fri Jan 03 03:55:39 +0000 2014",
+				"favourites_count": 4037,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 760,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929489790390513664/rglkC2LH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929489790390513664/rglkC2LH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2273928432/1510991180",
+				"profile_link_color": "9F4576",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in this thread, @diddabee offers her Venmo handle and a list of local orgs who need help. Britta has a Ukrainian bank account and can easily transfer the money to these orgs. I just made a donation to the Central State Historical Archive of Ukraine in L'viv. You can too: https://t.co/Ijb1VzMrUd"
+	},
+	{
+		"created_at": "Sat Mar 19 16:21:33 +0000 2022",
+		"id": 1505217923098554400,
+		"id_str": "1505217923098554376",
+		"full_text": "1996 PhD here and yep https://t.co/eeDhkDNRvX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eeDhkDNRvX",
+					"expanded_url": "https://twitter.com/jonathanmalloy/status/1363685538054754308",
+					"display_url": "twitter.com/jonathanmalloy…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10120,
+			"friends_count": 499,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363685538054754300,
+		"quoted_status_id_str": "1363685538054754308",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eeDhkDNRvX",
+			"expanded": "https://twitter.com/jonathanmalloy/status/1363685538054754308",
+			"display": "twitter.com/jonathanmalloy…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 22 03:02:22 +0000 2021",
+			"id": 1363685538054754300,
+			"id_str": "1363685538054754308",
+			"full_text": "It's come to my attention that not everyone knows these Doonesbury cartoons on the lack of academic jobs for PhDs and universities' reliance on adjunct labour...in 1996. https://t.co/Je3Sqms0Pr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363685417640484900,
+						"id_str": "1363685417640484864",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/EuzIqYfXYAANUi8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuzIqYfXYAANUi8.jpg",
+						"url": "https://t.co/Je3Sqms0Pr",
+						"display_url": "pic.twitter.com/Je3Sqms0Pr",
+						"expanded_url": "https://twitter.com/JonathanMalloy/status/1363685538054754308/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 670,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363685417640484900,
+						"id_str": "1363685417640484864",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/EuzIqYfXYAANUi8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuzIqYfXYAANUi8.jpg",
+						"url": "https://t.co/Je3Sqms0Pr",
+						"display_url": "pic.twitter.com/Je3Sqms0Pr",
+						"expanded_url": "https://twitter.com/JonathanMalloy/status/1363685538054754308/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 670,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 298221936,
+				"id_str": "298221936",
+				"name": "Dr. Jonathan Malloy",
+				"screen_name": "JonathanMalloy",
+				"location": "Ottawa/Unceded Algonquin Land",
+				"description": "Bell Chair in Canadian Parliamentary Democracy + Associate Dean (Research and International) @FPAcarleton | Husband, Dad | From Elmira, ON | He/him.",
+				"url": "https://t.co/XkjpUwtE8u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XkjpUwtE8u",
+								"expanded_url": "http://jonathanmalloy.com",
+								"display_url": "jonathanmalloy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2195,
+				"friends_count": 529,
+				"listed_count": 19,
+				"created_at": "Fri May 13 23:00:35 +0000 2011",
+				"favourites_count": 11383,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1502454228765315075/ce-HUzXq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502454228765315075/ce-HUzXq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/298221936/1624843684",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 254,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1996 PhD here and yep https://t.co/eeDhkDNRvX"
+	},
+	{
+		"created_at": "Sat Mar 19 16:20:47 +0000 2022",
+		"id": 1505217730718408700,
+		"id_str": "1505217730718408706",
+		"full_text": "@MedievalLitura oh no I got my PhD in 1996, can totally confirm that experience",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedievalLitura",
+					"name": "The Medievalest, PhD",
+					"id": 2849224400,
+					"id_str": "2849224400",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1505207949601349600,
+		"in_reply_to_status_id_str": "1505207949601349636",
+		"in_reply_to_user_id": 2849224400,
+		"in_reply_to_user_id_str": "2849224400",
+		"in_reply_to_screen_name": "MedievalLitura",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10120,
+			"friends_count": 499,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MedievalLitura oh no I got my PhD in 1996, can totally confirm that experience"
+	},
+	{
+		"created_at": "Sat Mar 19 16:19:30 +0000 2022",
+		"id": 1505217409124339700,
+		"id_str": "1505217409124339720",
+		"full_text": "@jentalleydesign I am very excited about the handful of magnets I just bought",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jentalleydesign",
+					"name": "Jeneration X",
+					"id": 8822562,
+					"id_str": "8822562",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1505208958373568500,
+		"in_reply_to_status_id_str": "1505208958373568515",
+		"in_reply_to_user_id": 8822562,
+		"in_reply_to_user_id_str": "8822562",
+		"in_reply_to_screen_name": "jentalleydesign",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10120,
+			"friends_count": 499,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jentalleydesign I am very excited about the handful of magnets I just bought"
+	},
+	{
+		"created_at": "Sat Mar 19 16:18:53 +0000 2022",
+		"id": 1505217252672553000,
+		"id_str": "1505217252672552968",
+		"full_text": "Did I just snap up this incredible magnet? Yes. Yes I did. And you can too! https://t.co/0R6kOQhzKP https://t.co/eeWnyl0wvd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0R6kOQhzKP",
+					"expanded_url": "https://twitter.com/jentalleydesign/status/1505204527263367168",
+					"display_url": "twitter.com/jentalleydesig…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1505217248776097800,
+					"id_str": "1505217248776097796",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FOObHN8XEAQ_1TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOObHN8XEAQ_1TI.jpg",
+					"url": "https://t.co/eeWnyl0wvd",
+					"display_url": "pic.twitter.com/eeWnyl0wvd",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1505217252672552968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1121,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1505217248776097800,
+					"id_str": "1505217248776097796",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FOObHN8XEAQ_1TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOObHN8XEAQ_1TI.jpg",
+					"url": "https://t.co/eeWnyl0wvd",
+					"display_url": "pic.twitter.com/eeWnyl0wvd",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1505217252672552968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1121,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10120,
+			"friends_count": 499,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505204527263367200,
+		"quoted_status_id_str": "1505204527263367168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0R6kOQhzKP",
+			"expanded": "https://twitter.com/jentalleydesign/status/1505204527263367168",
+			"display": "twitter.com/jentalleydesig…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 19 15:28:19 +0000 2022",
+			"id": 1505204527263367200,
+			"id_str": "1505204527263367168",
+			"full_text": "Business news: every single magnet in my shop is marked down to $3 or less &amp; there are stickers on clearance too! We have some unexpected ongoing health expenses &amp; I need to clear out some inventory so it's a win-win! Check out https://t.co/EzAWk0bjgR!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EzAWk0bjgR",
+						"expanded_url": "http://jentalleydesign.com",
+						"display_url": "jentalleydesign.com",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8822562,
+				"id_str": "8822562",
+				"name": "Jeneration X",
+				"screen_name": "jentalleydesign",
+				"location": "Ann Arbor",
+				"description": "vaccinated tired GenX librarian artist mom\nfighting for her rights in her satin tights\npost-Covid\nshe/her\nhttps://t.co/Bqz50gEXDj\nhttps://t.co/7tY4A3Q7mt",
+				"url": "https://t.co/7tY4A3Q7mt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7tY4A3Q7mt",
+								"expanded_url": "http://jentalleydesign.com",
+								"display_url": "jentalleydesign.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Bqz50gEXDj",
+								"expanded_url": "http://ko-fi.com/jentalley",
+								"display_url": "ko-fi.com/jentalley",
+								"indices": [
+									106,
+									129
+								]
+							},
+							{
+								"url": "https://t.co/7tY4A3Q7mt",
+								"expanded_url": "http://jentalleydesign.com",
+								"display_url": "jentalleydesign.com",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3015,
+				"friends_count": 2081,
+				"listed_count": 147,
+				"created_at": "Wed Sep 12 00:48:35 +0000 2007",
+				"favourites_count": 346426,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 71437,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1242893930963914752/YXPPVpvT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242893930963914752/YXPPVpvT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8822562/1642082902",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did I just snap up this incredible magnet? Yes. Yes I did. And you can too! https://t.co/0R6kOQhzKP https://t.co/eeWnyl0wvd"
+	},
+	{
 		"created_at": "Sat Mar 19 01:23:34 +0000 2022",
 		"id": 1504982211493310500,
 		"id_str": "1504991938549886979",
@@ -5920,7 +7185,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Fri Mar 18 14:49:10 +0000 2022",
 		"id": 1504832287128567800,
 		"id_str": "1504832287128567848",
-		"full_text": "@meganlcook yeah, I would've ended an ad with that stuff about the institution and started off with AMAZING LIBRARY AND STAFF but 🤷‍♀️",
+		"full_text": "@meganlcook yeah, I would've ended an ad with that stuff about the institution and started off with AMAZING LIBRARY AND STAFF but 🤷♀️",
 		"truncated": false,
 		"display_text_range": [
 			12,
@@ -6031,7 +7296,7 @@ Grailbird.data.tweets_2022_03 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@meganlcook yeah, I would've ended an ad with that stuff about the institution and started off with AMAZING LIBRARY AND STAFF but 🤷‍♀️"
+		"text": "@meganlcook yeah, I would've ended an ad with that stuff about the institution and started off with AMAZING LIBRARY AND STAFF but 🤷♀️"
 	},
 	{
 		"created_at": "Fri Mar 18 14:41:06 +0000 2022",
