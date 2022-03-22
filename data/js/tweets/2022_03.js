@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 21 13:13:02 +0000 2022",
+		"id": 1505849324021952500,
+		"id_str": "1505895259313684480",
+		"full_text": "Yes, this was my engineering undergrad, grad school, and the national fellowship I got to do postdoctoral work at MIT. And now I pay income tax.\n\nThis is called publicly funded higher education.\n\nEven better, it works for ALL 18yos, not just the ‘smartest and most driven’. https://t.co/oK8dAUW5J8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oK8dAUW5J8",
+					"expanded_url": "https://twitter.com/sama/status/1505599701864701954",
+					"display_url": "twitter.com/sama/status/15…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16284697,
+			"id_str": "16284697",
+			"name": "Deb Chachra",
+			"screen_name": "debcha",
+			"location": "Cambridge, MA",
+			"description": "Engineering professor. Infrastructure, nature, education, language, design, intersections. She/her/hers. All enthusiasm is 100% genuine. I block mansplainers.",
+			"url": "https://t.co/j1tDEbz7DF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j1tDEbz7DF",
+							"expanded_url": "http://tinyletter.com/metafoundry",
+							"display_url": "tinyletter.com/metafoundry",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11312,
+			"friends_count": 951,
+			"listed_count": 472,
+			"created_at": "Sun Sep 14 17:00:26 +0000 2008",
+			"favourites_count": 3836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392045813371711490/30pCxTLe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392045813371711490/30pCxTLe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16284697/1406479433",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505599701864702000,
+		"quoted_status_id_str": "1505599701864701954",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oK8dAUW5J8",
+			"expanded": "https://twitter.com/sama/status/1505599701864701954",
+			"display": "twitter.com/sama/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 20 17:38:36 +0000 2022",
+			"id": 1505599701864702000,
+			"id_str": "1505599701864701954",
+			"full_text": "A version of college replacement I'm super interested in:\n\nFind the smartest and most driven 18 year olds in the world, and give them 'tenure'--say a decade+ of salary, resources to work on whatever they want, and a smart peer group--in exchange for small % of future earnings.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1605,
+				"id_str": "1605",
+				"name": "Sam Altman",
+				"screen_name": "sama",
+				"location": "SF",
+				"description": "@OpenAI",
+				"url": "https://t.co/teHmy8mwEz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/teHmy8mwEz",
+								"expanded_url": "http://blog.samaltman.com",
+								"display_url": "blog.samaltman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 887190,
+				"friends_count": 709,
+				"listed_count": 7693,
+				"created_at": "Sun Jul 16 22:01:55 +0000 2006",
+				"favourites_count": 792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5326,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 436,
+			"favorite_count": 5239,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 58,
+		"favorite_count": 268,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, this was my engineering undergrad, grad school, and the national fellowship I got to do postdoctoral work at MIT. And now I pay income tax.\n\nThis is called publicly funded higher education.\n\nEven better, it works for ALL 18yos, not just the ‘smartest and most driven’. https://t.co/oK8dAUW5J8"
+	},
+	{
 		"created_at": "Mon Mar 21 01:24:41 +0000 2022",
 		"id": 1505716994502504400,
 		"id_str": "1505716994502504451",
