@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 23 13:07:50 +0000 2022",
+		"id": 1506597715890905000,
+		"id_str": "1506618725914578946",
+		"full_text": "Can’t say I have much in common with the governor of Utah, but this statement at the end of his veto of an anti-trans sports bill is really powerful. A lot of so called “gender critical feminists” should read it and think really hard about themselves. https://t.co/GlN8tAMiKG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506597710987772000,
+					"id_str": "1506597710987771907",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FOiCosbXwAMK2n9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOiCosbXwAMK2n9.jpg",
+					"url": "https://t.co/GlN8tAMiKG",
+					"display_url": "pic.twitter.com/GlN8tAMiKG",
+					"expanded_url": "https://twitter.com/Chanders/status/1506597715890905091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506597710987772000,
+					"id_str": "1506597710987771907",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FOiCosbXwAMK2n9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOiCosbXwAMK2n9.jpg",
+					"url": "https://t.co/GlN8tAMiKG",
+					"display_url": "pic.twitter.com/GlN8tAMiKG",
+					"expanded_url": "https://twitter.com/Chanders/status/1506597715890905091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 664,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14245341,
+			"id_str": "14245341",
+			"name": "Chanders",
+			"screen_name": "Chanders",
+			"location": "Europe",
+			"description": "Professor of Media & Communication. Interests include Bolaño, jazz in Paris, Baldwin in Paris, Thomas Mann in LA. Often in the UK. Sometimes in Italy. he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8371,
+			"friends_count": 1764,
+			"listed_count": 732,
+			"created_at": "Fri Mar 28 17:24:25 +0000 2008",
+			"favourites_count": 28056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294369097635987458/gyQJlgdz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294369097635987458/gyQJlgdz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14245341/1604757978",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1193,
+		"favorite_count": 4044,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can’t say I have much in common with the governor of Utah, but this statement at the end of his veto of an anti-trans sports bill is really powerful. A lot of so called “gender critical feminists” should read it and think really hard about themselves. https://t.co/GlN8tAMiKG"
+	},
+	{
 		"created_at": "Tue Mar 22 23:40:34 +0000 2022",
 		"id": 1506415571247808500,
 		"id_str": "1506415571247808519",
