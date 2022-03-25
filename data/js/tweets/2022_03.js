@@ -1,6 +1,1000 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 00:11:32 +0000 2022",
+		"id": 1507148137172979700,
+		"id_str": "1507148137172979714",
+		"full_text": "@aravahshifra Really cannot stand that aspect of our religion, signed a fellow Jew who was told she had to convert because her mom wasn’t Jewish",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aravahshifra",
+					"name": "Cassia✨",
+					"id": 145893323,
+					"id_str": "145893323",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1507146001018196000,
+		"in_reply_to_status_id_str": "1507146001018195969",
+		"in_reply_to_user_id": 145893323,
+		"in_reply_to_user_id_str": "145893323",
+		"in_reply_to_screen_name": "aravahshifra",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10134,
+			"friends_count": 500,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aravahshifra Really cannot stand that aspect of our religion, signed a fellow Jew who was told she had to convert because her mom wasn’t Jewish"
+	},
+	{
+		"created_at": "Thu Mar 24 23:40:01 +0000 2022",
+		"id": 1507140206914420700,
+		"id_str": "1507140206914420745",
+		"full_text": "Wow, Kathleen!! Many congrats to @thatklynch, who has wrought so many important programs and brought so many important changes to how the Folger conceptualizes and supports research. https://t.co/MtWEK0QfXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatklynch",
+					"name": "klynch",
+					"id": 1215300079382335500,
+					"id_str": "1215300079382335488",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MtWEK0QfXo",
+					"expanded_url": "https://twitter.com/folgerresearch/status/1507021527639896071",
+					"display_url": "twitter.com/folgerresearch…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10134,
+			"friends_count": 500,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507021527639896000,
+		"quoted_status_id_str": "1507021527639896071",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MtWEK0QfXo",
+			"expanded": "https://twitter.com/folgerresearch/status/1507021527639896071",
+			"display": "twitter.com/folgerresearch…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 24 15:48:25 +0000 2022",
+			"id": 1507021527639896000,
+			"id_str": "1507021527639896071",
+			"full_text": "Kathleen Lynch (@thatklynch), Executive Director of the #FolgerInstitute, is retiring in Summer 2022 after a distinguished career leading the Folger’s center for advanced research in the early modern humanities. Read the full announcement here https://t.co/XQ8Bkf1fDu https://t.co/coAsoHihY9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FolgerInstitute",
+						"indices": [
+							56,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thatklynch",
+						"name": "klynch",
+						"id": 1215300079382335500,
+						"id_str": "1215300079382335488",
+						"indices": [
+							16,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XQ8Bkf1fDu",
+						"expanded_url": "https://bit.ly/3iAI3aa",
+						"display_url": "bit.ly/3iAI3aa",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1507021362921185300,
+						"id_str": "1507021362921185281",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FOoD8e3XoAE6zP3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOoD8e3XoAE6zP3.jpg",
+						"url": "https://t.co/coAsoHihY9",
+						"display_url": "pic.twitter.com/coAsoHihY9",
+						"expanded_url": "https://twitter.com/FolgerResearch/status/1507021527639896071/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1930,
+								"h": 1013,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1507021362921185300,
+						"id_str": "1507021362921185281",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FOoD8e3XoAE6zP3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOoD8e3XoAE6zP3.jpg",
+						"url": "https://t.co/coAsoHihY9",
+						"display_url": "pic.twitter.com/coAsoHihY9",
+						"expanded_url": "https://twitter.com/FolgerResearch/status/1507021527639896071/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1930,
+								"h": 1013,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245457986,
+				"id_str": "245457986",
+				"name": "Folger Research",
+				"screen_name": "FolgerResearch",
+				"location": "Folger Shakespeare Library",
+				"description": "Research, collections, and scholarly events from the Folger Shakespeare Library.",
+				"url": "http://t.co/LkH0iA7gmz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LkH0iA7gmz",
+								"expanded_url": "http://collation.folger.edu",
+								"display_url": "collation.folger.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10331,
+				"friends_count": 189,
+				"listed_count": 238,
+				"created_at": "Mon Jan 31 18:58:56 +0000 2011",
+				"favourites_count": 2484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6475,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCD083",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257791076/folger_research556x556web_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245457986/1409944581",
+				"profile_link_color": "B35516",
+				"profile_sidebar_border_color": "CC8A6C",
+				"profile_sidebar_fill_color": "FCD083",
+				"profile_text_color": "1A1714",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, Kathleen!! Many congrats to @thatklynch, who has wrought so many important programs and brought so many important changes to how the Folger conceptualizes and supports research. https://t.co/MtWEK0QfXo"
+	},
+	{
+		"created_at": "Thu Mar 24 23:34:35 +0000 2022",
+		"id": 1507138838858240000,
+		"id_str": "1507138838858240010",
+		"full_text": "@dorothyjberry It’s cited in an article that will be coming out in PBSA this summer!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dorothyjberry",
+					"name": "Dorothy Berry",
+					"id": 941383982238847000,
+					"id_str": "941383982238846976",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1507132862499283000,
+		"in_reply_to_status_id_str": "1507132862499282947",
+		"in_reply_to_user_id": 941383982238847000,
+		"in_reply_to_user_id_str": "941383982238846976",
+		"in_reply_to_screen_name": "dorothyjberry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10134,
+			"friends_count": 500,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dorothyjberry It’s cited in an article that will be coming out in PBSA this summer!"
+	},
+	{
+		"created_at": "Thu Mar 24 23:33:54 +0000 2022",
+		"id": 1507132862499283000,
+		"id_str": "1507138667801944072",
+		"full_text": "HELP PLEASE! I'm writing some things on impact, and trying to move beyond number of clicks: If you have used Slavery, Abolition, Emancipation &amp; Freedom in the classroom, in your research, in making prioritization arguments in your library, in a libguide- please let me know! https://t.co/csIkQoGzPs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1507132853821358000,
+					"id_str": "1507132853821358080",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FOppWG1XwAAgvzK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOppWG1XwAAgvzK.png",
+					"url": "https://t.co/csIkQoGzPs",
+					"display_url": "pic.twitter.com/csIkQoGzPs",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1507132862499282947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 445,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 445,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507132853821358000,
+					"id_str": "1507132853821358080",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FOppWG1XwAAgvzK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOppWG1XwAAgvzK.png",
+					"url": "https://t.co/csIkQoGzPs",
+					"display_url": "pic.twitter.com/csIkQoGzPs",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1507132862499282947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 445,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 445,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941383982238847000,
+			"id_str": "941383982238846976",
+			"name": "Dorothy Berry",
+			"screen_name": "dorothyjberry",
+			"location": "Cambridge, MA",
+			"description": "\"missy-pedia\"\n\"a pocket venus\" \ni put the old pictures in the computers @houghtonlib\nhttps://t.co/rfcnu6Mo42",
+			"url": "https://t.co/ONnlHkVlbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONnlHkVlbw",
+							"expanded_url": "http://www.dorothy-berry.com",
+							"display_url": "dorothy-berry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rfcnu6Mo42",
+							"expanded_url": "http://linktr.ee/dorothyberry",
+							"display_url": "linktr.ee/dorothyberry",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6694,
+			"friends_count": 870,
+			"listed_count": 71,
+			"created_at": "Thu Dec 14 19:06:46 +0000 2017",
+			"favourites_count": 26301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487594703189168133/DSiCygaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487594703189168133/DSiCygaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941383982238846976/1643505120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HELP PLEASE! I'm writing some things on impact, and trying to move beyond number of clicks: If you have used Slavery, Abolition, Emancipation &amp; Freedom in the classroom, in your research, in making prioritization arguments in your library, in a libguide- please let me know! https://t.co/csIkQoGzPs"
+	},
+	{
+		"created_at": "Thu Mar 24 23:04:12 +0000 2022",
+		"id": 1507131195519377400,
+		"id_str": "1507131195519377416",
+		"full_text": "Book history and typography Twitter: who is working on deep dives into this?? https://t.co/o5COQAzGnS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o5COQAzGnS",
+					"expanded_url": "https://twitter.com/tressiemcphd/status/1507115781892550670",
+					"display_url": "twitter.com/tressiemcphd/s…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10134,
+			"friends_count": 500,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507115781892550700,
+		"quoted_status_id_str": "1507115781892550670",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o5COQAzGnS",
+			"expanded": "https://twitter.com/tressiemcphd/status/1507115781892550670",
+			"display": "twitter.com/tressiemcphd/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 24 22:02:57 +0000 2022",
+			"id": 1507115781892550700,
+			"id_str": "1507115781892550670",
+			"full_text": "I am very into scholarship on the typography of the radical right. No lie. A few theories out there. Rejecting grammar rules is a rejection of norms generally. That it’s a digital holdover from low cost typeset pamphlets that circulated in fringe affinity groups. https://t.co/kRkWbMGXNb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kRkWbMGXNb",
+						"expanded_url": "https://twitter.com/universalshow/status/1507114785132978177",
+						"display_url": "twitter.com/universalshow/…",
+						"indices": [
+							264,
+							287
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148593548,
+				"id_str": "148593548",
+				"name": "Tressie McMillan Cottom",
+				"screen_name": "tressiemcphd",
+				"location": "Chapel Hill, NC",
+				"description": "I gotta be colder than the cat you're sitting with. @unc_citap @nytopinion @BKCharvard @dissentmag @randomhouse #MacFellow\n📸: @mollycranna",
+				"url": "https://t.co/GYEAIa4In1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GYEAIa4In1",
+								"expanded_url": "https://linktr.ee/tressiemcphd",
+								"display_url": "linktr.ee/tressiemcphd",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 210512,
+				"friends_count": 4565,
+				"listed_count": 2192,
+				"created_at": "Thu May 27 03:06:44 +0000 2010",
+				"favourites_count": 52611,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 302463,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF3300",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1478009272978051075/m6BLYzwe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478009272978051075/m6BLYzwe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148593548/1644609705",
+				"profile_link_color": "AB241D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7900A",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1507114785132978200,
+			"quoted_status_id_str": "1507114785132978177",
+			"quoted_status_permalink": {
+				"url": "https://t.co/kRkWbMGXNb",
+				"expanded": "https://twitter.com/universalshow/status/1507114785132978177",
+				"display": "twitter.com/universalshow/…"
+			},
+			"retweet_count": 161,
+			"favorite_count": 1318,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Book history and typography Twitter: who is working on deep dives into this?? https://t.co/o5COQAzGnS"
+	},
+	{
 		"created_at": "Wed Mar 23 13:07:50 +0000 2022",
 		"id": 1506597715890905000,
 		"id_str": "1506618725914578946",
