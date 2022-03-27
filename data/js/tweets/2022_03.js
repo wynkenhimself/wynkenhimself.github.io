@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 26 14:25:44 +0000 2022",
+		"id": 1507712128077250600,
+		"id_str": "1507725494392868869",
+		"full_text": "I'm looking for grad students/recent grads...working on the Black Press, Black Print Culture, and/or Black Periodicals...historically or contemporarily...DM me if you or you know of people who fit this description...Thank you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2248027368,
+			"id_str": "2248027368",
+			"name": "Kim Gallon",
+			"screen_name": "BlackDigitalHum",
+			"location": "Philly",
+			"description": "History, Africana Studies & Black DH- Author of Pleasure in the News... Exec. Dir. of @COVIDBLK & @BlackPressRC",
+			"url": "https://t.co/AF4TeX0xw1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AF4TeX0xw1",
+							"expanded_url": "http://blackpressresearchcollective.org/",
+							"display_url": "blackpressresearchcollective.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11277,
+			"friends_count": 1128,
+			"listed_count": 176,
+			"created_at": "Mon Dec 16 02:06:19 +0000 2013",
+			"favourites_count": 41011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351667674082914305/2g8d0Dy6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351667674082914305/2g8d0Dy6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2248027368/1420004224",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm looking for grad students/recent grads...working on the Black Press, Black Print Culture, and/or Black Periodicals...historically or contemporarily...DM me if you or you know of people who fit this description...Thank you."
+	},
+	{
+		"created_at": "Sat Mar 26 13:06:18 +0000 2022",
+		"id": 1507440775910539300,
+		"id_str": "1507705504377810944",
+		"full_text": "No experiment has failed more, with higher stakes, for longer, than American carceralism and yet it remains the only meaningful solution ever offered to the problem of crime. The mere thought of a robust social welfare state and other social interventions are dismissed out hand",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1507440773880549400,
+		"in_reply_to_status_id_str": "1507440773880549390",
+		"in_reply_to_user_id": 756331316,
+		"in_reply_to_user_id_str": "756331316",
+		"in_reply_to_screen_name": "adamjohnsonNYC",
+		"user": {
+			"id": 756331316,
+			"id_str": "756331316",
+			"name": "Adam H. Johnson",
+			"screen_name": "adamjohnsonNYC",
+			"location": "Chicago, IL",
+			"description": "co-host @citationspod, writer at  https://t.co/RraY2skTpt",
+			"url": "https://t.co/RraY2skTpt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RraY2skTpt",
+							"expanded_url": "http://thecolumn.substack.com",
+							"display_url": "thecolumn.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RraY2skTpt",
+							"expanded_url": "http://thecolumn.substack.com",
+							"display_url": "thecolumn.substack.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139601,
+			"friends_count": 1677,
+			"listed_count": 1627,
+			"created_at": "Tue Aug 14 02:56:06 +0000 2012",
+			"favourites_count": 29214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1506077698661269504/DzZ0xC-M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506077698661269504/DzZ0xC-M_normal.jpg",
+			"profile_link_color": "23316F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0D3B3",
+			"profile_text_color": "CC9672",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 842,
+		"favorite_count": 3506,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "No experiment has failed more, with higher stakes, for longer, than American carceralism and yet it remains the only meaningful solution ever offered to the problem of crime. The mere thought of a robust social welfare state and other social interventions are dismissed out hand"
+	},
+	{
 		"created_at": "Fri Mar 25 23:00:12 +0000 2022",
 		"id": 1507458532341334000,
 		"id_str": "1507492573920780291",
@@ -141,7 +342,7 @@ Grailbird.data.tweets_2022_03 =
 				"name": "Hannah C",
 				"screen_name": "hrcalkins",
 				"location": "",
-				"description": "biomedical research data librarian; queer Philly transplant 🏳️‍🌈",
+				"description": "biomedical research data librarian; queer Philly transplant 🏳️🌈",
 				"url": null,
 				"entities": {
 					"description": {
