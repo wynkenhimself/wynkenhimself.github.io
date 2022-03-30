@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 29 21:18:20 +0000 2022",
+		"id": 1508916492762501000,
+		"id_str": "1508916492762501129",
+		"full_text": "@hchesner @eShakti oh no wowwww that would be tempting",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hchesner",
+					"name": "Michelle Margolis",
+					"id": 414121384,
+					"id_str": "414121384",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "eShakti",
+					"name": "eShakti",
+					"id": 37874456,
+					"id_str": "37874456",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1508888501621866500,
+		"in_reply_to_status_id_str": "1508888501621866503",
+		"in_reply_to_user_id": 414121384,
+		"in_reply_to_user_id_str": "414121384",
+		"in_reply_to_screen_name": "hchesner",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10140,
+			"friends_count": 501,
+			"listed_count": 386,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hchesner @eShakti oh no wowwww that would be tempting"
+	},
+	{
+		"created_at": "Tue Mar 29 15:43:17 +0000 2022",
+		"id": 1508790530788008000,
+		"id_str": "1508832172379148288",
+		"full_text": "If you know me &amp; my work, you know I’ve long felt the urgency of this (ongoing) violence. @WestfieldState is making this ZOOM LECTURE free &amp; open to the public. Join us and/or spread the word! Details &amp; registration: https://t.co/t8vAu6ox4L\n\n#LGBT #CiteBlackWomen https://t.co/RlHVEcAw70",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LGBT",
+					"indices": [
+						254,
+						259
+					]
+				},
+				{
+					"text": "CiteBlackWomen",
+					"indices": [
+						260,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WestfieldState",
+					"name": "Westfield State University",
+					"id": 23014233,
+					"id_str": "23014233",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t8vAu6ox4L",
+					"expanded_url": "https://bit.ly/3NtWKd1",
+					"display_url": "bit.ly/3NtWKd1",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508790526354591700,
+					"id_str": "1508790526354591746",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FPBM_WPXEAIbXdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPBM_WPXEAIbXdv.jpg",
+					"url": "https://t.co/RlHVEcAw70",
+					"display_url": "pic.twitter.com/RlHVEcAw70",
+					"expanded_url": "https://twitter.com/ProfKori/status/1508790530788007945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 975,
+							"h": 753,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508790526354591700,
+					"id_str": "1508790526354591746",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FPBM_WPXEAIbXdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPBM_WPXEAIbXdv.jpg",
+					"url": "https://t.co/RlHVEcAw70",
+					"display_url": "pic.twitter.com/RlHVEcAw70",
+					"expanded_url": "https://twitter.com/ProfKori/status/1508790530788007945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 975,
+							"h": 753,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131322596,
+			"id_str": "131322596",
+			"name": "Koritha Mitchell",
+			"screen_name": "ProfKori",
+			"location": "",
+			"description": "Author of award-winning book LIVING WITH LYNCHING. Editor of IOLA LEROY. Feminist. Cultural Critic. Runner. 08/2020 book = FROM SLAVE CABINS TO THE WHITE HOUSE",
+			"url": "https://t.co/6kbGEvUuK2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6kbGEvUuK2",
+							"expanded_url": "http://www.korithamitchell.com/",
+							"display_url": "korithamitchell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13999,
+			"friends_count": 864,
+			"listed_count": 308,
+			"created_at": "Fri Apr 09 23:17:40 +0000 2010",
+			"favourites_count": 14903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484657166510436357/V3_N4AWX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484657166510436357/V3_N4AWX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131322596/1595457031",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you know me &amp; my work, you know I’ve long felt the urgency of this (ongoing) violence. @WestfieldState is making this ZOOM LECTURE free &amp; open to the public. Join us and/or spread the word! Details &amp; registration: https://t.co/t8vAu6ox4L\n\n#LGBT #CiteBlackWomen https://t.co/RlHVEcAw70"
+	},
+	{
+		"created_at": "Tue Mar 29 15:33:08 +0000 2022",
+		"id": 1508829349901910000,
+		"id_str": "1508829618048053269",
+		"full_text": "💙💛 https://t.co/sNC5ql6RCu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sNC5ql6RCu",
+					"expanded_url": "https://twitter.com/trsgrob/status/1508825915815567366",
+					"display_url": "twitter.com/trsgrob/status…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1039256136959094800,
+			"id_str": "1039256136959094785",
+			"name": "BookLab at UMD English",
+			"screen_name": "umd_BookLab",
+			"location": "College Park, MD",
+			"description": "BookLab is @umdenglish's hands-on space for teaching, study, and experimentation with our discipline's most iconic artifact: the codex book. 3248 Tawes Hall.",
+			"url": "https://t.co/JhyLLyN3Qy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JhyLLyN3Qy",
+							"expanded_url": "http://www.english.umd.edu/booklab",
+							"display_url": "english.umd.edu/booklab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1059,
+			"friends_count": 675,
+			"listed_count": 13,
+			"created_at": "Mon Sep 10 20:55:46 +0000 2018",
+			"favourites_count": 1034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453461965448388615/55DlaDEh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453461965448388615/55DlaDEh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039256136959094785/1567979486",
+			"profile_link_color": "8B0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1508825915815567400,
+		"quoted_status_id_str": "1508825915815567366",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sNC5ql6RCu",
+			"expanded": "https://twitter.com/trsgrob/status/1508825915815567366",
+			"display": "twitter.com/trsgrob/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 29 15:18:25 +0000 2022",
+			"id": 1508825915815567400,
+			"id_str": "1508825915815567366",
+			"full_text": "Book bench near the city library Zaporizhzhya, Ukraine https://t.co/nWPk13GpWL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1508825888502292500,
+						"id_str": "1508825888502292481",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FPBtJsgXoAEekNB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPBtJsgXoAEekNB.jpg",
+						"url": "https://t.co/nWPk13GpWL",
+						"display_url": "pic.twitter.com/nWPk13GpWL",
+						"expanded_url": "https://twitter.com/trsgrob/status/1508825915815567366/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 540,
+								"h": 665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 665,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 665,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1508825888502292500,
+						"id_str": "1508825888502292481",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FPBtJsgXoAEekNB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPBtJsgXoAEekNB.jpg",
+						"url": "https://t.co/nWPk13GpWL",
+						"display_url": "pic.twitter.com/nWPk13GpWL",
+						"expanded_url": "https://twitter.com/trsgrob/status/1508825915815567366/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 540,
+								"h": 665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 665,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 665,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 858634842057134100,
+				"id_str": "858634842057134081",
+				"name": "Agnieszka Górecka🇵🇱🇪🇺",
+				"screen_name": "trsgrob",
+				"location": "",
+				"description": "“I always strive, when I can, to spread sweetness and light. There have been several complaints about it.” P.G. Wodehouse",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3094,
+				"friends_count": 2990,
+				"listed_count": 37,
+				"created_at": "Sun Apr 30 10:51:13 +0000 2017",
+				"favourites_count": 51330,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/858637753671614467/tmDirQuk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/858637753671614467/tmDirQuk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/858634842057134081/1596013223",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💙💛 https://t.co/sNC5ql6RCu"
+	},
+	{
 		"created_at": "Mon Mar 28 20:53:43 +0000 2022",
 		"id": 1508547908962066400,
 		"id_str": "1508547908962066438",
