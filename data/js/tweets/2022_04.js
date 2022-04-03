@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 02 21:24:38 +0000 2022",
+		"id": 1510367626912018400,
+		"id_str": "1510367626912018445",
+		"full_text": "@HamletHologram @ZacharyLesser @matthewharrison Me too. It might truly be the perfect poem",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HamletHologram",
+					"name": "Gin In The Pants And Sin In The Heart Faulkner",
+					"id": 35407411,
+					"id_str": "35407411",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ZacharyLesser",
+					"name": "Zachary Lesser",
+					"id": 1321493978,
+					"id_str": "1321493978",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "matthewharrison",
+					"name": "Matthew Harrison",
+					"id": 15462844,
+					"id_str": "15462844",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1510359824298651600,
+		"in_reply_to_status_id_str": "1510359824298651650",
+		"in_reply_to_user_id": 35407411,
+		"in_reply_to_user_id_str": "35407411",
+		"in_reply_to_screen_name": "HamletHologram",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10148,
+			"friends_count": 501,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HamletHologram @ZacharyLesser @matthewharrison Me too. It might truly be the perfect poem"
+	},
+	{
+		"created_at": "Sat Apr 02 15:56:33 +0000 2022",
+		"id": 1510281824777375700,
+		"id_str": "1510285062436184066",
+		"full_text": "Maybe—and just hear me out—the “problem” is editorial boards. https://t.co/UTgViwA9Dp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1510281822055252000,
+					"id_str": "1510281822055251971",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FPWZULpVQAMBA1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPWZULpVQAMBA1l.jpg",
+					"url": "https://t.co/UTgViwA9Dp",
+					"display_url": "pic.twitter.com/UTgViwA9Dp",
+					"expanded_url": "https://twitter.com/RahawaHaile/status/1510281824777375744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 979,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 979,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510281822055252000,
+					"id_str": "1510281822055251971",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FPWZULpVQAMBA1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPWZULpVQAMBA1l.jpg",
+					"url": "https://t.co/UTgViwA9Dp",
+					"display_url": "pic.twitter.com/UTgViwA9Dp",
+					"expanded_url": "https://twitter.com/RahawaHaile/status/1510281824777375744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 979,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 979,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1510281822046810000,
+					"id_str": "1510281822046810112",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FPWZULnUcAA72bF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPWZULnUcAA72bF.jpg",
+					"url": "https://t.co/UTgViwA9Dp",
+					"display_url": "pic.twitter.com/UTgViwA9Dp",
+					"expanded_url": "https://twitter.com/RahawaHaile/status/1510281824777375744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15145016,
+			"id_str": "15145016",
+			"name": "Rahawa Haile",
+			"screen_name": "RahawaHaile",
+			"location": "Ohlone Land (Oakland, CA)",
+			"description": "Eritrean American writer from Miami. In Open Country forthcoming from @harperbooks (2023). Repped by @jlkardon. she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15007,
+			"friends_count": 1616,
+			"listed_count": 241,
+			"created_at": "Tue Jun 17 12:33:48 +0000 2008",
+			"favourites_count": 30576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504896432221745159/fwXQDw4M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504896432221745159/fwXQDw4M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15145016/1638283138",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 443,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maybe—and just hear me out—the “problem” is editorial boards. https://t.co/UTgViwA9Dp"
+	},
+	{
 		"created_at": "Fri Apr 01 23:50:37 +0000 2022",
 		"id": 1510041977877934000,
 		"id_str": "1510041977877934080",
