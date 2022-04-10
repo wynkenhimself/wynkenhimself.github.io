@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 09 22:22:15 +0000 2022",
+		"id": 1512883802472910800,
+		"id_str": "1512918843362099205",
+		"full_text": "Wow! The Abortion Care Access Act is law. Access. Affordability. Not Stigma! I’m so proud to have sponsored the most comprehensive abortion care legislation in the nation! #mdga22 ⁦@PPMWDC⁩ ⁦@PPMaryland⁩ we did it! https://t.co/WPnJWcIArP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mdga22",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PPMWDC",
+					"name": "Planned Parenthood",
+					"id": 590198166,
+					"id_str": "590198166",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"screen_name": "PPMaryland",
+					"name": "PPMaryland",
+					"id": 365236872,
+					"id_str": "365236872",
+					"indices": [
+						191,
+						202
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1512883796835766300,
+					"id_str": "1512883796835766278",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FP7XzDDXEAYEXRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP7XzDDXEAYEXRE.jpg",
+					"url": "https://t.co/WPnJWcIArP",
+					"display_url": "pic.twitter.com/WPnJWcIArP",
+					"expanded_url": "https://twitter.com/DelArianaKelly/status/1512883802472910850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1512,
+							"h": 2016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512883796835766300,
+					"id_str": "1512883796835766278",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FP7XzDDXEAYEXRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP7XzDDXEAYEXRE.jpg",
+					"url": "https://t.co/WPnJWcIArP",
+					"display_url": "pic.twitter.com/WPnJWcIArP",
+					"expanded_url": "https://twitter.com/DelArianaKelly/status/1512883802472910850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1512,
+							"h": 2016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144987804,
+			"id_str": "144987804",
+			"name": "Ariana Kelly",
+			"screen_name": "DelArianaKelly",
+			"location": "Bethesda, MD",
+			"description": "State Delegate representing Maryland's District 16 | By Authority: Friends of Ariana Kelly. Rosalyn Levy Jonas, Chair. Jennifer R. Kefer, Treasurer.",
+			"url": "https://t.co/d2tVhd5gX5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d2tVhd5gX5",
+							"expanded_url": "http://delegatearianakelly.com",
+							"display_url": "delegatearianakelly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4347,
+			"friends_count": 2223,
+			"listed_count": 143,
+			"created_at": "Mon May 17 21:08:41 +0000 2010",
+			"favourites_count": 2328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144987804/1508791972",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 50,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow! The Abortion Care Access Act is law. Access. Affordability. Not Stigma! I’m so proud to have sponsored the most comprehensive abortion care legislation in the nation! #mdga22 ⁦@PPMWDC⁩ ⁦@PPMaryland⁩ we did it! https://t.co/WPnJWcIArP"
+	},
+	{
 		"created_at": "Fri Apr 08 21:12:44 +0000 2022",
 		"id": 1512538962648252400,
 		"id_str": "1512538962648252419",
