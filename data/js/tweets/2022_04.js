@@ -1,10 +1,953 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 11 01:18:26 +0000 2022",
+		"id": 1513291488196759600,
+		"id_str": "1513325570221871105",
+		"full_text": "My gift to you: WPA bookcare posters https://t.co/3rJARh71JT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513290852709318700,
+					"id_str": "1513290852709318662",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FQBKA0WWQAY4F3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQBKA0WWQAY4F3s.jpg",
+					"url": "https://t.co/3rJARh71JT",
+					"display_url": "pic.twitter.com/3rJARh71JT",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1513291488196759555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 515,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 515,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513290852709318700,
+					"id_str": "1513290852709318662",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FQBKA0WWQAY4F3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQBKA0WWQAY4F3s.jpg",
+					"url": "https://t.co/3rJARh71JT",
+					"display_url": "pic.twitter.com/3rJARh71JT",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1513291488196759555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 515,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 515,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513290912557904000,
+					"id_str": "1513290912557903885",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FQBKETTXMA0B-63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQBKETTXMA0B-63.jpg",
+					"url": "https://t.co/3rJARh71JT",
+					"display_url": "pic.twitter.com/3rJARh71JT",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1513291488196759555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 504,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 504,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513290964030431200,
+					"id_str": "1513290964030431237",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FQBKHTDXoAU4Cb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQBKHTDXoAU4Cb9.jpg",
+					"url": "https://t.co/3rJARh71JT",
+					"display_url": "pic.twitter.com/3rJARh71JT",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1513291488196759555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 503,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 503,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1513291031252455400,
+					"id_str": "1513291031252455428",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FQBKLNeWUAQXfOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQBKLNeWUAQXfOP.jpg",
+					"url": "https://t.co/3rJARh71JT",
+					"display_url": "pic.twitter.com/3rJARh71JT",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1513291488196759555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 502,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941383982238847000,
+			"id_str": "941383982238846976",
+			"name": "Dorothy Berry",
+			"screen_name": "dorothyjberry",
+			"location": "Cambridge, MA",
+			"description": "\"missy-pedia\"\n\"a pocket venus\" \ni put the old pictures in the computers @houghtonlib\nhttps://t.co/rfcnu6Mo42",
+			"url": "https://t.co/ONnlHkVlbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONnlHkVlbw",
+							"expanded_url": "http://www.dorothy-berry.com",
+							"display_url": "dorothy-berry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rfcnu6Mo42",
+							"expanded_url": "http://linktr.ee/dorothyberry",
+							"display_url": "linktr.ee/dorothyberry",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6790,
+			"friends_count": 877,
+			"listed_count": 72,
+			"created_at": "Thu Dec 14 19:06:46 +0000 2017",
+			"favourites_count": 26955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511487288257257476/f5EmsRSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511487288257257476/f5EmsRSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941383982238846976/1649201175",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My gift to you: WPA bookcare posters https://t.co/3rJARh71JT"
+	},
+	{
+		"created_at": "Mon Apr 11 01:16:36 +0000 2022",
+		"id": 1513325108659695600,
+		"id_str": "1513325108659695620",
+		"full_text": "@magsjoy20 @meganlcook I truly am enjoying it. The second episode started to come together and by the third I was well in",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "magsjoy20",
+					"name": "Margaret Joyce",
+					"id": 1169664642,
+					"id_str": "1169664642",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1513317326493405200,
+		"in_reply_to_status_id_str": "1513317326493405184",
+		"in_reply_to_user_id": 1169664642,
+		"in_reply_to_user_id_str": "1169664642",
+		"in_reply_to_screen_name": "magsjoy20",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10171,
+			"friends_count": 504,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@magsjoy20 @meganlcook I truly am enjoying it. The second episode started to come together and by the third I was well in"
+	},
+	{
+		"created_at": "Sun Apr 10 22:18:57 +0000 2022",
+		"id": 1513170633882054700,
+		"id_str": "1513280401955078148",
+		"full_text": "It took a community effort and a lot of to bail Lizelle out of jail because she was arrested for seeking healthcare, which is not a crime. She was not the first and will not be the last.\n\nThe repro movement must get serious about defunding police and ending cash bail policies.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 411194625,
+			"id_str": "411194625",
+			"name": "Renee Bracey Sherman",
+			"screen_name": "RBraceySherman",
+			"location": "1 mife + 4 miso = med abortion",
+			"description": "@abortionstories ED • co-author COUNTERING ABORTIONSPLAINING w/ @byreginamahone @AmistadBooks • Rep’d by @McKinnonLit • ✨The Beyoncé of Abortion Storytelling✨",
+			"url": "https://t.co/AillUKjyQC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AillUKjyQC",
+							"expanded_url": "http://linktr.ee/reneebraceysherman",
+							"display_url": "linktr.ee/reneebraceyshe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31273,
+			"friends_count": 1556,
+			"listed_count": 428,
+			"created_at": "Sun Nov 13 03:31:53 +0000 2011",
+			"favourites_count": 16324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 74623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502301324221816845/TT6zS_gb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502301324221816845/TT6zS_gb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/411194625/1606055316",
+			"profile_link_color": "00A35C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 637,
+		"favorite_count": 2547,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It took a community effort and a lot of to bail Lizelle out of jail because she was arrested for seeking healthcare, which is not a crime. She was not the first and will not be the last.\n\nThe repro movement must get serious about defunding police and ending cash bail policies."
+	},
+	{
+		"created_at": "Sun Apr 10 22:18:26 +0000 2022",
+		"id": 1513280269154979800,
+		"id_str": "1513280269154979847",
+		"full_text": "@jentalleydesign I'm so sorry. The way they have been minimizing the actual real damage done to people with this phobic crap is infuriating.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jentalleydesign",
+					"name": "Jeneration X",
+					"id": 8822562,
+					"id_str": "8822562",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1513279893122998300,
+		"in_reply_to_status_id_str": "1513279893122998274",
+		"in_reply_to_user_id": 8822562,
+		"in_reply_to_user_id_str": "8822562",
+		"in_reply_to_screen_name": "jentalleydesign",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10171,
+			"friends_count": 504,
+			"listed_count": 387,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jentalleydesign I'm so sorry. The way they have been minimizing the actual real damage done to people with this phobic crap is infuriating."
+	},
+	{
+		"created_at": "Sun Apr 10 18:51:50 +0000 2022",
+		"id": 1513211084085289000,
+		"id_str": "1513228278643015687",
+		"full_text": "Fritz Stieleke's Wordwynn, a textbook for basic Old English using the methods used to teach living languages today, is now available as an open access download: \n\nhttps://t.co/PSz13CgdST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PSz13CgdST",
+					"expanded_url": "https://books.ulb.hhu.de/index.php/hhu_books/catalog/book/38",
+					"display_url": "books.ulb.hhu.de/index.php/hhu_…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2997786141,
+			"id_str": "2997786141",
+			"name": "Irina Dumitrescu",
+			"screen_name": "irinibus",
+			"location": "Toronto, Ontario",
+			"description": "essayist, critic, glutton, recovering perfectionist & \"medievalist to the stars.\" column at TLS, podcast at LRB, writing in NYRB, NYT, BAE, and elsewhere",
+			"url": "https://t.co/CijxavLNS9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CijxavLNS9",
+							"expanded_url": "http://irinadumitrescu.com",
+							"display_url": "irinadumitrescu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11243,
+			"friends_count": 4898,
+			"listed_count": 99,
+			"created_at": "Sun Jan 25 13:35:26 +0000 2015",
+			"favourites_count": 53664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511392917927120901/l-AzNG9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511392917927120901/l-AzNG9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2997786141/1649180494",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fritz Stieleke's Wordwynn, a textbook for basic Old English using the methods used to teach living languages today, is now available as an open access download: \n\nhttps://t.co/PSz13CgdST"
+	},
+	{
+		"created_at": "Sun Apr 10 16:22:07 +0000 2022",
+		"id": 1513175987193794600,
+		"id_str": "1513190600488673285",
+		"full_text": "Introducing #Haggadah manuscripts on Sefaria! We're excited to share this collection of 60 images from Haggadot spanning six centuries. Explore now: https://t.co/7xqjz1CusW https://t.co/xbu0Kmsa1I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Haggadah",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7xqjz1CusW",
+					"expanded_url": "https://bit.ly/3jjQnLF",
+					"display_url": "bit.ly/3jjQnLF",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1513175984341725200,
+					"id_str": "1513175984341725187",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FP_himVXMAMLF6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP_himVXMAMLF6C.jpg",
+					"url": "https://t.co/xbu0Kmsa1I",
+					"display_url": "pic.twitter.com/xbu0Kmsa1I",
+					"expanded_url": "https://twitter.com/SefariaProject/status/1513175987193794566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513175984341725200,
+					"id_str": "1513175984341725187",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FP_himVXMAMLF6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FP_himVXMAMLF6C.jpg",
+					"url": "https://t.co/xbu0Kmsa1I",
+					"display_url": "pic.twitter.com/xbu0Kmsa1I",
+					"expanded_url": "https://twitter.com/SefariaProject/status/1513175987193794566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 587987681,
+			"id_str": "587987681",
+			"name": "Sefaria | Free Virtual Jewish Library",
+			"screen_name": "SefariaProject",
+			"location": "",
+			"description": "Sefaria is a free virtual library of Jewish texts and their interconnections, in Hebrew and in translation: https://t.co/Kp5SZebqbU",
+			"url": "http://t.co/DKZW3uxoLh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DKZW3uxoLh",
+							"expanded_url": "http://www.sefaria.org",
+							"display_url": "sefaria.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kp5SZebqbU",
+							"expanded_url": "http://sefaria.org/app",
+							"display_url": "sefaria.org/app",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8297,
+			"friends_count": 896,
+			"listed_count": 109,
+			"created_at": "Wed May 23 04:01:05 +0000 2012",
+			"favourites_count": 3226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031699445027500034/1u7AF0Fd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031699445027500034/1u7AF0Fd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/587987681/1606246563",
+			"profile_link_color": "00AFD7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introducing #Haggadah manuscripts on Sefaria! We're excited to share this collection of 60 images from Haggadot spanning six centuries. Explore now: https://t.co/7xqjz1CusW https://t.co/xbu0Kmsa1I"
+	},
+	{
 		"created_at": "Sat Apr 09 22:22:15 +0000 2022",
 		"id": 1512883802472910800,
 		"id_str": "1512918843362099205",
-		"full_text": "Wow! The Abortion Care Access Act is law. Access. Affordability. Not Stigma! I’m so proud to have sponsored the most comprehensive abortion care legislation in the nation! #mdga22 ⁦@PPMWDC⁩ ⁦@PPMaryland⁩ we did it! https://t.co/WPnJWcIArP",
+		"full_text": "Wow! The Abortion Care Access Act is law. Access. Affordability. Not Stigma! I’m so proud to have sponsored the most comprehensive abortion care legislation in the nation! #mdga22 @PPMWDC @PPMaryland we did it! https://t.co/WPnJWcIArP",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -202,7 +1145,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Wow! The Abortion Care Access Act is law. Access. Affordability. Not Stigma! I’m so proud to have sponsored the most comprehensive abortion care legislation in the nation! #mdga22 ⁦@PPMWDC⁩ ⁦@PPMaryland⁩ we did it! https://t.co/WPnJWcIArP"
+		"text": "Wow! The Abortion Care Access Act is law. Access. Affordability. Not Stigma! I’m so proud to have sponsored the most comprehensive abortion care legislation in the nation! #mdga22 @PPMWDC @PPMaryland we did it! https://t.co/WPnJWcIArP"
 	},
 	{
 		"created_at": "Fri Apr 08 21:12:44 +0000 2022",
