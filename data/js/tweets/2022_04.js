@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 15:24:51 +0000 2022",
+		"id": 1513894656492376000,
+		"id_str": "1513900962418765831",
+		"full_text": "One day, maybe I'll stop being mad at all the people who insisted abortion was a bullshit wedge issue, not something Republicans actually wanted to ban. Today is not that day. https://t.co/fdG1rMMzhb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fdG1rMMzhb",
+					"expanded_url": "https://twitter.com/ZekeJMiller/status/1513885267912007681",
+					"display_url": "twitter.com/ZekeJMiller/st…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16906308,
+			"id_str": "16906308",
+			"name": "Kate Harding",
+			"screen_name": "KateHarding",
+			"location": "Chicago, IL",
+			"description": "Salty feminist. Book writer, editor, and seller. (Currently writing for @StMartinsPress & selling @UnchartedBooks.) Swears. She/her. Profile📸 @glittergutsy",
+			"url": "https://t.co/u9RAVUJElj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u9RAVUJElj",
+							"expanded_url": "http://kateharding.info",
+							"display_url": "kateharding.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37025,
+			"friends_count": 2778,
+			"listed_count": 911,
+			"created_at": "Wed Oct 22 14:44:09 +0000 2008",
+			"favourites_count": 87441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451638623867125765/fhvzPvcz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451638623867125765/fhvzPvcz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16906308/1635880764",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513885267912007700,
+		"quoted_status_id_str": "1513885267912007681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fdG1rMMzhb",
+			"expanded": "https://twitter.com/ZekeJMiller/status/1513885267912007681",
+			"display": "twitter.com/ZekeJMiller/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 12 14:22:29 +0000 2022",
+			"id": 1513885267912007700,
+			"id_str": "1513885267912007681",
+			"full_text": "OKLAHOMA CITY (AP) — Oklahoma Gov. Kevin Stitt signs bill making it a felony to perform an abortion, punishable by up to 10 years in prison.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21316253,
+				"id_str": "21316253",
+				"name": "Zeke Miller",
+				"screen_name": "ZekeJMiller",
+				"location": "Washington, DC",
+				"description": "White House Reporter @AP",
+				"url": "https://t.co/a88HHzdBAp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a88HHzdBAp",
+								"expanded_url": "https://apnews.com/",
+								"display_url": "apnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 268670,
+				"friends_count": 6031,
+				"listed_count": 4873,
+				"created_at": "Thu Feb 19 17:01:16 +0000 2009",
+				"favourites_count": 120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 182104,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/595261015731740673/uvXc_cII_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/595261015731740673/uvXc_cII_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21316253/1542308318",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 46,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One day, maybe I'll stop being mad at all the people who insisted abortion was a bullshit wedge issue, not something Republicans actually wanted to ban. Today is not that day. https://t.co/fdG1rMMzhb"
+	},
+	{
 		"created_at": "Mon Apr 11 15:54:51 +0000 2022",
 		"id": 1513546125206298600,
 		"id_str": "1513546125206298631",
