@@ -1,6 +1,1890 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 00:40:41 +0000 2022",
+		"id": 1514403231824232400,
+		"id_str": "1514403231824232451",
+		"full_text": "When Dean Spade congratulates the newly elected American Library Association president, you know that’s a good sign. #Emily4ALA https://t.co/DkEZbMOxau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Emily4ALA",
+					"indices": [
+						117,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DkEZbMOxau",
+					"expanded_url": "https://twitter.com/deanspade/status/1514391663644344322",
+					"display_url": "twitter.com/deanspade/stat…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 504,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514391663644344300,
+		"quoted_status_id_str": "1514391663644344322",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DkEZbMOxau",
+			"expanded": "https://twitter.com/deanspade/status/1514391663644344322",
+			"display": "twitter.com/deanspade/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 13 23:54:43 +0000 2022",
+			"id": 1514391663644344300,
+			"id_str": "1514391663644344322",
+			"full_text": "Huge congrats to @edrabinski!! https://t.co/cG1LYnaxg7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "edrabinski",
+						"name": "Emily Drabinski",
+						"id": 14089871,
+						"id_str": "14089871",
+						"indices": [
+							17,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cG1LYnaxg7",
+						"expanded_url": "https://twitter.com/edrabinski/status/1514305183429365767",
+						"display_url": "twitter.com/edrabinski/sta…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39568851,
+				"id_str": "39568851",
+				"name": "dean spade",
+				"screen_name": "deanspade",
+				"location": "Seattle, WA",
+				"description": "https://t.co/yKGAdDj8T2",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yKGAdDj8T2",
+								"expanded_url": "http://linktr.ee/deanspade",
+								"display_url": "linktr.ee/deanspade",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24367,
+				"friends_count": 846,
+				"listed_count": 153,
+				"created_at": "Tue May 12 19:04:18 +0000 2009",
+				"favourites_count": 3585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6374,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1010183269533380608/ElHy4FfF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010183269533380608/ElHy4FfF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39568851/1607230979",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1514305183429365800,
+			"quoted_status_id_str": "1514305183429365767",
+			"quoted_status_permalink": {
+				"url": "https://t.co/cG1LYnaxg7",
+				"expanded": "https://twitter.com/edrabinski/status/1514305183429365767",
+				"display": "twitter.com/edrabinski/sta…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When Dean Spade congratulates the newly elected American Library Association president, you know that’s a good sign. #Emily4ALA https://t.co/DkEZbMOxau"
+	},
+	{
+		"created_at": "Thu Apr 14 00:39:15 +0000 2022",
+		"id": 1514402870313074700,
+		"id_str": "1514402870313074689",
+		"full_text": "@heatherfro @Nicosia_Marissa What truly wonderful news to see Marissa’s work recognized!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heatherfro",
+					"name": "heather froehlich",
+					"id": 152051625,
+					"id_str": "152051625",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Nicosia_Marissa",
+					"name": "Dr. Marissa Nicosia",
+					"id": 1076992904,
+					"id_str": "1076992904",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1514259438340915200,
+		"in_reply_to_status_id_str": "1514259438340915204",
+		"in_reply_to_user_id": 152051625,
+		"in_reply_to_user_id_str": "152051625",
+		"in_reply_to_screen_name": "heatherfro",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 504,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heatherfro @Nicosia_Marissa What truly wonderful news to see Marissa’s work recognized!"
+	},
+	{
+		"created_at": "Thu Apr 14 00:38:24 +0000 2022",
+		"id": 1514402659691901000,
+		"id_str": "1514402659691900934",
+		"full_text": "This is such wonderful news! Many congratulations to @Nicosia_Marissa! https://t.co/QCp1Rw7yFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nicosia_Marissa",
+					"name": "Dr. Marissa Nicosia",
+					"id": 1076992904,
+					"id_str": "1076992904",
+					"indices": [
+						53,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QCp1Rw7yFC",
+					"expanded_url": "https://twitter.com/heatherfro/status/1514259438340915204",
+					"display_url": "twitter.com/heatherfro/sta…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 504,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514259438340915200,
+		"quoted_status_id_str": "1514259438340915204",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QCp1Rw7yFC",
+			"expanded": "https://twitter.com/heatherfro/status/1514259438340915204",
+			"display": "twitter.com/heatherfro/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 13 15:09:18 +0000 2022",
+			"id": 1514259438340915200,
+			"id_str": "1514259438340915204",
+			"full_text": "congratulations to collaborator extraordinaire @Nicosia_Marissa, recipient of the 2022 President’s Award for Engagement with Students at Penn State University https://t.co/ZZbhb6RzXc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Nicosia_Marissa",
+						"name": "Dr. Marissa Nicosia",
+						"id": 1076992904,
+						"id_str": "1076992904",
+						"indices": [
+							47,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZZbhb6RzXc",
+						"expanded_url": "https://psu.edu/news/story/nicosia-receives-2022-presidents-award-engagement-students/",
+						"display_url": "psu.edu/news/story/nic…",
+						"indices": [
+							159,
+							182
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 152051625,
+				"id_str": "152051625",
+				"name": "heather froehlich",
+				"screen_name": "heatherfro",
+				"location": "State College, Pennsylvania",
+				"description": "former shakespeare scholar + trained linguist, supporting researchers counting words in various ways with computers @psulibs",
+				"url": "http://t.co/0MUXA37elS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0MUXA37elS",
+								"expanded_url": "http://hfroehli.ch",
+								"display_url": "hfroehli.ch",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6846,
+				"friends_count": 2987,
+				"listed_count": 270,
+				"created_at": "Fri Jun 04 23:35:17 +0000 2010",
+				"favourites_count": 31839,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 87441,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920055341836103681/Nr43XVMT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920055341836103681/Nr43XVMT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/152051625/1503068111",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is such wonderful news! Many congratulations to @Nicosia_Marissa! https://t.co/QCp1Rw7yFC"
+	},
+	{
+		"created_at": "Wed Apr 13 22:32:10 +0000 2022",
+		"id": 1514358157241372700,
+		"id_str": "1514370890733178885",
+		"full_text": "An important comparison in this article is how much wages for different groups have increased in 10 years\n\nGrad students: often 0% (depending on the dept.)\nFaculty: 6%\nHigher administration: *124%*\n\nAnd yet somehow there’s no money to pay grad students https://t.co/FnMCogavNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FnMCogavNX",
+					"expanded_url": "https://twitter.com/alexnpress/status/1514331383929450502",
+					"display_url": "twitter.com/alexnpress/sta…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2645648308,
+			"id_str": "2645648308",
+			"name": "Alex Wingate",
+			"screen_name": "alextheknitter",
+			"location": "",
+			"description": "Book history (EM Spain/Navarre, focus on bookselling), rare book librarianship, & knitting. InfoSci PhD student @ IU; Bibliography Editor for https://t.co/UMi5MKcCJ9",
+			"url": "https://t.co/GmuThOWU7c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GmuThOWU7c",
+							"expanded_url": "https://alexandraewingate.com/",
+							"display_url": "alexandraewingate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UMi5MKcCJ9",
+							"expanded_url": "http://chymistry.org",
+							"display_url": "chymistry.org",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1262,
+			"friends_count": 1943,
+			"listed_count": 20,
+			"created_at": "Fri Jun 27 02:05:35 +0000 2014",
+			"favourites_count": 23706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1430627887745536003/lz3r3nqE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430627887745536003/lz3r3nqE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2645648308/1556758641",
+			"profile_link_color": "00441E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514331383929450500,
+		"quoted_status_id_str": "1514331383929450502",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FnMCogavNX",
+			"expanded": "https://twitter.com/alexnpress/status/1514331383929450502",
+			"display": "twitter.com/alexnpress/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 13 19:55:11 +0000 2022",
+			"id": 1514331383929450500,
+			"id_str": "1514331383929450502",
+			"full_text": "Graduate workers at Indiana University (@IndianaGrads) are now on a recognition strike. I spoke with one of the strikers about how things got to this point. https://t.co/65BAj0dFSE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IndianaGrads",
+						"name": "Indiana Grads ON STRIKE #IUONSTRIKE22",
+						"id": 1159533252866166800,
+						"id_str": "1159533252866166785",
+						"indices": [
+							40,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/65BAj0dFSE",
+						"expanded_url": "https://jacobinmag.com/2022/04/indiana-university-graduate-student-workers-union-strike",
+						"display_url": "jacobinmag.com/2022/04/indian…",
+						"indices": [
+							157,
+							180
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2789857374,
+				"id_str": "2789857374",
+				"name": "Alex Press",
+				"screen_name": "alexnpress",
+				"location": "New York City",
+				"description": "writer @jacobin. 📬: saxlepres@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73670,
+				"friends_count": 1890,
+				"listed_count": 609,
+				"created_at": "Thu Sep 04 14:28:22 +0000 2014",
+				"favourites_count": 103414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22941,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1436081798954557442/PocDMXhz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436081798954557442/PocDMXhz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2789857374/1564282690",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An important comparison in this article is how much wages for different groups have increased in 10 years\n\nGrad students: often 0% (depending on the dept.)\nFaculty: 6%\nHigher administration: *124%*\n\nAnd yet somehow there’s no money to pay grad students https://t.co/FnMCogavNX"
+	},
+	{
+		"created_at": "Wed Apr 13 20:59:22 +0000 2022",
+		"id": 1514309297852756000,
+		"id_str": "1514347534700974082",
+		"full_text": "That whooshing sound you hear is  decades of economic research going sailing past  on how bad an idea this sort of thing is. https://t.co/qRG4RZzggi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qRG4RZzggi",
+					"expanded_url": "https://twitter.com/FOS/status/1513914199302455297",
+					"display_url": "twitter.com/FOS/status/151…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1717291,
+			"id_str": "1717291",
+			"name": "Paul Kedrosky",
+			"screen_name": "pkedrosky",
+			"location": "Yes",
+			"description": "Ancient amateur. Tweets autodelete. Partner at https://t.co/9bw1gCSeRS. Proprietor of @highwaydebris & @sourceseh. @calfirebot's uncle.",
+			"url": "https://t.co/0c6MqiogWu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0c6MqiogWu",
+							"expanded_url": "https://kedrosky.org",
+							"display_url": "kedrosky.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9bw1gCSeRS",
+							"expanded_url": "http://skvcap.com",
+							"display_url": "skvcap.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 271725,
+			"friends_count": 489,
+			"listed_count": 5066,
+			"created_at": "Wed Mar 21 06:12:18 +0000 2007",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227801466565357568/StcHjeeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227801466565357568/StcHjeeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1717291/1584576562",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513914199302455300,
+		"quoted_status_id_str": "1513914199302455297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qRG4RZzggi",
+			"expanded": "https://twitter.com/FOS/status/1513914199302455297",
+			"display": "twitter.com/FOS/status/151…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 12 16:17:26 +0000 2022",
+			"id": 1513914199302455300,
+			"id_str": "1513914199302455297",
+			"full_text": "The Maryland state legislature has passed an initiative that will commit $1.2 billion in public funding to reimagine the Orioles' Camden Yards Sports Complex.\n\nIt will be the second-largest public commitment of funding to an MLB team. https://t.co/V1YqqoPA9x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1513914193724022800,
+						"id_str": "1513914193724022791",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FQKA8ClXoAcScFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQKA8ClXoAcScFq.jpg",
+						"url": "https://t.co/V1YqqoPA9x",
+						"display_url": "pic.twitter.com/V1YqqoPA9x",
+						"expanded_url": "https://twitter.com/FOS/status/1513914199302455297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1199,
+								"h": 880,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 499,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 880,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1513914193724022800,
+						"id_str": "1513914193724022791",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FQKA8ClXoAcScFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQKA8ClXoAcScFq.jpg",
+						"url": "https://t.co/V1YqqoPA9x",
+						"display_url": "pic.twitter.com/V1YqqoPA9x",
+						"expanded_url": "https://twitter.com/FOS/status/1513914199302455297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1199,
+								"h": 880,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 499,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 880,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2710946063,
+				"id_str": "2710946063",
+				"name": "Front Office Sports",
+				"screen_name": "FOS",
+				"location": "New York, NY",
+				"description": "The business of sports.",
+				"url": "https://t.co/TZtw9nCmu0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TZtw9nCmu0",
+								"expanded_url": "https://gofos.co/3M1BVnN",
+								"display_url": "gofos.co/3M1BVnN",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105671,
+				"friends_count": 3134,
+				"listed_count": 1217,
+				"created_at": "Mon Jul 14 18:10:56 +0000 2014",
+				"favourites_count": 41962,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63715,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291441139908841483/DimlZQ_Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291441139908841483/DimlZQ_Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2710946063/1649648419",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That whooshing sound you hear is  decades of economic research going sailing past  on how bad an idea this sort of thing is. https://t.co/qRG4RZzggi"
+	},
+	{
+		"created_at": "Wed Apr 13 20:24:32 +0000 2022",
+		"id": 1514338770824401000,
+		"id_str": "1514338770824400912",
+		"full_text": "Emily Drabinski!!!! A win for Emily and for collective power and for libraries!!! 🎉🎉 Phew. So excited. https://t.co/VJFE1o1ZwG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VJFE1o1ZwG",
+					"expanded_url": "https://twitter.com/edrabinski/status/1514305183429365767",
+					"display_url": "twitter.com/edrabinski/sta…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 504,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514305183429365800,
+		"quoted_status_id_str": "1514305183429365767",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VJFE1o1ZwG",
+			"expanded": "https://twitter.com/edrabinski/status/1514305183429365767",
+			"display": "twitter.com/edrabinski/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 13 18:11:04 +0000 2022",
+			"id": 1514305183429365800,
+			"id_str": "1514305183429365767",
+			"full_text": "I just cannot believe that a Marxist lesbian who believes that collective power is possible to build and can be wielded for a better world is the president-elect of @ALALibrary. I am so excited for what we will do together. Solidarity! \n\nAnd my mom is SO PROUD I love you mom.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ALALibrary",
+						"name": "American Library Association",
+						"id": 21799699,
+						"id_str": "21799699",
+						"indices": [
+							165,
+							176
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14089871,
+				"id_str": "14089871",
+				"name": "Emily Drabinski",
+				"screen_name": "edrabinski",
+				"location": "Brooklyn",
+				"description": "Interim Chief @cunyGClibrary. The problem is profit. Organize your workplace. Collective power, public good.",
+				"url": "https://t.co/2FtbCviXl9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2FtbCviXl9",
+								"expanded_url": "http://www.emilydrabinski.com",
+								"display_url": "emilydrabinski.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18757,
+				"friends_count": 4043,
+				"listed_count": 445,
+				"created_at": "Thu Mar 06 17:04:36 +0000 2008",
+				"favourites_count": 88722,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 896,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1512040779543367681/RN8agBtw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512040779543367681/RN8agBtw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14089871/1422498406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 417,
+			"favorite_count": 3855,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Emily Drabinski!!!! A win for Emily and for collective power and for libraries!!! 🎉🎉 Phew. So excited. https://t.co/VJFE1o1ZwG"
+	},
+	{
+		"created_at": "Wed Apr 13 17:16:03 +0000 2022",
+		"id": 1514255346746871800,
+		"id_str": "1514291337444483073",
+		"full_text": "The New York Public Library is making a group of commonly banned books available to all nationwide—no library card needed—using a free e-reader. \"All people have the right to read or not read what they want,\" the @nypl says. https://t.co/ZNzsbm0y4A @ALALibrary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nypl",
+					"name": "NY Public Library",
+					"id": 17544803,
+					"id_str": "17544803",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"screen_name": "ALALibrary",
+					"name": "American Library Association",
+					"id": 21799699,
+					"id_str": "21799699",
+					"indices": [
+						249,
+						260
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZNzsbm0y4A",
+					"expanded_url": "https://www.nypl.org/blog/2022/04/13/books-for-all-nypl-supports-right-read-banned-books",
+					"display_url": "nypl.org/blog/2022/04/1…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28279637,
+			"id_str": "28279637",
+			"name": "David Beard",
+			"screen_name": "dabeard",
+			"location": "U.S.",
+			"description": "Write, Edit, Newsletter @NatGeo. Ex @washingtonpost @bostonglobe @AP. Sign up for the newsletter I curate: https://t.co/kkpw6gNa7L",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kkpw6gNa7L",
+							"expanded_url": "https://www.nationalgeographic.com/newsletters/signup",
+							"display_url": "nationalgeographic.com/newsletters/si…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62755,
+			"friends_count": 5510,
+			"listed_count": 1884,
+			"created_at": "Thu Apr 02 04:14:41 +0000 2009",
+			"favourites_count": 88118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3773956722/060a643d3de230a1dc983716fb91125f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3773956722/060a643d3de230a1dc983716fb91125f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28279637/1584836717",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1106,
+		"favorite_count": 2001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The New York Public Library is making a group of commonly banned books available to all nationwide—no library card needed—using a free e-reader. \"All people have the right to read or not read what they want,\" the @nypl says. https://t.co/ZNzsbm0y4A @ALALibrary"
+	},
+	{
+		"created_at": "Wed Apr 13 13:29:17 +0000 2022",
+		"id": 1514076019099156500,
+		"id_str": "1514234267878010891",
+		"full_text": "Our strike begins tomorrow. We are so grateful for all of solidarity -- endorsements, messages, donations -- we've received in the past several days, and weeks, and months, and years. We are committed to winning this fight. #UNIONYES #IUONSTRIKE22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UNIONYES",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"text": "IUONSTRIKE22",
+					"indices": [
+						234,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159533252866166800,
+			"id_str": "1159533252866166785",
+			"name": "Indiana Grads ON STRIKE #IUONSTRIKE22",
+			"screen_name": "IndianaGrads",
+			"location": "",
+			"description": "ON STRIKE! #IUonSTRIKE22  | UNIONIZING for a better IU with @ueunion. Sign a union card, get involved! https://t.co/LYbkxnEObi",
+			"url": "https://t.co/jBYCxQc1mm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBYCxQc1mm",
+							"expanded_url": "http://indianagradworkers.org",
+							"display_url": "indianagradworkers.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LYbkxnEObi",
+							"expanded_url": "http://linktr.ee/IndianaGrads",
+							"display_url": "linktr.ee/IndianaGrads",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2472,
+			"friends_count": 833,
+			"listed_count": 12,
+			"created_at": "Thu Aug 08 18:34:05 +0000 2019",
+			"favourites_count": 2987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429785714242301961/ud8yfmcd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429785714242301961/ud8yfmcd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159533252866166785/1649612814",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Our strike begins tomorrow. We are so grateful for all of solidarity -- endorsements, messages, donations -- we've received in the past several days, and weeks, and months, and years. We are committed to winning this fight. #UNIONYES #IUONSTRIKE22"
+	},
+	{
+		"created_at": "Wed Apr 13 13:27:50 +0000 2022",
+		"id": 1514144673975214000,
+		"id_str": "1514233903275458560",
+		"full_text": "Out now! PORTRAITS &amp; POSES. Female Intellectual Authority, Agency and Authorship in Early Modern Europe”, edited by @beavanacker and yours truly. Incl. 14 richly illustrated struggles of women to represent credible scholarship. Published #OA \n@LeuvenUP https://t.co/7ZYn86j3Em https://t.co/yoRHmbxBZs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OA",
+					"indices": [
+						242,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beavanacker",
+					"name": "Beatrijs Vanacker",
+					"id": 822570365469728800,
+					"id_str": "822570365469728769",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"screen_name": "LeuvenUP",
+					"name": "LeuvenUP",
+					"id": 472002141,
+					"id_str": "472002141",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7ZYn86j3Em",
+					"expanded_url": "https://library.oapen.org/handle/20.500.12657/53924",
+					"display_url": "library.oapen.org/handle/20.500.…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1514144476385661000,
+					"id_str": "1514144476385660931",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FQNSYQWWUAMfeKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQNSYQWWUAMfeKQ.jpg",
+					"url": "https://t.co/yoRHmbxBZs",
+					"display_url": "pic.twitter.com/yoRHmbxBZs",
+					"expanded_url": "https://twitter.com/Liekevdeinsen/status/1514144673975214081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 865,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514144476385661000,
+					"id_str": "1514144476385660931",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FQNSYQWWUAMfeKQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQNSYQWWUAMfeKQ.jpg",
+					"url": "https://t.co/yoRHmbxBZs",
+					"display_url": "pic.twitter.com/yoRHmbxBZs",
+					"expanded_url": "https://twitter.com/Liekevdeinsen/status/1514144673975214081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 865,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 865,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1514144476402495500,
+					"id_str": "1514144476402495492",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FQNSYQaXMAQcJjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQNSYQaXMAQcJjQ.jpg",
+					"url": "https://t.co/yoRHmbxBZs",
+					"display_url": "pic.twitter.com/yoRHmbxBZs",
+					"expanded_url": "https://twitter.com/Liekevdeinsen/status/1514144673975214081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 1232,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 244005361,
+			"id_str": "244005361",
+			"name": "Lieke van Deinsen",
+			"screen_name": "Liekevdeinsen",
+			"location": "Antwerpen",
+			"description": "Neerlandica @KU_Leuven @FWOvlaanderen | worked @Rijksmuseum | Editor @EMLC_Journal| @JongeAcademie | @18eEeuw | Aspiring woman of letters",
+			"url": "https://t.co/aJ7JvrdfFV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aJ7JvrdfFV",
+							"expanded_url": "http://www.liekevandeinsen.nl",
+							"display_url": "liekevandeinsen.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1439,
+			"friends_count": 1259,
+			"listed_count": 35,
+			"created_at": "Fri Jan 28 08:44:54 +0000 2011",
+			"favourites_count": 3611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFB2D3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1327729413761490949/M_REn0m__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327729413761490949/M_REn0m__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244005361/1581965743",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Out now! PORTRAITS &amp; POSES. Female Intellectual Authority, Agency and Authorship in Early Modern Europe”, edited by @beavanacker and yours truly. Incl. 14 richly illustrated struggles of women to represent credible scholarship. Published #OA \n@LeuvenUP https://t.co/7ZYn86j3Em https://t.co/yoRHmbxBZs"
+	},
+	{
 		"created_at": "Tue Apr 12 15:24:51 +0000 2022",
 		"id": 1513894656492376000,
 		"id_str": "1513900962418765831",
