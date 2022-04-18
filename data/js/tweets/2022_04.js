@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 17 22:34:38 +0000 2022",
+		"id": 1515816679082762200,
+		"id_str": "1515821061870440454",
+		"full_text": "JOB: Codicology Specialist: \"...requires the joint skills of a cataloger and a subject matter expert in rare books, &amp; particularly in incunables---located in Collections Services Division, Global Legal Collection Directorate, Law Library\" @librarycongress  https://t.co/fFKt7924d9 https://t.co/0Hf2qlIIcY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "librarycongress",
+					"name": "Library of Congress",
+					"id": 7152572,
+					"id_str": "7152572",
+					"indices": [
+						243,
+						259
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fFKt7924d9",
+					"expanded_url": "https://www.usajobs.gov/GetJob/ViewDetails/646100900/",
+					"display_url": "usajobs.gov/GetJob/ViewDet…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1515816677769941000,
+					"id_str": "1515816677769941000",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FQlDPL8XEAgk0zT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQlDPL8XEAgk0zT.jpg",
+					"url": "https://t.co/0Hf2qlIIcY",
+					"display_url": "pic.twitter.com/0Hf2qlIIcY",
+					"expanded_url": "https://twitter.com/james3neal/status/1515816679082762248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515816677769941000,
+					"id_str": "1515816677769941000",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FQlDPL8XEAgk0zT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQlDPL8XEAgk0zT.jpg",
+					"url": "https://t.co/0Hf2qlIIcY",
+					"display_url": "pic.twitter.com/0Hf2qlIIcY",
+					"expanded_url": "https://twitter.com/james3neal/status/1515816679082762248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8039622,
+			"id_str": "8039622",
+			"name": "James Neal",
+			"screen_name": "james3neal",
+			"location": "DCish ",
+			"description": "MLS @I_UMD | BA @Morehouse | Civil Servant: Urban explorer | Access/Equity - Libraries - Technology (Views are my own)",
+			"url": "https://t.co/3YEF5twK7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3YEF5twK7t",
+							"expanded_url": "http://james3neal.tumblr.com/",
+							"display_url": "james3neal.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10463,
+			"friends_count": 11470,
+			"listed_count": 658,
+			"created_at": "Tue Aug 07 21:57:03 +0000 2007",
+			"favourites_count": 171858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 100367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198225775436189697/tAUZ_6Is_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198225775436189697/tAUZ_6Is_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8039622/1398392088",
+			"profile_link_color": "23B316",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JOB: Codicology Specialist: \"...requires the joint skills of a cataloger and a subject matter expert in rare books, &amp; particularly in incunables---located in Collections Services Division, Global Legal Collection Directorate, Law Library\" @librarycongress  https://t.co/fFKt7924d9 https://t.co/0Hf2qlIIcY"
+	},
+	{
 		"created_at": "Sat Apr 16 01:31:09 +0000 2022",
 		"id": 1515140710047096800,
 		"id_str": "1515140710047096834",
