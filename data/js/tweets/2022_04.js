@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 22:05:22 +0000 2022",
+		"id": 1516538474668695600,
+		"id_str": "1516538474668695581",
+		"full_text": "@sairarias Oof same it’s ridiculous",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sairarias",
+					"name": "Saira (سائرہ) - pronounced \"sigh-ra\"",
+					"id": 18872116,
+					"id_str": "18872116",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1516537305745526800,
+		"in_reply_to_status_id_str": "1516537305745526787",
+		"in_reply_to_user_id": 18872116,
+		"in_reply_to_user_id_str": "18872116",
+		"in_reply_to_screen_name": "sairarias",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10174,
+			"friends_count": 503,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sairarias Oof same it’s ridiculous"
+	},
+	{
+		"created_at": "Tue Apr 19 20:59:02 +0000 2022",
+		"id": 1516521779967238100,
+		"id_str": "1516521779967238151",
+		"full_text": "@mmebibliophile Congrats!!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mmebibliophile",
+					"name": "🌷 Kathryn A. Brunet 🌷",
+					"id": 2553515028,
+					"id_str": "2553515028",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1516516689789132800,
+		"in_reply_to_status_id_str": "1516516689789132801",
+		"in_reply_to_user_id": 2553515028,
+		"in_reply_to_user_id_str": "2553515028",
+		"in_reply_to_screen_name": "mmebibliophile",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10174,
+			"friends_count": 503,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mmebibliophile Congrats!!"
+	},
+	{
+		"created_at": "Tue Apr 19 20:57:43 +0000 2022",
+		"id": 1516521447639994400,
+		"id_str": "1516521447639994373",
+		"full_text": "@leoba It’s such a good movie!!! When Aliens came out I thought it was better, but as a wiser person now, I realize that Alien was the best all along",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leoba",
+					"name": "Dot Porter, MA, MSLS",
+					"id": 16287595,
+					"id_str": "16287595",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1516517299922120700,
+		"in_reply_to_status_id_str": "1516517299922120709",
+		"in_reply_to_user_id": 16287595,
+		"in_reply_to_user_id_str": "16287595",
+		"in_reply_to_screen_name": "leoba",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10174,
+			"friends_count": 503,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@leoba It’s such a good movie!!! When Aliens came out I thought it was better, but as a wiser person now, I realize that Alien was the best all along"
+	},
+	{
+		"created_at": "Tue Apr 19 15:21:31 +0000 2022",
+		"id": 1516385077432918000,
+		"id_str": "1516436841360203779",
+		"full_text": "We are all Hamlet’s ghost, masking, unmasking, and ultimately running around in our night gowns.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1578050036,
+			"id_str": "1578050036",
+			"name": "Mira ‘Assaf Kafantaris",
+			"screen_name": "MiraAssafK",
+			"location": "Columbus and Indianapolis",
+			"description": "Asst Prof of English #ShakeRace | 21-22 @FolgerResearch & @SSEMWomenGender Margaret Hannay Fellow | Arab | Uninvited guest. Imaginary homelands: Lebanon.",
+			"url": "https://t.co/wpoC7RUnBh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wpoC7RUnBh",
+							"expanded_url": "https://linktr.ee/miraassafkafantaris",
+							"display_url": "linktr.ee/miraassafkafan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4194,
+			"friends_count": 2722,
+			"listed_count": 23,
+			"created_at": "Mon Jul 08 16:19:09 +0000 2013",
+			"favourites_count": 121025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512526581528469505/fjbE_J9J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512526581528469505/fjbE_J9J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1578050036/1630192236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 67,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are all Hamlet’s ghost, masking, unmasking, and ultimately running around in our night gowns."
+	},
+	{
+		"created_at": "Tue Apr 19 13:53:30 +0000 2022",
+		"id": 1516358947015327700,
+		"id_str": "1516414689307242498",
+		"full_text": "COMING SOON! A special double issue of Libraries: Culture, History, and Society dedicated to Black women librarians (April 2022, vol. 6, no. 1). There will also be shorter articles at https://t.co/2u0QuNipyI @LibraryRound \n(artwork by Bridgett Kathryn Pride) https://t.co/v1KCdCUqHo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibraryRound",
+					"name": "Library History Round Table (LHRT)",
+					"id": 1093267326621732900,
+					"id_str": "1093267326621732864",
+					"indices": [
+						208,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2u0QuNipyI",
+					"expanded_url": "https://lhrt.news/2019",
+					"display_url": "lhrt.news/2019",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511690574750965800,
+					"id_str": "1511690574750965768",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FPqakYZWYAgLqNE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPqakYZWYAgLqNE.jpg",
+					"url": "https://t.co/v1KCdCUqHo",
+					"display_url": "pic.twitter.com/v1KCdCUqHo",
+					"expanded_url": "https://twitter.com/BakerChair/status/1516358947015327744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511690574750965800,
+					"id_str": "1511690574750965768",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FPqakYZWYAgLqNE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPqakYZWYAgLqNE.jpg",
+					"url": "https://t.co/v1KCdCUqHo",
+					"display_url": "pic.twitter.com/v1KCdCUqHo",
+					"expanded_url": "https://twitter.com/BakerChair/status/1516358947015327744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210273355607289900,
+			"id_str": "1210273355607289856",
+			"name": "Dr. Augusta Baker Endowed Chair at the U of SC",
+			"screen_name": "BakerChair",
+			"location": "Columbia, SC",
+			"description": "The Augusta Baker Chair is a diversity in libraries initiative at the University of South Carolina’s School of Library and Information Science.",
+			"url": "https://t.co/ZUDkjgFqQ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZUDkjgFqQ0",
+							"expanded_url": "https://bit.ly/BakerLectures",
+							"display_url": "bit.ly/BakerLectures",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2394,
+			"friends_count": 982,
+			"listed_count": 42,
+			"created_at": "Thu Dec 26 18:57:44 +0000 2019",
+			"favourites_count": 6878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511463029040427014/IJcTe2I4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511463029040427014/IJcTe2I4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210273355607289856/1577387910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "COMING SOON! A special double issue of Libraries: Culture, History, and Society dedicated to Black women librarians (April 2022, vol. 6, no. 1). There will also be shorter articles at https://t.co/2u0QuNipyI @LibraryRound \n(artwork by Bridgett Kathryn Pride) https://t.co/v1KCdCUqHo"
+	},
+	{
 		"created_at": "Tue Apr 19 01:13:17 +0000 2022",
 		"id": 1516223375135457300,
 		"id_str": "1516223375135457281",
