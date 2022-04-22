@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 20:24:41 +0000 2022",
+		"id": 1517237910755549200,
+		"id_str": "1517237910755549189",
+		"full_text": "A lot of great ideas here! And also, if you do have endow-something money, just give out cash to people, endowments are an ethical nightmare. https://t.co/abwFcCbHth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/abwFcCbHth",
+					"expanded_url": "https://twitter.com/ryancordell/status/1516843097245712386",
+					"display_url": "twitter.com/ryancordell/st…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 503,
+			"listed_count": 388,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516843097245712400,
+		"quoted_status_id_str": "1516843097245712386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/abwFcCbHth",
+			"expanded": "https://twitter.com/ryancordell/status/1516843097245712386",
+			"display": "twitter.com/ryancordell/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 20 18:15:50 +0000 2022",
+			"id": 1516843097245712400,
+			"id_str": "1516843097245712386",
+			"full_text": "If you suddenly had \"endow something\" money, what would you fund?\n\nI wish I could establish a fellowship for grad student parents that, in addition to tuition &amp; stipend, paid for childcare &amp; after school activities—i.e. what we could never afford when we were grad student parents",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20112111,
+				"id_str": "20112111",
+				"name": "Ryan Cordell",
+				"screen_name": "ryancordell",
+				"location": "Champaign, IL",
+				"description": "he/him—textual technologies enthusiast—Researcher @ViralTexts—Associate Professor @iSchoolUI & English @LASIllinois—formerly faculty @english_nu & @NUlabTMN",
+				"url": "https://t.co/eNoiXuvxTo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eNoiXuvxTo",
+								"expanded_url": "http://ryancordell.org",
+								"display_url": "ryancordell.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9574,
+				"friends_count": 1832,
+				"listed_count": 426,
+				"created_at": "Thu Feb 05 01:19:14 +0000 2009",
+				"favourites_count": 4307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35117,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455677053555064836/JI7WHcxr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455677053555064836/JI7WHcxr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20112111/1548903345",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "333333",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lot of great ideas here! And also, if you do have endow-something money, just give out cash to people, endowments are an ethical nightmare. https://t.co/abwFcCbHth"
+	},
+	{
+		"created_at": "Thu Apr 21 20:20:12 +0000 2022",
+		"id": 1517122144034984000,
+		"id_str": "1517236784031277057",
+		"full_text": "Johannes Gutenberg invented graduate student unions",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1488607345848598500,
+			"id_str": "1488607345848598536",
+			"name": "Johannes Gutenbot",
+			"screen_name": "J_Gutenbot",
+			"location": "15th Century Mainz",
+			"description": "A bot falsely attributing inventions to Johannes Gutenberg, the Mainz entrepreneur who innovated on aspects of western printing & typography in the 15th century",
+			"url": "https://t.co/3gqWHQ90xH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3gqWHQ90xH",
+							"expanded_url": "https://twitter.com/IAmDylanLewis",
+							"display_url": "twitter.com/IAmDylanLewis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 158,
+			"listed_count": 2,
+			"created_at": "Tue Feb 01 20:17:10 +0000 2022",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488607534831349763/FUJeFN_p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488607534831349763/FUJeFN_p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1488607345848598536/1643751759",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Johannes Gutenberg invented graduate student unions"
+	},
+	{
+		"created_at": "Thu Apr 21 20:12:46 +0000 2022",
+		"id": 1517139096581251000,
+		"id_str": "1517234912746692620",
+		"full_text": "Native Americans lived on land that’s now national parks long before the U.S. existed. In an episode of #TheExperimentPodcast, Ojibwe historian @DavidTreuer makes a case for giving the parks back. https://t.co/KJIBvmq9wn #NationalParkWeek https://t.co/kZtfE2UrCZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheExperimentPodcast",
+					"indices": [
+						104,
+						125
+					]
+				},
+				{
+					"text": "NationalParkWeek",
+					"indices": [
+						221,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidTreuer",
+					"name": "David Treuer",
+					"id": 2157159216,
+					"id_str": "2157159216",
+					"indices": [
+						144,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KJIBvmq9wn",
+					"expanded_url": "http://on.theatln.tc/RKnTsnz",
+					"display_url": "on.theatln.tc/RKnTsnz",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517139092319862800,
+					"id_str": "1517139092319862785",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3192CVgAEGtOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3192CVgAEGtOJ.jpg",
+					"url": "https://t.co/kZtfE2UrCZ",
+					"display_url": "pic.twitter.com/kZtfE2UrCZ",
+					"expanded_url": "https://twitter.com/TheAtlantic/status/1517139096581251072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517139092319862800,
+					"id_str": "1517139092319862785",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3192CVgAEGtOJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3192CVgAEGtOJ.jpg",
+					"url": "https://t.co/kZtfE2UrCZ",
+					"display_url": "pic.twitter.com/kZtfE2UrCZ",
+					"expanded_url": "https://twitter.com/TheAtlantic/status/1517139096581251072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35773039,
+			"id_str": "35773039",
+			"name": "The Atlantic",
+			"screen_name": "TheAtlantic",
+			"location": "",
+			"description": "Exploring the American idea through ambitious, essential reporting and storytelling. Of no party or clique since 1857. https://t.co/uHeZCz8ahz",
+			"url": "https://t.co/j4JSgDlv80",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j4JSgDlv80",
+							"expanded_url": "http://theatlantic.com/subscribe",
+							"display_url": "theatlantic.com/subscribe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uHeZCz8ahz",
+							"expanded_url": "http://theatlantic.com",
+							"display_url": "theatlantic.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2150995,
+			"friends_count": 1084,
+			"listed_count": 30957,
+			"created_at": "Mon Apr 27 15:41:54 +0000 2009",
+			"favourites_count": 484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 205570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194197788273315845/AA0O_yzc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194197788273315845/AA0O_yzc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35773039/1573659023",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "E6ECF2",
+			"profile_text_color": "000408",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Native Americans lived on land that’s now national parks long before the U.S. existed. In an episode of #TheExperimentPodcast, Ojibwe historian @DavidTreuer makes a case for giving the parks back. https://t.co/KJIBvmq9wn #NationalParkWeek https://t.co/kZtfE2UrCZ"
+	},
+	{
 		"created_at": "Wed Apr 20 20:30:44 +0000 2022",
 		"id": 1516877043459371000,
 		"id_str": "1516877043459371010",
@@ -358,10 +894,10 @@ Grailbird.data.tweets_2022_04 =
 		"user": {
 			"id": 319316747,
 			"id_str": "319316747",
-			"name": "Peyton Thomas 🇺🇦 🏳️‍⚧️",
+			"name": "Peyton Thomas 🇺🇦 🏳️⚧️",
 			"screen_name": "peytonology",
 			"location": "Toronto",
-			"description": "📚 author of BOTH SIDES NOW: https://t.co/TumWNtj2dk | 📰 bylines: @pitchfork @billboard @vanityfair | 👩‍💼 rep: @hillnadell @unitedtalent | 🎨 hed: @reparrishcomics",
+			"description": "📚 author of BOTH SIDES NOW: https://t.co/TumWNtj2dk | 📰 bylines: @pitchfork @billboard @vanityfair | 👩💼 rep: @hillnadell @unitedtalent | 🎨 hed: @reparrishcomics",
 			"url": "https://t.co/ob6oDTto1D",
 			"entities": {
 				"url": {
