@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 23 14:41:43 +0000 2022",
+		"id": 1517744442588991500,
+		"id_str": "1517876377806155780",
+		"full_text": "You can't even parody the \"both sides\" takes anymore. \nOn one hand, Republicans are pulling books out of schools. On the other, librarians said kids might enjoy contemporary titles more than older ones. \nWho is the bad guy here?!?!?!?\nhttps://t.co/liw0iwQwjF https://t.co/gJ2VgHde7j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/liw0iwQwjF",
+					"expanded_url": "https://bariweiss.substack.com/p/tgif-cnn-goes-belly-up-libs-of-tiktok?s=r",
+					"display_url": "bariweiss.substack.com/p/tgif-cnn-goe…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517743472178040800,
+					"id_str": "1517743472178040832",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FRAbpYdXEAAfmA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRAbpYdXEAAfmA7.jpg",
+					"url": "https://t.co/gJ2VgHde7j",
+					"display_url": "pic.twitter.com/gJ2VgHde7j",
+					"expanded_url": "https://twitter.com/RottenInDenmark/status/1517744442588991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1592,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517743472178040800,
+					"id_str": "1517743472178040832",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FRAbpYdXEAAfmA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRAbpYdXEAAfmA7.jpg",
+					"url": "https://t.co/gJ2VgHde7j",
+					"display_url": "pic.twitter.com/gJ2VgHde7j",
+					"expanded_url": "https://twitter.com/RottenInDenmark/status/1517744442588991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1592,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517744267648815000,
+					"id_str": "1517744267648815105",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FRAcXr0X0AEvRJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRAcXr0X0AEvRJx.jpg",
+					"url": "https://t.co/gJ2VgHde7j",
+					"display_url": "pic.twitter.com/gJ2VgHde7j",
+					"expanded_url": "https://twitter.com/RottenInDenmark/status/1517744442588991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1564,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517744315526750200,
+					"id_str": "1517744315526750208",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FRAcaeLXIAAD7gJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRAcaeLXIAAD7gJ.jpg",
+					"url": "https://t.co/gJ2VgHde7j",
+					"display_url": "pic.twitter.com/gJ2VgHde7j",
+					"expanded_url": "https://twitter.com/RottenInDenmark/status/1517744442588991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1588,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 257,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 146,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517744365891903500,
+					"id_str": "1517744365891903488",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FRAcdZzWYAAzQAa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRAcdZzWYAAzQAa.jpg",
+					"url": "https://t.co/gJ2VgHde7j",
+					"display_url": "pic.twitter.com/gJ2VgHde7j",
+					"expanded_url": "https://twitter.com/RottenInDenmark/status/1517744442588991488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 593837736,
+			"id_str": "593837736",
+			"name": "Michael Hobbes",
+			"screen_name": "RottenInDenmark",
+			"location": "",
+			"description": "Currently @MaintenancePod; formerly @YoureWrongAbout, @HuffPost, @Highline. Solitary, poor, nasty, brutish and short.",
+			"url": "https://t.co/K2WMM0QyrD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K2WMM0QyrD",
+							"expanded_url": "http://rottenindenmark.wordpress.com",
+							"display_url": "rottenindenmark.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145140,
+			"friends_count": 4947,
+			"listed_count": 756,
+			"created_at": "Tue May 29 14:33:19 +0000 2012",
+			"favourites_count": 53941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315658422142951424/pUdAj4ZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315658422142951424/pUdAj4ZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/593837736/1496340030",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 262,
+		"favorite_count": 1511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can't even parody the \"both sides\" takes anymore. \nOn one hand, Republicans are pulling books out of schools. On the other, librarians said kids might enjoy contemporary titles more than older ones. \nWho is the bad guy here?!?!?!?\nhttps://t.co/liw0iwQwjF https://t.co/gJ2VgHde7j"
+	},
+	{
 		"created_at": "Sat Apr 23 00:01:38 +0000 2022",
 		"id": 1517654895112990700,
 		"id_str": "1517654895112990721",
@@ -2853,7 +3146,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Rachel Jennings",
 			"screen_name": "rachisaurus",
 			"location": "Margate, England",
-			"description": "Professional animal nerd (Curator of Natural History @PowellCotton).\nWannabe historian of natural science, museums and empire.\nShe/her. 🏳️‍🌈",
+			"description": "Professional animal nerd (Curator of Natural History @PowellCotton).\nWannabe historian of natural science, museums and empire.\nShe/her. 🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
