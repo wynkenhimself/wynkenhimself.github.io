@@ -1,10 +1,268 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 20:28:10 +0000 2022",
+		"id": 1518666218881921000,
+		"id_str": "1518688337216823296",
+		"full_text": "Perhaps — and hear me out here — if you can afford to buy Twitter for $44 billion, you can afford to pay your fair share in taxes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1866938882,
+			"id_str": "1866938882",
+			"name": "Andrea Junker",
+			"screen_name": "Strandjunker",
+			"location": "",
+			"description": "Digital Nomad: Home is the here and now. Addict: Tabasco, dark chocolate, coffee. Activist: Strong and persistent voice against Trumpism.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206012,
+			"friends_count": 125,
+			"listed_count": 750,
+			"created_at": "Sun Sep 15 08:50:57 +0000 2013",
+			"favourites_count": 361550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403611680437899265/cWr8ew7T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403611680437899265/cWr8ew7T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1866938882/1486544800",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4897,
+		"favorite_count": 28256,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Perhaps — and hear me out here — if you can afford to buy Twitter for $44 billion, you can afford to pay your fair share in taxes."
+	},
+	{
+		"created_at": "Mon Apr 25 15:59:45 +0000 2022",
+		"id": 1518374878801539000,
+		"id_str": "1518620790509420545",
+		"full_text": "In the restroom of my parent's synagogue https://t.co/EQ5lKiZolf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518374875781636000,
+					"id_str": "1518374875781636098",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FRJZ56LXoAIGDX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRJZ56LXoAIGDX9.jpg",
+					"url": "https://t.co/EQ5lKiZolf",
+					"display_url": "pic.twitter.com/EQ5lKiZolf",
+					"expanded_url": "https://twitter.com/ETori/status/1518374878801539074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518374875781636000,
+					"id_str": "1518374875781636098",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FRJZ56LXoAIGDX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRJZ56LXoAIGDX9.jpg",
+					"url": "https://t.co/EQ5lKiZolf",
+					"display_url": "pic.twitter.com/EQ5lKiZolf",
+					"expanded_url": "https://twitter.com/ETori/status/1518374878801539074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2497751,
+			"id_str": "2497751",
+			"name": "E. Tori I Love Trans People",
+			"screen_name": "ETori",
+			"location": "Former Jewsier...",
+			"description": "she/her/they - I read everything - I love TRANS people🦕 🔯 for 🇵🇸 Cannot give birth or impregnate anyone - lost at capitalism",
+			"url": "https://t.co/bi4Jx2OMah",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bi4Jx2OMah",
+							"expanded_url": "http://www.egherman.com/let-people-different/",
+							"display_url": "egherman.com/let-people-dif…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 2150,
+			"listed_count": 65,
+			"created_at": "Tue Mar 27 14:22:35 +0000 2007",
+			"favourites_count": 171902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357609952836284416/m14R69N5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357609952836284416/m14R69N5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2497751/1641277059",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4286,
+		"favorite_count": 43116,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the restroom of my parent's synagogue https://t.co/EQ5lKiZolf"
+	},
+	{
 		"created_at": "Sun Apr 24 22:49:30 +0000 2022",
 		"id": 1518361519515480000,
 		"id_str": "1518361519515480064",
-		"full_text": "Weirdly in 1997 I was alive and I had a full-time job as a non-tenure track English professor 🤷‍♀️ The world was inexplicable back then https://t.co/aZtemUJPMR",
+		"full_text": "Weirdly in 1997 I was alive and I had a full-time job as a non-tenure track English professor 🤷♀️ The world was inexplicable back then https://t.co/aZtemUJPMR",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -204,7 +462,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Weirdly in 1997 I was alive and I had a full-time job as a non-tenure track English professor 🤷‍♀️ The world was inexplicable back then https://t.co/aZtemUJPMR"
+		"text": "Weirdly in 1997 I was alive and I had a full-time job as a non-tenure track English professor 🤷♀️ The world was inexplicable back then https://t.co/aZtemUJPMR"
 	},
 	{
 		"created_at": "Sun Apr 24 21:34:56 +0000 2022",
@@ -994,7 +1252,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "melody joy kramer",
 			"screen_name": "mkramer",
 			"location": "Carrboro, NC",
-			"description": "Day: population research stuff. Night: mlis grad student / writer. Formerly: NPR / FreshAir / WaitWait / NatGeo / Wikimedia / https://t.co/bS4bBuTUXy. Mom. Marrow donor. 🏳️‍🌈",
+			"description": "Day: population research stuff. Night: mlis grad student / writer. Formerly: NPR / FreshAir / WaitWait / NatGeo / Wikimedia / https://t.co/bS4bBuTUXy. Mom. Marrow donor. 🏳️🌈",
 			"url": "https://t.co/CAdIw2yCio",
 			"entities": {
 				"url": {
