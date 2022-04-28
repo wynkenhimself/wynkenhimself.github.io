@@ -1,6 +1,1079 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 18:15:47 +0000 2022",
+		"id": 1519379798933520400,
+		"id_str": "1519379798933520386",
+		"full_text": "@Exhaust_Fumes ok that is too cute",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Exhaust_Fumes",
+					"name": "Vim, Ph.D.",
+					"id": 479673005,
+					"id_str": "479673005",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1519379167162290200,
+		"in_reply_to_status_id_str": "1519379167162290189",
+		"in_reply_to_user_id": 479673005,
+		"in_reply_to_user_id_str": "479673005",
+		"in_reply_to_screen_name": "Exhaust_Fumes",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10132,
+			"friends_count": 502,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Exhaust_Fumes ok that is too cute"
+	},
+	{
+		"created_at": "Wed Apr 27 15:21:05 +0000 2022",
+		"id": 1519266371359502300,
+		"id_str": "1519335834473967617",
+		"full_text": "Whatever is happening with and in the various labor movements is the most interesting and consequential story in America right now, certainly more so than who owns The Apps or whatever baked-in outcome you think is inevitable for the midterms. https://t.co/Agr1eZRyd5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Agr1eZRyd5",
+					"expanded_url": "https://twitter.com/greenhousenyt/status/1519042410751447051",
+					"display_url": "twitter.com/greenhousenyt/…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38478122,
+			"id_str": "38478122",
+			"name": "Jacob Bacharach",
+			"screen_name": "jakebackpack",
+			"location": "Extended Greater Appalachia",
+			"description": "Novelist. Critic. Books about crooks.",
+			"url": "https://t.co/YrLLj04mEe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YrLLj04mEe",
+							"expanded_url": "http://jacobbacharach.com",
+							"display_url": "jacobbacharach.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25685,
+			"friends_count": 938,
+			"listed_count": 277,
+			"created_at": "Thu May 07 17:47:47 +0000 2009",
+			"favourites_count": 13967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059914348708184064/7GPY-2Ya_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059914348708184064/7GPY-2Ya_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38478122/1359914091",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519042410751447000,
+		"quoted_status_id_str": "1519042410751447051",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Agr1eZRyd5",
+			"expanded": "https://twitter.com/greenhousenyt/status/1519042410751447051",
+			"display": "twitter.com/greenhousenyt/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 26 19:55:07 +0000 2022",
+			"id": 1519042410751447000,
+			"id_str": "1519042410751447051",
+			"full_text": "Breaking: Undergraduate students at Grinnell College  just won the first wall-to-wall undergraduate union in the United State in a landslide 327 to 6 vote.\n\nThe union will cover every hourly student workplace, in dining halls &amp; elsewhere on campus.\nhttps://t.co/gksSSipdc5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gksSSipdc5",
+						"expanded_url": "https://www.ugsdw.org/2022/04/26/ugsdw-wins-historic-union-election/",
+						"display_url": "ugsdw.org/2022/04/26/ugs…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 268476335,
+				"id_str": "268476335",
+				"name": "Steven Greenhouse",
+				"screen_name": "greenhousenyt",
+				"location": "New York",
+				"description": "Former NYT Labor Reporter—Century Foundation Sr. Fellow—Author of \"BEATEN DOWN, WORKED UP: The Past, Present & Future of American Labor: \"Engrossing..Panoramic\"",
+				"url": "https://t.co/NR9FG4Pu07",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NR9FG4Pu07",
+								"expanded_url": "https://www.penguinrandomhouse.com/books/246798/beaten-down-worked-up-by-steven-greenhouse/",
+								"display_url": "penguinrandomhouse.com/books/246798/b…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62079,
+				"friends_count": 366,
+				"listed_count": 1734,
+				"created_at": "Fri Mar 18 21:19:23 +0000 2011",
+				"favourites_count": 5821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57045,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1126473637857460224/jQsoox-l_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126473637857460224/jQsoox-l_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/268476335/1557407257",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2130,
+			"favorite_count": 10753,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 192,
+		"favorite_count": 1306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whatever is happening with and in the various labor movements is the most interesting and consequential story in America right now, certainly more so than who owns The Apps or whatever baked-in outcome you think is inevitable for the midterms. https://t.co/Agr1eZRyd5"
+	},
+	{
+		"created_at": "Wed Apr 27 13:46:32 +0000 2022",
+		"id": 1519312041219141600,
+		"id_str": "1519312041219141633",
+		"full_text": "@book_historia The lack of zoom access is a constant annoying problem!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "book_historia",
+					"name": "Allie Alvis 🚄",
+					"id": 138620865,
+					"id_str": "138620865",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1519311565698257000,
+		"in_reply_to_status_id_str": "1519311565698256897",
+		"in_reply_to_user_id": 138620865,
+		"in_reply_to_user_id_str": "138620865",
+		"in_reply_to_screen_name": "book_historia",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10132,
+			"friends_count": 502,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@book_historia The lack of zoom access is a constant annoying problem!"
+	},
+	{
+		"created_at": "Wed Apr 27 12:29:29 +0000 2022",
+		"id": 1519291720407691300,
+		"id_str": "1519292651043962881",
+		"full_text": "This morning I'd also recommend this brief essay on how and why special collections libraries, like those at Harvard, have so many papers from slavers and the slave trade, and how and why we steward them\nhttps://t.co/jui59j695c https://t.co/ava6yidoFs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jui59j695c",
+					"expanded_url": "https://curiosity.lib.harvard.edu/slavery-abolition-emancipation-and-freedom/feature/enslaved-lives-in-the-archives",
+					"display_url": "curiosity.lib.harvard.edu/slavery-abolit…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519291472297828400,
+					"id_str": "1519291472297828352",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWbi2SXoAA_sqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWbi2SXoAA_sqj.jpg",
+					"url": "https://t.co/ava6yidoFs",
+					"display_url": "pic.twitter.com/ava6yidoFs",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1519291720407691266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 913,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519291472297828400,
+					"id_str": "1519291472297828352",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWbi2SXoAA_sqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWbi2SXoAA_sqj.jpg",
+					"url": "https://t.co/ava6yidoFs",
+					"display_url": "pic.twitter.com/ava6yidoFs",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1519291720407691266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 913,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941383982238847000,
+			"id_str": "941383982238846976",
+			"name": "Dorothy Berry",
+			"screen_name": "dorothyjberry",
+			"location": "Cambridge, MA",
+			"description": "\"missy-pedia\"\n\"a pocket venus\" \ni put the old pictures in the computers @houghtonlib\nhttps://t.co/rfcnu6Mo42",
+			"url": "https://t.co/ONnlHkVlbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONnlHkVlbw",
+							"expanded_url": "http://www.dorothy-berry.com",
+							"display_url": "dorothy-berry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rfcnu6Mo42",
+							"expanded_url": "http://linktr.ee/dorothyberry",
+							"display_url": "linktr.ee/dorothyberry",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6894,
+			"friends_count": 881,
+			"listed_count": 71,
+			"created_at": "Thu Dec 14 19:06:46 +0000 2017",
+			"favourites_count": 27414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511487288257257476/f5EmsRSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511487288257257476/f5EmsRSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941383982238846976/1649201175",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This morning I'd also recommend this brief essay on how and why special collections libraries, like those at Harvard, have so many papers from slavers and the slave trade, and how and why we steward them\nhttps://t.co/jui59j695c https://t.co/ava6yidoFs"
+	},
+	{
+		"created_at": "Wed Apr 27 12:29:24 +0000 2022",
+		"id": 1519290785350492200,
+		"id_str": "1519292630928171008",
+		"full_text": "This morning I'd like to recommend folks read this fantastic essay about Black and Indigenous relations in the Early Republic by Harvard graduate student Kabl Wilkerson\nhttps://t.co/xMvo3MIYh5 https://t.co/xOrTazQ7d0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xMvo3MIYh5",
+					"expanded_url": "https://curiosity.lib.harvard.edu/slavery-abolition-emancipation-and-freedom/feature/early-republic-1780-1830",
+					"display_url": "curiosity.lib.harvard.edu/slavery-abolit…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519290765687640000,
+					"id_str": "1519290765687640065",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWa5t9X0AEULGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWa5t9X0AEULGc.jpg",
+					"url": "https://t.co/xOrTazQ7d0",
+					"display_url": "pic.twitter.com/xOrTazQ7d0",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1519290785350492160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1894,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 760,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519290765687640000,
+					"id_str": "1519290765687640065",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWa5t9X0AEULGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRWa5t9X0AEULGc.jpg",
+					"url": "https://t.co/xOrTazQ7d0",
+					"display_url": "pic.twitter.com/xOrTazQ7d0",
+					"expanded_url": "https://twitter.com/dorothyjberry/status/1519290785350492160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1894,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 760,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941383982238847000,
+			"id_str": "941383982238846976",
+			"name": "Dorothy Berry",
+			"screen_name": "dorothyjberry",
+			"location": "Cambridge, MA",
+			"description": "\"missy-pedia\"\n\"a pocket venus\" \ni put the old pictures in the computers @houghtonlib\nhttps://t.co/rfcnu6Mo42",
+			"url": "https://t.co/ONnlHkVlbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONnlHkVlbw",
+							"expanded_url": "http://www.dorothy-berry.com",
+							"display_url": "dorothy-berry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rfcnu6Mo42",
+							"expanded_url": "http://linktr.ee/dorothyberry",
+							"display_url": "linktr.ee/dorothyberry",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6894,
+			"friends_count": 881,
+			"listed_count": 71,
+			"created_at": "Thu Dec 14 19:06:46 +0000 2017",
+			"favourites_count": 27414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511487288257257476/f5EmsRSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511487288257257476/f5EmsRSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941383982238846976/1649201175",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This morning I'd like to recommend folks read this fantastic essay about Black and Indigenous relations in the Early Republic by Harvard graduate student Kabl Wilkerson\nhttps://t.co/xMvo3MIYh5 https://t.co/xOrTazQ7d0"
+	},
+	{
+		"created_at": "Wed Apr 27 12:29:10 +0000 2022",
+		"id": 1519091516337270800,
+		"id_str": "1519292571394187264",
+		"full_text": "And we'd love for all of them (including Harvard) to consider using the On These Grounds descriptive framework to publish information about their history: https://t.co/HG2HY5iOL2 \n\ncc @TiyaMilesTAM https://t.co/ATgOH0cQ66",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TiyaMilesTAM",
+					"name": "Tiya Miles",
+					"id": 1436599170,
+					"id_str": "1436599170",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HG2HY5iOL2",
+					"expanded_url": "https://onthesegrounds.org",
+					"display_url": "onthesegrounds.org",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/ATgOH0cQ66",
+					"expanded_url": "https://twitter.com/slaveryuva/status/1519082952822607875",
+					"display_url": "twitter.com/slaveryuva/sta…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9893782,
+			"id_str": "9893782",
+			"name": "Sharon Leon",
+			"screen_name": "sharonmleon",
+			"location": "East Lansing, MI",
+			"description": "Associate Professor of Digital History, Michigan State University | Director of @Omeka | Pirates, Hoyas, running, & pickles. [she/her]",
+			"url": "https://t.co/vUoR2K8cpp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUoR2K8cpp",
+							"expanded_url": "http://6floors.org/bracket/",
+							"display_url": "6floors.org/bracket/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5935,
+			"friends_count": 2276,
+			"listed_count": 308,
+			"created_at": "Fri Nov 02 18:13:54 +0000 2007",
+			"favourites_count": 46604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "344A99",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472018781920763905/bHo4GLiC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472018781920763905/bHo4GLiC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9893782/1511319040",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519082952822608000,
+		"quoted_status_id_str": "1519082952822607875",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ATgOH0cQ66",
+			"expanded": "https://twitter.com/slaveryuva/status/1519082952822607875",
+			"display": "twitter.com/slaveryuva/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 26 22:36:13 +0000 2022",
+			"id": 1519082952822608000,
+			"id_str": "1519082952822607875",
+			"full_text": "With all the attention rightfully on Harvard today &amp; their latest report as well as repair commitment, we want to remind everyone that  quite a few schools are doing this work along with Harvard. Take time to see if your alma mater has joined Universities Studying Slavery!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2978573349,
+				"id_str": "2978573349",
+				"name": "PCSU & PCUAS UVA",
+				"screen_name": "slaveryuva",
+				"location": "University of Virginia",
+				"description": "Commission @uva researching school’s historic entanglement in human bondage& coming to terms w/ university history in age of segregation #slaveryuva",
+				"url": "https://t.co/TKt5a8Aa8Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TKt5a8Aa8Y",
+								"expanded_url": "http://slavery.virginia.edu",
+								"display_url": "slavery.virginia.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3513,
+				"friends_count": 694,
+				"listed_count": 63,
+				"created_at": "Wed Jan 14 19:39:03 +0000 2015",
+				"favourites_count": 3263,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24635,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555450290518769664/P4BG8WGC_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555450290518769664/P4BG8WGC_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2978573349/1421265831",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And we'd love for all of them (including Harvard) to consider using the On These Grounds descriptive framework to publish information about their history: https://t.co/HG2HY5iOL2 \n\ncc @TiyaMilesTAM https://t.co/ATgOH0cQ66"
+	},
+	{
 		"created_at": "Wed Apr 27 01:23:14 +0000 2022",
 		"id": 1519124983595036700,
 		"id_str": "1519124983595036672",
