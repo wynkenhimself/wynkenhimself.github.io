@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 20:55:02 +0000 2022",
+		"id": 1519755822561173500,
+		"id_str": "1519782263998791685",
+		"full_text": "Indiana U Grads are heading toward a third week on the picket lines. Please support their strike fund so they can keep fighting for Union recognition ! https://t.co/QYQPRp60wE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QYQPRp60wE",
+					"expanded_url": "https://www.gofundme.com/f/igwcue-strike-fund-spring-2022",
+					"display_url": "gofundme.com/f/igwcue-strik…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1261415036033081300,
+			"id_str": "1261415036033081345",
+			"name": "Kadin Henningsen",
+			"screen_name": "transbookhistry",
+			"location": "Central Illinois",
+			"description": "PhD Candidate | Trans Book History & 19C Am. Lit. | former sub-sub-librarian | Owner of Meanwhile...Letterpress(@meanwhilelette1) | he/him | Opinions my own.",
+			"url": "https://t.co/jKS7dAtEKE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jKS7dAtEKE",
+							"expanded_url": "https://english.illinois.edu/directory/profile/kjh3",
+							"display_url": "english.illinois.edu/directory/prof…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1208,
+			"friends_count": 1291,
+			"listed_count": 4,
+			"created_at": "Fri May 15 21:56:03 +0000 2020",
+			"favourites_count": 22961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261415036033081345/1636931261",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indiana U Grads are heading toward a third week on the picket lines. Please support their strike fund so they can keep fighting for Union recognition ! https://t.co/QYQPRp60wE"
+	},
+	{
 		"created_at": "Wed Apr 27 18:15:47 +0000 2022",
 		"id": 1519379798933520400,
 		"id_str": "1519379798933520386",
