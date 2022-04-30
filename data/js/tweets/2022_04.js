@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 29 19:19:00 +0000 2022",
+		"id": 1520120481923453000,
+		"id_str": "1520120481923452930",
+		"full_text": "@meganlcook Oh, Larry! I’m sorry 💙",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1520106893900923000,
+		"in_reply_to_status_id_str": "1520106893900922881",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10131,
+			"friends_count": 502,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook Oh, Larry! I’m sorry 💙"
+	},
+	{
+		"created_at": "Fri Apr 29 16:07:08 +0000 2022",
+		"id": 1519744376209121300,
+		"id_str": "1520072197557137408",
+		"full_text": "Reminder about this free panel from @RBMSinfo on reparative description &amp; controlled vocabularies happening tomorrow (Friday) at 2 pm Eastern/11 am Pacific. A great lineup of people &amp; topics! #critcat https://t.co/NtVn8fUl2S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "critcat",
+					"indices": [
+						200,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RBMSinfo",
+					"name": "ACRL Rare Books and Manuscripts Section",
+					"id": 105827527,
+					"id_str": "105827527",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NtVn8fUl2S",
+					"expanded_url": "https://twitter.com/violetbfox/status/1507377295333466136",
+					"display_url": "twitter.com/violetbfox/sta…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 361982257,
+			"id_str": "361982257",
+			"name": "Violet Fox",
+			"screen_name": "violetbfox",
+			"location": "St Cloud, Minnesota, US",
+			"description": "The Frank Grimes of Library Twitter. (she/her) #critcat",
+			"url": "https://t.co/RMeIahU0Zg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RMeIahU0Zg",
+							"expanded_url": "http://violetbfox.info/",
+							"display_url": "violetbfox.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8773,
+			"friends_count": 4101,
+			"listed_count": 192,
+			"created_at": "Thu Aug 25 17:13:49 +0000 2011",
+			"favourites_count": 73776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "020003",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407032786/780cf400b108e49ad7a5ed17dfb3dcf7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407032786/780cf400b108e49ad7a5ed17dfb3dcf7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/361982257/1407558003",
+			"profile_link_color": "694489",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "B9D8D6",
+			"profile_text_color": "4D918A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507377295333466000,
+		"quoted_status_id_str": "1507377295333466136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NtVn8fUl2S",
+			"expanded": "https://twitter.com/violetbfox/status/1507377295333466136",
+			"display": "twitter.com/violetbfox/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 25 15:22:07 +0000 2022",
+			"id": 1507377295333466000,
+			"id_str": "1507377295333466136",
+			"full_text": "April 29: Panel on reparative description and controlled vocabularies from @RBMSinfo with speakers from African American SACO Funnel, Lau Ā Lau Ka ʻIke project, Chicano Thesaurus, &amp; RBMS Controlled Vocabularies Prejudicial Materials Working Group. https://t.co/IaSYI89XNS #critcat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "critcat",
+						"indices": [
+							276,
+							284
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RBMSinfo",
+						"name": "ACRL Rare Books and Manuscripts Section",
+						"id": 105827527,
+						"id_str": "105827527",
+						"indices": [
+							75,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IaSYI89XNS",
+						"expanded_url": "https://ala-events.zoom.us/webinar/register/WN_BNE3ik2jSYCSlYXCdhgI2g",
+						"display_url": "ala-events.zoom.us/webinar/regist…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 361982257,
+				"id_str": "361982257",
+				"name": "Violet Fox",
+				"screen_name": "violetbfox",
+				"location": "St Cloud, Minnesota, US",
+				"description": "The Frank Grimes of Library Twitter. (she/her) #critcat",
+				"url": "https://t.co/RMeIahU0Zg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RMeIahU0Zg",
+								"expanded_url": "http://violetbfox.info/",
+								"display_url": "violetbfox.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8773,
+				"friends_count": 4101,
+				"listed_count": 192,
+				"created_at": "Thu Aug 25 17:13:49 +0000 2011",
+				"favourites_count": 73776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34040,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "020003",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407032786/780cf400b108e49ad7a5ed17dfb3dcf7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407032786/780cf400b108e49ad7a5ed17dfb3dcf7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/361982257/1407558003",
+				"profile_link_color": "694489",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "B9D8D6",
+				"profile_text_color": "4D918A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reminder about this free panel from @RBMSinfo on reparative description &amp; controlled vocabularies happening tomorrow (Friday) at 2 pm Eastern/11 am Pacific. A great lineup of people &amp; topics! #critcat https://t.co/NtVn8fUl2S"
+	},
+	{
 		"created_at": "Thu Apr 28 20:55:02 +0000 2022",
 		"id": 1519755822561173500,
 		"id_str": "1519782263998791685",
