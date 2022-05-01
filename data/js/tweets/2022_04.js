@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 30 17:06:57 +0000 2022",
+		"id": 1520429676077801500,
+		"id_str": "1520449641321541632",
+		"full_text": "Printing peeps: if you ever wanted a newspaper stereotype (a hemispherical metal printing plate), there’s one for sale at a reasonable price on eBay. They’re rare: 99.999% were melted down after use. https://t.co/ii9v66XLF9 https://t.co/hmC9aV0XZD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ii9v66XLF9",
+					"expanded_url": "https://www.ebay.com/itm/134101679835?mkevt=1&mkpid=0&emsid=e11021.m43.l1120&mkcid=7&ch=osgood&euid=c021a96d54fd4d68947377f84778ea70&bu=44488573335&ut=RU&osub=-1%7E1&crd=20220430053921&segname=11021&sojTags=ch%3Dch%2Cbu%3Dbu%2Cut%3Dut%2Cosub%3Dosub%2Ccrd%3Dcrd%2Csegname%3Dsegname%2Cchnl%3Dmkcid",
+					"display_url": "ebay.com/itm/1341016798…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1520429577364942800,
+					"id_str": "1520429577364942848",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FRmmpSDVsAABhBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRmmpSDVsAABhBK.jpg",
+					"url": "https://t.co/hmC9aV0XZD",
+					"display_url": "pic.twitter.com/hmC9aV0XZD",
+					"expanded_url": "https://twitter.com/GlennF/status/1520429676077801477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1520429577364942800,
+					"id_str": "1520429577364942848",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FRmmpSDVsAABhBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRmmpSDVsAABhBK.jpg",
+					"url": "https://t.co/hmC9aV0XZD",
+					"display_url": "pic.twitter.com/hmC9aV0XZD",
+					"expanded_url": "https://twitter.com/GlennF/status/1520429676077801477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8315692,
+			"id_str": "8315692",
+			"name": "Glenn Fleishman",
+			"screen_name": "GlennF",
+			"location": "Seattle, WA",
+			"description": "Type historian, Jeopardy champ, tech journalist. Please leave a message at the tone. Sign up for my low-volume mailing list! https://t.co/3fcFj51IOJ",
+			"url": "https://t.co/lMDLXSdwUp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMDLXSdwUp",
+							"expanded_url": "https://glenn.fun",
+							"display_url": "glenn.fun",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3fcFj51IOJ",
+							"expanded_url": "http://eepurl.com/gGIDRL",
+							"display_url": "eepurl.com/gGIDRL",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28514,
+			"friends_count": 5635,
+			"listed_count": 1589,
+			"created_at": "Mon Aug 20 21:39:39 +0000 2007",
+			"favourites_count": 244497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024087028332290048/AYADWFAS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024087028332290048/AYADWFAS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8315692/1602544248",
+			"profile_link_color": "331333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Printing peeps: if you ever wanted a newspaper stereotype (a hemispherical metal printing plate), there’s one for sale at a reasonable price on eBay. They’re rare: 99.999% were melted down after use. https://t.co/ii9v66XLF9 https://t.co/hmC9aV0XZD"
+	},
+	{
 		"created_at": "Fri Apr 29 19:19:00 +0000 2022",
 		"id": 1520120481923453000,
 		"id_str": "1520120481923452930",
