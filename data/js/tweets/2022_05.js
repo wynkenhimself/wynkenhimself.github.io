@@ -1,6 +1,1177 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 04 01:06:59 +0000 2022",
+		"id": 1521653491537744000,
+		"id_str": "1521657606766530564",
+		"full_text": "Jesus Christ, dude. Lead your party. You will never get to 60. https://t.co/yCk0jJNQi2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yCk0jJNQi2",
+					"expanded_url": "https://twitter.com/JoeBiden/status/1521652328507527168",
+					"display_url": "twitter.com/JoeBiden/statu…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3357176170,
+			"id_str": "3357176170",
+			"name": "Adam Kotsko",
+			"screen_name": "adamkotsko",
+			"location": "Chicago",
+			"description": "Writer, teacher, and translator. Views do not reflect those of my employer. \n\nYes, neoliberalism is a thing.",
+			"url": "https://t.co/UbNjVeE19b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UbNjVeE19b",
+							"expanded_url": "http://adamkotsko.com",
+							"display_url": "adamkotsko.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14296,
+			"friends_count": 1291,
+			"listed_count": 158,
+			"created_at": "Fri Jul 03 17:13:32 +0000 2015",
+			"favourites_count": 30107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461772339289464836/H-Rg558v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461772339289464836/H-Rg558v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3357176170/1619918922",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521652328507527200,
+		"quoted_status_id_str": "1521652328507527168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yCk0jJNQi2",
+			"expanded": "https://twitter.com/JoeBiden/status/1521652328507527168",
+			"display": "twitter.com/JoeBiden/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 04 00:46:00 +0000 2022",
+			"id": 1521652328507527200,
+			"id_str": "1521652328507527168",
+			"full_text": "At the federal level, we will need more pro-choice senators and a pro-choice majority in the House to adopt legislation that codifies Roe, which I will work to pass and sign into law.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 939091,
+				"id_str": "939091",
+				"name": "Joe Biden",
+				"screen_name": "JoeBiden",
+				"location": "Washington, DC",
+				"description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+				"url": "https://t.co/UClrPuJpyZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UClrPuJpyZ",
+								"expanded_url": "http://joebiden.com",
+								"display_url": "joebiden.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33997606,
+				"friends_count": 48,
+				"listed_count": 39001,
+				"created_at": "Sun Mar 11 17:51:24 +0000 2007",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8184,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "565959",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/939091/1626295479",
+				"profile_link_color": "233F94",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEBFF",
+				"profile_text_color": "323232",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3086,
+			"favorite_count": 19012,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jesus Christ, dude. Lead your party. You will never get to 60. https://t.co/yCk0jJNQi2"
+	},
+	{
+		"created_at": "Tue May 03 21:03:41 +0000 2022",
+		"id": 1521585404142669800,
+		"id_str": "1521596380602683392",
+		"full_text": "Please don’t hoard these though! Buy and distribute in an organized way, buy what you need, or if you don’t need them donate that money to a fund that helps people access them instead https://t.co/hupiMprzF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hupiMprzF1",
+					"expanded_url": "https://twitter.com/pwongview/status/1521580084762533888",
+					"display_url": "twitter.com/pwongview/stat…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14714760,
+			"id_str": "14714760",
+			"name": "Jess Zimmerman",
+			"screen_name": "j_zimms",
+			"location": "Brooklyn",
+			"description": "Editor, writer, sad old goth. jzimmerman @quirkbooks dot com. Submission wishlist: https://t.co/unhckJj90d Women and Other Monsters: https://t.co/Ot2ZCyjjMH",
+			"url": "https://t.co/O8mpth57nq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O8mpth57nq",
+							"expanded_url": "http://jesszimmerman.com",
+							"display_url": "jesszimmerman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/unhckJj90d",
+							"expanded_url": "http://bit.ly/3Bd1Fbw",
+							"display_url": "bit.ly/3Bd1Fbw",
+							"indices": [
+								83,
+								106
+							]
+						},
+						{
+							"url": "https://t.co/Ot2ZCyjjMH",
+							"expanded_url": "http://bit.ly/3BgxyQo",
+							"display_url": "bit.ly/3BgxyQo",
+							"indices": [
+								133,
+								156
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23791,
+			"friends_count": 1094,
+			"listed_count": 421,
+			"created_at": "Fri May 09 15:46:14 +0000 2008",
+			"favourites_count": 59865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478433022663921664/MjbF2qCR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478433022663921664/MjbF2qCR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14714760/1626443485",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "030303",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521580084762534000,
+		"quoted_status_id_str": "1521580084762533888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hupiMprzF1",
+			"expanded": "https://twitter.com/pwongview/status/1521580084762533888",
+			"display": "twitter.com/pwongview/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 03 19:58:56 +0000 2022",
+			"id": 1521580084762534000,
+			"id_str": "1521580084762533888",
+			"full_text": "You Can Now Order Abortion Pills Before You're Pregnant in All 50 States https://t.co/A42cUh9TTO @charliejane @Annaleen @larrybobsf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "charliejane",
+						"name": "Dreams Bigger Than Heartbreak is OUT NOW!!! 🌟🌟🌟",
+						"id": 16356796,
+						"id_str": "16356796",
+						"indices": [
+							97,
+							109
+						]
+					},
+					{
+						"screen_name": "Annaleen",
+						"name": "Annalee Newitz",
+						"id": 756475,
+						"id_str": "756475",
+						"indices": [
+							110,
+							119
+						]
+					},
+					{
+						"screen_name": "larrybobsf",
+						"name": "Larry-bob",
+						"id": 40138506,
+						"id_str": "40138506",
+						"indices": [
+							120,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A42cUh9TTO",
+						"expanded_url": "https://jezebel.com/you-can-now-order-abortion-pills-before-youre-pregnant-1847910143?utm_medium=sharefromsite&utm_source=_twitter",
+						"display_url": "jezebel.com/you-can-now-or…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 131891642,
+				"id_str": "131891642",
+				"name": "Peter Wong",
+				"screen_name": "pwongview",
+				"location": "San Francisco",
+				"description": "San Francisco native, Beyond Chron film reviewer, and itinerant political activist.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 494,
+				"friends_count": 488,
+				"listed_count": 32,
+				"created_at": "Sun Apr 11 17:18:10 +0000 2010",
+				"favourites_count": 933,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796033200850014208/ESFBG177_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796033200850014208/ESFBG177_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please don’t hoard these though! Buy and distribute in an organized way, buy what you need, or if you don’t need them donate that money to a fund that helps people access them instead https://t.co/hupiMprzF1"
+	},
+	{
+		"created_at": "Tue May 03 19:52:43 +0000 2022",
+		"id": 1521571036550082600,
+		"id_str": "1521578521713328128",
+		"full_text": "That’s our Speaker! We must elect a strong pro-choice MD Senate majority to pass this critical bill that has already passed the House! https://t.co/aYWO7qflfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aYWO7qflfS",
+					"expanded_url": "https://twitter.com/speakerajones/status/1521522564115230725",
+					"display_url": "twitter.com/speakerajones/…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144987804,
+			"id_str": "144987804",
+			"name": "Ariana Kelly",
+			"screen_name": "DelArianaKelly",
+			"location": "Bethesda, MD",
+			"description": "State Delegate representing Maryland's District 16 | By Authority: Friends of Ariana Kelly. Rosalyn Levy Jonas, Chair. Jennifer R. Kefer, Treasurer.",
+			"url": "https://t.co/d2tVhd5gX5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d2tVhd5gX5",
+							"expanded_url": "http://delegatearianakelly.com",
+							"display_url": "delegatearianakelly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4378,
+			"friends_count": 2227,
+			"listed_count": 142,
+			"created_at": "Mon May 17 21:08:41 +0000 2010",
+			"favourites_count": 2421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144987804/1508791972",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521522564115230700,
+		"quoted_status_id_str": "1521522564115230725",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aYWO7qflfS",
+			"expanded": "https://twitter.com/speakerajones/status/1521522564115230725",
+			"display": "twitter.com/speakerajones/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 03 16:10:22 +0000 2022",
+			"id": 1521522564115230700,
+			"id_str": "1521522564115230725",
+			"full_text": "Without federal protection of abortion rights, it’s up to each state to preserve the gains we’ve made toward equality for every American. Here in Maryland, I’ll continue to sponsor the Constitutional Amendment to protect a woman’s right to reproductive liberty until it passes.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1521522561946833000,
+			"in_reply_to_status_id_str": "1521522561946832897",
+			"in_reply_to_user_id": 2339213606,
+			"in_reply_to_user_id_str": "2339213606",
+			"in_reply_to_screen_name": "SpeakerAJones",
+			"user": {
+				"id": 2339213606,
+				"id_str": "2339213606",
+				"name": "Speaker Adrienne A. Jones",
+				"screen_name": "SpeakerAJones",
+				"location": "Maryland",
+				"description": "Speaker of the Maryland House of Delegates, 10th. District Baltimore County. By Authority: Citizens for Adrienne Jones; Arnold Jablon, Treasurer.",
+				"url": "https://t.co/vbVqX2Snas",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vbVqX2Snas",
+								"expanded_url": "http://www.delegateadriennejones.com",
+								"display_url": "delegateadriennejones.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6660,
+				"friends_count": 259,
+				"listed_count": 101,
+				"created_at": "Tue Feb 11 21:37:31 +0000 2014",
+				"favourites_count": 336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 623,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877236953418215424/KTJ4az7C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877236953418215424/KTJ4az7C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2339213606/1564063316",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s our Speaker! We must elect a strong pro-choice MD Senate majority to pass this critical bill that has already passed the House! https://t.co/aYWO7qflfS"
+	},
+	{
+		"created_at": "Tue May 03 19:51:44 +0000 2022",
+		"id": 1521578274849177600,
+		"id_str": "1521578274849177602",
+		"full_text": "Always nice to have less bodily autonomy than a corpse just because you have a uterus https://t.co/rpRFgJoyrk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rpRFgJoyrk",
+					"expanded_url": "https://twitter.com/mrianleslie/status/1521424710973771776",
+					"display_url": "twitter.com/mrianleslie/st…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10123,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521424710973771800,
+		"quoted_status_id_str": "1521424710973771776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rpRFgJoyrk",
+			"expanded": "https://twitter.com/mrianleslie/status/1521424710973771776",
+			"display": "twitter.com/mrianleslie/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 03 09:41:32 +0000 2022",
+			"id": 1521424710973771800,
+			"id_str": "1521424710973771776",
+			"full_text": "What a passage this is. Sally Rooney on the Irish abortion ban, 2018. https://t.co/EWQ52KHCAF https://t.co/dXofz2ZjfX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EWQ52KHCAF",
+						"expanded_url": "https://www.lrb.co.uk/the-paper/v40/n10/sally-rooney/an-irish-problem",
+						"display_url": "lrb.co.uk/the-paper/v40/…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1521424659312525300,
+						"id_str": "1521424659312525312",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/FR0vqrLXwAAQEWv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FR0vqrLXwAAQEWv.jpg",
+						"url": "https://t.co/dXofz2ZjfX",
+						"display_url": "pic.twitter.com/dXofz2ZjfX",
+						"expanded_url": "https://twitter.com/mrianleslie/status/1521424710973771776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1812,
+								"h": 888,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 588,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1521424659312525300,
+						"id_str": "1521424659312525312",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/FR0vqrLXwAAQEWv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FR0vqrLXwAAQEWv.jpg",
+						"url": "https://t.co/dXofz2ZjfX",
+						"display_url": "pic.twitter.com/dXofz2ZjfX",
+						"expanded_url": "https://twitter.com/mrianleslie/status/1521424710973771776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1812,
+								"h": 888,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 588,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5105001,
+				"id_str": "5105001",
+				"name": "Ian Leslie",
+				"screen_name": "mrianleslie",
+				"location": "London",
+				"description": "Author of CONFLICTED - @FaberBooks @HarperCollins. Read about it here: https://t.co/AhD5gEAk4F Sign up to The Ruffian: https://t.co/L2ooKw9nuH",
+				"url": "https://t.co/4p3Jkt7awo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4p3Jkt7awo",
+								"expanded_url": "https://ian-leslie.com/",
+								"display_url": "ian-leslie.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AhD5gEAk4F",
+								"expanded_url": "http://ian-leslie.com/conflicted/",
+								"display_url": "ian-leslie.com/conflicted/",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/L2ooKw9nuH",
+								"expanded_url": "http://ianleslie.substack.com",
+								"display_url": "ianleslie.substack.com",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22319,
+				"friends_count": 719,
+				"listed_count": 464,
+				"created_at": "Wed Apr 18 10:49:54 +0000 2007",
+				"favourites_count": 8081,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 81565,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043167936758902786/qxfErdNJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043167936758902786/qxfErdNJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5105001/1606658814",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 449,
+			"favorite_count": 1313,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Always nice to have less bodily autonomy than a corpse just because you have a uterus https://t.co/rpRFgJoyrk"
+	},
+	{
+		"created_at": "Tue May 03 19:39:17 +0000 2022",
+		"id": 1521560204646752300,
+		"id_str": "1521575139237937153",
+		"full_text": "Like everyone else, I am drained of hope and full of fear and anger. I have no knowledge or optimism to offer. But I have a lot of books, which are at least a break from doomscrolling. #DailyPaperback shall recommence as of today. https://t.co/CgMhoEfQdr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DailyPaperback",
+					"indices": [
+						185,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521560096635039700,
+					"id_str": "1521560096635039744",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FR2q2KhXMAArSii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR2q2KhXMAArSii.jpg",
+					"url": "https://t.co/CgMhoEfQdr",
+					"display_url": "pic.twitter.com/CgMhoEfQdr",
+					"expanded_url": "https://twitter.com/arkhamlibrarian/status/1521560204646752257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521560096635039700,
+					"id_str": "1521560096635039744",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FR2q2KhXMAArSii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR2q2KhXMAArSii.jpg",
+					"url": "https://t.co/CgMhoEfQdr",
+					"display_url": "pic.twitter.com/CgMhoEfQdr",
+					"expanded_url": "https://twitter.com/arkhamlibrarian/status/1521560204646752257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2820003021,
+			"id_str": "2820003021",
+			"name": "Rebecca Baumann",
+			"screen_name": "arkhamlibrarian",
+			"location": "Bloomington, IN",
+			"description": "rare book librarian, book junkie, devotee of the weird, angry queer, friend to all monsters. nonbinary. she/they",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11887,
+			"friends_count": 6290,
+			"listed_count": 139,
+			"created_at": "Thu Oct 09 17:22:55 +0000 2014",
+			"favourites_count": 109971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478418342713171974/jxkcZCM0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478418342713171974/jxkcZCM0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2820003021/1515621838",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 104,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like everyone else, I am drained of hope and full of fear and anger. I have no knowledge or optimism to offer. But I have a lot of books, which are at least a break from doomscrolling. #DailyPaperback shall recommence as of today. https://t.co/CgMhoEfQdr"
+	},
+	{
 		"created_at": "Mon May 02 20:57:26 +0000 2022",
 		"id": 1521082718829875200,
 		"id_str": "1521232419575283712",
