@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 04 22:17:50 +0000 2022",
+		"id": 1521954213923856400,
+		"id_str": "1521977429136400390",
+		"full_text": "It is unconscionable that Gov Hogan will not help women who will be suffering as a result of the extremist (draft) decision by the Supreme Court. Women are under attack and he’s choosing to stand in the way. I really hope he changes his mind.  https://t.co/RoQ5HzCVTv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RoQ5HzCVTv",
+					"expanded_url": "https://www.washingtonpost.com/dc-md-va/2022/05/04/maryland-abortion-funding-governor-hogan/?fbclid=IwAR00YfZY98wHLy6fe6vGdlo-UFT7iZJTxeawRwiZl4AjhRN8pDwpzfD7GNM",
+					"display_url": "washingtonpost.com/dc-md-va/2022/…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144987804,
+			"id_str": "144987804",
+			"name": "Ariana Kelly",
+			"screen_name": "DelArianaKelly",
+			"location": "Bethesda, MD",
+			"description": "State Delegate representing Maryland's District 16 | By Authority: Friends of Ariana Kelly. Rosalyn Levy Jonas, Chair. Jennifer R. Kefer, Treasurer.",
+			"url": "https://t.co/d2tVhd5gX5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d2tVhd5gX5",
+							"expanded_url": "http://delegatearianakelly.com",
+							"display_url": "delegatearianakelly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4385,
+			"friends_count": 2227,
+			"listed_count": 142,
+			"created_at": "Mon May 17 21:08:41 +0000 2010",
+			"favourites_count": 2426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144987804/1508791972",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is unconscionable that Gov Hogan will not help women who will be suffering as a result of the extremist (draft) decision by the Supreme Court. Women are under attack and he’s choosing to stand in the way. I really hope he changes his mind.  https://t.co/RoQ5HzCVTv"
+	},
+	{
+		"created_at": "Wed May 04 19:15:29 +0000 2022",
+		"id": 1521848923396128800,
+		"id_str": "1521931537658351617",
+		"full_text": "I taught a class on reproductive bodies at Princeton this semester, a course that explored ideas about conception and attempts to regulate who could provide care during labor from antiquity to the Enlightenment. \n\nA thread on historical precedents and legal opinions: 1/16",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29909215,
+			"id_str": "29909215",
+			"name": "Melissa Reynolds",
+			"screen_name": "melkatrey",
+			"location": "Princeton, NJ",
+			"description": "Postdoc @Princeton Society of Fellows | Writing a book about reading natural knowledge in 15th & 16th c England for @UChicagoPress | Social media @historecipes",
+			"url": "https://t.co/VtvtgtIbIO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtvtgtIbIO",
+							"expanded_url": "https://melissabreynolds.com",
+							"display_url": "melissabreynolds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 540,
+			"listed_count": 11,
+			"created_at": "Thu Apr 09 03:26:43 +0000 2009",
+			"favourites_count": 3570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368775892294598657/dyFjDQEL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368775892294598657/dyFjDQEL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29909215/1605486258",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 303,
+		"favorite_count": 766,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I taught a class on reproductive bodies at Princeton this semester, a course that explored ideas about conception and attempts to regulate who could provide care during labor from antiquity to the Enlightenment. \n\nA thread on historical precedents and legal opinions: 1/16"
+	},
+	{
 		"created_at": "Wed May 04 01:06:59 +0000 2022",
 		"id": 1521653491537744000,
 		"id_str": "1521657606766530564",
