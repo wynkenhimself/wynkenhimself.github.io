@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 15:42:27 +0000 2022",
+		"id": 1522965089363636200,
+		"id_str": "1522965089363636224",
+		"full_text": "@OldFortunatus @CamUniLibrarian @richove @bodleianlibs @liamsims @theUL @AdamSmy36314691 @aarontpratt @wolfrestonward aww, thanks, Emma! Very much looking forward to reading this—many congrats!",
+		"truncated": false,
+		"display_text_range": [
+			118,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OldFortunatus",
+					"name": "Emma Smith",
+					"id": 1317396248,
+					"id_str": "1317396248",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CamUniLibrarian",
+					"name": "Jessica Gardner",
+					"id": 926174606553174000,
+					"id_str": "926174606553174016",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "richove",
+					"name": "Richard Ovenden",
+					"id": 14923196,
+					"id_str": "14923196",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"screen_name": "bodleianlibs",
+					"name": "Bodleian Libraries",
+					"id": 135441822,
+					"id_str": "135441822",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "liamsims",
+					"name": "Liam Sims 🇺🇦",
+					"id": 543676361,
+					"id_str": "543676361",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"screen_name": "theUL",
+					"name": "Cambridge University Library",
+					"id": 23050147,
+					"id_str": "23050147",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"screen_name": "AdamSmy36314691",
+					"name": "Adam Smyth",
+					"id": 1278711126847623200,
+					"id_str": "1278711126847623175",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "aarontpratt",
+					"name": "Aaron T. Pratt",
+					"id": 65746809,
+					"id_str": "65746809",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"screen_name": "wolfrestonward",
+					"name": "Sarah Lindenbaum",
+					"id": 868817749,
+					"id_str": "868817749",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1522964288259989500,
+		"in_reply_to_status_id_str": "1522964288259989505",
+		"in_reply_to_user_id": 1317396248,
+		"in_reply_to_user_id_str": "1317396248",
+		"in_reply_to_screen_name": "OldFortunatus",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10116,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OldFortunatus @CamUniLibrarian @richove @bodleianlibs @liamsims @theUL @AdamSmy36314691 @aarontpratt @wolfrestonward aww, thanks, Emma! Very much looking forward to reading this—many congrats!"
+	},
+	{
 		"created_at": "Fri May 06 21:49:25 +0000 2022",
 		"id": 1522695051603755000,
 		"id_str": "1522695051603755009",
@@ -1043,7 +1240,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "CristinaLAlfar",
-					"name": "Cristina León Alfar 🐈‍⬛😷📚🎭 👠💃🐈#BLM",
+					"name": "Cristina León Alfar 🐈⬛😷📚🎭 👠💃🐈#BLM",
 					"id": 822519986698612700,
 					"id_str": "822519986698612737",
 					"indices": [
