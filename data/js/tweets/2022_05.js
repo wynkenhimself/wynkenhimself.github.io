@@ -1,6 +1,1500 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 08 23:38:14 +0000 2022",
+		"id": 1523447212977832000,
+		"id_str": "1523447212977831936",
+		"full_text": "@ehh_ptr I love her.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehh_ptr",
+					"name": "Dr. Elizabeth Haven Hawley",
+					"id": 541258943,
+					"id_str": "541258943",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1523429787749953500,
+		"in_reply_to_status_id_str": "1523429787749953536",
+		"in_reply_to_user_id": 541258943,
+		"in_reply_to_user_id_str": "541258943",
+		"in_reply_to_screen_name": "ehh_ptr",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10119,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ehh_ptr I love her."
+	},
+	{
+		"created_at": "Sun May 08 23:36:47 +0000 2022",
+		"id": 1523382471521636400,
+		"id_str": "1523446849373609985",
+		"full_text": "Annual shout out to my mom, who said she wanted a small filing cabinet for mother's day when working on her dissertation. My dad got her a microwave. For two weeks she left several manila folders in it and wouldn't let anyone use it -- until my dad procured a filing cabinet.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 541258943,
+			"id_str": "541258943",
+			"name": "Dr. Elizabeth Haven Hawley",
+			"screen_name": "ehh_ptr",
+			"location": "Gainesville, FL",
+			"description": "Special collections, public historian, historian of technology and science, printer, she/her (opinions my own)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 1349,
+			"listed_count": 22,
+			"created_at": "Sat Mar 31 01:17:38 +0000 2012",
+			"favourites_count": 27253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2151499192/10-Removing_paper_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2151499192/10-Removing_paper_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6287,
+		"favorite_count": 99743,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Annual shout out to my mom, who said she wanted a small filing cabinet for mother's day when working on her dissertation. My dad got her a microwave. For two weeks she left several manila folders in it and wouldn't let anyone use it -- until my dad procured a filing cabinet."
+	},
+	{
+		"created_at": "Sun May 08 23:33:41 +0000 2022",
+		"id": 1523444589415198700,
+		"id_str": "1523446069429895168",
+		"full_text": "\"Mendoza is one of the 10 million Americans currently at risk of eviction. More often than not, they are mothers. Having children is the single greatest predictor of whether someone will face eviction.\" https://t.co/xQ0b9lETyv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xQ0b9lETyv",
+					"expanded_url": "https://twitter.com/newrepublic/status/1523441871321964545?s=20&t=bz6-KAjfEnw9j8h0bS3eDg",
+					"display_url": "twitter.com/newrepublic/st…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 220706863,
+			"id_str": "220706863",
+			"name": "Lydia Kiesling",
+			"screen_name": "lydiakiesling",
+			"location": "PDX",
+			"description": "Author of THE GOLDEN STATE, a novel. Writing in NYT, The Cut, & elsewhere. (Photo by @BeowulfSheehan) https://t.co/5U1pzmJi4g",
+			"url": "https://t.co/8GZu3pIr6j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8GZu3pIr6j",
+							"expanded_url": "http://www.lydiakiesling.com",
+							"display_url": "lydiakiesling.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5U1pzmJi4g",
+							"expanded_url": "http://bit.ly/3cIA0Df",
+							"display_url": "bit.ly/3cIA0Df",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12261,
+			"friends_count": 9311,
+			"listed_count": 160,
+			"created_at": "Sun Nov 28 16:12:43 +0000 2010",
+			"favourites_count": 66563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068215033228709888/hGhoBm31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068215033228709888/hGhoBm31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220706863/1611866916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523441871321964500,
+		"quoted_status_id_str": "1523441871321964545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xQ0b9lETyv",
+			"expanded": "https://twitter.com/newrepublic/status/1523441871321964545?s=20&t=bz6-KAjfEnw9j8h0bS3eDg",
+			"display": "twitter.com/newrepublic/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 08 23:17:00 +0000 2022",
+			"id": 1523441871321964500,
+			"id_str": "1523441871321964545",
+			"full_text": "Mothers are being evicted far more frequently than other Americans. @brycecovert on the hidden story of America's looming housing crisis: https://t.co/laCJdpYRpY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brycecovert",
+						"name": "Bryce Covert",
+						"id": 42809339,
+						"id_str": "42809339",
+						"indices": [
+							68,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/laCJdpYRpY",
+						"expanded_url": "https://newrepublic.com/article/161578/landlords-target-mothers-eviction-crisis-covid?utm_medium=Social&utm_campaign=EB_TNR&utm_source=Twitter#Echobox=1652051817",
+						"display_url": "newrepublic.com/article/161578…",
+						"indices": [
+							138,
+							161
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82689705,
+				"id_str": "82689705",
+				"name": "The New Republic",
+				"screen_name": "newrepublic",
+				"location": "New York, NY",
+				"description": "Founded in 1914, The New Republic is a magazine of interpretation and opinion for a rapidly changing world.",
+				"url": "https://t.co/1VSod7ItKv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1VSod7ItKv",
+								"expanded_url": "http://tnr.com/newsletter",
+								"display_url": "tnr.com/newsletter",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 178673,
+				"friends_count": 1630,
+				"listed_count": 5733,
+				"created_at": "Thu Oct 15 19:15:18 +0000 2009",
+				"favourites_count": 1653,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 162930,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0E0E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230590491965652997/V_c9TZOr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230590491965652997/V_c9TZOr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82689705/1582234641",
+				"profile_link_color": "209DA9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "ABA1A1",
+				"profile_text_color": "0A0A0A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Mendoza is one of the 10 million Americans currently at risk of eviction. More often than not, they are mothers. Having children is the single greatest predictor of whether someone will face eviction.\" https://t.co/xQ0b9lETyv"
+	},
+	{
+		"created_at": "Sun May 08 23:33:09 +0000 2022",
+		"id": 1523445933421174800,
+		"id_str": "1523445933421174784",
+		"full_text": "Anyway Mother’s Day is a good day to celebrate both abortion and the full glory that can be raising children, especially children who are queer or trans or strident individuals who are who they are even in the face of a sometimes cruel world",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10119,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Anyway Mother’s Day is a good day to celebrate both abortion and the full glory that can be raising children, especially children who are queer or trans or strident individuals who are who they are even in the face of a sometimes cruel world"
+	},
+	{
+		"created_at": "Sun May 08 23:30:10 +0000 2022",
+		"id": 1523445183945506800,
+		"id_str": "1523445183945506816",
+		"full_text": "Sometimes DC is awesome, even Chevy Chase https://t.co/dnietwKq4W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnietwKq4W",
+					"expanded_url": "https://twitter.com/chadloder/status/1523346208164483072",
+					"display_url": "twitter.com/chadloder/stat…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10119,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523346208164483000,
+		"quoted_status_id_str": "1523346208164483072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dnietwKq4W",
+			"expanded": "https://twitter.com/chadloder/status/1523346208164483072",
+			"display": "twitter.com/chadloder/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 08 16:56:53 +0000 2022",
+			"id": 1523346208164483000,
+			"id_str": "1523346208164483072",
+			"full_text": "People are protesting outside Justice Kavanaugh's house. Someone said \"But think of his neighbors\" and Kavanaugh's neighbor replied \"We ARE his neighbors. We organized the protest\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98575337,
+				"id_str": "98575337",
+				"name": "Chad Loder",
+				"screen_name": "chadloder",
+				"location": "Los Angeles 🌴",
+				"description": "This account is being archived. Writing about extremism, privacy, OSINT, and antifascism. (they/them)",
+				"url": "https://t.co/dPkeF2DNJB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dPkeF2DNJB",
+								"expanded_url": "https://newsletter.extremism.io/",
+								"display_url": "newsletter.extremism.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117393,
+				"friends_count": 5474,
+				"listed_count": 926,
+				"created_at": "Tue Dec 22 07:11:56 +0000 2009",
+				"favourites_count": 140688,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76547,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1518675528072318976/DoryveDH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518675528072318976/DoryveDH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98575337/1648188734",
+				"profile_link_color": "F0CBCA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33745,
+			"favorite_count": 254083,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes DC is awesome, even Chevy Chase https://t.co/dnietwKq4W"
+	},
+	{
+		"created_at": "Sun May 08 23:29:40 +0000 2022",
+		"id": 1523346208164483000,
+		"id_str": "1523445058569007104",
+		"full_text": "People are protesting outside Justice Kavanaugh's house. Someone said \"But think of his neighbors\" and Kavanaugh's neighbor replied \"We ARE his neighbors. We organized the protest\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98575337,
+			"id_str": "98575337",
+			"name": "Chad Loder",
+			"screen_name": "chadloder",
+			"location": "Los Angeles 🌴",
+			"description": "This account is being archived. Writing about extremism, privacy, OSINT, and antifascism. (they/them)",
+			"url": "https://t.co/dPkeF2DNJB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dPkeF2DNJB",
+							"expanded_url": "https://newsletter.extremism.io/",
+							"display_url": "newsletter.extremism.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117393,
+			"friends_count": 5474,
+			"listed_count": 926,
+			"created_at": "Tue Dec 22 07:11:56 +0000 2009",
+			"favourites_count": 140688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518675528072318976/DoryveDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518675528072318976/DoryveDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98575337/1648188734",
+			"profile_link_color": "F0CBCA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33745,
+		"favorite_count": 254083,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "People are protesting outside Justice Kavanaugh's house. Someone said \"But think of his neighbors\" and Kavanaugh's neighbor replied \"We ARE his neighbors. We organized the protest\""
+	},
+	{
+		"created_at": "Sun May 08 18:35:07 +0000 2022",
+		"id": 1523354820156870700,
+		"id_str": "1523370931837579266",
+		"full_text": "No marches, no speeches, no international outrage, no direct actions, no news coverage, just the raw violence of the anti-trans state and those that co-sign in joyous celebration or booming silence. \n\n💜 to the young people trying to find ways to survive it all. https://t.co/LEW4OvGIph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LEW4OvGIph",
+					"expanded_url": "https://twitter.com/esqueer_/status/1523165967630716935",
+					"display_url": "twitter.com/esqueer_/statu…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936145242,
+			"id_str": "936145242",
+			"name": "Eric Stanley",
+			"screen_name": "Eric_A_Stanley",
+			"location": "San Francisco, CA/ Ohlone land",
+			"description": "Atmospheres of Violence @DukePress, Trap Door @MITpress, Captive Genders @AKPressDistro",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6726,
+			"friends_count": 509,
+			"listed_count": 40,
+			"created_at": "Fri Nov 09 05:11:33 +0000 2012",
+			"favourites_count": 9097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8FE63E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387241569774817288/2jZw8p-N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387241569774817288/2jZw8p-N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936145242/1433286762",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523165967630717000,
+		"quoted_status_id_str": "1523165967630716935",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LEW4OvGIph",
+			"expanded": "https://twitter.com/esqueer_/status/1523165967630716935",
+			"display": "twitter.com/esqueer_/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 08 05:00:40 +0000 2022",
+			"id": 1523165967630717000,
+			"id_str": "1523165967630716935",
+			"full_text": "The Federal Court in Alabama has failed to act and has allowed a FELONY ban on lifesaving gender affirming care for minors to go into effect tonight at midnight. For the first time in US history, gender affirming care has been criminalized w/ punishments up to 10 years in prison.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 409389074,
+				"id_str": "409389074",
+				"name": "Alejandra Caraballo 🏳️‍⚧️🇵🇷",
+				"screen_name": "Esqueer_",
+				"location": "Cambridge, MA",
+				"description": "Wise Latina. Clinical Instructor, Harvard Law @Cyberlawclinic. Gender & Tech. Host: #QueeringTheLaw. Bylines @slate, @teenvogue, @wired. Views=my own. (she/her)",
+				"url": "https://t.co/GygTwO1PZL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GygTwO1PZL",
+								"expanded_url": "https://www.buzzsprout.com/1949544",
+								"display_url": "buzzsprout.com/1949544",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18098,
+				"friends_count": 1000,
+				"listed_count": 103,
+				"created_at": "Thu Nov 10 17:29:14 +0000 2011",
+				"favourites_count": 20518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10851,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451706477929017344/j1GjLTdX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451706477929017344/j1GjLTdX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/409389074/1617157905",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10886,
+			"favorite_count": 27685,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 158,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No marches, no speeches, no international outrage, no direct actions, no news coverage, just the raw violence of the anti-trans state and those that co-sign in joyous celebration or booming silence. \n\n💜 to the young people trying to find ways to survive it all. https://t.co/LEW4OvGIph"
+	},
+	{
+		"created_at": "Sun May 08 17:52:43 +0000 2022",
+		"id": 1523360259003367400,
+		"id_str": "1523360259003367425",
+		"full_text": "🎉🎉 https://t.co/cUWoCVV8d3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cUWoCVV8d3",
+					"expanded_url": "https://twitter.com/bbcdoctorwho/status/1523331030874267649",
+					"display_url": "twitter.com/bbcdoctorwho/s…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10119,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523331030874267600,
+		"quoted_status_id_str": "1523331030874267649",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cUWoCVV8d3",
+			"expanded": "https://twitter.com/bbcdoctorwho/status/1523331030874267649",
+			"display": "twitter.com/bbcdoctorwho/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 08 15:56:34 +0000 2022",
+			"id": 1523331030874267600,
+			"id_str": "1523331030874267649",
+			"full_text": "“The future is here and it’s Ncuti!\" Russell T Davies and Ncuti Gatwa arrive at the @BAFTA red carpet ❤️❤️➕🟦\n\nRead more here ➡️ https://t.co/f4K4YfqyEN https://t.co/e5snVEDjKD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BAFTA",
+						"name": "BAFTA",
+						"id": 17229809,
+						"id_str": "17229809",
+						"indices": [
+							84,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/f4K4YfqyEN",
+						"expanded_url": "https://doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor",
+						"display_url": "doctorwho.tv/news-and-featu…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1523328931784536000,
+						"id_str": "1523328931784536064",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FSPzl68XsAAz5Y_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSPzl68XsAAz5Y_.jpg",
+						"url": "https://t.co/e5snVEDjKD",
+						"display_url": "pic.twitter.com/e5snVEDjKD",
+						"expanded_url": "https://twitter.com/bbcdoctorwho/status/1523331030874267649/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1523328931784536000,
+						"id_str": "1523328931784536064",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FSPzl68XsAAz5Y_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSPzl68XsAAz5Y_.jpg",
+						"url": "https://t.co/e5snVEDjKD",
+						"display_url": "pic.twitter.com/e5snVEDjKD",
+						"expanded_url": "https://twitter.com/bbcdoctorwho/status/1523331030874267649/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237670274,
+				"id_str": "237670274",
+				"name": "Doctor Who",
+				"screen_name": "bbcdoctorwho",
+				"location": "Space and Time",
+				"description": "The official home of \"that blue phone box show\" on Twitter. #DoctorWho 💙💙 This is a commercial channel from @bbcstudios",
+				"url": "https://t.co/4BbJUAknDB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4BbJUAknDB",
+								"expanded_url": "https://www.doctorwho.tv/news-and-features/ncuti-gatwa-is-the-doctor",
+								"display_url": "doctorwho.tv/news-and-featu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1617041,
+				"friends_count": 155,
+				"listed_count": 6623,
+				"created_at": "Thu Jan 13 10:45:49 +0000 2011",
+				"favourites_count": 1622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15152,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "2C283F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1523259690871832576/E6T25HAi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523259690871832576/E6T25HAi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237670274/1652008386",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "00304C",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1239,
+			"favorite_count": 11927,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎉🎉 https://t.co/cUWoCVV8d3"
+	},
+	{
+		"created_at": "Sun May 08 17:49:20 +0000 2022",
+		"id": 1523353054459793400,
+		"id_str": "1523359408377507847",
+		"full_text": "A little late on tweeting this, whoops! But for this Mother's Day, consider donating to @NationalBailOut, for their annual Black Mama's Day Bailout fund. https://t.co/MzY7CzxphO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NationalBailOut",
+					"name": "National Bail Out",
+					"id": 856708154603733000,
+					"id_str": "856708154603732992",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MzY7CzxphO",
+					"expanded_url": "https://www.nationalbailout.org/history",
+					"display_url": "nationalbailout.org/history",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17974481,
+			"id_str": "17974481",
+			"name": "N. K. Jemisin",
+			"screen_name": "nkjemisin",
+			"location": "",
+			"description": "Award-winning bestselling SFF writer & reviewer. I use robust autoblockers due to harassment. They catch some friendlies. Unavoidable; sorry. She/her.",
+			"url": "http://t.co/05KwgT5OR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/05KwgT5OR0",
+							"expanded_url": "http://nkjemisin.com",
+							"display_url": "nkjemisin.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209316,
+			"friends_count": 883,
+			"listed_count": 2627,
+			"created_at": "Mon Dec 08 21:45:41 +0000 2008",
+			"favourites_count": 26552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562958942506991616/nR2WRprS_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562958942506991616/nR2WRprS_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17974481/1402152191",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A little late on tweeting this, whoops! But for this Mother's Day, consider donating to @NationalBailOut, for their annual Black Mama's Day Bailout fund. https://t.co/MzY7CzxphO"
+	},
+	{
 		"created_at": "Sat May 07 15:42:27 +0000 2022",
 		"id": 1522965089363636200,
 		"id_str": "1522965089363636224",
