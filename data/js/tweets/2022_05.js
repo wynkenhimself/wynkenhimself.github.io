@@ -1,6 +1,1133 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 23:30:53 +0000 2022",
+		"id": 1524894915184021500,
+		"id_str": "1524894915184021506",
+		"full_text": "@chrbutler @hondanhon @tomcritchlow @hautepop @inevernu oh my goodness thanks! all credit to @ajlkn whose template I used https://t.co/DetKsp7MO1",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrbutler",
+					"name": "Christopher Butler 🦠",
+					"id": 11017262,
+					"id_str": "11017262",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "hondanhon",
+					"name": "Dan Hon",
+					"id": 32124032,
+					"id_str": "32124032",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "tomcritchlow",
+					"name": "Tom Critchlow",
+					"id": 6419982,
+					"id_str": "6419982",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "hautepop",
+					"name": "Jay Owens",
+					"id": 27844182,
+					"id_str": "27844182",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "inevernu",
+					"name": "Patrick Tanguay 🔭",
+					"id": 13893,
+					"id_str": "13893",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "ajlkn",
+					"name": "aj",
+					"id": 55303867,
+					"id_str": "55303867",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DetKsp7MO1",
+					"expanded_url": "https://html5up.net/",
+					"display_url": "html5up.net",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1524810744801394700,
+		"in_reply_to_status_id_str": "1524810744801394695",
+		"in_reply_to_user_id": 11017262,
+		"in_reply_to_user_id_str": "11017262",
+		"in_reply_to_screen_name": "chrbutler",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@chrbutler @hondanhon @tomcritchlow @hautepop @inevernu oh my goodness thanks! all credit to @ajlkn whose template I used https://t.co/DetKsp7MO1"
+	},
+	{
+		"created_at": "Thu May 12 22:39:09 +0000 2022",
+		"id": 1524881894432727000,
+		"id_str": "1524881894432727079",
+		"full_text": "@arkhamlibrarian @blearyeyedduty Ok clearly this has to happen. I’m thinking we need someone to translate it into Chinese, though, and then asterisk the translation below/on the back. Where’s @DevinFitzger?!",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arkhamlibrarian",
+					"name": "Rebecca Baumann",
+					"id": 2820003021,
+					"id_str": "2820003021",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "blearyeyedduty",
+					"name": "Ursula",
+					"id": 15299943,
+					"id_str": "15299943",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "DevinFitzger",
+					"name": "Devin Fitzgerald",
+					"id": 1390140696,
+					"id_str": "1390140696",
+					"indices": [
+						192,
+						205
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524868976299368400,
+		"in_reply_to_status_id_str": "1524868976299368449",
+		"in_reply_to_user_id": 2820003021,
+		"in_reply_to_user_id_str": "2820003021",
+		"in_reply_to_screen_name": "arkhamlibrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@arkhamlibrarian @blearyeyedduty Ok clearly this has to happen. I’m thinking we need someone to translate it into Chinese, though, and then asterisk the translation below/on the back. Where’s @DevinFitzger?!"
+	},
+	{
+		"created_at": "Thu May 12 22:36:55 +0000 2022",
+		"id": 1524868400815784000,
+		"id_str": "1524881333222359043",
+		"full_text": "Our final #LillyMinute and another colleague with whom I am so lucky to work—the marvelous @blearyeyedduty says “suck it Gutenberg!” https://t.co/7XLK6IIaHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LillyMinute",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blearyeyedduty",
+					"name": "Ursula",
+					"id": 15299943,
+					"id_str": "15299943",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7XLK6IIaHt",
+					"expanded_url": "https://twitter.com/iulillylibrary/status/1524854670140792832",
+					"display_url": "twitter.com/iulillylibrary…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2820003021,
+			"id_str": "2820003021",
+			"name": "Rebecca Baumann",
+			"screen_name": "arkhamlibrarian",
+			"location": "Bloomington, IN",
+			"description": "rare book librarian, book junkie, devotee of the weird, angry queer, friend to all monsters. nonbinary. she/they",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11928,
+			"friends_count": 6300,
+			"listed_count": 139,
+			"created_at": "Thu Oct 09 17:22:55 +0000 2014",
+			"favourites_count": 110230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524106319199883265/X_K4-JNw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524106319199883265/X_K4-JNw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2820003021/1515621838",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524854670140792800,
+		"quoted_status_id_str": "1524854670140792832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7XLK6IIaHt",
+			"expanded": "https://twitter.com/iulillylibrary/status/1524854670140792832",
+			"display": "twitter.com/iulillylibrary…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 12 20:50:58 +0000 2022",
+			"id": 1524854670140792800,
+			"id_str": "1524854670140792832",
+			"full_text": "Centuries before Gutenberg was born, Chinese printers were already printing using both woodblocks and movable type. Public Services Librarian Ursula Romero takes a look at a Buddhist text from 1101, printed by woodblock, in today's #LillyMinute https://t.co/NF8jPwUSk8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LillyMinute",
+						"indices": [
+							232,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1524852688445399000,
+						"id_str": "1524852688445399040",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524852688445399040/pu/img/dBqjWpom3pzymmvM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524852688445399040/pu/img/dBqjWpom3pzymmvM.jpg",
+						"url": "https://t.co/NF8jPwUSk8",
+						"display_url": "pic.twitter.com/NF8jPwUSk8",
+						"expanded_url": "https://twitter.com/IULillyLibrary/status/1524854670140792832/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1524852688445399000,
+						"id_str": "1524852688445399040",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524852688445399040/pu/img/dBqjWpom3pzymmvM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524852688445399040/pu/img/dBqjWpom3pzymmvM.jpg",
+						"url": "https://t.co/NF8jPwUSk8",
+						"display_url": "pic.twitter.com/NF8jPwUSk8",
+						"expanded_url": "https://twitter.com/IULillyLibrary/status/1524854670140792832/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 54613,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1524852688445399040/pu/vid/640x360/R2g2DdHbUlMfoplB.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1524852688445399040/pu/pl/6oBjlJT0yWYXrnOA.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1524852688445399040/pu/vid/480x270/YF0P4tlwApetKj0R.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1524852688445399040/pu/vid/1280x720/meuXh_6j5GeLjx0w.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3816626429,
+				"id_str": "3816626429",
+				"name": "IU Lilly Library",
+				"screen_name": "IULillyLibrary",
+				"location": "Bloomington, IN",
+				"description": "Rare Book and Manuscript Library of Indiana University",
+				"url": "http://t.co/tM02jBpoCR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tM02jBpoCR",
+								"expanded_url": "http://www.indiana.edu/~liblilly/index.php",
+								"display_url": "indiana.edu/~liblilly/inde…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3976,
+				"friends_count": 1170,
+				"listed_count": 88,
+				"created_at": "Tue Sep 29 17:26:08 +0000 2015",
+				"favourites_count": 2230,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1727,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/648923142283399168/KDg2kGa7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/648923142283399168/KDg2kGa7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3816626429/1443552113",
+				"profile_link_color": "660000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our final #LillyMinute and another colleague with whom I am so lucky to work—the marvelous @blearyeyedduty says “suck it Gutenberg!” https://t.co/7XLK6IIaHt"
+	},
+	{
+		"created_at": "Thu May 12 15:06:26 +0000 2022",
+		"id": 1524767966386081800,
+		"id_str": "1524767966386081794",
+		"full_text": "@sheepeeh I missed this back in February. I’m glad the side effects haven’t been too bad and that you’ve got surgery scheduled. 🫂 (leaving that hug emoji as is because even though it’s weird, it’s less so than 🤗)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheepeeh",
+					"name": "Rachel Donahue",
+					"id": 35236404,
+					"id_str": "35236404",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524766770539675600,
+		"in_reply_to_status_id_str": "1524766770539675649",
+		"in_reply_to_user_id": 35236404,
+		"in_reply_to_user_id_str": "35236404",
+		"in_reply_to_screen_name": "sheepeeh",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sheepeeh I missed this back in February. I’m glad the side effects haven’t been too bad and that you’ve got surgery scheduled. 🫂 (leaving that hug emoji as is because even though it’s weird, it’s less so than 🤗)"
+	},
+	{
+		"created_at": "Thu May 12 13:31:00 +0000 2022",
+		"id": 1524743949591613400,
+		"id_str": "1524743949591613440",
+		"full_text": "@DrKarrSchmidt From eons ago something I wrote for The Collation on a couple Folger copies https://t.co/P4uDkAcmFi",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrKarrSchmidt",
+					"name": "Suzanne Karr Schmidt",
+					"id": 941444380036083700,
+					"id_str": "941444380036083713",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P4uDkAcmFi",
+					"expanded_url": "https://sarahwerner.net/blog/2014/09/constructing-volvelles/",
+					"display_url": "sarahwerner.net/blog/2014/09/c…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524742741946773500,
+		"in_reply_to_status_id_str": "1524742741946773506",
+		"in_reply_to_user_id": 941444380036083700,
+		"in_reply_to_user_id_str": "941444380036083713",
+		"in_reply_to_screen_name": "DrKarrSchmidt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrKarrSchmidt From eons ago something I wrote for The Collation on a couple Folger copies https://t.co/P4uDkAcmFi"
+	},
+	{
+		"created_at": "Thu May 12 13:22:52 +0000 2022",
+		"id": 1524741901848653800,
+		"id_str": "1524741901848653824",
+		"full_text": "@DrKarrSchmidt I have seen at least two other copies of della Porta books with uncut volvelles! Can’t remember which eds but I wonder if it’s a higher percentage of extant copies than with other works. Or maybe just the sheer numbers of his works that make it seem so!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrKarrSchmidt",
+					"name": "Suzanne Karr Schmidt",
+					"id": 941444380036083700,
+					"id_str": "941444380036083713",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524738854913200000,
+		"in_reply_to_status_id_str": "1524738854913200129",
+		"in_reply_to_user_id": 941444380036083700,
+		"in_reply_to_user_id_str": "941444380036083713",
+		"in_reply_to_screen_name": "DrKarrSchmidt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrKarrSchmidt I have seen at least two other copies of della Porta books with uncut volvelles! Can’t remember which eds but I wonder if it’s a higher percentage of extant copies than with other works. Or maybe just the sheer numbers of his works that make it seem so!"
+	},
+	{
+		"created_at": "Thu May 12 13:15:17 +0000 2022",
+		"id": 1524739993738129400,
+		"id_str": "1524739993738129409",
+		"full_text": "@book_historia You definitely want to find an agent. This sounds great!!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "book_historia",
+					"name": "Allie Alvis 🚄",
+					"id": 138620865,
+					"id_str": "138620865",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524739437149700000,
+		"in_reply_to_status_id_str": "1524739437149700097",
+		"in_reply_to_user_id": 138620865,
+		"in_reply_to_user_id_str": "138620865",
+		"in_reply_to_screen_name": "book_historia",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@book_historia You definitely want to find an agent. This sounds great!!"
+	},
+	{
 		"created_at": "Wed May 11 20:14:39 +0000 2022",
 		"id": 1524483142811373600,
 		"id_str": "1524483142811373569",
