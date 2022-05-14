@@ -1,6 +1,1077 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 19:03:43 +0000 2022",
+		"id": 1524777388458098700,
+		"id_str": "1525190066355699715",
+		"full_text": "Comparing inks! These traditional sources of tannin were prepared according to the same recipe: oak gall, myrobalan, knopper gall (this one isn’t traditional), pomegranate skin and sumac. Strokes were similar, thick at both ends and thin in the middle. https://t.co/v8ZFcASj7x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524777383823278000,
+					"id_str": "1524777383823278082",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FSkY87RWAAI4ts_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSkY87RWAAI4ts_.jpg",
+					"url": "https://t.co/v8ZFcASj7x",
+					"display_url": "pic.twitter.com/v8ZFcASj7x",
+					"expanded_url": "https://twitter.com/joumajnouna/status/1524777388458098690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524777383823278000,
+					"id_str": "1524777383823278082",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FSkY87RWAAI4ts_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSkY87RWAAI4ts_.jpg",
+					"url": "https://t.co/v8ZFcASj7x",
+					"display_url": "pic.twitter.com/v8ZFcASj7x",
+					"expanded_url": "https://twitter.com/joumajnouna/status/1524777388458098690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39275167,
+			"id_str": "39275167",
+			"name": "Joumana Medlej",
+			"screen_name": "joumajnouna",
+			"location": "London, England",
+			"description": "Artist specialised in Kufi scripts, historical/natural materials. Beirut-London transplant. Earth lover, plastic-free, slow living. See link for art/shop/books",
+			"url": "https://t.co/AycMgYiKTN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AycMgYiKTN",
+							"expanded_url": "https://linktr.ee/Majnouna",
+							"display_url": "linktr.ee/Majnouna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6155,
+			"friends_count": 287,
+			"listed_count": 207,
+			"created_at": "Mon May 11 15:44:52 +0000 2009",
+			"favourites_count": 10754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344203921695383553/RnX6bumh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344203921695383553/RnX6bumh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39275167/1609318165",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Comparing inks! These traditional sources of tannin were prepared according to the same recipe: oak gall, myrobalan, knopper gall (this one isn’t traditional), pomegranate skin and sumac. Strokes were similar, thick at both ends and thin in the middle. https://t.co/v8ZFcASj7x"
+	},
+	{
+		"created_at": "Fri May 13 19:01:08 +0000 2022",
+		"id": 1525089537587921000,
+		"id_str": "1525189416813199360",
+		"full_text": "On this day in 1985 11 MOVE people perished in a bombing by philly police. We must never forget about them or the heinous violence. Here I wrote some about the context in the broader antiBlack social incineration of 1980s Philly  https://t.co/SRtQsGtuw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SRtQsGtuw3",
+					"expanded_url": "https://www.washingtonpost.com/outlook/2021/05/13/shocking-move-bombing-was-part-broader-pattern-anti-black-racism/",
+					"display_url": "washingtonpost.com/outlook/2021/0…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42903521,
+			"id_str": "42903521",
+			"name": "J.T. Roane",
+			"screen_name": "JTRoane",
+			"location": "",
+			"description": "22-23 Institute for Advanced Study fellow. Forthcoming book: Dark Agoras: Insurgent Black Social Life and the Politics of Place (NYU Press) #BlackEcologies",
+			"url": "https://t.co/SMPbKllMsW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SMPbKllMsW",
+							"expanded_url": "https://orcid.org/0000-0001-7204-6129",
+							"display_url": "orcid.org/0000-0001-7204…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10718,
+			"friends_count": 3371,
+			"listed_count": 89,
+			"created_at": "Wed May 27 15:20:12 +0000 2009",
+			"favourites_count": 16332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498808139419770881/ezIybqQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498808139419770881/ezIybqQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42903521/1557332207",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1985 11 MOVE people perished in a bombing by philly police. We must never forget about them or the heinous violence. Here I wrote some about the context in the broader antiBlack social incineration of 1980s Philly  https://t.co/SRtQsGtuw3"
+	},
+	{
+		"created_at": "Fri May 13 17:54:33 +0000 2022",
+		"id": 1524464667208392700,
+		"id_str": "1525172661583847425",
+		"full_text": "Who needed to see a 15 minute old lamb today? 🥰 https://t.co/xt15WUumDN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1524464662464639000,
+					"id_str": "1524464662464638980",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FSf8iJbXMAQC0cz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSf8iJbXMAQC0cz.jpg",
+					"url": "https://t.co/xt15WUumDN",
+					"display_url": "pic.twitter.com/xt15WUumDN",
+					"expanded_url": "https://twitter.com/jessi_asli/status/1524464667208392706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524464662464639000,
+					"id_str": "1524464662464638980",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/FSf8iJbXMAQC0cz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSf8iJbXMAQC0cz.jpg",
+					"url": "https://t.co/xt15WUumDN",
+					"display_url": "pic.twitter.com/xt15WUumDN",
+					"expanded_url": "https://twitter.com/jessi_asli/status/1524464667208392706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1345808153624064000,
+			"id_str": "1345808153624064000",
+			"name": "Jess 🌻",
+			"screen_name": "jessi_asli",
+			"location": "",
+			"description": "ASL Interpreter. Twin mom. Dreamer of peace. Cancer Slayer.\nRebuilding. \nNo DMs please. \n#kindnessmatters",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20118,
+			"friends_count": 10824,
+			"listed_count": 46,
+			"created_at": "Sun Jan 03 19:04:10 +0000 2021",
+			"favourites_count": 59844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520493652568588288/gv7l1QfX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520493652568588288/gv7l1QfX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1345808153624064000/1643250115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6062,
+		"favorite_count": 65011,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who needed to see a 15 minute old lamb today? 🥰 https://t.co/xt15WUumDN"
+	},
+	{
+		"created_at": "Fri May 13 17:07:44 +0000 2022",
+		"id": 1525126272434720800,
+		"id_str": "1525160878437548033",
+		"full_text": "Such a crucial read. \"Libraries are crucial social infrastructure...We need a strong library workforce equipped to resist the dismantling of our public institutions.\" https://t.co/GOWsNdUHho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOWsNdUHho",
+					"expanded_url": "https://truthout.org/articles/attacks-on-libraries-are-attacks-on-labor/?fbclid=IwAR3WewuQxqB_4mQ1ZXIr2XJG22KxmbPJckxgkA3b7bbaEuoXUFL77h6So_I",
+					"display_url": "truthout.org/articles/attac…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16013581,
+			"id_str": "16013581",
+			"name": "Lindsay Cronk",
+			"screen_name": "lindsonmars",
+			"location": "Rochester, NY",
+			"description": "I said what I said ⚡️ Friend, Neighbor ⚡️ @ALA_Core President ⚡️ Libraries are radical, and so are you ⚡️ she/her ⚡️#PeMento",
+			"url": "https://t.co/Lwndfjdm5k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lwndfjdm5k",
+							"expanded_url": "http://lindsaythelibrarian.com",
+							"display_url": "lindsaythelibrarian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2696,
+			"friends_count": 1265,
+			"listed_count": 82,
+			"created_at": "Wed Aug 27 16:20:14 +0000 2008",
+			"favourites_count": 56607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1302230561663127553/ID_tBhbP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302230561663127553/ID_tBhbP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16013581/1599245152",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such a crucial read. \"Libraries are crucial social infrastructure...We need a strong library workforce equipped to resist the dismantling of our public institutions.\" https://t.co/GOWsNdUHho"
+	},
+	{
+		"created_at": "Fri May 13 17:06:22 +0000 2022",
+		"id": 1525159086148313000,
+		"id_str": "1525160534508724226",
+		"full_text": "I’m seeing a lot of people call this footage unbelievable. It’s been believable for over 50 years. The only unbelievable thing is the sustained attention it’s receiving. https://t.co/jEkAq2NBXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jEkAq2NBXk",
+					"expanded_url": "https://twitter.com/Rushdibbc/status/1525114366403743744",
+					"display_url": "twitter.com/Rushdibbc/stat…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15145016,
+			"id_str": "15145016",
+			"name": "Rahawa Haile",
+			"screen_name": "RahawaHaile",
+			"location": "Ohlone Land (Oakland, CA)",
+			"description": "Eritrean American writer from Miami. In Open Country forthcoming from @harperbooks (2023). Repped by @jlkardon. she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14854,
+			"friends_count": 1615,
+			"listed_count": 240,
+			"created_at": "Tue Jun 17 12:33:48 +0000 2008",
+			"favourites_count": 30600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1516103701596803075/hqVWNtzo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516103701596803075/hqVWNtzo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15145016/1638283138",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525114366403743700,
+		"quoted_status_id_str": "1525114366403743744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jEkAq2NBXk",
+			"expanded": "https://twitter.com/Rushdibbc/status/1525114366403743744",
+			"display": "twitter.com/Rushdibbc/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 13 14:02:54 +0000 2022",
+			"id": 1525114366403743700,
+			"id_str": "1525114366403743744",
+			"full_text": "The closest video of the #Israeli police suppressing the funeral procession of Shireen Abu Aqleh as the coffin was leaving the French hospital towards the cemetery https://t.co/TaOsvCUUCd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Israeli",
+						"indices": [
+							25,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1525114145087045600,
+						"id_str": "1525114145087045637",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+						"url": "https://t.co/TaOsvCUUCd",
+						"display_url": "pic.twitter.com/TaOsvCUUCd",
+						"expanded_url": "https://twitter.com/Rushdibbc/status/1525114366403743744/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1525114145087045600,
+						"id_str": "1525114145087045637",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+						"url": "https://t.co/TaOsvCUUCd",
+						"display_url": "pic.twitter.com/TaOsvCUUCd",
+						"expanded_url": "https://twitter.com/Rushdibbc/status/1525114366403743744/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/vid/320x568/OdEhvs3JWpq8eGot.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/vid/480x852/YXl4uPbKbbpjzHXr.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/pl/uQEz0Fydwkr_Bz88.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/vid/720x1280/52b8XE5kTVlSCpKq.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 136776767,
+				"id_str": "136776767",
+				"name": "Rushdi Abualouf",
+				"screen_name": "Rushdibbc",
+				"location": "Gaza غزة",
+				"description": "#Palestinian journalist based in #Gaza , work for the #BBC what is written here represents my own views صحفي #فلسطيني #غزة#",
+				"url": "https://t.co/TLHT7IdYf7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TLHT7IdYf7",
+								"expanded_url": "http://www.bbcnews.com",
+								"display_url": "bbcnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13776,
+				"friends_count": 561,
+				"listed_count": 524,
+				"created_at": "Sat Apr 24 22:17:47 +0000 2010",
+				"favourites_count": 185,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2672,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1404288449386008580/WNlG-dvj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404288449386008580/WNlG-dvj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/136776767/1623643436",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51471,
+			"favorite_count": 89816,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m seeing a lot of people call this footage unbelievable. It’s been believable for over 50 years. The only unbelievable thing is the sustained attention it’s receiving. https://t.co/jEkAq2NBXk"
+	},
+	{
+		"created_at": "Fri May 13 16:57:26 +0000 2022",
+		"id": 1525158288345669600,
+		"id_str": "1525158288345669633",
+		"full_text": "why do library workers unionize? this is one answer. BCPL admin should be ashamed of itself https://t.co/H8i9oVrWDh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H8i9oVrWDh",
+					"expanded_url": "https://twitter.com/TheNicoleDvorak/status/1524788278381236230",
+					"display_url": "twitter.com/TheNicoleDvora…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10121,
+			"friends_count": 500,
+			"listed_count": 382,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524788278381236200,
+		"quoted_status_id_str": "1524788278381236230",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H8i9oVrWDh",
+			"expanded": "https://twitter.com/TheNicoleDvorak/status/1524788278381236230",
+			"display": "twitter.com/TheNicoleDvora…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 12 16:27:09 +0000 2022",
+			"id": 1524788278381236200,
+			"id_str": "1524788278381236230",
+			"full_text": "HALF of the BaltCo Public Library's 500+ employees are PART-TIME. The most paid leave they get is from the STATE (sick &amp; safe leave). Without it, 250+ employees would have only 4-8 hours of paid leave a YEAR. Started your job between Jan-June? 4 hrs. B/w July &amp; Dec? 8 hrs.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 302917568,
+				"id_str": "302917568",
+				"name": "Nicole Dvorak",
+				"screen_name": "TheNicoleDvorak",
+				"location": "Piscataway, Nanticoke+ land",
+				"description": "Organizer & Necessary Disturbance (CB4-2019). Campaign finance reports are moral documents. BaltCo Public Library (BCPL) Union Contract Negotiating Committee",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 376,
+				"friends_count": 1410,
+				"listed_count": 4,
+				"created_at": "Sun May 22 00:19:09 +0000 2011",
+				"favourites_count": 3037,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2235,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039548681354190849/CX-CMshK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039548681354190849/CX-CMshK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/302917568/1526491760",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "why do library workers unionize? this is one answer. BCPL admin should be ashamed of itself https://t.co/H8i9oVrWDh"
+	},
+	{
 		"created_at": "Thu May 12 23:30:53 +0000 2022",
 		"id": 1524894915184021500,
 		"id_str": "1524894915184021506",
