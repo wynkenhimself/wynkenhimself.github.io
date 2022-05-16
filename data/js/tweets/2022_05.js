@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 15 16:47:45 +0000 2022",
+		"id": 1525659065405345800,
+		"id_str": "1525880624652898305",
+		"full_text": "Many people have asked how they can help in the aftermath of the white supremacist anti-Black terrorist attack today in Buffalo. Please check out this 🧵for organizations and people to donate to. Will add more as I learn about more.👇🏿",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1463223386495074300,
+			"id_str": "1463223386495074305",
+			"name": "J Coley (They/Them)",
+			"screen_name": "JColey716",
+			"location": "Buffalo, NY",
+			"description": "Sociology PhD Candidate at the University at Buffalo working on a qual. study of gentrification in the Fruit Belt and the Lower Hill.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1372,
+			"friends_count": 397,
+			"listed_count": 7,
+			"created_at": "Tue Nov 23 19:10:24 +0000 2021",
+			"favourites_count": 3281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1463224641552621573/XgAYjj32_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463224641552621573/XgAYjj32_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1463223386495074305/1650412169",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8680,
+		"favorite_count": 10405,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Many people have asked how they can help in the aftermath of the white supremacist anti-Black terrorist attack today in Buffalo. Please check out this 🧵for organizations and people to donate to. Will add more as I learn about more.👇🏿"
+	},
+	{
+		"created_at": "Sun May 15 16:47:29 +0000 2022",
+		"id": 1525877215950524400,
+		"id_str": "1525880560551436289",
+		"full_text": "Photographs from the Broadway musical production, Timbuktu! (1978).\n\nPhotos by Kenn Duncan via the Billy Rose Theatre Division/New York Public Library https://t.co/sW836N0jv8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525877211659702300,
+					"id_str": "1525877211659702274",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FS0BPVPXEAIVPKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS0BPVPXEAIVPKe.jpg",
+					"url": "https://t.co/sW836N0jv8",
+					"display_url": "pic.twitter.com/sW836N0jv8",
+					"expanded_url": "https://twitter.com/blackarchivesco/status/1525877215950524417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525877211659702300,
+					"id_str": "1525877211659702274",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FS0BPVPXEAIVPKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS0BPVPXEAIVPKe.jpg",
+					"url": "https://t.co/sW836N0jv8",
+					"display_url": "pic.twitter.com/sW836N0jv8",
+					"expanded_url": "https://twitter.com/blackarchivesco/status/1525877215950524417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1289298532759814100,
+			"id_str": "1289298532759814144",
+			"name": "BLACK ARCHIVES",
+			"screen_name": "blackarchivesco",
+			"location": "Past, Present, Future",
+			"description": "Black Archives is a multimedia platform that shines a spotlight on the Black experience. Visit our website: https://t.co/tYQlSBce8u",
+			"url": "https://t.co/nfEuG14hVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nfEuG14hVR",
+							"expanded_url": "https://www.instagram.com/blackarchives.co",
+							"display_url": "instagram.com/blackarchives.…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tYQlSBce8u",
+							"expanded_url": "http://blackarchives.co",
+							"display_url": "blackarchives.co",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33128,
+			"friends_count": 38,
+			"listed_count": 155,
+			"created_at": "Fri Jul 31 20:35:17 +0000 2020",
+			"favourites_count": 178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289319289078476800/UuzG4Woh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289319289078476800/UuzG4Woh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289298532759814144/1618235454",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 502,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Photographs from the Broadway musical production, Timbuktu! (1978).\n\nPhotos by Kenn Duncan via the Billy Rose Theatre Division/New York Public Library https://t.co/sW836N0jv8"
+	},
+	{
 		"created_at": "Fri May 13 19:03:43 +0000 2022",
 		"id": 1524777388458098700,
 		"id_str": "1525190066355699715",
