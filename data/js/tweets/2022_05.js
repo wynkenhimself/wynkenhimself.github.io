@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 16 21:12:29 +0000 2022",
+		"id": 1526307590740889600,
+		"id_str": "1526309637762555904",
+		"full_text": "No matter what excuse is offered for TAMUs rationale the overreaching message is that librarians are not valued as academics. This is a tremendous injustices especially after librarians arm &amp; arm with faculty carried academia on our backs to deliver services during the pandemic. https://t.co/fBjgh0AdLa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fBjgh0AdLa",
+					"expanded_url": "https://twitter.com/insidehighered/status/1526170605372030977",
+					"display_url": "twitter.com/insidehighered…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992462900643147800,
+			"id_str": "992462900643147777",
+			"name": "Tamar Evangelestia-Dougherty",
+			"screen_name": "evangelestia",
+			"location": "",
+			"description": "Director of the @SILibraries & @SmithsonianArch📚| Faculty @CalRBS | @SimmonsSLIS Alum | Native Chicagoan🌆 | Black Birder 🐦🪶| Vintage👗👠| Book Arts📘🎨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7995,
+			"friends_count": 5379,
+			"listed_count": 104,
+			"created_at": "Fri May 04 17:56:09 +0000 2018",
+			"favourites_count": 12318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992462900643147777/1525586280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526170605372031000,
+		"quoted_status_id_str": "1526170605372030977",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fBjgh0AdLa",
+			"expanded": "https://twitter.com/insidehighered/status/1526170605372030977",
+			"display": "twitter.com/insidehighered…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 16 12:00:01 +0000 2022",
+			"id": 1526170605372031000,
+			"id_str": "1526170605372030977",
+			"full_text": "A plan to restructure Texas A&amp;M’s 10 libraries would force librarians to relinquish tenure or move to another academic department to keep it. The university has yet to explain its rationale for the changes. https://t.co/QDl5rTKyVL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QDl5rTKyVL",
+						"expanded_url": "https://bit.ly/3MeybQq",
+						"display_url": "bit.ly/3MeybQq",
+						"indices": [
+							211,
+							234
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16045268,
+				"id_str": "16045268",
+				"name": "Inside Higher Ed",
+				"screen_name": "insidehighered",
+				"location": "Washington, D.C.",
+				"description": "Helping the world make sense of #HigherEducation. Follow us for the latest news, opinions, jobs, and resources. Send #HigherEd news and tips via DM.",
+				"url": "https://t.co/pTGyyp04iI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pTGyyp04iI",
+								"expanded_url": "http://www.insidehighered.com",
+								"display_url": "insidehighered.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 252885,
+				"friends_count": 2891,
+				"listed_count": 6076,
+				"created_at": "Fri Aug 29 18:10:03 +0000 2008",
+				"favourites_count": 24870,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46116,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190277452314107904/GZjn_vIJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190277452314107904/GZjn_vIJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16045268/1607462764",
+				"profile_link_color": "EF7522",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 87,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No matter what excuse is offered for TAMUs rationale the overreaching message is that librarians are not valued as academics. This is a tremendous injustices especially after librarians arm &amp; arm with faculty carried academia on our backs to deliver services during the pandemic. https://t.co/fBjgh0AdLa"
+	},
+	{
+		"created_at": "Mon May 16 17:06:38 +0000 2022",
+		"id": 1526234380162588700,
+		"id_str": "1526247766233604096",
+		"full_text": "A small thing Cait and I are very proud of: we started with 109 citations in the Women in Book History Bibliography. We passed 2,000 this weekend and are still catching up with all the amazing work that's coming out. \n\nhttps://t.co/DPESbT0ZxL https://t.co/5I1FE3y9rw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DPESbT0ZxL",
+					"expanded_url": "https://womensbookhistory.org/",
+					"display_url": "womensbookhistory.org",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526234115346813000,
+					"id_str": "1526234115346812928",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FS5F13FUUAAciIY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FS5F13FUUAAciIY.png",
+					"url": "https://t.co/5I1FE3y9rw",
+					"display_url": "pic.twitter.com/5I1FE3y9rw",
+					"expanded_url": "https://twitter.com/GrubStreetWomen/status/1526234380162588672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 91,
+							"h": 91,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 91,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 91,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 356,
+							"h": 91,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526234115346813000,
+					"id_str": "1526234115346812928",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FS5F13FUUAAciIY.png",
+					"media_url_https": "https://pbs.twimg.com/media/FS5F13FUUAAciIY.png",
+					"url": "https://t.co/5I1FE3y9rw",
+					"display_url": "pic.twitter.com/5I1FE3y9rw",
+					"expanded_url": "https://twitter.com/GrubStreetWomen/status/1526234380162588672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 91,
+							"h": 91,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 91,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 356,
+							"h": 91,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 356,
+							"h": 91,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 724376123665043500,
+			"id_str": "724376123665043456",
+			"name": "Dr. Kate Ozment",
+			"screen_name": "GrubStreetWomen",
+			"location": "Los Angeles, CA",
+			"description": "Asst. Prof English, book history, bibliography, #dh, feminist theory, women's lit #unionstrong she/they; opinions my own",
+			"url": "https://t.co/vGmDhTsKGw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGmDhTsKGw",
+							"expanded_url": "http://womensbookhistory.org",
+							"display_url": "womensbookhistory.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5885,
+			"friends_count": 2905,
+			"listed_count": 80,
+			"created_at": "Sun Apr 24 23:15:00 +0000 2016",
+			"favourites_count": 22338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445889272913883141/S4PZMfy0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445889272913883141/S4PZMfy0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724376123665043456/1652470439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 57,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A small thing Cait and I are very proud of: we started with 109 citations in the Women in Book History Bibliography. We passed 2,000 this weekend and are still catching up with all the amazing work that's coming out. \n\nhttps://t.co/DPESbT0ZxL https://t.co/5I1FE3y9rw"
+	},
+	{
+		"created_at": "Mon May 16 17:05:15 +0000 2022",
+		"id": 1526234549428134000,
+		"id_str": "1526247420388163591",
+		"full_text": "At long last! We fought long and hard to see this beautiful day!\n\n#MontpelierFreed\n\nhttps://t.co/kdZ3fMcUjc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MontpelierFreed",
+					"indices": [
+						66,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kdZ3fMcUjc",
+					"expanded_url": "http://www.culturalheritagepartners.com/montpelier-votes-to-share-governance-with-descendants/",
+					"display_url": "culturalheritagepartners.com/montpelier-vot…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15830545,
+			"id_str": "15830545",
+			"name": "James French",
+			"screen_name": "JAlbertFrench",
+			"location": "The Arc",
+			"description": "Envisioning things unseen. Building roads to get there. Boards, fintech, global remittances, SME finance #AfricaTech #Cycling #Descendant",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 841,
+			"listed_count": 23,
+			"created_at": "Wed Aug 13 00:35:22 +0000 2008",
+			"favourites_count": 1741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419060338121756673/zBplGjBX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419060338121756673/zBplGjBX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15830545/1496882176",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At long last! We fought long and hard to see this beautiful day!\n\n#MontpelierFreed\n\nhttps://t.co/kdZ3fMcUjc"
+	},
+	{
+		"created_at": "Mon May 16 15:49:59 +0000 2022",
+		"id": 1526215168686006300,
+		"id_str": "1526228474926620672",
+		"full_text": "Howard University \"has acquired one of the most comprehensive collections of [Gordon] Parks’s photographs. The trove of 252 images represents...his his significance as a documentarian of African American life in the 2nd half of the 20th century.\" #history\n\nhttps://t.co/2UxEwijkQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "history",
+					"indices": [
+						247,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2UxEwijkQq",
+					"expanded_url": "https://www.washingtonpost.com/arts-entertainment/2022/05/16/gordon-parks-photos-howard-university/",
+					"display_url": "washingtonpost.com/arts-entertain…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2825591395,
+			"id_str": "2825591395",
+			"name": "Dr. Keisha N. Blain",
+			"screen_name": "KeishaBlain",
+			"location": "East Coast",
+			"description": "✨Award-winning Historian, Professor, and Writer | 2022 Guggenheim Fellow & Class of 2022 Carnegie Fellow | @MSNBC Columnist | ✍🏾 📚",
+			"url": "https://t.co/7EVJGny6aA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7EVJGny6aA",
+							"expanded_url": "http://keishablain.com/about",
+							"display_url": "keishablain.com/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75375,
+			"friends_count": 1180,
+			"listed_count": 996,
+			"created_at": "Mon Sep 22 03:15:31 +0000 2014",
+			"favourites_count": 101534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 80850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434323495073288193/pvYxI6MD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434323495073288193/pvYxI6MD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2825591395/1650451721",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 317,
+		"favorite_count": 1043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Howard University \"has acquired one of the most comprehensive collections of [Gordon] Parks’s photographs. The trove of 252 images represents...his his significance as a documentarian of African American life in the 2nd half of the 20th century.\" #history\n\nhttps://t.co/2UxEwijkQq"
+	},
+	{
+		"created_at": "Mon May 16 15:48:46 +0000 2022",
+		"id": 1526228170856333300,
+		"id_str": "1526228170856333317",
+		"full_text": "@metaverity There really needs to be a librarian fashion site that instead of fetishizing what we wear actually gives useful info like this!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metaverity",
+					"name": "Vernica",
+					"id": 712267513,
+					"id_str": "712267513",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526225948684738600,
+		"in_reply_to_status_id_str": "1526225948684738561",
+		"in_reply_to_user_id": 712267513,
+		"in_reply_to_user_id_str": "712267513",
+		"in_reply_to_screen_name": "metaverity",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10124,
+			"friends_count": 499,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@metaverity There really needs to be a librarian fashion site that instead of fetishizing what we wear actually gives useful info like this!"
+	},
+	{
 		"created_at": "Sun May 15 16:47:45 +0000 2022",
 		"id": 1525659065405345800,
 		"id_str": "1525880624652898305",
