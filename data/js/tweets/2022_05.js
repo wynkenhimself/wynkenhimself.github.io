@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 00:44:36 +0000 2022",
+		"id": 1527080184498770000,
+		"id_str": "1527087792114761731",
+		"full_text": "Come to Colby, talk about medieval ecologies, have a wonderful time! Abstracts are due in two weeks, June 1, and we welcome those from all interested parties, grad students included https://t.co/H9KewTHwu1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H9KewTHwu1",
+					"expanded_url": "https://twitter.com/meganlcook/status/1513589960447778820",
+					"display_url": "twitter.com/meganlcook/sta…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10098362,
+			"id_str": "10098362",
+			"name": "Megan L. Cook",
+			"screen_name": "meganlcook",
+			"location": "Maine",
+			"description": "English prof @ColbyCollege, adventures with medieval literature and/in early modern books + teaching + scholarly editing. she/her, views and typos my own",
+			"url": "https://t.co/Cdw0XvqcR6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cdw0XvqcR6",
+							"expanded_url": "http://www.upenn.edu/pennpress/book/15972.html",
+							"display_url": "upenn.edu/pennpress/book…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5222,
+			"friends_count": 1404,
+			"listed_count": 59,
+			"created_at": "Fri Nov 09 13:59:32 +0000 2007",
+			"favourites_count": 32185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1456412604923006984/iSNKwftU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456412604923006984/iSNKwftU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10098362/1493135528",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513589960447778800,
+		"quoted_status_id_str": "1513589960447778820",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H9KewTHwu1",
+			"expanded": "https://twitter.com/meganlcook/status/1513589960447778820",
+			"display": "twitter.com/meganlcook/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 11 18:49:02 +0000 2022",
+			"id": 1513589960447778800,
+			"id_str": "1513589960447778820",
+			"full_text": "CFP: New England Medieval Consortium 2022: Medieval Ecologies (October 8, 2022) https://t.co/MJG6hESJm6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1513589734483837000,
+						"id_str": "1513589734483836933",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FQFZ2BuWQAUDwCq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQFZ2BuWQAUDwCq.jpg",
+						"url": "https://t.co/MJG6hESJm6",
+						"display_url": "pic.twitter.com/MJG6hESJm6",
+						"expanded_url": "https://twitter.com/meganlcook/status/1513589960447778820/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1298,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1513589734483837000,
+						"id_str": "1513589734483836933",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/FQFZ2BuWQAUDwCq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQFZ2BuWQAUDwCq.jpg",
+						"url": "https://t.co/MJG6hESJm6",
+						"display_url": "pic.twitter.com/MJG6hESJm6",
+						"expanded_url": "https://twitter.com/meganlcook/status/1513589960447778820/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 469,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1298,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10098362,
+				"id_str": "10098362",
+				"name": "Megan L. Cook",
+				"screen_name": "meganlcook",
+				"location": "Maine",
+				"description": "English prof @ColbyCollege, adventures with medieval literature and/in early modern books + teaching + scholarly editing. she/her, views and typos my own",
+				"url": "https://t.co/Cdw0XvqcR6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cdw0XvqcR6",
+								"expanded_url": "http://www.upenn.edu/pennpress/book/15972.html",
+								"display_url": "upenn.edu/pennpress/book…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5222,
+				"friends_count": 1404,
+				"listed_count": 59,
+				"created_at": "Fri Nov 09 13:59:32 +0000 2007",
+				"favourites_count": 32185,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22051,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1456412604923006984/iSNKwftU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456412604923006984/iSNKwftU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10098362/1493135528",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ro"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come to Colby, talk about medieval ecologies, have a wonderful time! Abstracts are due in two weeks, June 1, and we welcome those from all interested parties, grad students included https://t.co/H9KewTHwu1"
+	},
+	{
+		"created_at": "Thu May 19 00:40:01 +0000 2022",
+		"id": 1527069806524043300,
+		"id_str": "1527086639461318656",
+		"full_text": "@SILibraries It would be nice to see some MLS holders apply for this. There are lots of operations, programs and functions that happen in a library besides typical librarying...Expand your horizons. Diversify. Librarians have more skills and talents than we take credit for.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SILibraries",
+					"name": "Smithsonian Libraries and Archives",
+					"id": 15092914,
+					"id_str": "15092914",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1527067309516509200,
+		"in_reply_to_status_id_str": "1527067309516509184",
+		"in_reply_to_user_id": 992462900643147800,
+		"in_reply_to_user_id_str": "992462900643147777",
+		"in_reply_to_screen_name": "evangelestia",
+		"user": {
+			"id": 992462900643147800,
+			"id_str": "992462900643147777",
+			"name": "Tamar Evangelestia-Dougherty",
+			"screen_name": "evangelestia",
+			"location": "",
+			"description": "Director of the @SILibraries & @SmithsonianArch📚| Faculty @CalRBS | @SimmonsSLIS Alum | Native Chicagoan🌆 | Black Birder 🐦🪶| Vintage👗👠| Book Arts📘🎨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8040,
+			"friends_count": 5411,
+			"listed_count": 104,
+			"created_at": "Fri May 04 17:56:09 +0000 2018",
+			"favourites_count": 12370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992462900643147777/1525586280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@SILibraries It would be nice to see some MLS holders apply for this. There are lots of operations, programs and functions that happen in a library besides typical librarying...Expand your horizons. Diversify. Librarians have more skills and talents than we take credit for."
+	},
+	{
+		"created_at": "Thu May 19 00:39:58 +0000 2022",
+		"id": 1527067309516509200,
+		"id_str": "1527086625729269760",
+		"full_text": "Library Job Alert!\nAssociate Director for Advancement, @SILibraries \nChief fundraising officer who oversees advancement program strategies with responsibility for executing fund-raising initiatives with an emphasis on major gifts. \nSalary $126,233-$164,102\nhttps://t.co/VGjc2L0P8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SILibraries",
+					"name": "Smithsonian Libraries and Archives",
+					"id": 15092914,
+					"id_str": "15092914",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VGjc2L0P8O",
+					"expanded_url": "https://joblist.ala.org/job/associate-director-of-advancement/63034506/",
+					"display_url": "joblist.ala.org/job/associate-…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992462900643147800,
+			"id_str": "992462900643147777",
+			"name": "Tamar Evangelestia-Dougherty",
+			"screen_name": "evangelestia",
+			"location": "",
+			"description": "Director of the @SILibraries & @SmithsonianArch📚| Faculty @CalRBS | @SimmonsSLIS Alum | Native Chicagoan🌆 | Black Birder 🐦🪶| Vintage👗👠| Book Arts📘🎨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8040,
+			"friends_count": 5411,
+			"listed_count": 104,
+			"created_at": "Fri May 04 17:56:09 +0000 2018",
+			"favourites_count": 12370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992462900643147777/1525586280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Library Job Alert!\nAssociate Director for Advancement, @SILibraries \nChief fundraising officer who oversees advancement program strategies with responsibility for executing fund-raising initiatives with an emphasis on major gifts. \nSalary $126,233-$164,102\nhttps://t.co/VGjc2L0P8O"
+	},
+	{
+		"created_at": "Wed May 18 13:04:59 +0000 2022",
+		"id": 1526908318194835500,
+		"id_str": "1526911728029732864",
+		"full_text": "if you're not attending RBMS or you have a conflict during the conference, don't fret! we'll have one of our regularly scheduled meetings on June 26th at 8PM EST. If you're not already a member of the BBC, reach out to @wynkenhimself, @aravahshifra, or me for the zoom link!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wynkenhimself",
+					"name": "Sarah Werner",
+					"id": 35384223,
+					"id_str": "35384223",
+					"indices": [
+						219,
+						233
+					]
+				},
+				{
+					"screen_name": "aravahshifra",
+					"name": "Cassia✨",
+					"id": 145893323,
+					"id_str": "145893323",
+					"indices": [
+						235,
+						248
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1526907906792341500,
+		"in_reply_to_status_id_str": "1526907906792341505",
+		"in_reply_to_user_id": 326660319,
+		"in_reply_to_user_id_str": "326660319",
+		"in_reply_to_screen_name": "internetstine",
+		"user": {
+			"id": 326660319,
+			"id_str": "326660319",
+			"name": "Christine Jacobson 🇺🇦",
+			"screen_name": "internetstine",
+			"location": "Cambridge, MA",
+			"description": "Assistant Curator of Modern Books & Manuscripts @houghtonlib \n✍️ about cultural heritage, Slavica, sundry",
+			"url": "https://t.co/nZNYxM5TMI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZNYxM5TMI",
+							"expanded_url": "https://linktr.ee/cejacobson",
+							"display_url": "linktr.ee/cejacobson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3412,
+			"friends_count": 2155,
+			"listed_count": 28,
+			"created_at": "Thu Jun 30 08:27:18 +0000 2011",
+			"favourites_count": 47506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326660319/1646171266",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FEFFF7",
+			"profile_text_color": "0F0E0F",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "if you're not attending RBMS or you have a conflict during the conference, don't fret! we'll have one of our regularly scheduled meetings on June 26th at 8PM EST. If you're not already a member of the BBC, reach out to @wynkenhimself, @aravahshifra, or me for the zoom link!"
+	},
+	{
 		"created_at": "Tue May 17 22:49:57 +0000 2022",
 		"id": 1526695384948560000,
 		"id_str": "1526696554710675456",
