@@ -1,6 +1,887 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 23:48:09 +0000 2022",
+		"id": 1527435975626047500,
+		"id_str": "1527435975626047489",
+		"full_text": "@meganlcook i love everything about these tweets",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1527418491736838100,
+		"in_reply_to_status_id_str": "1527418491736838157",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10124,
+			"friends_count": 499,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook i love everything about these tweets"
+	},
+	{
+		"created_at": "Thu May 19 18:35:23 +0000 2022",
+		"id": 1527300563167240200,
+		"id_str": "1527357263622524936",
+		"full_text": "get a job doing what you love and you wont have to love anything for the rest of your life",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880157838,
+			"id_str": "880157838",
+			"name": "atrophy wife 🎀",
+			"screen_name": "zuza_real",
+			"location": "",
+			"description": "slavic doll ❤️ | gamedev | made @FlowersGame | more games here https://t.co/ilFmivGtmo | backup @zuza_unreal | she/her",
+			"url": "https://t.co/3TTtWdMh21",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TTtWdMh21",
+							"expanded_url": "https://instagram.com/zuza_real",
+							"display_url": "instagram.com/zuza_real",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ilFmivGtmo",
+							"expanded_url": "https://dreams.itch.io/",
+							"display_url": "dreams.itch.io",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 50310,
+			"friends_count": 1609,
+			"listed_count": 109,
+			"created_at": "Sun Oct 14 13:44:02 +0000 2012",
+			"favourites_count": 219771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7FF0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315962155301326848/k8GjXQb4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315962155301326848/k8GjXQb4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880157838/1602513419",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 481,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "get a job doing what you love and you wont have to love anything for the rest of your life"
+	},
+	{
+		"created_at": "Thu May 19 18:31:31 +0000 2022",
+		"id": 1527312353418956800,
+		"id_str": "1527356293199331329",
+		"full_text": "\"When we shrink the past...we are also shrinking the present, and narrowing the possibilities for the future.\" - Timothy Snyder on the educational gag orders sweeping the United States.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1726682706,
+			"id_str": "1726682706",
+			"name": "Jason Stanley",
+			"screen_name": "jasonintrator",
+			"location": "New Haven, CT",
+			"description": "Philosophy prof at Yale. Views my own. Have been known to tweet sarcastically. Speaking: https://t.co/VQTVA65bFX",
+			"url": "https://t.co/7e2EE4DzD1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7e2EE4DzD1",
+							"expanded_url": "http://www.jason-stanley.com",
+							"display_url": "jason-stanley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VQTVA65bFX",
+							"expanded_url": "http://tuesdayagency.com/jason-stanley/",
+							"display_url": "tuesdayagency.com/jason-stanley/",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 123443,
+			"friends_count": 2877,
+			"listed_count": 1235,
+			"created_at": "Tue Sep 03 21:37:28 +0000 2013",
+			"favourites_count": 143486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359670839453618176/PLK16Bnr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359670839453618176/PLK16Bnr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1726682706/1632788940",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 102,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"When we shrink the past...we are also shrinking the present, and narrowing the possibilities for the future.\" - Timothy Snyder on the educational gag orders sweeping the United States."
+	},
+	{
+		"created_at": "Thu May 19 18:30:26 +0000 2022",
+		"id": 1527338622055174100,
+		"id_str": "1527356017259925526",
+		"full_text": "*NEW TIME* Love the Peanuts comic strip, cartoon history, or printing history? Tune in May 20 at 10 am Pacific for a live unboxing of a treasure trove of nearly 200 Peanuts printing molds (#flongs) that just arrived in my office! And a quick history tour. https://t.co/op23IIVRqp https://t.co/SXdwwA94TP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "flongs",
+					"indices": [
+						189,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/op23IIVRqp",
+					"expanded_url": "https://youtu.be/6RMyiVDw41g",
+					"display_url": "youtu.be/6RMyiVDw41g",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527337724557942800,
+					"id_str": "1527337724557942794",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FTIxkXxUYAoWSqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTIxkXxUYAoWSqS.jpg",
+					"url": "https://t.co/SXdwwA94TP",
+					"display_url": "pic.twitter.com/SXdwwA94TP",
+					"expanded_url": "https://twitter.com/GlennF/status/1527338622055174157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527337724557942800,
+					"id_str": "1527337724557942794",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FTIxkXxUYAoWSqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTIxkXxUYAoWSqS.jpg",
+					"url": "https://t.co/SXdwwA94TP",
+					"display_url": "pic.twitter.com/SXdwwA94TP",
+					"expanded_url": "https://twitter.com/GlennF/status/1527338622055174157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527337792367255600,
+					"id_str": "1527337792367255570",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FTIxoUYUYBIogC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTIxoUYUYBIogC8.jpg",
+					"url": "https://t.co/SXdwwA94TP",
+					"display_url": "pic.twitter.com/SXdwwA94TP",
+					"expanded_url": "https://twitter.com/GlennF/status/1527338622055174157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8315692,
+			"id_str": "8315692",
+			"name": "Glenn Fleishman",
+			"screen_name": "GlennF",
+			"location": "Seattle, WA",
+			"description": "Type historian, Jeopardy champ, tech journalist. Please leave a message at the tone. Sign up for my low-volume mailing list! https://t.co/3fcFj51IOJ",
+			"url": "https://t.co/lMDLXSdwUp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMDLXSdwUp",
+							"expanded_url": "https://glenn.fun",
+							"display_url": "glenn.fun",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3fcFj51IOJ",
+							"expanded_url": "http://eepurl.com/gGIDRL",
+							"display_url": "eepurl.com/gGIDRL",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28559,
+			"friends_count": 5658,
+			"listed_count": 1587,
+			"created_at": "Mon Aug 20 21:39:39 +0000 2007",
+			"favourites_count": 244596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024087028332290048/AYADWFAS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024087028332290048/AYADWFAS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8315692/1602544248",
+			"profile_link_color": "331333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*NEW TIME* Love the Peanuts comic strip, cartoon history, or printing history? Tune in May 20 at 10 am Pacific for a live unboxing of a treasure trove of nearly 200 Peanuts printing molds (#flongs) that just arrived in my office! And a quick history tour. https://t.co/op23IIVRqp https://t.co/SXdwwA94TP"
+	},
+	{
+		"created_at": "Thu May 19 18:29:30 +0000 2022",
+		"id": 1527355785805811700,
+		"id_str": "1527355785805811712",
+		"full_text": "@transbookhistry Oh no!!! I’m so sorry.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527340719957954600,
+		"in_reply_to_status_id_str": "1527340719957954561",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10124,
+			"friends_count": 499,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry Oh no!!! I’m so sorry."
+	},
+	{
+		"created_at": "Thu May 19 16:17:06 +0000 2022",
+		"id": 1527320984407007200,
+		"id_str": "1527322464895655945",
+		"full_text": "IT LIVES!\n\nMy new book is out a month ahead of schedule, and it's beautiful!  30% off with the code 09BCARD through the @CornellPress website: https://t.co/OSVlo1b7rI https://t.co/c3EMXasDJP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CornellPress",
+					"name": "Cornell Press",
+					"id": 144853604,
+					"id_str": "144853604",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OSVlo1b7rI",
+					"expanded_url": "https://www.cornellpress.cornell.edu/book/9781501763656/how-to-do-things-with-dead-people/#bookTabs=1",
+					"display_url": "cornellpress.cornell.edu/book/978150176…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527320640482553900,
+					"id_str": "1527320640482553857",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FTIiB8oVsAEXUT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTIiB8oVsAEXUT4.jpg",
+					"url": "https://t.co/c3EMXasDJP",
+					"display_url": "pic.twitter.com/c3EMXasDJP",
+					"expanded_url": "https://twitter.com/AliceADailey/status/1527320984407007233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527320640482553900,
+					"id_str": "1527320640482553857",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FTIiB8oVsAEXUT4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTIiB8oVsAEXUT4.jpg",
+					"url": "https://t.co/c3EMXasDJP",
+					"display_url": "pic.twitter.com/c3EMXasDJP",
+					"expanded_url": "https://twitter.com/AliceADailey/status/1527320984407007233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1349748724847825000,
+			"id_str": "1349748724847824899",
+			"name": "Alice Dailey",
+			"screen_name": "AliceADailey",
+			"location": "",
+			"description": "Lit prof. Death, visual art, theory, Shakespeare, and miscellaneous other machinery.",
+			"url": "https://t.co/QR5mtkLq73",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QR5mtkLq73",
+							"expanded_url": "https://www.cornellpress.cornell.edu/book/9781501763656/how-to-do-things-with-dead-people/#bookTabs=",
+							"display_url": "cornellpress.cornell.edu/book/978150176…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 414,
+			"listed_count": 3,
+			"created_at": "Thu Jan 14 16:02:39 +0000 2021",
+			"favourites_count": 1870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377638888634781700/cAPB9Ebz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377638888634781700/cAPB9Ebz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1349748724847824899/1616189113",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 79,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IT LIVES!\n\nMy new book is out a month ahead of schedule, and it's beautiful!  30% off with the code 09BCARD through the @CornellPress website: https://t.co/OSVlo1b7rI https://t.co/c3EMXasDJP"
+	},
+	{
 		"created_at": "Thu May 19 00:44:36 +0000 2022",
 		"id": 1527080184498770000,
 		"id_str": "1527087792114761731",
