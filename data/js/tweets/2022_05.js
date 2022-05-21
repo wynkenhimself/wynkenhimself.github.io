@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 15:12:03 +0000 2022",
+		"id": 1527634911145885700,
+		"id_str": "1527668483344855040",
+		"full_text": "This is the world that the right is trying to create, doing all they can to make it unacceptable for LGBTQ people to be a part of public life. https://t.co/6FEn8AfpBg https://t.co/KE4XP6ITac",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6FEn8AfpBg",
+					"expanded_url": "https://twitter.com/gadyepstein/status/1527629063686434824",
+					"display_url": "twitter.com/gadyepstein/st…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527634907194970000,
+					"id_str": "1527634907194970112",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM_2rXX0AAEN4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM_2rXX0AAEN4h.jpg",
+					"url": "https://t.co/KE4XP6ITac",
+					"display_url": "pic.twitter.com/KE4XP6ITac",
+					"expanded_url": "https://twitter.com/ParkerMolloy/status/1527634911145885699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527634907194970000,
+					"id_str": "1527634907194970112",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM_2rXX0AAEN4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM_2rXX0AAEN4h.jpg",
+					"url": "https://t.co/KE4XP6ITac",
+					"display_url": "pic.twitter.com/KE4XP6ITac",
+					"expanded_url": "https://twitter.com/ParkerMolloy/status/1527634911145885699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1820,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527634907194876000,
+					"id_str": "1527634907194875904",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM_2rXWYAAJvyL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM_2rXWYAAJvyL.jpg",
+					"url": "https://t.co/KE4XP6ITac",
+					"display_url": "pic.twitter.com/KE4XP6ITac",
+					"expanded_url": "https://twitter.com/ParkerMolloy/status/1527634911145885699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1838,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 634734888,
+			"id_str": "634734888",
+			"name": "Parker Molloy",
+			"screen_name": "ParkerMolloy",
+			"location": "Chicago, IL",
+			"description": "Wife of @KaylaPekkala. Writer of the @readTPA newsletter (subscribe for free). Relevant links👇",
+			"url": "https://t.co/FCAN38rBAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FCAN38rBAI",
+							"expanded_url": "https://linktr.ee/parkermolloy",
+							"display_url": "linktr.ee/parkermolloy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248133,
+			"friends_count": 2539,
+			"listed_count": 2603,
+			"created_at": "Fri Jul 13 15:32:43 +0000 2012",
+			"favourites_count": 234979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1526732693169483776/7492aTvM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526732693169483776/7492aTvM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/634734888/1648732919",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527629063686434800,
+		"quoted_status_id_str": "1527629063686434824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6FEn8AfpBg",
+			"expanded": "https://twitter.com/gadyepstein/status/1527629063686434824",
+			"display": "twitter.com/gadyepstein/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 20 12:35:25 +0000 2022",
+			"id": 1527629063686434800,
+			"id_str": "1527629063686434824",
+			"full_text": "What a heartbreaking story. The anti-LGBTQ moral panic is enabling so much cruelty  https://t.co/iiLmwAHrrU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iiLmwAHrrU",
+						"expanded_url": "https://www.washingtonpost.com/education/2022/05/19/gay-florida-teacher-desantis-lgbtq/",
+						"display_url": "washingtonpost.com/education/2022…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24674124,
+				"id_str": "24674124",
+				"name": "Gady Epstein",
+				"screen_name": "gadyepstein",
+				"location": "Brooklyn and sometimes London",
+				"description": "The Economist's Eyewitness editor at 1843. Formerly China affairs and media editor. Views expressed may be the opposite of my employer’s",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69350,
+				"friends_count": 4062,
+				"listed_count": 1714,
+				"created_at": "Mon Mar 16 10:33:34 +0000 2009",
+				"favourites_count": 38780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1360060892201836544/_r42BF8Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360060892201836544/_r42BF8Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24674124/1427188919",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 339,
+			"favorite_count": 1003,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 419,
+		"favorite_count": 1030,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the world that the right is trying to create, doing all they can to make it unacceptable for LGBTQ people to be a part of public life. https://t.co/6FEn8AfpBg https://t.co/KE4XP6ITac"
+	},
+	{
 		"created_at": "Thu May 19 23:48:09 +0000 2022",
 		"id": 1527435975626047500,
 		"id_str": "1527435975626047489",
