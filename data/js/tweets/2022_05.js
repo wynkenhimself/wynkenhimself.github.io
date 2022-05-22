@@ -1,6 +1,1713 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 21 22:38:07 +0000 2022",
+		"id": 1528143127508406300,
+		"id_str": "1528143127508406272",
+		"full_text": "excited for this season’s episode of historians v journalists",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10128,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "excited for this season’s episode of historians v journalists"
+	},
+	{
+		"created_at": "Sat May 21 17:53:08 +0000 2022",
+		"id": 1528071408881901600,
+		"id_str": "1528071408881901568",
+		"full_text": "I am spending the day with My Autobiography of Carson McCullers and it is as astonishing of a book as everyone had told me. Looking forward to talking about it with a bunch of other bookish folk, especially queers and archivists at #RBMS22 and #BookishBookClub https://t.co/4GvtQfeSj0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RBMS22",
+					"indices": [
+						232,
+						239
+					]
+				},
+				{
+					"text": "BookishBookClub",
+					"indices": [
+						244,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4GvtQfeSj0",
+					"expanded_url": "https://twitter.com/internetstine/status/1526907906792341505",
+					"display_url": "twitter.com/internetstine/…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10128,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526907906792341500,
+		"quoted_status_id_str": "1526907906792341505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4GvtQfeSj0",
+			"expanded": "https://twitter.com/internetstine/status/1526907906792341505",
+			"display": "twitter.com/internetstine/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 18 12:49:48 +0000 2022",
+			"id": 1526907906792341500,
+			"id_str": "1526907906792341505",
+			"full_text": "thrilled that the #BookishBookClub is hosting a book discussion of #RBMS22 plenary speaker Jenn Shapland's book My Autobiography of Carson McCullers (2020).\n\nfind us on the pathable agenda for Thursday, June 23rd ✨ and order the book soon! https://t.co/SxPLicvs3Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BookishBookClub",
+						"indices": [
+							18,
+							34
+						]
+					},
+					{
+						"text": "RBMS22",
+						"indices": [
+							67,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1526907808813305900,
+						"id_str": "1526907808813305856",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FTCqj-0WUAAQaZ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTCqj-0WUAAQaZ0.jpg",
+						"url": "https://t.co/SxPLicvs3Y",
+						"display_url": "pic.twitter.com/SxPLicvs3Y",
+						"expanded_url": "https://twitter.com/internetstine/status/1526907906792341505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1092,
+								"h": 1070,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1092,
+								"h": 1070,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1526907808813305900,
+						"id_str": "1526907808813305856",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FTCqj-0WUAAQaZ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTCqj-0WUAAQaZ0.jpg",
+						"url": "https://t.co/SxPLicvs3Y",
+						"display_url": "pic.twitter.com/SxPLicvs3Y",
+						"expanded_url": "https://twitter.com/internetstine/status/1526907906792341505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1092,
+								"h": 1070,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1092,
+								"h": 1070,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 666,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 326660319,
+				"id_str": "326660319",
+				"name": "Christine Jacobson 🇺🇦",
+				"screen_name": "internetstine",
+				"location": "Cambridge, MA",
+				"description": "Assistant Curator of Modern Books & Manuscripts @houghtonlib \n✍️ about cultural heritage, Slavica, sundry",
+				"url": "https://t.co/nZNYxM5TMI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nZNYxM5TMI",
+								"expanded_url": "https://linktr.ee/cejacobson",
+								"display_url": "linktr.ee/cejacobson",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3414,
+				"friends_count": 2159,
+				"listed_count": 28,
+				"created_at": "Thu Jun 30 08:27:18 +0000 2011",
+				"favourites_count": 47593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10097,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479208926306611204/wTbVlayx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326660319/1646171266",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FEFFF7",
+				"profile_text_color": "0F0E0F",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am spending the day with My Autobiography of Carson McCullers and it is as astonishing of a book as everyone had told me. Looking forward to talking about it with a bunch of other bookish folk, especially queers and archivists at #RBMS22 and #BookishBookClub https://t.co/4GvtQfeSj0"
+	},
+	{
+		"created_at": "Sat May 21 17:48:28 +0000 2022",
+		"id": 1528047484290883600,
+		"id_str": "1528070232979423233",
+		"full_text": "“Correct our population for race” is just a hell of a thing to let people know you’re thinking. https://t.co/KKRD0FRX32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKRD0FRX32",
+					"expanded_url": "https://twitter.com/thefarmerjones/status/1528011632672137217",
+					"display_url": "twitter.com/thefarmerjones…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14308843,
+			"id_str": "14308843",
+			"name": "Kathleen Fitzpatrick",
+			"screen_name": "kfitz",
+			"location": "East Lansing, MI",
+			"description": "Director, Digital Humanities & Professor of English, MSU. Author of GENEROUS THINKING: A RADICAL APPROACH TO SAVING THE UNIVERSITY (Johns Hopkins UP, 2019).",
+			"url": "https://t.co/GBx3YI4zxH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GBx3YI4zxH",
+							"expanded_url": "https://kfitz.info",
+							"display_url": "kfitz.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11502,
+			"friends_count": 309,
+			"listed_count": 513,
+			"created_at": "Sat Apr 05 06:18:08 +0000 2008",
+			"favourites_count": 3901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168236986089574400/cOQY-CnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168236986089574400/cOQY-CnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14308843/1551874605",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1528011632672137200,
+		"quoted_status_id_str": "1528011632672137217",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KKRD0FRX32",
+			"expanded": "https://twitter.com/thefarmerjones/status/1528011632672137217",
+			"display": "twitter.com/thefarmerjones…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 21 13:55:36 +0000 2022",
+			"id": 1528011632672137200,
+			"id_str": "1528011632672137217",
+			"full_text": "https://t.co/usaWI7MhMK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1528011626183544800,
+						"id_str": "1528011626183544832",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FTSWem9WUAAQZ2I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTSWem9WUAAQZ2I.jpg",
+						"url": "https://t.co/usaWI7MhMK",
+						"display_url": "pic.twitter.com/usaWI7MhMK",
+						"expanded_url": "https://twitter.com/thefarmerjones/status/1528011632672137217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 543,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1528011626183544800,
+						"id_str": "1528011626183544832",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FTSWem9WUAAQZ2I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTSWem9WUAAQZ2I.jpg",
+						"url": "https://t.co/usaWI7MhMK",
+						"display_url": "pic.twitter.com/usaWI7MhMK",
+						"expanded_url": "https://twitter.com/thefarmerjones/status/1528011632672137217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 818,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 543,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39801402,
+				"id_str": "39801402",
+				"name": "Farmer Jones",
+				"screen_name": "thefarmerjones",
+				"location": "Tilling",
+				"description": "Slam Ed. Emeritus // OG LeBron Biographer // Racism Hater // Pretend Farmer // #SlamFam #WeAre #COYB #UTFT",
+				"url": "https://t.co/mQmliuq9IF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mQmliuq9IF",
+								"expanded_url": "https://www.goodreads.com/book/show/882588.King_James",
+								"display_url": "goodreads.com/book/show/8825…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12684,
+				"friends_count": 874,
+				"listed_count": 494,
+				"created_at": "Wed May 13 17:44:11 +0000 2009",
+				"favourites_count": 138727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 143238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090021381381726210/wQwhp4ms_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090021381381726210/wQwhp4ms_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39801402/1548716447",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Correct our population for race” is just a hell of a thing to let people know you’re thinking. https://t.co/KKRD0FRX32"
+	},
+	{
+		"created_at": "Sat May 21 16:22:52 +0000 2022",
+		"id": 1528030134984401000,
+		"id_str": "1528048689796767746",
+		"full_text": "Framing for arguments for and against student loan debt cancellation accept the wrong priors. Debt forgiveness is not a gift. It is a responsibility. We screwed up the system and if we don’t cancel the debt, it will weigh down political messaging and highered reforms.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1528029364612472800,
+		"in_reply_to_status_id_str": "1528029364612472832",
+		"in_reply_to_user_id": 148593548,
+		"in_reply_to_user_id_str": "148593548",
+		"in_reply_to_screen_name": "tressiemcphd",
+		"user": {
+			"id": 148593548,
+			"id_str": "148593548",
+			"name": "Tressie McMillan Cottom",
+			"screen_name": "tressiemcphd",
+			"location": "Chapel Hill, NC",
+			"description": "UNC professor & NYTimes Columnist.",
+			"url": "https://t.co/GYEAIa4In1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GYEAIa4In1",
+							"expanded_url": "https://linktr.ee/tressiemcphd",
+							"display_url": "linktr.ee/tressiemcphd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216775,
+			"friends_count": 4565,
+			"listed_count": 2207,
+			"created_at": "Thu May 27 03:06:44 +0000 2010",
+			"favourites_count": 53144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 304827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF3300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478009272978051075/m6BLYzwe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478009272978051075/m6BLYzwe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148593548/1644609705",
+			"profile_link_color": "AB241D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7900A",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 815,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Framing for arguments for and against student loan debt cancellation accept the wrong priors. Debt forgiveness is not a gift. It is a responsibility. We screwed up the system and if we don’t cancel the debt, it will weigh down political messaging and highered reforms."
+	},
+	{
+		"created_at": "Sat May 21 16:21:16 +0000 2022",
+		"id": 1528048290704593000,
+		"id_str": "1528048290704592898",
+		"full_text": "@transbookhistry “Know just enough to be a danger to existence!!” is my Gemini rising motto https://t.co/zrlpmeUZPg",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zrlpmeUZPg",
+					"expanded_url": "https://twitter.com/chaninicholas/status/1527822279031156736",
+					"display_url": "twitter.com/chaninicholas/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1528044554254942200,
+		"in_reply_to_status_id_str": "1528044554254942215",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10128,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527822279031156700,
+		"quoted_status_id_str": "1527822279031156736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zrlpmeUZPg",
+			"expanded": "https://twitter.com/chaninicholas/status/1527822279031156736",
+			"display": "twitter.com/chaninicholas/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 21 01:23:11 +0000 2022",
+			"id": 1527822279031156700,
+			"id_str": "1527822279031156736",
+			"full_text": "WELCOME GEMINI SEASON! CHAOS! DATA! CHARM OFFENSIVE! LOSE INTEREST WHEN ANYONE SHOWS INTEREST! 10000 OPEN TABS! TMI! QUESTIONS! SELF INDUCED ANXIETY FROM READING EVERY ARTICLE! SQUIRREL! MIND MAPS! AIR TABLES! KNOW JUST ENOUGH TO BE A DANGER TO EXISTENCE! LIFE IS SHORT! HAVE FUN!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67461284,
+				"id_str": "67461284",
+				"name": "Chani Nicholas",
+				"screen_name": "chaninicholas",
+				"location": "",
+				"description": "download the CHANI app 4 iPhone @appchani https://t.co/n7ahq30TbZ https://t.co/j4QKT4LVcp You Were Born for This P she/her",
+				"url": "https://t.co/lg53MKDX2C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lg53MKDX2C",
+								"expanded_url": "https://chaninicholas.com/you-were-born-for-this/",
+								"display_url": "chaninicholas.com/you-were-born-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/n7ahq30TbZ",
+								"expanded_url": "https://apps.apple.com/us/app/chani-app/id1532791252",
+								"display_url": "apps.apple.com/us/app/chani-a…",
+								"indices": [
+									42,
+									65
+								]
+							},
+							{
+								"url": "https://t.co/j4QKT4LVcp",
+								"expanded_url": "http://www.chaninicholas.com",
+								"display_url": "chaninicholas.com",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 84313,
+				"friends_count": 773,
+				"listed_count": 400,
+				"created_at": "Thu Aug 20 23:50:22 +0000 2009",
+				"favourites_count": 30586,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19478,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193999833935175680/vl0zwc9f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193999833935175680/vl0zwc9f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67461284/1608589392",
+				"profile_link_color": "0CA857",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1960,
+			"favorite_count": 8044,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@transbookhistry “Know just enough to be a danger to existence!!” is my Gemini rising motto https://t.co/zrlpmeUZPg"
+	},
+	{
+		"created_at": "Sat May 21 16:18:04 +0000 2022",
+		"id": 1527990596044001300,
+		"id_str": "1528047482294394880",
+		"full_text": "OUR STATEMENT:\n\nThe Foreign Press Association, Africa registers its displeasure against media outlets using images of black people alongside stories of the #monkeypox outbreak in North America and the United Kingdom. https://t.co/u32yWLELJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "monkeypox",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527990060280316000,
+					"id_str": "1527990060280315904",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FTSC3TtWAAAv5hW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTSC3TtWAAAv5hW.jpg",
+					"url": "https://t.co/u32yWLELJg",
+					"display_url": "pic.twitter.com/u32yWLELJg",
+					"expanded_url": "https://twitter.com/FPA_Africa/status/1527990596044001282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527990060280316000,
+					"id_str": "1527990060280315904",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FTSC3TtWAAAv5hW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTSC3TtWAAAv5hW.jpg",
+					"url": "https://t.co/u32yWLELJg",
+					"display_url": "pic.twitter.com/u32yWLELJg",
+					"expanded_url": "https://twitter.com/FPA_Africa/status/1527990596044001282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114264077117816800,
+			"id_str": "1114264077117816832",
+			"name": "FOREIGN PRESS ASSOCIATION, AFRICA",
+			"screen_name": "FPA_Africa",
+			"location": "Africa",
+			"description": "Professional Body for Journalists Covering AFRICA for the Foreign Media. \n\nPan African, Objective and Non-Partisan.\n\n\nChair: @VOA_Wandera",
+			"url": "https://t.co/UQ4Fu9JdJe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UQ4Fu9JdJe",
+							"expanded_url": "https://foreignpressafrica.org",
+							"display_url": "foreignpressafrica.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5352,
+			"friends_count": 386,
+			"listed_count": 31,
+			"created_at": "Fri Apr 05 20:30:32 +0000 2019",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280388062023946241/94pdJybY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280388062023946241/94pdJybY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114264077117816832/1623255960",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1770,
+		"favorite_count": 2942,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OUR STATEMENT:\n\nThe Foreign Press Association, Africa registers its displeasure against media outlets using images of black people alongside stories of the #monkeypox outbreak in North America and the United Kingdom. https://t.co/u32yWLELJg"
+	},
+	{
+		"created_at": "Sat May 21 16:16:12 +0000 2022",
+		"id": 1528045336039669800,
+		"id_str": "1528047012125483008",
+		"full_text": "The Haiti story might be the most powerful way to drive the point home about what anti-blackness means and how deeply and powerfully it has disfigured the life of the entire modern world--and how big and comprehensive the lies told to conceal it have been. 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185413913,
+			"id_str": "185413913",
+			"name": "Timothy Burke",
+			"screen_name": "swarthmoreburke",
+			"location": "Swarthmore College",
+			"description": "Professor of History at Swarthmore College.",
+			"url": "https://t.co/olNgRDW4nS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/olNgRDW4nS",
+							"expanded_url": "http://timothyburke.substack.com",
+							"display_url": "timothyburke.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5017,
+			"friends_count": 1361,
+			"listed_count": 196,
+			"created_at": "Tue Aug 31 23:00:56 +0000 2010",
+			"favourites_count": 3740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987531287354380288/MncM9tu0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987531287354380288/MncM9tu0_normal.jpg",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 386,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Haiti story might be the most powerful way to drive the point home about what anti-blackness means and how deeply and powerfully it has disfigured the life of the entire modern world--and how big and comprehensive the lies told to conceal it have been. 1/"
+	},
+	{
+		"created_at": "Sat May 21 14:13:17 +0000 2022",
+		"id": 1528003936803868700,
+		"id_str": "1528016079347494913",
+		"full_text": "A failed state. An aid trap. The modern world’s first nation born of a slave revolt.\n\nWe just published an investigation on an overlooked part of history, examining what might have been — if Haiti had not been looted since its birth. Here's what we found. https://t.co/B0ZHFaf33q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B0ZHFaf33q",
+					"expanded_url": "https://nyti.ms/3G4evwx",
+					"display_url": "nyti.ms/3G4evwx",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807095,
+			"id_str": "807095",
+			"name": "The New York Times",
+			"screen_name": "nytimes",
+			"location": "New York City",
+			"description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+			"url": "http://t.co/ahvuWqicF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahvuWqicF9",
+							"expanded_url": "http://www.nytimes.com/",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ghL9OoYKMM",
+							"expanded_url": "http://nyti.ms/2FVHq9v",
+							"display_url": "nyti.ms/2FVHq9v",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 53066006,
+			"friends_count": 877,
+			"listed_count": 215495,
+			"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+			"favourites_count": 18926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 472638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+			"profile_link_color": "607696",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2883,
+		"favorite_count": 6665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A failed state. An aid trap. The modern world’s first nation born of a slave revolt.\n\nWe just published an investigation on an overlooked part of history, examining what might have been — if Haiti had not been looted since its birth. Here's what we found. https://t.co/B0ZHFaf33q"
+	},
+	{
+		"created_at": "Sat May 21 03:08:20 +0000 2022",
+		"id": 1527848740685594600,
+		"id_str": "1527848740685594624",
+		"full_text": "@DevinFitzger @BeineckeLibrary 🎉🎉 congrats to you and Yale, they’ve got no idea how much they’re going to learn from you",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DevinFitzger",
+					"name": "Devin Fitzgerald",
+					"id": 1390140696,
+					"id_str": "1390140696",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BeineckeLibrary",
+					"name": "Beinecke Library",
+					"id": 34720331,
+					"id_str": "34720331",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527663246517444600,
+		"in_reply_to_status_id_str": "1527663246517444609",
+		"in_reply_to_user_id": 1390140696,
+		"in_reply_to_user_id_str": "1390140696",
+		"in_reply_to_screen_name": "DevinFitzger",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10128,
+			"friends_count": 500,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DevinFitzger @BeineckeLibrary 🎉🎉 congrats to you and Yale, they’ve got no idea how much they’re going to learn from you"
+	},
+	{
+		"created_at": "Sat May 21 03:05:15 +0000 2022",
+		"id": 1527669237300478000,
+		"id_str": "1527847966316408832",
+		"full_text": "@NEH_PresAccess Job 2) Exper managing cultural heritage collections, particularly related to conservation, collections care, collections management, museum studies, or library &amp; info science.\nhttps://t.co/Mk3GZAlLH1 \nDue June 15 \n2/3",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NEH_PresAccess",
+					"name": "NEH Pres Access",
+					"id": 158825032,
+					"id_str": "158825032",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mk3GZAlLH1",
+					"expanded_url": "https://www.usajobs.gov/job/655425600",
+					"display_url": "usajobs.gov/job/655425600",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1527668519667736600,
+		"in_reply_to_status_id_str": "1527668519667736577",
+		"in_reply_to_user_id": 14119160,
+		"in_reply_to_user_id_str": "14119160",
+		"in_reply_to_screen_name": "SheilaABrennan",
+		"user": {
+			"id": 14119160,
+			"id_str": "14119160",
+			"name": "Sheila A Brennan",
+			"screen_name": "SheilaABrennan",
+			"location": "NoVA",
+			"description": "Digital public historian & author of Stamping American Memory | museums, collecting, DH | birding, running, eating, cooking | outdoorsy | views mine!",
+			"url": "https://t.co/fvMZakw91h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fvMZakw91h",
+							"expanded_url": "http://sheilabrennan.org",
+							"display_url": "sheilabrennan.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3426,
+			"friends_count": 800,
+			"listed_count": 222,
+			"created_at": "Tue Mar 11 01:00:02 +0000 2008",
+			"favourites_count": 3733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8EAFD2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035506167919923201/ZWxjAXUP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035506167919923201/ZWxjAXUP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14119160/1642293859",
+			"profile_link_color": "855151",
+			"profile_sidebar_border_color": "E0FF91",
+			"profile_sidebar_fill_color": "D4D796",
+			"profile_text_color": "3F3F3F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NEH_PresAccess Job 2) Exper managing cultural heritage collections, particularly related to conservation, collections care, collections management, museum studies, or library &amp; info science.\nhttps://t.co/Mk3GZAlLH1 \nDue June 15 \n2/3"
+	},
+	{
 		"created_at": "Fri May 20 15:12:03 +0000 2022",
 		"id": 1527634911145885700,
 		"id_str": "1527668483344855040",
