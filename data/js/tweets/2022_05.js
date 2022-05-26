@@ -1,6 +1,1475 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 02:02:55 +0000 2022",
+		"id": 1529490117924118500,
+		"id_str": "1529644215738802177",
+		"full_text": "What people often get wrong about hope as a discipline is that it’s not about passivity. It isn’t about sitting &amp; wishing that things will be different tomorrow. It’s about believing in the power of yourself, your people, your crew, your communities, and never backing down. https://t.co/1CX22AiESt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529489779745865700,
+					"id_str": "1529489779745865729",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FTnW2eFXwAE5J9K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTnW2eFXwAE5J9K.jpg",
+					"url": "https://t.co/1CX22AiESt",
+					"display_url": "pic.twitter.com/1CX22AiESt",
+					"expanded_url": "https://twitter.com/monicatea2/status/1529490117924118529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529489779745865700,
+					"id_str": "1529489779745865729",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FTnW2eFXwAE5J9K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTnW2eFXwAE5J9K.jpg",
+					"url": "https://t.co/1CX22AiESt",
+					"display_url": "pic.twitter.com/1CX22AiESt",
+					"expanded_url": "https://twitter.com/monicatea2/status/1529490117924118529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 344824686,
+			"id_str": "344824686",
+			"name": "Monica Trinidad",
+			"screen_name": "monicatea2",
+			"location": "Chicago",
+			"description": "🎙️@litreviewchi season 4 now in session!🎙️\nVisual artist & strategist: @justseeds ⋄ @forthepeoplechi ⋄ @3wave\nShe/they pronouns",
+			"url": "https://t.co/hNF88xiAnb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hNF88xiAnb",
+							"expanded_url": "http://monicatrinidad.com",
+							"display_url": "monicatrinidad.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7480,
+			"friends_count": 653,
+			"listed_count": 135,
+			"created_at": "Fri Jul 29 17:01:32 +0000 2011",
+			"favourites_count": 39962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1459674687332655108/TEBR-qkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459674687332655108/TEBR-qkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/344824686/1584822300",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 817,
+		"favorite_count": 2442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What people often get wrong about hope as a discipline is that it’s not about passivity. It isn’t about sitting &amp; wishing that things will be different tomorrow. It’s about believing in the power of yourself, your people, your crew, your communities, and never backing down. https://t.co/1CX22AiESt"
+	},
+	{
+		"created_at": "Thu May 26 01:49:07 +0000 2022",
+		"id": 1529627221878620200,
+		"id_str": "1529640746399285250",
+		"full_text": "BREAKING: Oklahoma's governor just signed into law a bill that bans abortion entirely, effective immediately.\n\nThis ban deputizes private citizens to act as bounty hunters and sue friends, family, and anyone else assisting someone in getting an abortion.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13393052,
+			"id_str": "13393052",
+			"name": "ACLU",
+			"screen_name": "ACLU",
+			"location": "50 states, DC, & Puerto Rico",
+			"description": "The ACLU is a nonprofit, nonpartisan, legal and advocacy 501(c)(4) organization. Visit our site for more about us and our affiliated org, the ACLU Foundation.",
+			"url": "https://t.co/fGNq6id3qx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fGNq6id3qx",
+							"expanded_url": "http://www.aclu.org",
+							"display_url": "aclu.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1992466,
+			"friends_count": 5626,
+			"listed_count": 15274,
+			"created_at": "Tue Feb 12 16:27:34 +0000 2008",
+			"favourites_count": 21288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 59598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3A7CC2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352017274769698820/EJvvRU7p_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352017274769698820/EJvvRU7p_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13393052/1652467047",
+			"profile_link_color": "0782ED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 624,
+		"favorite_count": 884,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: Oklahoma's governor just signed into law a bill that bans abortion entirely, effective immediately.\n\nThis ban deputizes private citizens to act as bounty hunters and sue friends, family, and anyone else assisting someone in getting an abortion."
+	},
+	{
+		"created_at": "Wed May 25 23:23:33 +0000 2022",
+		"id": 1529604111607509000,
+		"id_str": "1529604111607509002",
+		"full_text": "Exum is right: The courts aren’t going to shift anytime soon. Which means yes, gun safety. But also: we need to prioritize building a judiciary that will shift this deadly ethos on everything. https://t.co/a5lQ8HdzXf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a5lQ8HdzXf",
+					"expanded_url": "https://twitter.com/exumam/status/1529566224081887239",
+					"display_url": "twitter.com/exumam/status/…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10129,
+			"friends_count": 499,
+			"listed_count": 385,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529566224081887200,
+		"quoted_status_id_str": "1529566224081887239",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a5lQ8HdzXf",
+			"expanded": "https://twitter.com/exumam/status/1529566224081887239",
+			"display": "twitter.com/exumam/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 25 20:53:00 +0000 2022",
+			"id": 1529566224081887200,
+			"id_str": "1529566224081887239",
+			"full_text": "It’s going to get worse before it gets better, folks. Our kids are going to grow up facing levels of gun violence that would have been unfathomable to me at their ages. We need to start preparing our children for guns — and our sick gun culture. https://t.co/sM9OltuPU9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sM9OltuPU9",
+						"expanded_url": "https://www.theatlantic.com/ideas/archive/2022/05/america-gun-ownership-laws-culture-mass-shootings/638430/",
+						"display_url": "theatlantic.com/ideas/archive/…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19190572,
+				"id_str": "19190572",
+				"name": "Andrew Exum",
+				"screen_name": "ExumAM",
+				"location": "de Château Nooga",
+				"description": "Raised in the woods so's I knew ev'ry tree. Tweeting in a personal capacity. RTs & links ≠ endorsements.",
+				"url": "https://t.co/A7mNbHTGQO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A7mNbHTGQO",
+								"expanded_url": "https://www.theatlantic.com/author/andrew-exum/",
+								"display_url": "theatlantic.com/author/andrew-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54067,
+				"friends_count": 395,
+				"listed_count": 1610,
+				"created_at": "Mon Jan 19 16:54:39 +0000 2009",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40118,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173239035/legohead_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173239035/legohead_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19190572/1375543573",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exum is right: The courts aren’t going to shift anytime soon. Which means yes, gun safety. But also: we need to prioritize building a judiciary that will shift this deadly ethos on everything. https://t.co/a5lQ8HdzXf"
+	},
+	{
+		"created_at": "Wed May 25 16:59:57 +0000 2022",
+		"id": 1529435497395015700,
+		"id_str": "1529507575187877893",
+		"full_text": "This event looks incredibly valuable for anyone wanting to learn about applying for a library/archives position at the Smithsonian. I suspect much of the info will be useful for federal jobs in general. https://t.co/qTIzpKbfqC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qTIzpKbfqC",
+					"expanded_url": "https://twitter.com/SILibraries/status/1528828143653556224",
+					"display_url": "twitter.com/SILibraries/st…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15842692,
+			"id_str": "15842692",
+			"name": "Jennifer Serventi",
+			"screen_name": "JenServenti",
+			"location": "Washington, DC",
+			"description": "Civil servant & friend of the digital humanities, food trucks, churros, ice cream, & cheese.\r\n\r\nFavoriting is a reminder to return to read it later--that's all.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4315,
+			"friends_count": 3332,
+			"listed_count": 217,
+			"created_at": "Wed Aug 13 21:28:31 +0000 2008",
+			"favourites_count": 27269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9FA6A6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/630355583/twitterimage_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/630355583/twitterimage_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15842692/1401674520",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C4C9C1",
+			"profile_text_color": "0D020D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1528828143653556200,
+		"quoted_status_id_str": "1528828143653556224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qTIzpKbfqC",
+			"expanded": "https://twitter.com/SILibraries/status/1528828143653556224",
+			"display": "twitter.com/SILibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 23 20:00:08 +0000 2022",
+			"id": 1528828143653556200,
+			"id_str": "1528828143653556224",
+			"full_text": "🚨Just announced! Next week, we're talking JOBS with director @evangelestia &amp; @BHLProgDirector . \n\nThey'll talk about libraries &amp; archives opportunities at the Smithsonian &amp; pass along some tips &amp; tricks for applicants.\n\n📆 LIVE 6/1 at 2 pm ET: https://t.co/6hjzllV6QF https://t.co/LUJgrTjSWx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "evangelestia",
+						"name": "Tamar Evangelestia-Dougherty",
+						"id": 992462900643147800,
+						"id_str": "992462900643147777",
+						"indices": [
+							61,
+							74
+						]
+					},
+					{
+						"screen_name": "BHLProgDirector",
+						"name": "Martin R. Kalfatovic",
+						"id": 796483497078575100,
+						"id_str": "796483497078575104",
+						"indices": [
+							81,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6hjzllV6QF",
+						"expanded_url": "http://s.si.edu/SLA-Job-Event",
+						"display_url": "s.si.edu/SLA-Job-Event",
+						"indices": [
+							259,
+							282
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1528828141216702500,
+						"id_str": "1528828141216702472",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/FTd9GCfXoAgne5N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTd9GCfXoAgne5N.jpg",
+						"url": "https://t.co/LUJgrTjSWx",
+						"display_url": "pic.twitter.com/LUJgrTjSWx",
+						"expanded_url": "https://twitter.com/SILibraries/status/1528828143653556224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1528828141216702500,
+						"id_str": "1528828141216702472",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/FTd9GCfXoAgne5N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTd9GCfXoAgne5N.jpg",
+						"url": "https://t.co/LUJgrTjSWx",
+						"display_url": "pic.twitter.com/LUJgrTjSWx",
+						"expanded_url": "https://twitter.com/SILibraries/status/1528828143653556224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15092914,
+				"id_str": "15092914",
+				"name": "Smithsonian Libraries and Archives",
+				"screen_name": "SILibraries",
+				"location": "Washington, DC",
+				"description": "A system of 21 branch libraries and an institutional archives (@SmithsonianArch) that support @Smithsonian & researchers worldwide. \n\nLegal: https://t.co/ejF5QdRIOA",
+				"url": "https://t.co/lnei6tktkP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lnei6tktkP",
+								"expanded_url": "http://librariesarchives.si.edu",
+								"display_url": "librariesarchives.si.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ejF5QdRIOA",
+								"expanded_url": "http://si.edu/Termsofuse",
+								"display_url": "si.edu/Termsofuse",
+								"indices": [
+									141,
+									164
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 79933,
+				"friends_count": 957,
+				"listed_count": 1995,
+				"created_at": "Thu Jun 12 03:57:19 +0000 2008",
+				"favourites_count": 8644,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17634,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336313609304084488/eHYBP8wN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336313609304084488/eHYBP8wN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15092914/1607435404",
+				"profile_link_color": "0592A5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A6E05C",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This event looks incredibly valuable for anyone wanting to learn about applying for a library/archives position at the Smithsonian. I suspect much of the info will be useful for federal jobs in general. https://t.co/qTIzpKbfqC"
+	},
+	{
+		"created_at": "Wed May 25 16:59:46 +0000 2022",
+		"id": 1529454110184980500,
+		"id_str": "1529507531273424899",
+		"full_text": "Library friends, if you're attending ALA Annual this year and work w/ incarcerated persons could you holler? A dear friend is on a panel and I'd love to connect them with someone doing this good work. DMs are open. Plz RT #librarians #librarylife #librarytwitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "librarians",
+					"indices": [
+						222,
+						233
+					]
+				},
+				{
+					"text": "librarylife",
+					"indices": [
+						234,
+						246
+					]
+				},
+				{
+					"text": "librarytwitter",
+					"indices": [
+						247,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7382632,
+			"id_str": "7382632",
+			"name": "Derrick",
+			"screen_name": "geekandahalf",
+			"location": "D.C.",
+			"description": "Librarian | Writer | Art | Tacos | Donuts | Dudes | Digital humanities | SoCal to NOLA | Meme hater | He/Him | Loves neighbor |\"I shall be free, someday.\"",
+			"url": "https://t.co/oWYrDx4XC9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oWYrDx4XC9",
+							"expanded_url": "http://dnolanjefferson.com",
+							"display_url": "dnolanjefferson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10548,
+			"friends_count": 2972,
+			"listed_count": 422,
+			"created_at": "Tue Jul 10 20:18:54 +0000 2007",
+			"favourites_count": 173224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 138423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/554656646534676480/7uwHhQge_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/554656646534676480/7uwHhQge_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7382632/1559847967",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Library friends, if you're attending ALA Annual this year and work w/ incarcerated persons could you holler? A dear friend is on a panel and I'd love to connect them with someone doing this good work. DMs are open. Plz RT #librarians #librarylife #librarytwitter"
+	},
+	{
+		"created_at": "Wed May 25 15:00:08 +0000 2022",
+		"id": 1529476263055958000,
+		"id_str": "1529477423519125509",
+		"full_text": "You know who doesn't get a \"Memorial Day Recess\"? Families and Funeral homes in Uvalde. https://t.co/2kVNHxHxTk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2kVNHxHxTk",
+					"expanded_url": "https://twitter.com/MacFarlaneNews/status/1529462846358269955",
+					"display_url": "twitter.com/MacFarlaneNews…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1261415036033081300,
+			"id_str": "1261415036033081345",
+			"name": "Kadin Henningsen",
+			"screen_name": "transbookhistry",
+			"location": "Central Illinois",
+			"description": "PhD Candidate | Trans Book History & 19C Am. Lit. | former sub-sub-librarian | Owner of Meanwhile...Letterpress(@meanwhilelette1) | he/him | Opinions my own.",
+			"url": "https://t.co/jKS7dAtEKE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jKS7dAtEKE",
+							"expanded_url": "https://english.illinois.edu/directory/profile/kjh3",
+							"display_url": "english.illinois.edu/directory/prof…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1245,
+			"friends_count": 1313,
+			"listed_count": 4,
+			"created_at": "Fri May 15 21:56:03 +0000 2020",
+			"favourites_count": 23900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261415036033081345/1636931261",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529462846358270000,
+		"quoted_status_id_str": "1529462846358269955",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2kVNHxHxTk",
+			"expanded": "https://twitter.com/MacFarlaneNews/status/1529462846358269955",
+			"display": "twitter.com/MacFarlaneNews…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 25 14:02:13 +0000 2022",
+			"id": 1529462846358270000,
+			"id_str": "1529462846358269955",
+			"full_text": "NEW:  Senate Judiciary Chairman Dick Durbin (D-IL) says gun control measures would likely not be taken up until after Senate Memorial Day recess",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20280088,
+				"id_str": "20280088",
+				"name": "Scott MacFarlane",
+				"screen_name": "MacFarlaneNews",
+				"location": "Washington, D.C.",
+				"description": "CBS News Congressional Correspondent - Syracuse University alum - DM open",
+				"url": "https://t.co/VjZV97rCzC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VjZV97rCzC",
+								"expanded_url": "https://www.viacomcbspressexpress.com/cbs-news-and-stations/releases/view?id=58884",
+								"display_url": "viacomcbspressexpress.com/cbs-news-and-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 259083,
+				"friends_count": 894,
+				"listed_count": 2087,
+				"created_at": "Fri Feb 06 22:54:40 +0000 2009",
+				"favourites_count": 31978,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50831,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4466EB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830216416213213184/4O1KzJ24_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830216416213213184/4O1KzJ24_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20280088/1627000017",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "5168E8",
+				"profile_sidebar_fill_color": "BAC1E3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 593,
+			"favorite_count": 1639,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You know who doesn't get a \"Memorial Day Recess\"? Families and Funeral homes in Uvalde. https://t.co/2kVNHxHxTk"
+	},
+	{
+		"created_at": "Wed May 25 14:59:34 +0000 2022",
+		"id": 1529473194205356000,
+		"id_str": "1529477278153031680",
+		"full_text": "We're not fucking goldfish, we remember. We remember the work, the fear, and the elation when we pulled it off. The fleeting belief that something might get done. We did our part, do fucking yours.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1529472709884772400,
+		"in_reply_to_status_id_str": "1529472709884772352",
+		"in_reply_to_user_id": 8119452,
+		"in_reply_to_user_id_str": "8119452",
+		"in_reply_to_screen_name": "dansinker",
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "Chicago, IL",
+			"description": "I write things and make stuff. Cohost of @sayswhopodcast, did https://t.co/04UGuYfGYv, formerly @opennews, made @MayorEmanuel, founder of Punk Planet (RIP).",
+			"url": "https://t.co/3Sublnv9N5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Sublnv9N5",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/04UGuYfGYv",
+							"expanded_url": "http://impeachment.fyi",
+							"display_url": "impeachment.fyi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31707,
+			"friends_count": 4330,
+			"listed_count": 1255,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 123759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We're not fucking goldfish, we remember. We remember the work, the fear, and the elation when we pulled it off. The fleeting belief that something might get done. We did our part, do fucking yours."
+	},
+	{
+		"created_at": "Wed May 25 14:59:31 +0000 2022",
+		"id": 1529472709884772400,
+		"id_str": "1529477265448378371",
+		"full_text": "The thing about \"Americans can cast their vote in November\" is that in November 2020 and then in a runoff in Georgia in January 2021, we *did* and we gave them a majority, a slim one but a majority, and at some point they could maybe prove that they deserved those votes. https://t.co/ZXbhBu2Bdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZXbhBu2Bdw",
+					"expanded_url": "https://twitter.com/JakeSherman/status/1529468474413694976",
+					"display_url": "twitter.com/JakeSherman/st…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "Chicago, IL",
+			"description": "I write things and make stuff. Cohost of @sayswhopodcast, did https://t.co/04UGuYfGYv, formerly @opennews, made @MayorEmanuel, founder of Punk Planet (RIP).",
+			"url": "https://t.co/3Sublnv9N5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Sublnv9N5",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/04UGuYfGYv",
+							"expanded_url": "http://impeachment.fyi",
+							"display_url": "impeachment.fyi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31707,
+			"friends_count": 4330,
+			"listed_count": 1255,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 123759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529468474413695000,
+		"quoted_status_id_str": "1529468474413694976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZXbhBu2Bdw",
+			"expanded": "https://twitter.com/JakeSherman/status/1529468474413694976",
+			"display": "twitter.com/JakeSherman/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 25 14:24:35 +0000 2022",
+			"id": 1529468474413695000,
+			"id_str": "1529468474413694976",
+			"full_text": "🚨SCHUMER signals NO gun bill imminent\n\nAmericans can make a choice, Schumer says. “Americans can cast their vote in November” based on how people stand on guns. \n\nSCHUMER says Republicans can work with Democrats now to craft a bill. He’s skeptical. “Unlikely, burnt in the past”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21252618,
+				"id_str": "21252618",
+				"name": "Jake Sherman",
+				"screen_name": "JakeSherman",
+				"location": "Washington",
+				"description": "Founder of @punchbowlnews. @nbcnews/@msnbc. Phish/Dead fan. Author of NYT best seller, “The Hill To Die On”.",
+				"url": "https://t.co/gLn9pdpYUe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gLn9pdpYUe",
+								"expanded_url": "http://punchbowl.news",
+								"display_url": "punchbowl.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 350376,
+				"friends_count": 3795,
+				"listed_count": 5313,
+				"created_at": "Wed Feb 18 23:01:53 +0000 2009",
+				"favourites_count": 2609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 79023,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1471636921176801282/4J1MH9WE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471636921176801282/4J1MH9WE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21252618/1610552279",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 610,
+			"favorite_count": 2301,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 88,
+		"favorite_count": 366,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The thing about \"Americans can cast their vote in November\" is that in November 2020 and then in a runoff in Georgia in January 2021, we *did* and we gave them a majority, a slim one but a majority, and at some point they could maybe prove that they deserved those votes. https://t.co/ZXbhBu2Bdw"
+	},
+	{
 		"created_at": "Wed May 25 00:53:49 +0000 2022",
 		"id": 1529207297691603000,
 		"id_str": "1529264438821396481",
@@ -28,7 +1497,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Kate Arden McMullen",
 			"screen_name": "KateAMcMullen",
 			"location": "Spartanburg, SC",
-			"description": "she/her 🌞 Managing Editor @HubCityPress | 🏳️‍🌈Carolinian | 📝@PaperDarts @THEBOILER_ @carvezine @foglifterpress @pinchjournal I tweet my opinions, not HCP's",
+			"description": "she/her 🌞 Managing Editor @HubCityPress | 🏳️🌈Carolinian | 📝@PaperDarts @THEBOILER_ @carvezine @foglifterpress @pinchjournal I tweet my opinions, not HCP's",
 			"url": "https://t.co/RDHjfjQOOK",
 			"entities": {
 				"url": {
