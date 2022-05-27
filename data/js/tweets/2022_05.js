@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 23:41:59 +0000 2022",
+		"id": 1529915387634143200,
+		"id_str": "1529971137978982416",
+		"full_text": "Entire U.S. Police Force Flees Country After Hearing Gunman Inside Nation https://t.co/zknaoDPclG https://t.co/9vp3JlMFxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zknaoDPclG",
+					"expanded_url": "https://bit.ly/3NF8CbK",
+					"display_url": "bit.ly/3NF8CbK",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529915384169648000,
+					"id_str": "1529915384169648139",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FTtZ76HWUAs2h4K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTtZ76HWUAs2h4K.jpg",
+					"url": "https://t.co/9vp3JlMFxH",
+					"display_url": "pic.twitter.com/9vp3JlMFxH",
+					"expanded_url": "https://twitter.com/TheOnion/status/1529915387634143248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529915384169648000,
+					"id_str": "1529915384169648139",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FTtZ76HWUAs2h4K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTtZ76HWUAs2h4K.jpg",
+					"url": "https://t.co/9vp3JlMFxH",
+					"display_url": "pic.twitter.com/9vp3JlMFxH",
+					"expanded_url": "https://twitter.com/TheOnion/status/1529915387634143248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14075928,
+			"id_str": "14075928",
+			"name": "The Onion",
+			"screen_name": "TheOnion",
+			"location": "",
+			"description": "America's Finest News Source.",
+			"url": "https://t.co/McSMshhidB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/McSMshhidB",
+							"expanded_url": "https://www.theonion.com/",
+							"display_url": "theonion.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11830757,
+			"friends_count": 7,
+			"listed_count": 67821,
+			"created_at": "Tue Mar 04 02:48:37 +0000 2008",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 89098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1617209332",
+			"profile_link_color": "327144",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12304,
+		"favorite_count": 61544,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Entire U.S. Police Force Flees Country After Hearing Gunman Inside Nation https://t.co/zknaoDPclG https://t.co/9vp3JlMFxH"
+	},
+	{
+		"created_at": "Thu May 26 23:37:06 +0000 2022",
+		"id": 1529951580245610500,
+		"id_str": "1529969909849112577",
+		"full_text": "“Before the assault weapons ban went into effect in 1994, there were about 400,000 AR-15 style rifles in America. Today, there are 20 million.” Jaw dropping figure from @ZushaElinson, who is writing a book on the country’s best selling rifle.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZushaElinson",
+					"name": "Zusha Elinson",
+					"id": 145301965,
+					"id_str": "145301965",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14135350,
+			"id_str": "14135350",
+			"name": "Bianna Golodryga",
+			"screen_name": "biannagolodryga",
+			"location": "New York",
+			"description": "@CNN Senior Global Affairs analyst, journalist, wife, mother, proud immigrant, ❤️ Houston, TX 🤘",
+			"url": "https://t.co/n9q3XrMKs8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n9q3XrMKs8",
+							"expanded_url": "http://biannagolodryga.com",
+							"display_url": "biannagolodryga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247191,
+			"friends_count": 4326,
+			"listed_count": 2756,
+			"created_at": "Wed Mar 12 21:25:29 +0000 2008",
+			"favourites_count": 41054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121072367143456768/VK7UeBVO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121072367143456768/VK7UeBVO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14135350/1577638948",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1413,
+		"favorite_count": 2759,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Before the assault weapons ban went into effect in 1994, there were about 400,000 AR-15 style rifles in America. Today, there are 20 million.” Jaw dropping figure from @ZushaElinson, who is writing a book on the country’s best selling rifle."
+	},
+	{
+		"created_at": "Thu May 26 18:02:58 +0000 2022",
+		"id": 1529879424664973300,
+		"id_str": "1529885823776194560",
+		"full_text": "MAX WANTS TO BE IN THE LIBRARY\n\nCASE CLOSE https://t.co/UKdY1Hh9lE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UKdY1Hh9lE",
+					"expanded_url": "https://twitter.com/memesiwish/status/1529779727791030274",
+					"display_url": "twitter.com/memesiwish/sta…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1337271,
+			"id_str": "1337271",
+			"name": "darth™",
+			"screen_name": "darth",
+			"location": "awakening",
+			"description": "not the darth you are looking for",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231453,
+			"friends_count": 4178,
+			"listed_count": 2054,
+			"created_at": "Sat Mar 17 05:38:49 +0000 2007",
+			"favourites_count": 551573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505918295924359172/boRtqZDb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505918295924359172/boRtqZDb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1337271/1398194350",
+			"profile_link_color": "113838",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529779727791030300,
+		"quoted_status_id_str": "1529779727791030274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UKdY1Hh9lE",
+			"expanded": "https://twitter.com/memesiwish/status/1529779727791030274",
+			"display": "twitter.com/memesiwish/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 26 11:01:23 +0000 2022",
+			"id": 1529779727791030300,
+			"id_str": "1529779727791030274",
+			"full_text": "https://t.co/ZjIM34eGoN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1529779725559746600,
+						"id_str": "1529779725559746560",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FTrejiaVUAA_pOO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTrejiaVUAA_pOO.jpg",
+						"url": "https://t.co/ZjIM34eGoN",
+						"display_url": "pic.twitter.com/ZjIM34eGoN",
+						"expanded_url": "https://twitter.com/memesiwish/status/1529779727791030274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 390,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1529779725559746600,
+						"id_str": "1529779725559746560",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FTrejiaVUAA_pOO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTrejiaVUAA_pOO.jpg",
+						"url": "https://t.co/ZjIM34eGoN",
+						"display_url": "pic.twitter.com/ZjIM34eGoN",
+						"expanded_url": "https://twitter.com/memesiwish/status/1529779727791030274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 390,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1357156976233312300,
+				"id_str": "1357156976233312259",
+				"name": "memes i wish i could tag my cat in",
+				"screen_name": "memesiwish",
+				"location": "",
+				"description": "the most problematic pet account. part-time cat poster, part-time dog hater. I steal outdoor cats. i WILL qrt u /personal is @ellienyannn // art is @pyrrhicaart",
+				"url": "https://t.co/yY5DQQ60Vj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yY5DQQ60Vj",
+								"expanded_url": "http://pyrrhica.com",
+								"display_url": "pyrrhica.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 620476,
+				"friends_count": 276,
+				"listed_count": 1304,
+				"created_at": "Thu Feb 04 02:40:20 +0000 2021",
+				"favourites_count": 3388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1527558048968941568/BYNHcQ6y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527558048968941568/BYNHcQ6y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1357156976233312259/1651397088",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11578,
+			"favorite_count": 147928,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 338,
+		"favorite_count": 3768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MAX WANTS TO BE IN THE LIBRARY\n\nCASE CLOSE https://t.co/UKdY1Hh9lE"
+	},
+	{
 		"created_at": "Thu May 26 02:02:55 +0000 2022",
 		"id": 1529490117924118500,
 		"id_str": "1529644215738802177",
