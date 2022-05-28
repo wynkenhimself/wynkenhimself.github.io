@@ -1,6 +1,975 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 01:53:15 +0000 2022",
+		"id": 1530366561906827300,
+		"id_str": "1530366561906827264",
+		"full_text": "@transbookhistry Glad you planned ahead but oof!! Also, I’m realizing that I should probably stop holding off on my second, so will try to plan around it 😬",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1530341139781501000,
+		"in_reply_to_status_id_str": "1530341139781500928",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 499,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry Glad you planned ahead but oof!! Also, I’m realizing that I should probably stop holding off on my second, so will try to plan around it 😬"
+	},
+	{
+		"created_at": "Sat May 28 01:49:32 +0000 2022",
+		"id": 1530339353670652000,
+		"id_str": "1530365626811830273",
+		"full_text": "Love was the motivator to intervene and rush in, not nationalism or job or duty or the fact  of being armed. If this doesn’t tell us everything about what works and what should be supported and resourced…I don’t know what will.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41523428,
+			"id_str": "41523428",
+			"name": "sarah haley",
+			"screen_name": "sahaley",
+			"location": "los angeles ",
+			"description": "professor; abolitionist; black feminist scholar. Author of No Mercy Here: Gender, Punishment, and the Making of Jim Crow Modernity.",
+			"url": "https://t.co/dIMy0zV6xS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dIMy0zV6xS",
+							"expanded_url": "https://uncpress.org/book/9781469627595/no-mercy-here/",
+							"display_url": "uncpress.org/book/978146962…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10211,
+			"friends_count": 1324,
+			"listed_count": 137,
+			"created_at": "Thu May 21 03:46:34 +0000 2009",
+			"favourites_count": 1805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "071B8C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410827202619318272/2tvKNoHj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410827202619318272/2tvKNoHj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41523428/1620048135",
+			"profile_link_color": "737264",
+			"profile_sidebar_border_color": "0478D1",
+			"profile_sidebar_fill_color": "D4B415",
+			"profile_text_color": "5C5C57",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 217,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Love was the motivator to intervene and rush in, not nationalism or job or duty or the fact  of being armed. If this doesn’t tell us everything about what works and what should be supported and resourced…I don’t know what will."
+	},
+	{
+		"created_at": "Sat May 28 00:01:10 +0000 2022",
+		"id": 1530338354780315600,
+		"id_str": "1530338354780315648",
+		"full_text": "@KatWithSword Yay!! Welcome back! I’ll ping you next year when I drop my college kid off 😭",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KatWithSword",
+					"name": "Kat Howard",
+					"id": 23038043,
+					"id_str": "23038043",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1530333977759850500,
+		"in_reply_to_status_id_str": "1530333977759850496",
+		"in_reply_to_user_id": 23038043,
+		"in_reply_to_user_id_str": "23038043",
+		"in_reply_to_screen_name": "KatWithSword",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 499,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KatWithSword Yay!! Welcome back! I’ll ping you next year when I drop my college kid off 😭"
+	},
+	{
+		"created_at": "Fri May 27 20:41:14 +0000 2022",
+		"id": 1530288037619454000,
+		"id_str": "1530288037619453959",
+		"full_text": "@stampedinblind Yes—I keep thinking of the generational trauma this is causing for the community and the families. That poor child asking repeatedly for 911 to send the cops—that’s unbearable and will haunt for a very very long time.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stampedinblind",
+					"name": "Sarah Burke Cahalan",
+					"id": 267867336,
+					"id_str": "267867336",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1530281943325098000,
+		"in_reply_to_status_id_str": "1530281943325097985",
+		"in_reply_to_user_id": 267867336,
+		"in_reply_to_user_id_str": "267867336",
+		"in_reply_to_screen_name": "stampedinblind",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 499,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stampedinblind Yes—I keep thinking of the generational trauma this is causing for the community and the families. That poor child asking repeatedly for 911 to send the cops—that’s unbearable and will haunt for a very very long time."
+	},
+	{
+		"created_at": "Fri May 27 19:39:41 +0000 2022",
+		"id": 1530253578559963100,
+		"id_str": "1530272549883584512",
+		"full_text": "I’m a simple creature, and I appreciate footage of a large fellow rapidly losing his megaphone to a courageous woman. https://t.co/dFF3vekTNs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dFF3vekTNs",
+					"expanded_url": "https://twitter.com/stevanzetti/status/1530241016736907264",
+					"display_url": "twitter.com/stevanzetti/st…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22429979,
+			"id_str": "22429979",
+			"name": "southpaw",
+			"screen_name": "nycsouthpaw",
+			"location": "",
+			"description": "Writer, lawyer, Dodger fan, idealist, hater. nycsouthpaw18 at gmail. RTs = endorsement or scorn. (he/him)",
+			"url": "https://t.co/mB1G4eZhTn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mB1G4eZhTn",
+							"expanded_url": "http://www.nycsouthpaw.com",
+							"display_url": "nycsouthpaw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249697,
+			"friends_count": 6666,
+			"listed_count": 3377,
+			"created_at": "Mon Mar 02 00:50:07 +0000 2009",
+			"favourites_count": 115018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 350201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D5287",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392905447590535175/ywV_EmmA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392905447590535175/ywV_EmmA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22429979/1628805176",
+			"profile_link_color": "177A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1530241016736907300,
+		"quoted_status_id_str": "1530241016736907264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dFF3vekTNs",
+			"expanded": "https://twitter.com/stevanzetti/status/1530241016736907264",
+			"display": "twitter.com/stevanzetti/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 27 17:34:23 +0000 2022",
+			"id": 1530241016736907300,
+			"id_str": "1530241016736907264",
+			"full_text": "Here at the anti-NRA protest in Houston, I just witnessed North Texas based right wing provocateur who goes by the name Chet Goldstein get ejected by the crowd for trying to disrupt the event https://t.co/PkW7tLQs7p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1530240818044354600,
+						"id_str": "1530240818044354561",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1530240818044354561/pu/img/EV6OjhnRKiVik9TJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1530240818044354561/pu/img/EV6OjhnRKiVik9TJ.jpg",
+						"url": "https://t.co/PkW7tLQs7p",
+						"display_url": "pic.twitter.com/PkW7tLQs7p",
+						"expanded_url": "https://twitter.com/stevanzetti/status/1530241016736907264/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1530240818044354600,
+						"id_str": "1530240818044354561",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1530240818044354561/pu/img/EV6OjhnRKiVik9TJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1530240818044354561/pu/img/EV6OjhnRKiVik9TJ.jpg",
+						"url": "https://t.co/PkW7tLQs7p",
+						"display_url": "pic.twitter.com/PkW7tLQs7p",
+						"expanded_url": "https://twitter.com/stevanzetti/status/1530241016736907264/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16634,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1530240818044354561/pu/vid/640x360/jTxluEDu7uC8W5UH.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1530240818044354561/pu/vid/480x270/Xb2Zht7WHQWprnI0.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1530240818044354561/pu/pl/0W3wIyXerUk4huIL.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1530240818044354561/pu/vid/1280x720/rPEXTHBmCvo4gT1A.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1530238641737457700,
+			"in_reply_to_status_id_str": "1530238641737457671",
+			"in_reply_to_user_id": 1079916807257940000,
+			"in_reply_to_user_id_str": "1079916807257939968",
+			"in_reply_to_screen_name": "stevanzetti",
+			"user": {
+				"id": 1079916807257940000,
+				"id_str": "1079916807257939968",
+				"name": "steven monacelli",
+				"screen_name": "stevanzetti",
+				"location": "The City of Hate, TX",
+				"description": "investigative journalist @rollingstone @thedailybeast @dallasweekly & more • “disgraced Texas-based far-left writer”• DMs open for tips • publisher @proteanmag",
+				"url": "https://t.co/DVJ4E9mdZA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DVJ4E9mdZA",
+								"expanded_url": "https://linktr.ee/Stevanzetti",
+								"display_url": "linktr.ee/Stevanzetti",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35748,
+				"friends_count": 4276,
+				"listed_count": 334,
+				"created_at": "Tue Jan 01 01:46:45 +0000 2019",
+				"favourites_count": 72610,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32849,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1529314581092368385/-8oePCII_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529314581092368385/-8oePCII_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1079916807257939968/1651447713",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3149,
+			"favorite_count": 15933,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 684,
+		"favorite_count": 5039,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m a simple creature, and I appreciate footage of a large fellow rapidly losing his megaphone to a courageous woman. https://t.co/dFF3vekTNs"
+	},
+	{
+		"created_at": "Fri May 27 18:57:41 +0000 2022",
+		"id": 1530218780323852300,
+		"id_str": "1530261980946345986",
+		"full_text": "If this becomes an accounting of what the Uvalde cops did or did not do, that's a complete win for the gun lobby.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1530218297316085800,
+		"in_reply_to_status_id_str": "1530218297316085760",
+		"in_reply_to_user_id": 43412697,
+		"in_reply_to_user_id_str": "43412697",
+		"in_reply_to_screen_name": "ClaraJeffery",
+		"user": {
+			"id": 43412697,
+			"id_str": "43412697",
+			"name": "Clara Jeffery",
+			"screen_name": "ClaraJeffery",
+			"location": "ÜT: 37.770364,-122.410351",
+			"description": "Editor-in-Chief of Mother Jones. President of the American Society of Magazine Editors. Mom. Upzoning, street tree, and rescue dog enthusiast.",
+			"url": "https://t.co/w1a0x1VnGJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w1a0x1VnGJ",
+							"expanded_url": "http://motherjones.com",
+							"display_url": "motherjones.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141265,
+			"friends_count": 2419,
+			"listed_count": 2968,
+			"created_at": "Fri May 29 21:22:46 +0000 2009",
+			"favourites_count": 40125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 237928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43412697/1398196808",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If this becomes an accounting of what the Uvalde cops did or did not do, that's a complete win for the gun lobby."
+	},
+	{
+		"created_at": "Fri May 27 18:57:38 +0000 2022",
+		"id": 1530218297316085800,
+		"id_str": "1530261966555684864",
+		"full_text": "We must get to bottom of police cowardice/failings. Most importantly b/c it destroys the GOP talking point of \"good guys with guns.\"  \n\nBut, we also must NOT shift our focus from the people who abetted this killer *before* he went to the school. \n\n https://t.co/kZkGz3k3ap",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kZkGz3k3ap",
+					"expanded_url": "https://www.motherjones.com/politics/2022/05/uvalde-texas-massacre-accomplices/",
+					"display_url": "motherjones.com/politics/2022/…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43412697,
+			"id_str": "43412697",
+			"name": "Clara Jeffery",
+			"screen_name": "ClaraJeffery",
+			"location": "ÜT: 37.770364,-122.410351",
+			"description": "Editor-in-Chief of Mother Jones. President of the American Society of Magazine Editors. Mom. Upzoning, street tree, and rescue dog enthusiast.",
+			"url": "https://t.co/w1a0x1VnGJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w1a0x1VnGJ",
+							"expanded_url": "http://motherjones.com",
+							"display_url": "motherjones.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141265,
+			"friends_count": 2419,
+			"listed_count": 2968,
+			"created_at": "Fri May 29 21:22:46 +0000 2009",
+			"favourites_count": 40125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 237928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43412697/1398196808",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We must get to bottom of police cowardice/failings. Most importantly b/c it destroys the GOP talking point of \"good guys with guns.\"  \n\nBut, we also must NOT shift our focus from the people who abetted this killer *before* he went to the school. \n\n https://t.co/kZkGz3k3ap"
+	},
+	{
 		"created_at": "Thu May 26 23:41:59 +0000 2022",
 		"id": 1529915387634143200,
 		"id_str": "1529971137978982416",
