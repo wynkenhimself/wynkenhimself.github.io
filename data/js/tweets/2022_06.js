@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 00:50:27 +0000 2022",
+		"id": 1532887471138152400,
+		"id_str": "1532887471138152449",
+		"full_text": "@RezekJoe I thought I was strong enough but it’s so much harder than I’d remembered",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RezekJoe",
+					"name": "Joseph Rezek",
+					"id": 821333027338915800,
+					"id_str": "821333027338915841",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532885960249286700,
+		"in_reply_to_status_id_str": "1532885960249286656",
+		"in_reply_to_user_id": 821333027338915800,
+		"in_reply_to_user_id_str": "821333027338915841",
+		"in_reply_to_screen_name": "RezekJoe",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 499,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RezekJoe I thought I was strong enough but it’s so much harder than I’d remembered"
+	},
+	{
+		"created_at": "Sat Jun 04 00:40:07 +0000 2022",
+		"id": 1532884872741761000,
+		"id_str": "1532884872741761026",
+		"full_text": "The 21yo suggested we watch Children of Men for movie night and of course I said yes because it’s great but also I love you all I might not make it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 499,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The 21yo suggested we watch Children of Men for movie night and of course I said yes because it’s great but also I love you all I might not make it"
+	},
+	{
+		"created_at": "Fri Jun 03 16:59:12 +0000 2022",
+		"id": 1532768877444219000,
+		"id_str": "1532768877444218881",
+		"full_text": "re the latest historians v reporters, this whole thread https://t.co/jBKVFOC8cj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jBKVFOC8cj",
+					"expanded_url": "https://twitter.com/darkfinance/status/1532395684355133440",
+					"display_url": "twitter.com/darkfinance/st…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 499,
+			"listed_count": 0,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532395684355133400,
+		"quoted_status_id_str": "1532395684355133440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jBKVFOC8cj",
+			"expanded": "https://twitter.com/darkfinance/status/1532395684355133440",
+			"display": "twitter.com/darkfinance/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 02 16:16:16 +0000 2022",
+			"id": 1532395684355133400,
+			"id_str": "1532395684355133440",
+			"full_text": "Historians effectively hijacked a potentially critical conversation to make the story about how they were not part of the story. Why were we, asked the North American historians, not the subject of this story about Haiti?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1532395682866159600,
+			"in_reply_to_status_id_str": "1532395682866159620",
+			"in_reply_to_user_id": 431865739,
+			"in_reply_to_user_id_str": "431865739",
+			"in_reply_to_screen_name": "darkfinance",
+			"user": {
+				"id": 431865739,
+				"id_str": "431865739",
+				"name": "[Peter James Hudson]",
+				"screen_name": "darkfinance",
+				"location": "53.1105° N, 119.1565° W",
+				"description": "Vaxxed and Masked. Black Alliance for Peace. Author: Bankers and Empire: How Wall Street Colonized the Caribbean.",
+				"url": "https://t.co/RbbQaoXVRL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RbbQaoXVRL",
+								"expanded_url": "http://press.uchicago.edu/ucp/books/book/chicago/B/bo26032761.html",
+								"display_url": "press.uchicago.edu/ucp/books/book…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5396,
+				"friends_count": 2045,
+				"listed_count": 63,
+				"created_at": "Thu Dec 08 19:37:31 +0000 2011",
+				"favourites_count": 2141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4367,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1369784002094063618/U4QYlpQT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369784002094063618/U4QYlpQT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/431865739/1653783258",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 762,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "re the latest historians v reporters, this whole thread https://t.co/jBKVFOC8cj"
+	},
+	{
+		"created_at": "Fri Jun 03 13:46:29 +0000 2022",
+		"id": 1532713868409045000,
+		"id_str": "1532720380237996032",
+		"full_text": "Yes, yes, yes. This is remarkably thorough and so very useful. The old and the prudish: An examination of sex, sexuality, and queerness in Library of Congress Classification 💥🌈 https://t.co/VSRQ2wLM5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VSRQ2wLM5E",
+					"expanded_url": "https://twitter.com/chiuchiutrain/status/1532425666951532557",
+					"display_url": "twitter.com/chiuchiutrain/…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 928650087387066400,
+			"id_str": "928650087387066368",
+			"name": "Melissa Adler",
+			"screen_name": "adler_melissa17",
+			"location": "Deshkan Ziibi ",
+			"description": "catalogues || cruising || contradictions\n\nauthor of Cruising the Library: Perversities in the Organization of Knowledge (Fordham)\n\nshe/her/hers",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 2964,
+			"listed_count": 11,
+			"created_at": "Thu Nov 09 15:46:49 +0000 2017",
+			"favourites_count": 4345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1516820296182939654/tnzmaH2s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516820296182939654/tnzmaH2s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/928650087387066368/1550025693",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532425666951532500,
+		"quoted_status_id_str": "1532425666951532557",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VSRQ2wLM5E",
+			"expanded": "https://twitter.com/chiuchiutrain/status/1532425666951532557",
+			"display": "twitter.com/chiuchiutrain/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 02 18:15:24 +0000 2022",
+			"id": 1532425666951532500,
+			"id_str": "1532425666951532557",
+			"full_text": "Tiffany Henry, @crafterslane, and I wrote a thing! Happy Pride! https://t.co/OEqPn2z604",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "crafterslane",
+						"name": "rhonda",
+						"id": 3299492325,
+						"id_str": "3299492325",
+						"indices": [
+							15,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OEqPn2z604",
+						"expanded_url": "https://twitter.com/zinelib/status/1532039842275663872",
+						"display_url": "twitter.com/zinelib/status…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17119852,
+				"id_str": "17119852",
+				"name": "Juju Chiubacca",
+				"screen_name": "chiuchiutrain",
+				"location": "",
+				"description": "Current scholarly communications librarian, former metadata librarian. They/them/theirs.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 918,
+				"friends_count": 885,
+				"listed_count": 20,
+				"created_at": "Sun Nov 02 21:07:22 +0000 2008",
+				"favourites_count": 20414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7710,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1304103516588462080/1jdlftFR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304103516588462080/1jdlftFR_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1532039842275664000,
+			"quoted_status_id_str": "1532039842275663872",
+			"quoted_status_permalink": {
+				"url": "https://t.co/OEqPn2z604",
+				"expanded": "https://twitter.com/zinelib/status/1532039842275663872",
+				"display": "twitter.com/zinelib/status…"
+			},
+			"retweet_count": 9,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, yes, yes. This is remarkably thorough and so very useful. The old and the prudish: An examination of sex, sexuality, and queerness in Library of Congress Classification 💥🌈 https://t.co/VSRQ2wLM5E"
+	},
+	{
 		"created_at": "Fri Jun 03 01:08:06 +0000 2022",
 		"id": 1532529523891249200,
 		"id_str": "1532529523891249163",
