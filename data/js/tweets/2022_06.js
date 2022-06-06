@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 02:11:19 +0000 2022",
+		"id": 1533568592478097400,
+		"id_str": "1533632596671873030",
+		"full_text": "My Grandpa Dave told me he was sure he was gay when he was moving into his dorm room freshman year of college and there was a boy “with the prettiest eyes;” after Grandpa passed, I learned from my mother who that boy was. https://t.co/DTYw6sKFmZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533568588400820200,
+					"id_str": "1533568588400820224",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUhUgYZUAAAIppI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUhUgYZUAAAIppI.jpg",
+					"url": "https://t.co/DTYw6sKFmZ",
+					"display_url": "pic.twitter.com/DTYw6sKFmZ",
+					"expanded_url": "https://twitter.com/SamaanAshrawi/status/1533568592478097408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 479,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533568588400820200,
+					"id_str": "1533568588400820224",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUhUgYZUAAAIppI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUhUgYZUAAAIppI.jpg",
+					"url": "https://t.co/DTYw6sKFmZ",
+					"display_url": "pic.twitter.com/DTYw6sKFmZ",
+					"expanded_url": "https://twitter.com/SamaanAshrawi/status/1533568592478097408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 479,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70335023,
+			"id_str": "70335023",
+			"name": "Sama’an Ashrawi",
+			"screen_name": "SamaanAshrawi",
+			"location": "",
+			"description": "Real-life William Miller. Trill Gladiator. Gathering around the campfire @nostalgiatapes. my work here 👇🏻",
+			"url": "https://t.co/MrsnGOpoPH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MrsnGOpoPH",
+							"expanded_url": "https://lnk.bio/PlUj",
+							"display_url": "lnk.bio/PlUj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6774,
+			"friends_count": 2196,
+			"listed_count": 92,
+			"created_at": "Mon Aug 31 07:07:58 +0000 2009",
+			"favourites_count": 70516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1506853241149087746/W8SWVuek_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506853241149087746/W8SWVuek_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70335023/1613284870",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2048,
+		"favorite_count": 15552,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My Grandpa Dave told me he was sure he was gay when he was moving into his dorm room freshman year of college and there was a boy “with the prettiest eyes;” after Grandpa passed, I learned from my mother who that boy was. https://t.co/DTYw6sKFmZ"
+	},
+	{
 		"created_at": "Sat Jun 04 00:50:27 +0000 2022",
 		"id": 1532887471138152400,
 		"id_str": "1532887471138152449",
