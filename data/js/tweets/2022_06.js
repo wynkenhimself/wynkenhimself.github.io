@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 00:26:22 +0000 2022",
+		"id": 1534273086647947300,
+		"id_str": "1534330960807964672",
+		"full_text": "Update: I spoke with Kyle Kaminski, head of Legislative Liaison at MDOC, and he provided some additional information about the ban on dictionaries. Short version: the ban is worse, and more expansive, than reported in the @NPR piece. 🧵1/ https://t.co/lMJ4doeuSt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NPR",
+					"name": "NPR",
+					"id": 5392522,
+					"id_str": "5392522",
+					"indices": [
+						222,
+						226
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lMJ4doeuSt",
+					"expanded_url": "https://twitter.com/nabelew/status/1533934018369974272",
+					"display_url": "twitter.com/nabelew/status…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2927223656,
+			"id_str": "2927223656",
+			"name": "Dr. Anna 🔥🦌🔥 Belew",
+			"screen_name": "nabelew",
+			"location": "Chinuk Illahee",
+			"description": "Linguistics: socio-, documentation, revitalization, Cameroonian languages, @_ELProject. Non-linguistics: another world is possible.",
+			"url": "https://t.co/YSX46XiJog",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YSX46XiJog",
+							"expanded_url": "http://annabelew.com",
+							"display_url": "annabelew.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1143,
+			"friends_count": 1251,
+			"listed_count": 20,
+			"created_at": "Thu Dec 11 22:49:27 +0000 2014",
+			"favourites_count": 27814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257071334326067200/1NoAc7Sh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257071334326067200/1NoAc7Sh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927223656/1595382996",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1533934018369974300,
+		"quoted_status_id_str": "1533934018369974272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lMJ4doeuSt",
+			"expanded": "https://twitter.com/nabelew/status/1533934018369974272",
+			"display": "twitter.com/nabelew/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 06 22:09:03 +0000 2022",
+			"id": 1533934018369974300,
+			"id_str": "1533934018369974272",
+			"full_text": "🚨CALL TO ACTION🚨 Prisoners in Michigan have been denied access to non-English books (Spanish &amp; Swahili specifically). Please write to Director of Michigan Dept of Corrections, Heidi Washington, to express your concerns about this language rights violation. (1/4) https://t.co/PGDystrL8s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PGDystrL8s",
+						"expanded_url": "https://twitter.com/NPR/status/1532414822985383936",
+						"display_url": "twitter.com/NPR/status/153…",
+						"indices": [
+							267,
+							290
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2927223656,
+				"id_str": "2927223656",
+				"name": "Dr. Anna 🔥🦌🔥 Belew",
+				"screen_name": "nabelew",
+				"location": "Chinuk Illahee",
+				"description": "Linguistics: socio-, documentation, revitalization, Cameroonian languages, @_ELProject. Non-linguistics: another world is possible.",
+				"url": "https://t.co/YSX46XiJog",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YSX46XiJog",
+								"expanded_url": "http://annabelew.com",
+								"display_url": "annabelew.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1143,
+				"friends_count": 1251,
+				"listed_count": 20,
+				"created_at": "Thu Dec 11 22:49:27 +0000 2014",
+				"favourites_count": 27814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4051,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257071334326067200/1NoAc7Sh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257071334326067200/1NoAc7Sh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927223656/1595382996",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1532414822985384000,
+			"quoted_status_id_str": "1532414822985383936",
+			"quoted_status_permalink": {
+				"url": "https://t.co/PGDystrL8s",
+				"expanded": "https://twitter.com/NPR/status/1532414822985383936",
+				"display": "twitter.com/NPR/status/153…"
+			},
+			"retweet_count": 72,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 65,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Update: I spoke with Kyle Kaminski, head of Legislative Liaison at MDOC, and he provided some additional information about the ban on dictionaries. Short version: the ban is worse, and more expansive, than reported in the @NPR piece. 🧵1/ https://t.co/lMJ4doeuSt"
+	},
+	{
+		"created_at": "Tue Jun 07 23:09:14 +0000 2022",
+		"id": 1534311552525934600,
+		"id_str": "1534311552525934593",
+		"full_text": "@mazarines @transbookhistry oh nooooooo 🤣",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mazarines",
+					"name": "Shannon K. Supple ✨",
+					"id": 14307108,
+					"id_str": "14307108",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1534260271279009800,
+		"in_reply_to_status_id_str": "1534260271279009792",
+		"in_reply_to_user_id": 14307108,
+		"in_reply_to_user_id_str": "14307108",
+		"in_reply_to_screen_name": "mazarines",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 500,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mazarines @transbookhistry oh nooooooo 🤣"
+	},
+	{
+		"created_at": "Tue Jun 07 21:52:58 +0000 2022",
+		"id": 1534031535841628200,
+		"id_str": "1534292357172142083",
+		"full_text": "a thread of everyone the queers are teaming up with:",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 291890055,
+			"id_str": "291890055",
+			"name": "Zakiya N. Jamal 🍂",
+			"screen_name": "ZakiyaNJamal",
+			"location": "",
+			"description": "I love fictional characters more than real people ❤️ she/her 🇨🇺🇯🇲🏳️‍🌈",
+			"url": "https://t.co/RounQE1kqD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RounQE1kqD",
+							"expanded_url": "http://zakiyanjamal.com",
+							"display_url": "zakiyanjamal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3730,
+			"friends_count": 3943,
+			"listed_count": 51,
+			"created_at": "Mon May 02 19:40:32 +0000 2011",
+			"favourites_count": 165020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497344370915393538/Lr_i6-pr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497344370915393538/Lr_i6-pr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/291890055/1652408809",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "a thread of everyone the queers are teaming up with:"
+	},
+	{
+		"created_at": "Tue Jun 07 18:17:06 +0000 2022",
+		"id": 1534238035126149000,
+		"id_str": "1534238035126149126",
+		"full_text": "And hi @hchesner! I think of you whenever I see a Hebrew book so am waving from @Fisher_Library https://t.co/Y9bojKmJRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hchesner",
+					"name": "Michelle Margolis",
+					"id": 414121384,
+					"id_str": "414121384",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"screen_name": "Fisher_Library",
+					"name": "ThomasFisherLibrary",
+					"id": 355580586,
+					"id_str": "355580586",
+					"indices": [
+						80,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534238026234269700,
+					"id_str": "1534238026234269696",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FUq1WyqXEAAE5kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUq1WyqXEAAE5kv.jpg",
+					"url": "https://t.co/Y9bojKmJRt",
+					"display_url": "pic.twitter.com/Y9bojKmJRt",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1534238035126149126/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534238026234269700,
+					"id_str": "1534238026234269696",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FUq1WyqXEAAE5kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUq1WyqXEAAE5kv.jpg",
+					"url": "https://t.co/Y9bojKmJRt",
+					"display_url": "pic.twitter.com/Y9bojKmJRt",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1534238035126149126/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10127,
+			"friends_count": 500,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And hi @hchesner! I think of you whenever I see a Hebrew book so am waving from @Fisher_Library https://t.co/Y9bojKmJRt"
+	},
+	{
 		"created_at": "Tue Jun 07 01:24:00 +0000 2022",
 		"id": 1533983078271557600,
 		"id_str": "1533983078271557637",
