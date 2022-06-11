@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 00:16:52 +0000 2022",
+		"id": 1534560973016559600,
+		"id_str": "1535415735392030722",
+		"full_text": "For me, Pride Month is partly a time for looking backwards &amp; remembering those who died of AIDS. Today is the anniversary of the death of someone I loved very much, so this will be a sad thread about the AIDS years.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2881264591,
+			"id_str": "2881264591",
+			"name": "Stephen Guy-Bray",
+			"screen_name": "SGUYBRAY",
+			"location": "",
+			"description": "Professor specializing in Renaissance poetry, queer theory, & poetics. Opinions solely mine & always correct. he / him 🏳️‍🌈 #TransRightsAreHumanRights",
+			"url": "https://t.co/jVexyFaLp9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVexyFaLp9",
+							"expanded_url": "http://blogs.ubc.ca/sguybray",
+							"display_url": "blogs.ubc.ca/sguybray",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21085,
+			"friends_count": 16951,
+			"listed_count": 94,
+			"created_at": "Tue Oct 28 21:10:19 +0000 2014",
+			"favourites_count": 408503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 116851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181592658143088640/WMoIUKzB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181592658143088640/WMoIUKzB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881264591/1607037846",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 632,
+		"favorite_count": 4906,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "For me, Pride Month is partly a time for looking backwards &amp; remembering those who died of AIDS. Today is the anniversary of the death of someone I loved very much, so this will be a sad thread about the AIDS years."
+	},
+	{
+		"created_at": "Fri Jun 10 12:29:21 +0000 2022",
+		"id": 1535224377280802800,
+		"id_str": "1535237681491361792",
+		"full_text": "this thread is interesting, but hits a nerve particularly because it was only the other day that someone walked in, saw two women on the shop floor, and asked to speak to \"any of the experienced men on the premises\"\n \n(naturally this was refused, but it shouldn't happen at all) https://t.co/0znPw0Q89h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0znPw0Q89h",
+					"expanded_url": "https://twitter.com/BookshopGhost/status/1535081862200061953",
+					"display_url": "twitter.com/BookshopGhost/…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 458643002,
+			"id_str": "458643002",
+			"name": "Henry Sotheran Ltd",
+			"screen_name": "Sotherans",
+			"location": "London, Piccadilly - W1S 3DP",
+			"description": "Antiquarian booksellers in business since 1761. We sell old books. Rare books. Unusual books. Books with mysterious pasts. Tweets by Oliver (he/him).",
+			"url": "https://t.co/Q8zDoDEcPz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q8zDoDEcPz",
+							"expanded_url": "http://www.sotherans.co.uk",
+							"display_url": "sotherans.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40219,
+			"friends_count": 1021,
+			"listed_count": 313,
+			"created_at": "Sun Jan 08 19:58:30 +0000 2012",
+			"favourites_count": 8188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360910865151766530/iMb7RIzH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360910865151766530/iMb7RIzH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/458643002/1571667564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535081862200062000,
+		"quoted_status_id_str": "1535081862200061953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0znPw0Q89h",
+			"expanded": "https://twitter.com/BookshopGhost/status/1535081862200061953",
+			"display": "twitter.com/BookshopGhost/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 10 02:10:11 +0000 2022",
+			"id": 1535081862200062000,
+			"id_str": "1535081862200061953",
+			"full_text": "There was a lecture, live and online, today about women in bookselling in the early to mid 20th century.\n\nSure, @Sotherans makes it look easy, but being a bookseller can be overwhelming and isolating, even in healthy times. So I made myself make the time to attend.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Sotherans",
+						"name": "Henry Sotheran Ltd",
+						"id": 458643002,
+						"id_str": "458643002",
+						"indices": [
+							112,
+							122
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2515973528,
+				"id_str": "2515973528",
+				"name": "The Haunted Bookshop, the Iowa one with cats",
+				"screen_name": "BookshopGhost",
+				"location": "Iowa City",
+				"description": "Big chairs, two cats, 50,000 used books, new toys & games, at home in Iowa City since 1978. Instagram @hauntedbookshopiowacity Fan of https://t.co/rUjmC1BGzJ & https://t.co/i22xSg7seO",
+				"url": "https://t.co/GLR5n6pTZc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GLR5n6pTZc",
+								"expanded_url": "http://www.thehauntedbookshop.com",
+								"display_url": "thehauntedbookshop.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rUjmC1BGzJ",
+								"expanded_url": "http://bookshop.org",
+								"display_url": "bookshop.org",
+								"indices": [
+									134,
+									157
+								]
+							},
+							{
+								"url": "https://t.co/i22xSg7seO",
+								"expanded_url": "http://libro.fm",
+								"display_url": "libro.fm",
+								"indices": [
+									160,
+									183
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2023,
+				"friends_count": 849,
+				"listed_count": 83,
+				"created_at": "Thu May 22 17:49:41 +0000 2014",
+				"favourites_count": 22924,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9998,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047644234239504384/9YpnT9go_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047644234239504384/9YpnT9go_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2515973528/1402526058",
+				"profile_link_color": "BF1E09",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 325,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 61,
+		"favorite_count": 489,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this thread is interesting, but hits a nerve particularly because it was only the other day that someone walked in, saw two women on the shop floor, and asked to speak to \"any of the experienced men on the premises\"\n \n(naturally this was refused, but it shouldn't happen at all) https://t.co/0znPw0Q89h"
+	},
+	{
+		"created_at": "Fri Jun 10 12:29:16 +0000 2022",
+		"id": 1535081862200062000,
+		"id_str": "1535237660947644416",
+		"full_text": "There was a lecture, live and online, today about women in bookselling in the early to mid 20th century.\n\nSure, @Sotherans makes it look easy, but being a bookseller can be overwhelming and isolating, even in healthy times. So I made myself make the time to attend.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sotherans",
+					"name": "Henry Sotheran Ltd",
+					"id": 458643002,
+					"id_str": "458643002",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2515973528,
+			"id_str": "2515973528",
+			"name": "The Haunted Bookshop, the Iowa one with cats",
+			"screen_name": "BookshopGhost",
+			"location": "Iowa City",
+			"description": "Big chairs, two cats, 50,000 used books, new toys & games, at home in Iowa City since 1978. Instagram @hauntedbookshopiowacity Fan of https://t.co/rUjmC1BGzJ & https://t.co/i22xSg7seO",
+			"url": "https://t.co/GLR5n6pTZc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GLR5n6pTZc",
+							"expanded_url": "http://www.thehauntedbookshop.com",
+							"display_url": "thehauntedbookshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rUjmC1BGzJ",
+							"expanded_url": "http://bookshop.org",
+							"display_url": "bookshop.org",
+							"indices": [
+								134,
+								157
+							]
+						},
+						{
+							"url": "https://t.co/i22xSg7seO",
+							"expanded_url": "http://libro.fm",
+							"display_url": "libro.fm",
+							"indices": [
+								160,
+								183
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2023,
+			"friends_count": 849,
+			"listed_count": 83,
+			"created_at": "Thu May 22 17:49:41 +0000 2014",
+			"favourites_count": 22924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047644234239504384/9YpnT9go_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047644234239504384/9YpnT9go_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2515973528/1402526058",
+			"profile_link_color": "BF1E09",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 325,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There was a lecture, live and online, today about women in bookselling in the early to mid 20th century.\n\nSure, @Sotherans makes it look easy, but being a bookseller can be overwhelming and isolating, even in healthy times. So I made myself make the time to attend."
+	},
+	{
 		"created_at": "Thu Jun 09 01:40:07 +0000 2022",
 		"id": 1534711911719260200,
 		"id_str": "1534711911719260160",
