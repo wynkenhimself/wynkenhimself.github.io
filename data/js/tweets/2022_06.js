@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 19:57:42 +0000 2022",
+		"id": 1537106770212135000,
+		"id_str": "1537524839682134022",
+		"full_text": "My undergrads read 100+ pages of complex archival theory and distilled their concerns down to an expansive yet pragmatic definition I’m super proud of: https://t.co/lRFqk9VJR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537106765577220000,
+					"id_str": "1537106765577220096",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FVTmdZgUcAANPWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVTmdZgUcAANPWa.jpg",
+					"url": "https://t.co/lRFqk9VJR6",
+					"display_url": "pic.twitter.com/lRFqk9VJR6",
+					"expanded_url": "https://twitter.com/hofmannaw/status/1537106770212134912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1021,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537106765577220000,
+					"id_str": "1537106765577220096",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FVTmdZgUcAANPWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVTmdZgUcAANPWa.jpg",
+					"url": "https://t.co/lRFqk9VJR6",
+					"display_url": "pic.twitter.com/lRFqk9VJR6",
+					"expanded_url": "https://twitter.com/hofmannaw/status/1537106770212134912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1021,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 333767372,
+			"id_str": "333767372",
+			"name": "Alex Hofmann",
+			"screen_name": "hofmannaw",
+			"location": "Chicago, IL",
+			"description": "Teaching fellow UoC | Historian of the US South | Explicator of the weird | Chronic over-researcher, professional over-thinker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521,
+			"friends_count": 2353,
+			"listed_count": 2,
+			"created_at": "Tue Jul 12 01:58:59 +0000 2011",
+			"favourites_count": 28180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380768898878951424/nr5wy1kk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380768898878951424/nr5wy1kk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/333767372/1621433821",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 1976,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My undergrads read 100+ pages of complex archival theory and distilled their concerns down to an expansive yet pragmatic definition I’m super proud of: https://t.co/lRFqk9VJR6"
+	},
+	{
+		"created_at": "Thu Jun 16 15:51:45 +0000 2022",
+		"id": 1537462945029972000,
+		"id_str": "1537462945029971968",
+		"full_text": "@edrabinski Wooo happy birthday to you and @WalterSchlect!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edrabinski",
+					"name": "Emily Drabinski",
+					"id": 14089871,
+					"id_str": "14089871",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "WalterSchlect",
+					"name": "Walter Schlect",
+					"id": 2177316356,
+					"id_str": "2177316356",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1537448583087108000,
+		"in_reply_to_status_id_str": "1537448583087108099",
+		"in_reply_to_user_id": 14089871,
+		"in_reply_to_user_id_str": "14089871",
+		"in_reply_to_screen_name": "edrabinski",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10125,
+			"friends_count": 500,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@edrabinski Wooo happy birthday to you and @WalterSchlect!"
+	},
+	{
+		"created_at": "Thu Jun 16 15:50:29 +0000 2022",
+		"id": 1537158056349470700,
+		"id_str": "1537462626992762882",
+		"full_text": "I think we older millennials and Gen X don't talk enough about how our lives were shaped by HIV and AIDS. \n\nI really think younger folks don't understand how different life was before protease inhibitors.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14981648,
+			"id_str": "14981648",
+			"name": "The Disordered Cosmos by Chanda Prescod-Weinstein",
+			"screen_name": "IBJIYONGI",
+			"location": "Made by East L.A./now: NH & MA",
+			"description": "Prof: Theoretical Physics/Astro/STS. Winner: LA Times Book Prize for #DisorderedCosmos. all #BLACKandSTEM/all Jewish. queer/agender/woman/she. tweets by/for me.",
+			"url": "https://t.co/WGnaYEZN16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WGnaYEZN16",
+							"expanded_url": "http://profcpw.com",
+							"display_url": "profcpw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99103,
+			"friends_count": 8568,
+			"listed_count": 1245,
+			"created_at": "Mon Jun 02 16:15:41 +0000 2008",
+			"favourites_count": 138371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 115394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1495256533453713413/ReGXiEPZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1495256533453713413/ReGXiEPZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14981648/1652110453",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1697,
+		"favorite_count": 13541,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I think we older millennials and Gen X don't talk enough about how our lives were shaped by HIV and AIDS. \n\nI really think younger folks don't understand how different life was before protease inhibitors."
+	},
+	{
+		"created_at": "Thu Jun 16 15:49:14 +0000 2022",
+		"id": 1537458713677774800,
+		"id_str": "1537462313640464387",
+		"full_text": "Happy Bloomsday to James Joyce’s YA retelling of The Odyssey!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253341847,
+			"id_str": "253341847",
+			"name": "Phillip Maciak",
+			"screen_name": "pjmaciak",
+			"location": "St Louis, MO",
+			"description": "TV critic and editor @lareviewofbooks // teaching @wustl // Avidly Reads Screen Time (NYU Press 2023)",
+			"url": "https://t.co/dqJ3skGKtr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqJ3skGKtr",
+							"expanded_url": "https://phillipmaciak.com/",
+							"display_url": "phillipmaciak.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3220,
+			"friends_count": 2511,
+			"listed_count": 43,
+			"created_at": "Thu Feb 17 01:43:38 +0000 2011",
+			"favourites_count": 9216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537562795742576646/JOf1Fcql_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537562795742576646/JOf1Fcql_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253341847/1646103043",
+			"profile_link_color": "00BBFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Happy Bloomsday to James Joyce’s YA retelling of The Odyssey!"
+	},
+	{
+		"created_at": "Thu Jun 16 15:49:10 +0000 2022",
+		"id": 1537462295156105200,
+		"id_str": "1537462295156105219",
+		"full_text": "@pjmaciak @zunguzungu I literally guffawed",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pjmaciak",
+					"name": "Phillip Maciak",
+					"id": 253341847,
+					"id_str": "253341847",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "zunguzungu",
+					"name": "Aaron Bady",
+					"id": 47951511,
+					"id_str": "47951511",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1537459034227368000,
+		"in_reply_to_status_id_str": "1537459034227367937",
+		"in_reply_to_user_id": 253341847,
+		"in_reply_to_user_id_str": "253341847",
+		"in_reply_to_screen_name": "pjmaciak",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10125,
+			"friends_count": 500,
+			"listed_count": 384,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pjmaciak @zunguzungu I literally guffawed"
+	},
+	{
 		"created_at": "Thu Jun 16 01:44:12 +0000 2022",
 		"id": 1537249651237310500,
 		"id_str": "1537249651237310465",
@@ -1165,7 +1773,7 @@ Grailbird.data.tweets_2022_06 =
 		"user": {
 			"id": 15907183,
 			"id_str": "15907183",
-			"name": "Charlotte Clymer 🏳️‍⚧️🇺🇦",
+			"name": "Charlotte Clymer 🏳️⚧️🇺🇦",
 			"screen_name": "cmclymer",
 			"location": "Anacostan and Piscataway Land",
 			"description": "Writer. Lesbian. Texan. Veteran. Hoya. She. |Rep: @lynnjohnstonlit | @GUPolitics | @TeamLPAC | cmclymer@gmail.com | subscribe: https://t.co/zZjhwNRmqL #BLM",
