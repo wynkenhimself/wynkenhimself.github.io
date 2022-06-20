@@ -1,10 +1,955 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 19 23:10:26 +0000 2022",
+		"id": 1538660507774853000,
+		"id_str": "1538660507774853121",
+		"full_text": "YES! “We’re talking about people’s lives. I’m sorry, your kid’s high school volleyball team just isn’t that important. It’s not more important than any one kid’s life.” https://t.co/2qwRSdDYYa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2qwRSdDYYa",
+					"expanded_url": "https://twitter.com/erininthemorn/status/1538535196408139776",
+					"display_url": "twitter.com/erininthemorn/…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10124,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1538535196408139800,
+		"quoted_status_id_str": "1538535196408139776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2qwRSdDYYa",
+			"expanded": "https://twitter.com/erininthemorn/status/1538535196408139776",
+			"display": "twitter.com/erininthemorn/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 19 14:52:30 +0000 2022",
+			"id": 1538535196408139800,
+			"id_str": "1538535196408139776",
+			"full_text": "Megan Rapinoe comes out forcefully for trans inclusion in sports and health care.\n\n\"We’re putting everything through God forbid a trans person be successful in sports. Get a grip on reality and take a step back.\"\n\nShe's a national treasure. This is how you ally. https://t.co/lFF2hZHDOh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1538534789556363300,
+						"id_str": "1538534789556363264",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+						"url": "https://t.co/lFF2hZHDOh",
+						"display_url": "pic.twitter.com/lFF2hZHDOh",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1538535196408139776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 835,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1760,
+								"h": 1224,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1538534789556363300,
+						"id_str": "1538534789556363264",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+						"url": "https://t.co/lFF2hZHDOh",
+						"display_url": "pic.twitter.com/lFF2hZHDOh",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1538535196408139776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 835,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1760,
+								"h": 1224,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115826452715511800,
+				"id_str": "1115826452715511809",
+				"name": "Erin Reed",
+				"screen_name": "ErinInTheMorn",
+				"location": "Maryland",
+				"description": "Solidarity w/ trans kids ✊Leftist ⬅️ Mom 👩‍👦Weather nerd ⛈ DC 🇺🇸 Deacon ✝️ D&D DM 🐲 She/her. All opinions my own. Venmo erin888",
+				"url": "https://t.co/prq5Rku4Zl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/prq5Rku4Zl",
+								"expanded_url": "https://ko-fi.com/erininthemorn",
+								"display_url": "ko-fi.com/erininthemorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53989,
+				"friends_count": 1438,
+				"listed_count": 197,
+				"created_at": "Wed Apr 10 03:58:52 +0000 2019",
+				"favourites_count": 87054,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21390,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115826452715511809/1637250612",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4658,
+			"favorite_count": 22110,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YES! “We’re talking about people’s lives. I’m sorry, your kid’s high school volleyball team just isn’t that important. It’s not more important than any one kid’s life.” https://t.co/2qwRSdDYYa"
+	},
+	{
+		"created_at": "Sun Jun 19 23:08:56 +0000 2022",
+		"id": 1538660128894886000,
+		"id_str": "1538660128894885892",
+		"full_text": "@MeghanKRoberts She really is",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeghanKRoberts",
+					"name": "Meghan Roberts",
+					"id": 602810551,
+					"id_str": "602810551",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538652359634591700,
+		"in_reply_to_status_id_str": "1538652359634591744",
+		"in_reply_to_user_id": 602810551,
+		"in_reply_to_user_id_str": "602810551",
+		"in_reply_to_screen_name": "MeghanKRoberts",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10124,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MeghanKRoberts She really is"
+	},
+	{
+		"created_at": "Sun Jun 19 23:08:44 +0000 2022",
+		"id": 1538535196408139800,
+		"id_str": "1538660077955055617",
+		"full_text": "Megan Rapinoe comes out forcefully for trans inclusion in sports and health care.\n\n\"We’re putting everything through God forbid a trans person be successful in sports. Get a grip on reality and take a step back.\"\n\nShe's a national treasure. This is how you ally. https://t.co/lFF2hZHDOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538534789556363300,
+					"id_str": "1538534789556363264",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+					"url": "https://t.co/lFF2hZHDOh",
+					"display_url": "pic.twitter.com/lFF2hZHDOh",
+					"expanded_url": "https://twitter.com/ErinInTheMorn/status/1538535196408139776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 835,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1760,
+							"h": 1224,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538534789556363300,
+					"id_str": "1538534789556363264",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVn5PVYWYAAjMQ8.jpg",
+					"url": "https://t.co/lFF2hZHDOh",
+					"display_url": "pic.twitter.com/lFF2hZHDOh",
+					"expanded_url": "https://twitter.com/ErinInTheMorn/status/1538535196408139776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 835,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1760,
+							"h": 1224,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115826452715511800,
+			"id_str": "1115826452715511809",
+			"name": "Erin Reed",
+			"screen_name": "ErinInTheMorn",
+			"location": "Maryland",
+			"description": "Solidarity w/ trans kids ✊Leftist ⬅️ Mom 👩‍👦Weather nerd ⛈ DC 🇺🇸 Deacon ✝️ D&D DM 🐲 She/her. All opinions my own. Venmo erin888",
+			"url": "https://t.co/prq5Rku4Zl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/prq5Rku4Zl",
+							"expanded_url": "https://ko-fi.com/erininthemorn",
+							"display_url": "ko-fi.com/erininthemorn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53989,
+			"friends_count": 1438,
+			"listed_count": 197,
+			"created_at": "Wed Apr 10 03:58:52 +0000 2019",
+			"favourites_count": 87054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115826452715511809/1637250612",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4658,
+		"favorite_count": 22110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Megan Rapinoe comes out forcefully for trans inclusion in sports and health care.\n\n\"We’re putting everything through God forbid a trans person be successful in sports. Get a grip on reality and take a step back.\"\n\nShe's a national treasure. This is how you ally. https://t.co/lFF2hZHDOh"
+	},
+	{
+		"created_at": "Sun Jun 19 16:49:13 +0000 2022",
+		"id": 1538564572159824000,
+		"id_str": "1538564572159823873",
+		"full_text": "@marccold Holy crap that’s way too hot for up there!!! Good luck 😬",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marccold",
+					"name": "MARC in a Cold Climate",
+					"id": 3337235254,
+					"id_str": "3337235254",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538553218749321200,
+		"in_reply_to_status_id_str": "1538553218749321220",
+		"in_reply_to_user_id": 3337235254,
+		"in_reply_to_user_id_str": "3337235254",
+		"in_reply_to_screen_name": "marccold",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10124,
+			"friends_count": 501,
+			"listed_count": 383,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marccold Holy crap that’s way too hot for up there!!! Good luck 😬"
+	},
+	{
+		"created_at": "Sun Jun 19 16:00:39 +0000 2022",
+		"id": 1538483825310826500,
+		"id_str": "1538552349337296899",
+		"full_text": "We need to own our infrastructure and we need the resources to do so. https://t.co/OkDuqpXs1e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OkDuqpXs1e",
+					"expanded_url": "https://twitter.com/ubiquity75/status/1538372484432424960",
+					"display_url": "twitter.com/ubiquity75/sta…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14089871,
+			"id_str": "14089871",
+			"name": "Emily Drabinski",
+			"screen_name": "edrabinski",
+			"location": "Brooklyn",
+			"description": "Librarian @cunyGClibrary. The problem is profit. Organize your workplace. Collective power, public good. @ALAlibrary President 2023-24.",
+			"url": "https://t.co/2FtbCviXl9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2FtbCviXl9",
+							"expanded_url": "http://www.emilydrabinski.com",
+							"display_url": "emilydrabinski.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20089,
+			"friends_count": 4221,
+			"listed_count": 453,
+			"created_at": "Thu Mar 06 17:04:36 +0000 2008",
+			"favourites_count": 88287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512040779543367681/RN8agBtw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512040779543367681/RN8agBtw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14089871/1422498406",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1538372484432425000,
+		"quoted_status_id_str": "1538372484432424960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OkDuqpXs1e",
+			"expanded": "https://twitter.com/ubiquity75/status/1538372484432424960",
+			"display": "twitter.com/ubiquity75/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 19 04:05:56 +0000 2022",
+			"id": 1538372484432425000,
+			"id_str": "1538372484432424960",
+			"full_text": "YouTube has removed all of @Cornell_Library content because of lectures relating to On Our Backs magazine. Not content of the magazine itself, mind you. Content of people TALKING ABOUT the magazine. \n\n“Terminated” - Susie Bright’s Journal https://t.co/DzAzEaOwta",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Cornell_Library",
+						"name": "Cornell_Library",
+						"id": 7857772,
+						"id_str": "7857772",
+						"indices": [
+							27,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DzAzEaOwta",
+						"expanded_url": "https://twitter.com/elotroalex/status/1538163620386840578",
+						"display_url": "twitter.com/elotroalex/sta…",
+						"indices": [
+							239,
+							262
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23451153,
+				"id_str": "23451153",
+				"name": "Dr. Sarah T. Roberts",
+				"screen_name": "ubiquity75",
+				"location": "Los Angeles",
+				"description": "Professor ON LEAVE @UCLA; @c2i2_ucla. Now: content mod researcher at Twitter. Book: Behind the Screen (Yale). Tweets mine. Gay lady from WI. Solidarity. #BLM",
+				"url": "https://t.co/1SlFotYJ3M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1SlFotYJ3M",
+								"expanded_url": "https://www.behindthescreen-book.com/",
+								"display_url": "behindthescreen-book.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21694,
+				"friends_count": 7851,
+				"listed_count": 519,
+				"created_at": "Mon Mar 09 15:56:31 +0000 2009",
+				"favourites_count": 68679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53797,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823780775380324352/ab4mXoPE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823780775380324352/ab4mXoPE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23451153/1609500166",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1538163620386840600,
+			"quoted_status_id_str": "1538163620386840578",
+			"quoted_status_permalink": {
+				"url": "https://t.co/DzAzEaOwta",
+				"expanded": "https://twitter.com/elotroalex/status/1538163620386840578",
+				"display": "twitter.com/elotroalex/sta…"
+			},
+			"retweet_count": 119,
+			"favorite_count": 235,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We need to own our infrastructure and we need the resources to do so. https://t.co/OkDuqpXs1e"
+	},
+	{
 		"created_at": "Sun Jun 19 01:39:03 +0000 2022",
 		"id": 1538321756506796000,
 		"id_str": "1538335520882888705",
-		"full_text": "That feeling when ⁦you form the first union at Apple in America. Congrats, ⁦@acoreunion⁩!\n\nWelcome to the Machinists Union! #1u https://t.co/U7JzwXcoz7",
+		"full_text": "That feeling when you form the first union at Apple in America. Congrats, @acoreunion!\n\nWelcome to the Machinists Union! #1u https://t.co/U7JzwXcoz7",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -233,7 +1178,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "That feeling when ⁦you form the first union at Apple in America. Congrats, ⁦@acoreunion⁩!\n\nWelcome to the Machinists Union! #1u https://t.co/U7JzwXcoz7"
+		"text": "That feeling when you form the first union at Apple in America. Congrats, @acoreunion!\n\nWelcome to the Machinists Union! #1u https://t.co/U7JzwXcoz7"
 	},
 	{
 		"created_at": "Sat Jun 18 12:34:29 +0000 2022",
