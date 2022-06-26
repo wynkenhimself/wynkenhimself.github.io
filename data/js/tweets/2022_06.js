@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 15:13:42 +0000 2022",
+		"id": 1540697607516848000,
+		"id_str": "1540714860291317760",
+		"full_text": "Many companies are stepping up and offering travel and other assistance for their employees to get abortion access but women should not have to share this private health decision with their employers in order to access what yesterday was a constitutional right.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25598396,
+			"id_str": "25598396",
+			"name": "Ida Bae Wells",
+			"screen_name": "nhannahjones",
+			"location": "nhannahjones@nytimes.com",
+			"description": "Reporter @nytmag//Slanderous & nasty-minded mulattress//Co-founder https://t.co/7oIBBhJTB4 //smart&thuggish//Knight Chair @howardu//Creator #1619Project//",
+			"url": "https://t.co/ltiExoYMSy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ltiExoYMSy",
+							"expanded_url": "https://1619books.com/",
+							"display_url": "1619books.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7oIBBhJTB4",
+							"expanded_url": "http://idabwellssociety.org",
+							"display_url": "idabwellssociety.org",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 682917,
+			"friends_count": 2625,
+			"listed_count": 4796,
+			"created_at": "Fri Mar 20 23:26:56 +0000 2009",
+			"favourites_count": 50704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461384626925150210/LeWOru_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461384626925150210/LeWOru_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25598396/1620754449",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3268,
+		"favorite_count": 25691,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Many companies are stepping up and offering travel and other assistance for their employees to get abortion access but women should not have to share this private health decision with their employers in order to access what yesterday was a constitutional right."
+	},
+	{
+		"created_at": "Sat Jun 25 14:44:04 +0000 2022",
+		"id": 1540489929532117000,
+		"id_str": "1540707401992511495",
+		"full_text": "If you are seeking an abortion or looking for information about abortion in a place where abortion is banned, this is the best guide to hiding your digital footprints. https://t.co/t9nJK4GphE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t9nJK4GphE",
+					"expanded_url": "https://twitter.com/katerosebee/status/1522544052209655809",
+					"display_url": "twitter.com/katerosebee/st…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14707266,
+			"id_str": "14707266",
+			"name": "Eva",
+			"screen_name": "evacide",
+			"location": "",
+			"description": "Director of Cybersecurity @EFF / Co-founder of @stopstalkerware/ My tweets are my own, not my employers’ / I did a TED talk once",
+			"url": "https://t.co/UBAROARmlS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UBAROARmlS",
+							"expanded_url": "https://www.ted.com/talks/eva_galperin_what_you_need_to_know_about_stalkerware",
+							"display_url": "ted.com/talks/eva_galp…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181746,
+			"friends_count": 1380,
+			"listed_count": 3568,
+			"created_at": "Thu May 08 23:34:06 +0000 2008",
+			"favourites_count": 22289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230657789539880960/19BjSzV6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230657789539880960/19BjSzV6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14707266/1582246976",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522544052209655800,
+		"quoted_status_id_str": "1522544052209655809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t9nJK4GphE",
+			"expanded": "https://twitter.com/katerosebee/status/1522544052209655809",
+			"display": "twitter.com/katerosebee/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 06 11:49:24 +0000 2022",
+			"id": 1522544052209655800,
+			"id_str": "1522544052209655809",
+			"full_text": "We've updated our Abortion &amp; Pregnancy Privacy Guide with this quick mobile settings graphic to save and share.\nThese tips can help ensure these sensitive experiences are less able to be easily accessed by looking through your device. Full instructions at:\nhttps://t.co/X3L0IOHVfz https://t.co/6ECJlNcSU0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/X3L0IOHVfz",
+						"expanded_url": "https://digitaldefensefund.org/abortion-privacy",
+						"display_url": "digitaldefensefund.org/abortion-priva…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1522542798070861800,
+						"id_str": "1522542798070861824",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/FSEom6pX0AAjVtz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSEom6pX0AAjVtz.jpg",
+						"url": "https://t.co/6ECJlNcSU0",
+						"display_url": "pic.twitter.com/6ECJlNcSU0",
+						"expanded_url": "https://twitter.com/KateRoseBee/status/1522544052209655809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522542798070861800,
+						"id_str": "1522542798070861824",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/FSEom6pX0AAjVtz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSEom6pX0AAjVtz.jpg",
+						"url": "https://t.co/6ECJlNcSU0",
+						"display_url": "pic.twitter.com/6ECJlNcSU0",
+						"expanded_url": "https://twitter.com/KateRoseBee/status/1522544052209655809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1369730788355235800,
+			"in_reply_to_status_id_str": "1369730788355235844",
+			"in_reply_to_user_id": 1099559232,
+			"in_reply_to_user_id_str": "1099559232",
+			"in_reply_to_screen_name": "KateRoseBee",
+			"user": {
+				"id": 1099559232,
+				"id_str": "1099559232",
+				"name": "Don’t post about crimes.",
+				"screen_name": "KateRoseBee",
+				"location": "",
+				"description": "(she/her) digital security for abortion access, designing @adversarialwear, building a research and community space in the PNW, solarpunk.",
+				"url": "https://t.co/Lcb8Oo3uEf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lcb8Oo3uEf",
+								"expanded_url": "http://digitaldefensefund.org",
+								"display_url": "digitaldefensefund.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6371,
+				"friends_count": 2461,
+				"listed_count": 139,
+				"created_at": "Thu Jan 17 23:57:05 +0000 2013",
+				"favourites_count": 41188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31630,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1538056584944709632/Rf07-1Zy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1538056584944709632/Rf07-1Zy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1099559232/1466013810",
+				"profile_link_color": "00636E",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 567,
+			"favorite_count": 634,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 873,
+		"favorite_count": 1009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are seeking an abortion or looking for information about abortion in a place where abortion is banned, this is the best guide to hiding your digital footprints. https://t.co/t9nJK4GphE"
+	},
+	{
 		"created_at": "Sat Jun 25 01:52:50 +0000 2022",
 		"id": 1540500433931747300,
 		"id_str": "1540513314844938240",
@@ -487,7 +891,7 @@ Grailbird.data.tweets_2022_06 =
 			"user": {
 				"id": 3176124093,
 				"id_str": "3176124093",
-				"name": "Dr Elizabeth Savage 🏳️‍🌈",
+				"name": "Dr Elizabeth Savage 🏳️🌈",
 				"screen_name": "LEUSavage",
 				"location": "London, England",
 				"description": "Book: Early Colour Printing: German Renaissance Woodcuts at the British Museum, https://t.co/kILReAn7wO. Printer: https://t.co/XMo3YzfzAb",
@@ -2821,7 +3225,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "Rachel Fershleiser",
 			"screen_name": "RachelFersh",
 			"location": "Brooklyn, NY",
-			"description": "Currently: @CatapultStory @CounterpointLLC @softskull. Previously: @AAKnopf @MarinerBooks @tumblr @HousingWorksBks @sixwords. Always: 📚🍲👧🏼🤷🏻‍♀️",
+			"description": "Currently: @CatapultStory @CounterpointLLC @softskull. Previously: @AAKnopf @MarinerBooks @tumblr @HousingWorksBks @sixwords. Always: 📚🍲👧🏼🤷🏻♀️",
 			"url": null,
 			"entities": {
 				"description": {
