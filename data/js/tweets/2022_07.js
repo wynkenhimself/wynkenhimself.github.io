@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 17:24:03 +0000 2022",
+		"id": 1544732028108685300,
+		"id_str": "1544733929378385920",
+		"full_text": "The Brittney Griner situation is happening because the NBA doesn't pay WNBA players adequately. She never would have been in Russia in the first place, otherwise. This is the material consequences of pay inequality.\n\nNow she is a pawn in an international war game. It is terrible.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14981648,
+			"id_str": "14981648",
+			"name": "The Disordered Cosmos by Chanda Prescod-Weinstein",
+			"screen_name": "IBJIYONGI",
+			"location": "Made by East L.A./now: NH & MA",
+			"description": "Asst. Prof.: Theoretical Physics/Astro/STS. LA Times Book Prize for #DisorderedCosmos. all #BLACKandSTEM/all Jewish. queer/agender/woman/she. tweets by/for me.",
+			"url": "https://t.co/WGnaYEZN16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WGnaYEZN16",
+							"expanded_url": "http://profcpw.com",
+							"display_url": "profcpw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99833,
+			"friends_count": 8592,
+			"listed_count": 1264,
+			"created_at": "Mon Jun 02 16:15:41 +0000 2008",
+			"favourites_count": 139261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 116957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1495256533453713413/ReGXiEPZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1495256533453713413/ReGXiEPZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14981648/1652110453",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 696,
+		"favorite_count": 3043,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Brittney Griner situation is happening because the NBA doesn't pay WNBA players adequately. She never would have been in Russia in the first place, otherwise. This is the material consequences of pay inequality.\n\nNow she is a pawn in an international war game. It is terrible."
+	},
+	{
 		"created_at": "Wed Jul 06 00:31:49 +0000 2022",
 		"id": 1544466416165761000,
 		"id_str": "1544479191940452352",
