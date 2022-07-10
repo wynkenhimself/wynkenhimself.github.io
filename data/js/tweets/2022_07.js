@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 22:56:24 +0000 2022",
+		"id": 1545901139786449000,
+		"id_str": "1545904732438515713",
+		"full_text": "\"Mainstream politics\" is a fiction. If it were a reality, we'd be a country with a federal right to abortion, universal paid leave, universal child care, and much more. Instead, we're a country held hostage https://t.co/vsuNVcC6dz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vsuNVcC6dz",
+					"expanded_url": "https://twitter.com/rtraister/status/1545898342093410305",
+					"display_url": "twitter.com/rtraister/stat…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366290725,
+			"id_str": "366290725",
+			"name": "Gillian Branstetter",
+			"screen_name": "GBBranstetter",
+			"location": "District of Columbia",
+			"description": "Comms Strategy @ACLU // Opinions are my own // She/Her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31017,
+			"friends_count": 3213,
+			"listed_count": 185,
+			"created_at": "Thu Sep 01 22:37:03 +0000 2011",
+			"favourites_count": 27048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515980642772828160/DL6b2hWs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515980642772828160/DL6b2hWs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366290725/1642722561",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545898342093410300,
+		"quoted_status_id_str": "1545898342093410305",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vsuNVcC6dz",
+			"expanded": "https://twitter.com/rtraister/status/1545898342093410305",
+			"display": "twitter.com/rtraister/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 09 22:31:00 +0000 2022",
+			"id": 1545898342093410300,
+			"id_str": "1545898342093410305",
+			"full_text": "He’s not invested in protecting people here. The activists he’s talking about as out of step with the party (in a country that overwhelming supports legal abortion), the ones he’s doing the right a favor by casting as extreme, are the ones who’ve been working to protect people.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1545898340730257400,
+			"in_reply_to_status_id_str": "1545898340730257416",
+			"in_reply_to_user_id": 19086859,
+			"in_reply_to_user_id_str": "19086859",
+			"in_reply_to_screen_name": "rtraister",
+			"user": {
+				"id": 19086859,
+				"id_str": "19086859",
+				"name": "Rebecca Traister",
+				"screen_name": "rtraister",
+				"location": "",
+				"description": "Writer @NYMag & @TheCut Author, Good and Mad: https://t.co/7f4h2it3Wj… rtraister{at}gmail",
+				"url": "https://t.co/8BG2zBE64N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8BG2zBE64N",
+								"expanded_url": "http://www.rebeccatraister.com",
+								"display_url": "rebeccatraister.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7f4h2it3Wj",
+								"expanded_url": "http://indiebound.org/book/978150118",
+								"display_url": "indiebound.org/book/978150118",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 233686,
+				"friends_count": 4207,
+				"listed_count": 2795,
+				"created_at": "Fri Jan 16 21:43:38 +0000 2009",
+				"favourites_count": 24916,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33793,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276354496990531584/2jBWxKMx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276354496990531584/2jBWxKMx_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 755,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 157,
+		"favorite_count": 609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Mainstream politics\" is a fiction. If it were a reality, we'd be a country with a federal right to abortion, universal paid leave, universal child care, and much more. Instead, we're a country held hostage https://t.co/vsuNVcC6dz"
+	},
+	{
 		"created_at": "Sat Jul 09 00:35:34 +0000 2022",
 		"id": 1545567302095102000,
 		"id_str": "1545567302095101953",
@@ -2644,7 +2849,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "C.G. Drews",
 			"screen_name": "PaperFury",
 			"location": "Australia",
-			"description": "Author of A THOUSAND PERFECT NOTES and THE BOY WHO STEALS HOUSES. Will make you laugh or cry or both. Rep by @Literary_Tara | #actuallyautistic 🏳️‍🌈🇦🇺",
+			"description": "Author of A THOUSAND PERFECT NOTES and THE BOY WHO STEALS HOUSES. Will make you laugh or cry or both. Rep by @Literary_Tara | #actuallyautistic 🏳️🌈🇦🇺",
 			"url": "https://t.co/ylik6MBXwI",
 			"entities": {
 				"url": {
