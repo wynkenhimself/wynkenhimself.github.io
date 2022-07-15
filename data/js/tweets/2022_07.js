@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 17:52:27 +0000 2022",
+		"id": 1547582317006188500,
+		"id_str": "1547640180294574082",
+		"full_text": "baby came early!! The Illustrated Guide to Video Formats book and website are both out NOW! https://t.co/fOnSwJSVWM\n\nIllustrations and data are open/free. Net profits go towards paying tech reviewers and then Spanish translation! Since this is my hobby, my efforts are gratis. https://t.co/3MkljXLwc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fOnSwJSVWM",
+					"expanded_url": "https://archivesoftomorrow.com",
+					"display_url": "archivesoftomorrow.com",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547579725358325800,
+					"id_str": "1547579725358325761",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FXobj4-UYAEsiHH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXobj4-UYAEsiHH.jpg",
+					"url": "https://t.co/3MkljXLwc9",
+					"display_url": "pic.twitter.com/3MkljXLwc9",
+					"expanded_url": "https://twitter.com/ablwr/status/1547582317006188546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1848,
+							"h": 1088,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547579725358325800,
+					"id_str": "1547579725358325761",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FXobj4-UYAEsiHH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXobj4-UYAEsiHH.jpg",
+					"url": "https://t.co/3MkljXLwc9",
+					"display_url": "pic.twitter.com/3MkljXLwc9",
+					"expanded_url": "https://twitter.com/ablwr/status/1547582317006188546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1848,
+							"h": 1088,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547580245678575600,
+					"id_str": "1547580245678575617",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FXocCLUVUAEZ_fH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXocCLUVUAEZ_fH.jpg",
+					"url": "https://t.co/3MkljXLwc9",
+					"display_url": "pic.twitter.com/3MkljXLwc9",
+					"expanded_url": "https://twitter.com/ablwr/status/1547582317006188546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21835813,
+			"id_str": "21835813",
+			"name": "➺ Ashley Blewer! ❥",
+			"screen_name": "ablwr",
+			"location": "eXistenZ",
+			"description": "video engineer @trydaily 〰️💻〰️ 👩‍💻 audio & video + open source open standards (ex-)#GLAM | tweets auto-delete | see my book @ https://t.co/APtpfzqlzd",
+			"url": "https://t.co/RxCEH65DeF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RxCEH65DeF",
+							"expanded_url": "https://ashleyblewer.com",
+							"display_url": "ashleyblewer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/APtpfzqlzd",
+							"expanded_url": "http://archivesoftomorrow.com",
+							"display_url": "archivesoftomorrow.com",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7421,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Feb 25 04:18:34 +0000 2009",
+			"favourites_count": 30173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "595959",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1533209620579332096/9RvUnpBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533209620579332096/9RvUnpBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21835813/1513363962",
+			"profile_link_color": "456F9E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAC97B",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "baby came early!! The Illustrated Guide to Video Formats book and website are both out NOW! https://t.co/fOnSwJSVWM\n\nIllustrations and data are open/free. Net profits go towards paying tech reviewers and then Spanish translation! Since this is my hobby, my efforts are gratis. https://t.co/3MkljXLwc9"
+	},
+	{
+		"created_at": "Thu Jul 14 17:52:13 +0000 2022",
+		"id": 1546891192436232200,
+		"id_str": "1547640123315015681",
+		"full_text": "It's here 🍻 the Critical Coding Cookbook project - An Intersectional Feminist Approach to Teaching and Learning (https://t.co/K7z4VcPuox) with a contribution by me and 23 fantastic recipes that consider comp. programming from cultural, philosophical, and decolonial frameworks https://t.co/rYGuG44MO5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K7z4VcPuox",
+					"expanded_url": "https://criticalcode.recipes/",
+					"display_url": "criticalcode.recipes",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546890975016001500,
+					"id_str": "1546890975016001536",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546890975016001536/pu/img/YJFEpGY5-LxaSXW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546890975016001536/pu/img/YJFEpGY5-LxaSXW0.jpg",
+					"url": "https://t.co/rYGuG44MO5",
+					"display_url": "pic.twitter.com/rYGuG44MO5",
+					"expanded_url": "https://twitter.com/anu1905/status/1546891192436232192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546890975016001500,
+					"id_str": "1546890975016001536",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546890975016001536/pu/img/YJFEpGY5-LxaSXW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546890975016001536/pu/img/YJFEpGY5-LxaSXW0.jpg",
+					"url": "https://t.co/rYGuG44MO5",
+					"display_url": "pic.twitter.com/rYGuG44MO5",
+					"expanded_url": "https://twitter.com/anu1905/status/1546891192436232192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							375,
+							251
+						],
+						"duration_millis": 10710,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546890975016001536/pu/vid/536x360/rmfRHZNa3ZgdCsEH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546890975016001536/pu/vid/1074x720/z4TDps4dXhUihVsC.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546890975016001536/pu/vid/402x270/_wb_L65HhlTCwnjg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546890975016001536/pu/pl/xHkaAQt5Z2iQ0cKu.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42027299,
+			"id_str": "42027299",
+			"name": "Dr. Anuradha Reddy",
+			"screen_name": "anu1905",
+			"location": "🌊🚴🥙",
+			"description": "interdisciplinary researcher of design, creativity, data, fiber arts and crafts, makes and hacks 🤖🎨🧶 she/her | find me at @anu1905@post.lurk.org",
+			"url": "https://t.co/0G8Tk8uv0u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0G8Tk8uv0u",
+							"expanded_url": "http://www.anuradhareddy.com",
+							"display_url": "anuradhareddy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1204,
+			"friends_count": 807,
+			"listed_count": 17,
+			"created_at": "Sat May 23 13:41:31 +0000 2009",
+			"favourites_count": 10994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478708980134387712/4ORJOO7c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478708980134387712/4ORJOO7c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42027299/1656667383",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's here 🍻 the Critical Coding Cookbook project - An Intersectional Feminist Approach to Teaching and Learning (https://t.co/K7z4VcPuox) with a contribution by me and 23 fantastic recipes that consider comp. programming from cultural, philosophical, and decolonial frameworks https://t.co/rYGuG44MO5"
+	},
+	{
 		"created_at": "Wed Jul 13 19:38:28 +0000 2022",
 		"id": 1547304473806135300,
 		"id_str": "1547304473806135296",
@@ -1006,7 +1453,7 @@ Grailbird.data.tweets_2022_07 =
 				"name": "melody joy kramer",
 				"screen_name": "mkramer",
 				"location": "Carrboro, NC",
-				"description": "Day: population research stuff. Night: mlis grad student / writer. Formerly: NPR / FreshAir / WaitWait / NatGeo / Wikimedia / https://t.co/bS4bBuTUXy. Mom. Marrow donor. 🏳️‍🌈",
+				"description": "Day: population research stuff. Night: mlis grad student / writer. Formerly: NPR / FreshAir / WaitWait / NatGeo / Wikimedia / https://t.co/bS4bBuTUXy. Mom. Marrow donor. 🏳️🌈",
 				"url": "https://t.co/CAdIw2yCio",
 				"entities": {
 					"url": {
