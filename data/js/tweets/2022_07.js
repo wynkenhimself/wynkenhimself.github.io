@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 19:22:48 +0000 2022",
+		"id": 1548025304861487000,
+		"id_str": "1548025304861487109",
+		"full_text": "@LEUSavage @ellen_mic Yes! SHARP EC is def aware of this and invested in change for the future to make our conferences more accessible and affordable and welcoming. I’m really sorry, Ellen, that you were misgendered on top of everything else. Feel free to reach out directly to me or any EC member",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			297
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LEUSavage",
+					"name": "Dr Elizabeth Savage 🏳️‍🌈",
+					"id": 3176124093,
+					"id_str": "3176124093",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ellen_mic",
+					"name": "Ellen Forget",
+					"id": 180037019,
+					"id_str": "180037019",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1548020558222094300,
+		"in_reply_to_status_id_str": "1548020558222094338",
+		"in_reply_to_user_id": 3176124093,
+		"in_reply_to_user_id_str": "3176124093",
+		"in_reply_to_screen_name": "LEUSavage",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10129,
+			"friends_count": 506,
+			"listed_count": 381,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LEUSavage @ellen_mic Yes! SHARP EC is def aware of this and invested in change for the future to make our conferences more accessible and affordable and welcoming. I’m really sorry, Ellen, that you were misgendered on top of everything else. Feel free to reach out directly to me or any EC member"
+	},
+	{
+		"created_at": "Fri Jul 15 19:20:02 +0000 2022",
+		"id": 1547732144201482200,
+		"id_str": "1548024608565051397",
+		"full_text": "A Libearian. https://t.co/tdIM7clI8q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tdIM7clI8q",
+					"expanded_url": "https://twitter.com/dog_rates/status/1547731441429069825",
+					"display_url": "twitter.com/dog_rates/stat…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1965567127,
+			"id_str": "1965567127",
+			"name": "Jakkal",
+			"screen_name": "JakkalWolf",
+			"location": "Raleigh, NC",
+			"description": "Therian. Artist. RP Site Admin. Webcomic Writer/Artist.",
+			"url": "http://t.co/ehaHTLRlyG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ehaHTLRlyG",
+							"expanded_url": "http://jakkalwolf.deviantart.com",
+							"display_url": "jakkalwolf.deviantart.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 551,
+			"listed_count": 12,
+			"created_at": "Wed Oct 16 21:14:15 +0000 2013",
+			"favourites_count": 3204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116158639520342017/uH0urksg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116158639520342017/uH0urksg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1965567127/1524167323",
+			"profile_link_color": "34444F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547731441429069800,
+		"quoted_status_id_str": "1547731441429069825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tdIM7clI8q",
+			"expanded": "https://twitter.com/dog_rates/status/1547731441429069825",
+			"display": "twitter.com/dog_rates/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 14 23:55:05 +0000 2022",
+			"id": 1547731441429069800,
+			"id_str": "1547731441429069825",
+			"full_text": "We only rate dogs. This is clearly a long-haired library bear. Natural predator of the book worm. Please only send dogs. Thank you... 12/10 https://t.co/uGJUzPHgCv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1547731435821285400,
+						"id_str": "1547731435821285380",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/FXqlimfVQAQ5jgx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXqlimfVQAQ5jgx.jpg",
+						"url": "https://t.co/uGJUzPHgCv",
+						"display_url": "pic.twitter.com/uGJUzPHgCv",
+						"expanded_url": "https://twitter.com/dog_rates/status/1547731441429069825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1431,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 906,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1547731435821285400,
+						"id_str": "1547731435821285380",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/FXqlimfVQAQ5jgx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXqlimfVQAQ5jgx.jpg",
+						"url": "https://t.co/uGJUzPHgCv",
+						"display_url": "pic.twitter.com/uGJUzPHgCv",
+						"expanded_url": "https://twitter.com/dog_rates/status/1547731441429069825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1431,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 906,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4196983835,
+				"id_str": "4196983835",
+				"name": "WeRateDogs®",
+				"screen_name": "dog_rates",
+				"location": "all our links ➜",
+				"description": "Your Only Source For Professional Dog Ratings Instagram and Facebook ➜ WeRateDogs partnerships@weratedogs.com | nonprofit: @15outof10 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+				"url": "https://t.co/YPc2XqmwyC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YPc2XqmwyC",
+								"expanded_url": "http://links.weratedogs.com",
+								"display_url": "links.weratedogs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9307241,
+				"friends_count": 21,
+				"listed_count": 7486,
+				"created_at": "Sun Nov 15 21:41:29 +0000 2015",
+				"favourites_count": 147015,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15861,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1532010275708223491/-SBRbLoH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1532010275708223491/-SBRbLoH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4196983835/1617810473",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4849,
+			"favorite_count": 78443,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 410,
+		"favorite_count": 6925,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Libearian. https://t.co/tdIM7clI8q"
+	},
+	{
+		"created_at": "Fri Jul 15 14:32:44 +0000 2022",
+		"id": 1547951800216498200,
+		"id_str": "1547952310289985538",
+		"full_text": "This is an extremely important and useful piece of journalism. Thanks to @Taniel and @boltsmag https://t.co/ZRq3EOn8BR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Taniel",
+					"name": "Taniel",
+					"id": 15537302,
+					"id_str": "15537302",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"screen_name": "boltsmag",
+					"name": "Bolts",
+					"id": 1484396277672685600,
+					"id_str": "1484396277672685569",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZRq3EOn8BR",
+					"expanded_url": "https://twitter.com/Taniel/status/1547649136039563264",
+					"display_url": "twitter.com/Taniel/status/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19086859,
+			"id_str": "19086859",
+			"name": "Rebecca Traister",
+			"screen_name": "rtraister",
+			"location": "",
+			"description": "Writer @NYMag & @TheCut Author, Good and Mad: https://t.co/7f4h2it3Wj… rtraister{at}gmail",
+			"url": "https://t.co/8BG2zBE64N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8BG2zBE64N",
+							"expanded_url": "http://www.rebeccatraister.com",
+							"display_url": "rebeccatraister.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7f4h2it3Wj",
+							"expanded_url": "http://indiebound.org/book/978150118",
+							"display_url": "indiebound.org/book/978150118",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 233910,
+			"friends_count": 4213,
+			"listed_count": 2796,
+			"created_at": "Fri Jan 16 21:43:38 +0000 2009",
+			"favourites_count": 24923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276354496990531584/2jBWxKMx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276354496990531584/2jBWxKMx_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547649136039563300,
+		"quoted_status_id_str": "1547649136039563264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZRq3EOn8BR",
+			"expanded": "https://twitter.com/Taniel/status/1547649136039563264",
+			"display": "twitter.com/Taniel/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 14 18:28:02 +0000 2022",
+			"id": 1547649136039563300,
+			"id_str": "1547649136039563264",
+			"full_text": "i spent the past 2 weeks sifting thru the overwhelming mass of local elections happening across the country this fall to identify the ones that are most important for abortion access, and explain why as precisely as i can. \n\nit's a big but critical one: https://t.co/cQwJfihLPF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cQwJfihLPF",
+						"expanded_url": "https://boltsmag.org/your-guide-to-local-elections-and-abortion-in-2022/",
+						"display_url": "boltsmag.org/your-guide-to-…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15537302,
+				"id_str": "15537302",
+				"name": "Taniel",
+				"screen_name": "Taniel",
+				"location": "",
+				"description": "Daniel Nichanian. Editor-in-Chief of @BoltsMag. Also contributing editor @_inquest_.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123293,
+				"friends_count": 724,
+				"listed_count": 3082,
+				"created_at": "Tue Jul 22 21:06:43 +0000 2008",
+				"favourites_count": 16933,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 89431,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/538548703527575552/9v70-cFQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/538548703527575552/9v70-cFQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15537302/1452364637",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1296,
+			"favorite_count": 2291,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 52,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an extremely important and useful piece of journalism. Thanks to @Taniel and @boltsmag https://t.co/ZRq3EOn8BR"
+	},
+	{
 		"created_at": "Thu Jul 14 17:52:27 +0000 2022",
 		"id": 1547582317006188500,
 		"id_str": "1547640180294574082",
@@ -152,7 +804,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "➺ Ashley Blewer! ❥",
 			"screen_name": "ablwr",
 			"location": "eXistenZ",
-			"description": "video engineer @trydaily 〰️💻〰️ 👩‍💻 audio & video + open source open standards (ex-)#GLAM | tweets auto-delete | see my book @ https://t.co/APtpfzqlzd",
+			"description": "video engineer @trydaily 〰️💻〰️ 👩💻 audio & video + open source open standards (ex-)#GLAM | tweets auto-delete | see my book @ https://t.co/APtpfzqlzd",
 			"url": "https://t.co/RxCEH65DeF",
 			"entities": {
 				"url": {
