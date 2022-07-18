@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 17:27:47 +0000 2022",
+		"id": 1548502843979874300,
+		"id_str": "1548721136439001088",
+		"full_text": "A thread for allies: Myths about pronouns and trans people.\n\nIt’s not about pronouns, it’s about scapegoating. But I’ll get to that in a minute. 🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43656537,
+			"id_str": "43656537",
+			"name": "Zan 🐯",
+			"screen_name": "shardsofblue",
+			"location": "Okinawa-shi, Okinawa",
+			"description": "#BLM.🏳️‍⚧️ Xander (he/him) Trans guy. 36. Queer as hell. Loud and shouty. Also Star Trek, art, and TTRPGs. #NeurodiverseSquad",
+			"url": "https://t.co/rQlAcOcriy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rQlAcOcriy",
+							"expanded_url": "https://linktr.ee/shardsofblue",
+							"display_url": "linktr.ee/shardsofblue",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7492,
+			"friends_count": 1457,
+			"listed_count": 29,
+			"created_at": "Sun May 31 07:06:07 +0000 2009",
+			"favourites_count": 145366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453700271813451779/TGNR0-3s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453700271813451779/TGNR0-3s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43656537/1652448114",
+			"profile_link_color": "CE7834",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "5E412F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1829,
+		"favorite_count": 4892,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A thread for allies: Myths about pronouns and trans people.\n\nIt’s not about pronouns, it’s about scapegoating. But I’ll get to that in a minute. 🧵"
+	},
+	{
+		"created_at": "Sun Jul 17 17:27:04 +0000 2022",
+		"id": 1548598403130589200,
+		"id_str": "1548720954913820675",
+		"full_text": "Infographic: What is a real book?\n\nMy cartoon for yesterday's @GdnSaturday / @GuardianBooks. p.s. my new book of literary cartoons is out soon: https://t.co/hp2RJ0wBdr https://t.co/P60lxAbJHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GdnSaturday",
+					"name": "Guardian Saturday",
+					"id": 46460395,
+					"id_str": "46460395",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "GuardianBooks",
+					"name": "Guardian Books",
+					"id": 22001973,
+					"id_str": "22001973",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hp2RJ0wBdr",
+					"expanded_url": "https://www.tomgauld.com/comic-books-v2",
+					"display_url": "tomgauld.com/comic-books-v2",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548597334719725600,
+					"id_str": "1548597334719725570",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FX25EjQWAAI2n-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX25EjQWAAI2n-c.jpg",
+					"url": "https://t.co/P60lxAbJHL",
+					"display_url": "pic.twitter.com/P60lxAbJHL",
+					"expanded_url": "https://twitter.com/tomgauld/status/1548598403130589190/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 909,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548597334719725600,
+					"id_str": "1548597334719725570",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FX25EjQWAAI2n-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX25EjQWAAI2n-c.jpg",
+					"url": "https://t.co/P60lxAbJHL",
+					"display_url": "pic.twitter.com/P60lxAbJHL",
+					"expanded_url": "https://twitter.com/tomgauld/status/1548598403130589190/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 909,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46090073,
+			"id_str": "46090073",
+			"name": "Tom Gauld",
+			"screen_name": "tomgauld",
+			"location": "London",
+			"description": "Cartoonist and Illustrator. My book for children 'The Little Wooden Robot and the Log Princess' is out now!",
+			"url": "https://t.co/Q5pLRocui9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5pLRocui9",
+							"expanded_url": "https://www.tomgauld.com/childrens-books",
+							"display_url": "tomgauld.com/childrens-books",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98759,
+			"friends_count": 438,
+			"listed_count": 2183,
+			"created_at": "Wed Jun 10 11:27:30 +0000 2009",
+			"favourites_count": 3690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060611861698281473/R1RR6kAN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060611861698281473/R1RR6kAN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46090073/1541752159",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1431,
+		"favorite_count": 3404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Infographic: What is a real book?\n\nMy cartoon for yesterday's @GdnSaturday / @GuardianBooks. p.s. my new book of literary cartoons is out soon: https://t.co/hp2RJ0wBdr https://t.co/P60lxAbJHL"
+	},
+	{
 		"created_at": "Fri Jul 15 19:22:48 +0000 2022",
 		"id": 1548025304861487000,
 		"id_str": "1548025304861487109",
@@ -16,7 +318,7 @@ Grailbird.data.tweets_2022_07 =
 			"user_mentions": [
 				{
 					"screen_name": "LEUSavage",
-					"name": "Dr Elizabeth Savage 🏳️‍🌈",
+					"name": "Dr Elizabeth Savage 🏳️🌈",
 					"id": 3176124093,
 					"id_str": "3176124093",
 					"indices": [
