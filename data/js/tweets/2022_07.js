@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 00:25:29 +0000 2022",
+		"id": 1549551030223999000,
+		"id_str": "1549551030223998976",
+		"full_text": "@liza @john_overholt This is such a weird disaster in most library sites (and was for the library web redesign that I was part of too 😬)",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liza",
+					"name": "Liza Daly",
+					"id": 1813571,
+					"id_str": "1813571",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "john_overholt",
+					"name": "John Overholt",
+					"id": 89477148,
+					"id_str": "89477148",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549548283571339300,
+		"in_reply_to_status_id_str": "1549548283571339267",
+		"in_reply_to_user_id": 1813571,
+		"in_reply_to_user_id_str": "1813571",
+		"in_reply_to_screen_name": "liza",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10128,
+			"friends_count": 506,
+			"listed_count": 380,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@liza @john_overholt This is such a weird disaster in most library sites (and was for the library web redesign that I was part of too 😬)"
+	},
+	{
+		"created_at": "Tue Jul 19 21:41:11 +0000 2022",
+		"id": 1549360701201956900,
+		"id_str": "1549509684557660161",
+		"full_text": "DC is a mirror. If you find yourself surrounded by boring career obsessed bozos, it’s likely because you’re one. https://t.co/IHwf7QAUmh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IHwf7QAUmh",
+					"expanded_url": "https://twitter.com/mattberg33/status/1548687249507844097",
+					"display_url": "twitter.com/mattberg33/sta…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1339261512997875700,
+			"id_str": "1339261512997875714",
+			"name": "jfugit",
+			"screen_name": "jerryfugit",
+			"location": "Austin, TX",
+			"description": "Friendly southern union lawyer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 390,
+			"listed_count": 0,
+			"created_at": "Wed Dec 16 17:30:09 +0000 2020",
+			"favourites_count": 1608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487979545156276233/VG2DKD_D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487979545156276233/VG2DKD_D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1339261512997875714/1632449983",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548687249507844000,
+		"quoted_status_id_str": "1548687249507844097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IHwf7QAUmh",
+			"expanded": "https://twitter.com/mattberg33/status/1548687249507844097",
+			"display": "twitter.com/mattberg33/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 17 15:13:08 +0000 2022",
+			"id": 1548687249507844000,
+			"id_str": "1548687249507844097",
+			"full_text": "dc is just linkedin but in real life",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1077929970,
+				"id_str": "1077929970",
+				"name": "Matt Berg",
+				"screen_name": "mattberg33",
+				"location": "",
+				"description": "breaking the news @politico • wrote stuff @bostonglobe @nytimes @thedailybeast @the_shoestring• amateur pickleballer, for now",
+				"url": "https://t.co/vc9G4Wu24O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vc9G4Wu24O",
+								"expanded_url": "https://www.politico.com/staff/matt-berg",
+								"display_url": "politico.com/staff/matt-berg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1606,
+				"friends_count": 1005,
+				"listed_count": 8,
+				"created_at": "Thu Jan 10 23:01:17 +0000 2013",
+				"favourites_count": 15121,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5189,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1528928785151709185/zCdeaqYD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528928785151709185/zCdeaqYD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077929970/1461714730",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2333,
+			"favorite_count": 27689,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 58,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DC is a mirror. If you find yourself surrounded by boring career obsessed bozos, it’s likely because you’re one. https://t.co/IHwf7QAUmh"
+	},
+	{
 		"created_at": "Sun Jul 17 17:27:47 +0000 2022",
 		"id": 1548502843979874300,
 		"id_str": "1548721136439001088",
@@ -28,7 +351,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "Zan 🐯",
 			"screen_name": "shardsofblue",
 			"location": "Okinawa-shi, Okinawa",
-			"description": "#BLM.🏳️‍⚧️ Xander (he/him) Trans guy. 36. Queer as hell. Loud and shouty. Also Star Trek, art, and TTRPGs. #NeurodiverseSquad",
+			"description": "#BLM.🏳️⚧️ Xander (he/him) Trans guy. 36. Queer as hell. Loud and shouty. Also Star Trek, art, and TTRPGs. #NeurodiverseSquad",
 			"url": "https://t.co/rQlAcOcriy",
 			"entities": {
 				"url": {
