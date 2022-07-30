@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 29 16:17:08 +0000 2022",
+		"id": 1553036679421853700,
+		"id_str": "1553052012274647042",
+		"full_text": "The brilliant @Sonja_Drimmer and I are now the instructors for @CalRBS 'The History of the Renaissance Book.' That's right, a 'medievalist' and a 'global historian' are teaching and abolishing the canon. We'll be centering:\nManuscripts\nJob printing\nNon-Roman scripts\nCDMX \nand ++! https://t.co/LlE00bbJV4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sonja_Drimmer",
+					"name": "𝕊onja Drimmer",
+					"id": 29133,
+					"id_str": "29133",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553035888837492700,
+					"id_str": "1553035888837492747",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FY196Z2XgAsGbCB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FY196Z2XgAsGbCB.png",
+					"url": "https://t.co/LlE00bbJV4",
+					"display_url": "pic.twitter.com/LlE00bbJV4",
+					"expanded_url": "https://twitter.com/DevinFitzger/status/1553036679421853696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553035888837492700,
+					"id_str": "1553035888837492747",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FY196Z2XgAsGbCB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FY196Z2XgAsGbCB.png",
+					"url": "https://t.co/LlE00bbJV4",
+					"display_url": "pic.twitter.com/LlE00bbJV4",
+					"expanded_url": "https://twitter.com/DevinFitzger/status/1553036679421853696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390140696,
+			"id_str": "1390140696",
+			"name": "Devin Fitzgerald",
+			"screen_name": "DevinFitzger",
+			"location": "Libraries",
+			"description": "Rare Books and History of Printing Curator, UCLA. Dr. Lord Keeper of the Book. Historian of East Asia and the Global Book. Bummer at parties. Queer dyslexic",
+			"url": "https://t.co/I2s3v6pZsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I2s3v6pZsc",
+							"expanded_url": "http://devinfitz.com",
+							"display_url": "devinfitz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9360,
+			"friends_count": 2858,
+			"listed_count": 117,
+			"created_at": "Mon Apr 29 18:29:41 +0000 2013",
+			"favourites_count": 17378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537055686055677953/WGovySsv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537055686055677953/WGovySsv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390140696/1639790098",
+			"profile_link_color": "010A0F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 111,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The brilliant @Sonja_Drimmer and I are now the instructors for @CalRBS 'The History of the Renaissance Book.' That's right, a 'medievalist' and a 'global historian' are teaching and abolishing the canon. We'll be centering:\nManuscripts\nJob printing\nNon-Roman scripts\nCDMX \nand ++! https://t.co/LlE00bbJV4"
+	},
+	{
+		"created_at": "Fri Jul 29 16:17:05 +0000 2022",
+		"id": 1553051998718656500,
+		"id_str": "1553051998718656513",
+		"full_text": "@DevinFitzger @Sonja_Drimmer @CalRBS @UCLALibrary @CourtneyEJacobs this is wonderful news!!! mazel!!",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DevinFitzger",
+					"name": "Devin Fitzgerald",
+					"id": 1390140696,
+					"id_str": "1390140696",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Sonja_Drimmer",
+					"name": "𝕊onja Drimmer",
+					"id": 29133,
+					"id_str": "29133",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CalRBS",
+					"name": "CalRBS",
+					"id": 124064638,
+					"id_str": "124064638",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"screen_name": "UCLALibrary",
+					"name": "UCLA Library",
+					"id": 392802682,
+					"id_str": "392802682",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "CourtneyEJacobs",
+					"name": "Jet (aka Courtney) Jacobs she/her",
+					"id": 2432233255,
+					"id_str": "2432233255",
+					"indices": [
+						50,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1553037614290198500,
+		"in_reply_to_status_id_str": "1553037614290198529",
+		"in_reply_to_user_id": 1390140696,
+		"in_reply_to_user_id_str": "1390140696",
+		"in_reply_to_screen_name": "DevinFitzger",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10126,
+			"friends_count": 506,
+			"listed_count": 381,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DevinFitzger @Sonja_Drimmer @CalRBS @UCLALibrary @CourtneyEJacobs this is wonderful news!!! mazel!!"
+	},
+	{
 		"created_at": "Thu Jul 28 23:06:22 +0000 2022",
 		"id": 1552789009763541000,
 		"id_str": "1552792611043278849",
@@ -43,7 +396,7 @@ Grailbird.data.tweets_2022_07 =
 		"user": {
 			"id": 1646217288,
 			"id_str": "1646217288",
-			"name": "Bridget Whearty 🏳️‍🌈",
+			"name": "Bridget Whearty 🏳️🌈",
 			"screen_name": "BridgetWhearty",
 			"location": "Binghamton, NY",
 			"description": "Queer. Feminist. Medievalist. Author of Digital Codicology: Medieval Books and Modern Labor (forthcoming @stanfordpress). Coiner of the #CaswellTest. she/her",
@@ -130,7 +483,7 @@ Grailbird.data.tweets_2022_07 =
 				"user_mentions": [
 					{
 						"screen_name": "BridgetWhearty",
-						"name": "Bridget Whearty 🏳️‍🌈",
+						"name": "Bridget Whearty 🏳️🌈",
 						"id": 1646217288,
 						"id_str": "1646217288",
 						"indices": [
@@ -787,7 +1140,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Thu Jul 28 15:30:43 +0000 2022",
 		"id": 1552677943507402800,
 		"id_str": "1552677943507402753",
-		"full_text": "🎉💗 Philly!!! 🏳️‍⚧️💞 https://t.co/mP8USGclgm",
+		"full_text": "🎉💗 Philly!!! 🏳️⚧️💞 https://t.co/mP8USGclgm",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1125,7 +1478,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "🎉💗 Philly!!! 🏳️‍⚧️💞 https://t.co/mP8USGclgm"
+		"text": "🎉💗 Philly!!! 🏳️⚧️💞 https://t.co/mP8USGclgm"
 	},
 	{
 		"created_at": "Thu Jul 28 15:29:32 +0000 2022",
