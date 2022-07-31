@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 31 01:12:35 +0000 2022",
+		"id": 1553388021302673400,
+		"id_str": "1553549148196143104",
+		"full_text": "\"This card catalog is not complete. Use magic and consult staff.\"\n\n 📷 @marathacker \n📍 @msulibraries \n\n#CSS22 https://t.co/VJheelFuPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSS22",
+					"indices": [
+						102,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marathacker",
+					"name": "Mara Thacker 💀",
+					"id": 94907919,
+					"id_str": "94907919",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "msulibraries",
+					"name": "MSU Libraries",
+					"id": 8649232,
+					"id_str": "8649232",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553388016584069000,
+					"id_str": "1553388016584069120",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FY6-K77XkAAINag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY6-K77XkAAINag.jpg",
+					"url": "https://t.co/VJheelFuPT",
+					"display_url": "pic.twitter.com/VJheelFuPT",
+					"expanded_url": "https://twitter.com/NoetheMatt/status/1553388021302673409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1149,
+							"h": 742,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1149,
+							"h": 742,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553388016584069000,
+					"id_str": "1553388016584069120",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FY6-K77XkAAINag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY6-K77XkAAINag.jpg",
+					"url": "https://t.co/VJheelFuPT",
+					"display_url": "pic.twitter.com/VJheelFuPT",
+					"expanded_url": "https://twitter.com/NoetheMatt/status/1553388021302673409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1149,
+							"h": 742,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1149,
+							"h": 742,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30585609,
+			"id_str": "30585609",
+			"name": "Matthew Noe 😔💜 (#CSS22)",
+			"screen_name": "NoetheMatt",
+			"location": "Worcester, MA",
+			"description": "Overcaffeinated Kentuckian in Massachusetts. ALA GNCRT Past-President. Ask me about #GraphicMedicine. Trying to be kind, do good, and read comics. (He/Him)",
+			"url": "https://t.co/KiYpzt2nUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KiYpzt2nUs",
+							"expanded_url": "https://linktr.ee/NoetheMatt",
+							"display_url": "linktr.ee/NoetheMatt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8706,
+			"friends_count": 4398,
+			"listed_count": 267,
+			"created_at": "Sun Apr 12 02:50:17 +0000 2009",
+			"favourites_count": 114470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 133843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30585609/1464970044",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 110,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"This card catalog is not complete. Use magic and consult staff.\"\n\n 📷 @marathacker \n📍 @msulibraries \n\n#CSS22 https://t.co/VJheelFuPT"
+	},
+	{
+		"created_at": "Sun Jul 31 01:12:12 +0000 2022",
+		"id": 1553348108431548400,
+		"id_str": "1553549055267143680",
+		"full_text": "Okay but if I didn't know what it was about, I would absolutely pick up a book titled \"The Chicago Manual of Style.\" That sounds cool as hell.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 932932843768033300,
+			"id_str": "932932843768033280",
+			"name": "V for Vaughndetta",
+			"screen_name": "gvaughnjoy",
+			"location": "London, England",
+			"description": "UCL PhD Researcher in Christmas Film History • MA in Comic Books • MPhil in Demonology • Co-host of @USAimpressions • Co-host of @JoyOfStarWars • she/her",
+			"url": "https://t.co/9r5zobJI2L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9r5zobJI2L",
+							"expanded_url": "https://www.ucl.ac.uk/history/people/phd-students/gracie-joy",
+							"display_url": "ucl.ac.uk/history/people…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2298,
+			"friends_count": 1608,
+			"listed_count": 14,
+			"created_at": "Tue Nov 21 11:24:57 +0000 2017",
+			"favourites_count": 24020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259895243408842755/5Eor07MB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259895243408842755/5Eor07MB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/932932843768033280/1641130531",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 818,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Okay but if I didn't know what it was about, I would absolutely pick up a book titled \"The Chicago Manual of Style.\" That sounds cool as hell."
+	},
+	{
 		"created_at": "Fri Jul 29 16:17:08 +0000 2022",
 		"id": 1553036679421853700,
 		"id_str": "1553052012274647042",
