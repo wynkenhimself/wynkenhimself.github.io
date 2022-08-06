@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 19:52:05 +0000 2022",
+		"id": 1555582228540825600,
+		"id_str": "1555642819607511041",
+		"full_text": "Question for grad students researching rare books &amp; manuscripts: what do you hope to gain from a one-off 90-minute workshop w someone visiting your campus (or on a field trip to a collection)? I've run these before &amp; will do so again soon: I want to make this as valuable as poss.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29133,
+			"id_str": "29133",
+			"name": "𝕊onja Drimmer",
+			"screen_name": "Sonja_Drimmer",
+			"location": "",
+			"description": "Associate Professor of Medieval Art, UMass Amherst. Author of Art of Allusion: Illuminators & the Making of English Literature https://t.co/GOCQpilxxh She/her",
+			"url": "https://t.co/ssyYpC4EQN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ssyYpC4EQN",
+							"expanded_url": "https://umass.academia.edu/SonjaDrimmer",
+							"display_url": "umass.academia.edu/SonjaDrimmer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GOCQpilxxh",
+							"expanded_url": "https://sonjadrimmer.com/",
+							"display_url": "sonjadrimmer.com",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11545,
+			"friends_count": 1150,
+			"listed_count": 136,
+			"created_at": "Wed Nov 29 01:05:03 +0000 2006",
+			"favourites_count": 24023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403015166309109767/9Kbdtv27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403015166309109767/9Kbdtv27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29133/1471257916",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Question for grad students researching rare books &amp; manuscripts: what do you hope to gain from a one-off 90-minute workshop w someone visiting your campus (or on a field trip to a collection)? I've run these before &amp; will do so again soon: I want to make this as valuable as poss."
+	},
+	{
 		"created_at": "Thu Aug 04 19:55:47 +0000 2022",
 		"id": 1555262739383206000,
 		"id_str": "1555281364781617154",
