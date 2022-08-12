@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 18:28:39 +0000 2022",
+		"id": 1557785097486577700,
+		"id_str": "1557796150266269697",
+		"full_text": "“What do you mean when you say ‘active learning with primary sources’?”\nI got this question today and I was grateful for the opportunity to think about and answer this question. \n\nSo, what DOES it mean?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2432233255,
+			"id_str": "2432233255",
+			"name": "Jet (aka Courtney) Jacobs she/her",
+			"screen_name": "CourtneyEJacobs",
+			"location": "Los Angeles, CA",
+			"description": "Head of Public Services, Outreach & Community Engagement for #uclalsc. 1/3 of the @3dhotbed crew. Loud librarian. All views (especially the loud ones) = my own.",
+			"url": "https://t.co/OkN4CsEwt8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OkN4CsEwt8",
+							"expanded_url": "http://3dhotbed.info",
+							"display_url": "3dhotbed.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2216,
+			"friends_count": 3165,
+			"listed_count": 28,
+			"created_at": "Mon Apr 07 15:40:09 +0000 2014",
+			"favourites_count": 23682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1482009637851332614/0sb5wJD4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1482009637851332614/0sb5wJD4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2432233255/1528348410",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“What do you mean when you say ‘active learning with primary sources’?”\nI got this question today and I was grateful for the opportunity to think about and answer this question. \n\nSo, what DOES it mean?"
+	},
+	{
+		"created_at": "Thu Aug 11 18:25:03 +0000 2022",
+		"id": 1557354776547008500,
+		"id_str": "1557795242992144386",
+		"full_text": "My colleagues created a database of all the books targeted in this Orwellian maneuver. \nTo do it, they filed records requests with nearly 600 Texas school districts that account for more than 90 percent of the state’s 5.4 million public school students. https://t.co/UNFKJXLzff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNFKJXLzff",
+					"expanded_url": "https://twitter.com/stjbs/status/1557349651539443715",
+					"display_url": "twitter.com/stjbs/status/1…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42174947,
+			"id_str": "42174947",
+			"name": "St. John Barned-Smith ⚔️",
+			"screen_name": "stjbs",
+			"location": "Houston, TX",
+			"description": "Rapid investigations, @houstonchron. Boston born, Philly trained, TX forged. RPCV: Paraguay. Call me ‘Sinjin.' 🏊‍♂️ 🚴 🏃‍♂️.",
+			"url": "https://t.co/T29becrrg3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T29becrrg3",
+							"expanded_url": "https://www.houstonchronicle.com/author/st-john-barned-smith/",
+							"display_url": "houstonchronicle.com/author/st-john…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10272,
+			"friends_count": 3060,
+			"listed_count": 0,
+			"created_at": "Sun May 24 06:19:35 +0000 2009",
+			"favourites_count": 25307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542620662753370121/IWeYVSrE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542620662753370121/IWeYVSrE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42174947/1642789876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557349651539443700,
+		"quoted_status_id_str": "1557349651539443715",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UNFKJXLzff",
+			"expanded": "https://twitter.com/stjbs/status/1557349651539443715",
+			"display": "twitter.com/stjbs/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 10 12:54:25 +0000 2022",
+			"id": 1557349651539443700,
+			"id_str": "1557349651539443715",
+			"full_text": "Most efforts to ban books in Texas schools came from 1 politician and GOP pressure, not parents, a Houston Chronicle investigation has found. \nThe details, from @hdellingermedia and @serrano_alej:  https://t.co/0IbzBmxmwV)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hdellingermedia",
+						"name": "Hannah Dellinger",
+						"id": 288463244,
+						"id_str": "288463244",
+						"indices": [
+							161,
+							177
+						]
+					},
+					{
+						"screen_name": "serrano_alej",
+						"name": "Alejandro Serrano",
+						"id": 4925088987,
+						"id_str": "4925088987",
+						"indices": [
+							182,
+							195
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0IbzBmxmwV",
+						"expanded_url": "https://www.houstonchronicle.com/news/investigations/article/Texas-book-bans-driven-by-GOP-pressure-not-parents-17362170.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium",
+						"display_url": "houstonchronicle.com/news/investiga…",
+						"indices": [
+							198,
+							221
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42174947,
+				"id_str": "42174947",
+				"name": "St. John Barned-Smith ⚔️",
+				"screen_name": "stjbs",
+				"location": "Houston, TX",
+				"description": "Rapid investigations, @houstonchron. Boston born, Philly trained, TX forged. RPCV: Paraguay. Call me ‘Sinjin.' 🏊‍♂️ 🚴 🏃‍♂️.",
+				"url": "https://t.co/T29becrrg3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T29becrrg3",
+								"expanded_url": "https://www.houstonchronicle.com/author/st-john-barned-smith/",
+								"display_url": "houstonchronicle.com/author/st-john…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10272,
+				"friends_count": 3060,
+				"listed_count": 0,
+				"created_at": "Sun May 24 06:19:35 +0000 2009",
+				"favourites_count": 25307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29380,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542620662753370121/IWeYVSrE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542620662753370121/IWeYVSrE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42174947/1642789876",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 377,
+			"favorite_count": 678,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 92,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My colleagues created a database of all the books targeted in this Orwellian maneuver. \nTo do it, they filed records requests with nearly 600 Texas school districts that account for more than 90 percent of the state’s 5.4 million public school students. https://t.co/UNFKJXLzff"
+	},
+	{
 		"created_at": "Tue Aug 09 19:31:35 +0000 2022",
 		"id": 1557087214911344600,
 		"id_str": "1557087214911344643",
