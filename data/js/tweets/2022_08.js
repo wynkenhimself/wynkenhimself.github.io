@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 16:09:01 +0000 2022",
+		"id": 1558123398206742500,
+		"id_str": "1558123398206742528",
+		"full_text": "Infuriating and dangerous. Attacks on health care show how trans rights and women’s rights absolutely linked. They’re picking and choosing how we can care for ourselves to serve their ideology, not our health and lives. https://t.co/lzg6iGJ1wy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lzg6iGJ1wy",
+					"expanded_url": "https://twitter.com/erininthemorn/status/1558094039114825728",
+					"display_url": "twitter.com/erininthemorn/…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10134,
+			"friends_count": 505,
+			"listed_count": 379,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1558094039114825700,
+		"quoted_status_id_str": "1558094039114825728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lzg6iGJ1wy",
+			"expanded": "https://twitter.com/erininthemorn/status/1558094039114825728",
+			"display": "twitter.com/erininthemorn/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 12 14:12:21 +0000 2022",
+			"id": 1558094039114825700,
+			"id_str": "1558094039114825728",
+			"full_text": "Florida has just added Puberty Blockers, Hormone Therapy, and GRS as \"not medically necessary\" to treat gender dysphoria. It will pull all Floridians who receive hormone therapy off of their coverage for their medication.\n\nThis is trans ADULTS.\n\nPrivate insurances might follow. https://t.co/yMVh3vpYYv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1558094015467233300,
+						"id_str": "1558094015467233283",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FZ92QH6WIAMV40K.png",
+						"media_url_https": "https://pbs.twimg.com/media/FZ92QH6WIAMV40K.png",
+						"url": "https://t.co/yMVh3vpYYv",
+						"display_url": "pic.twitter.com/yMVh3vpYYv",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1558094039114825728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 808,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 808,
+								"h": 377,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1558094015467233300,
+						"id_str": "1558094015467233283",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FZ92QH6WIAMV40K.png",
+						"media_url_https": "https://pbs.twimg.com/media/FZ92QH6WIAMV40K.png",
+						"url": "https://t.co/yMVh3vpYYv",
+						"display_url": "pic.twitter.com/yMVh3vpYYv",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1558094039114825728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 808,
+								"h": 377,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 808,
+								"h": 377,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115826452715511800,
+				"id_str": "1115826452715511809",
+				"name": "Erin Reed",
+				"screen_name": "ErinInTheMorn",
+				"location": "Maryland",
+				"description": "Activist, content creator, queer legislative researcher, and D&D DM.\n\nLinktree: https://t.co/Clyfz4Iz3a\nShe/her. All opinions my own.\nVenmo erin888",
+				"url": "https://t.co/prq5Rku4Zl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/prq5Rku4Zl",
+								"expanded_url": "https://ko-fi.com/erininthemorn",
+								"display_url": "ko-fi.com/erininthemorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Clyfz4Iz3a",
+								"expanded_url": "http://linktr.ee/erininthemorn",
+								"display_url": "linktr.ee/erininthemorn",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68704,
+				"friends_count": 1485,
+				"listed_count": 222,
+				"created_at": "Wed Apr 10 03:58:52 +0000 2019",
+				"favourites_count": 88208,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22209,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115826452715511809/1637250612",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5874,
+			"favorite_count": 15164,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Infuriating and dangerous. Attacks on health care show how trans rights and women’s rights absolutely linked. They’re picking and choosing how we can care for ourselves to serve their ideology, not our health and lives. https://t.co/lzg6iGJ1wy"
+	},
+	{
 		"created_at": "Thu Aug 11 18:28:39 +0000 2022",
 		"id": 1557785097486577700,
 		"id_str": "1557796150266269697",
@@ -134,7 +442,7 @@ Grailbird.data.tweets_2022_08 =
 			"name": "St. John Barned-Smith ⚔️",
 			"screen_name": "stjbs",
 			"location": "Houston, TX",
-			"description": "Rapid investigations, @houstonchron. Boston born, Philly trained, TX forged. RPCV: Paraguay. Call me ‘Sinjin.' 🏊‍♂️ 🚴 🏃‍♂️.",
+			"description": "Rapid investigations, @houstonchron. Boston born, Philly trained, TX forged. RPCV: Paraguay. Call me ‘Sinjin.' 🏊♂️ 🚴 🏃♂️.",
 			"url": "https://t.co/T29becrrg3",
 			"entities": {
 				"url": {
@@ -261,7 +569,7 @@ Grailbird.data.tweets_2022_08 =
 				"name": "St. John Barned-Smith ⚔️",
 				"screen_name": "stjbs",
 				"location": "Houston, TX",
-				"description": "Rapid investigations, @houstonchron. Boston born, Philly trained, TX forged. RPCV: Paraguay. Call me ‘Sinjin.' 🏊‍♂️ 🚴 🏃‍♂️.",
+				"description": "Rapid investigations, @houstonchron. Boston born, Philly trained, TX forged. RPCV: Paraguay. Call me ‘Sinjin.' 🏊♂️ 🚴 🏃♂️.",
 				"url": "https://t.co/T29becrrg3",
 				"entities": {
 					"url": {
