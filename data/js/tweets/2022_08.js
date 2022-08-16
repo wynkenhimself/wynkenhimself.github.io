@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 15 23:05:30 +0000 2022",
+		"id": 1559315374272921600,
+		"id_str": "1559315374272921600",
+		"full_text": "@meganlcook I want to say “Come at me, bro” but that seems like mixing metaphors so, you know, come at me, bitch, I guess, and congrats!!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meganlcook",
+					"name": "Megan L. Cook will answer your email after 9/1/22",
+					"id": 10098362,
+					"id_str": "10098362",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1559258649494753300,
+		"in_reply_to_status_id_str": "1559258649494753281",
+		"in_reply_to_user_id": 10098362,
+		"in_reply_to_user_id_str": "10098362",
+		"in_reply_to_screen_name": "meganlcook",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10129,
+			"friends_count": 504,
+			"listed_count": 378,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@meganlcook I want to say “Come at me, bro” but that seems like mixing metaphors so, you know, come at me, bitch, I guess, and congrats!!"
+	},
+	{
+		"created_at": "Mon Aug 15 17:51:38 +0000 2022",
+		"id": 1559168862893088800,
+		"id_str": "1559236387844636673",
+		"full_text": "We've been working to identify bindings by Margaret Armstrong in our collections &amp; found that RBML holds more than 140 examples. A HUGE thank you to special collections cataloging specialist Pam Cale for her work on this project! See all the books at: https://t.co/YiSlitkCKV https://t.co/AgrnVxfELB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YiSlitkCKV",
+					"expanded_url": "https://bit.ly/3JV6BY8",
+					"display_url": "bit.ly/3JV6BY8",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559166345744367600,
+					"id_str": "1559166345744367618",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FaNFh9fWQAIUuH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaNFh9fWQAIUuH_.jpg",
+					"url": "https://t.co/AgrnVxfELB",
+					"display_url": "pic.twitter.com/AgrnVxfELB",
+					"expanded_url": "https://twitter.com/OhioStateRBML/status/1559168862893088768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559166345744367600,
+					"id_str": "1559166345744367618",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FaNFh9fWQAIUuH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaNFh9fWQAIUuH_.jpg",
+					"url": "https://t.co/AgrnVxfELB",
+					"display_url": "pic.twitter.com/AgrnVxfELB",
+					"expanded_url": "https://twitter.com/OhioStateRBML/status/1559168862893088768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1348022600262422500,
+			"id_str": "1348022600262422530",
+			"name": "Rare Books & Manuscripts Library at Ohio State",
+			"screen_name": "OhioStateRBML",
+			"location": "Columbus, OH",
+			"description": "Literature and history, from medieval and Renaissance manuscripts to contemporary novels and zines. Tweets by @EJJohnson74 & @joliebraun.",
+			"url": "https://t.co/6ht0MpDWK6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6ht0MpDWK6",
+							"expanded_url": "https://library.osu.edu/rbml",
+							"display_url": "library.osu.edu/rbml",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1113,
+			"friends_count": 232,
+			"listed_count": 20,
+			"created_at": "Sat Jan 09 21:46:06 +0000 2021",
+			"favourites_count": 376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348101738268651520/a7YwiZmZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348101738268651520/a7YwiZmZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1348022600262422530/1610395435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've been working to identify bindings by Margaret Armstrong in our collections &amp; found that RBML holds more than 140 examples. A HUGE thank you to special collections cataloging specialist Pam Cale for her work on this project! See all the books at: https://t.co/YiSlitkCKV https://t.co/AgrnVxfELB"
+	},
+	{
 		"created_at": "Sun Aug 14 23:46:53 +0000 2022",
 		"id": 1558963401791049700,
 		"id_str": "1558963401791049729",
