@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 21:13:07 +0000 2022",
+		"id": 1560374254138527700,
+		"id_str": "1560374254138527744",
+		"full_text": "I know I RTd one of these earlier but I’ve been thinking about it more as this meme has taken over and, yeah. I’m with Steve on this. https://t.co/tL1TlM70Mu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tL1TlM70Mu",
+					"expanded_url": "https://twitter.com/stegan/status/1560301488685350914",
+					"display_url": "twitter.com/stegan/status/…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10126,
+			"friends_count": 504,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1560301488685351000,
+		"quoted_status_id_str": "1560301488685350914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tL1TlM70Mu",
+			"expanded": "https://twitter.com/stegan/status/1560301488685350914",
+			"display": "twitter.com/stegan/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 18 16:23:58 +0000 2022",
+			"id": 1560301488685351000,
+			"id_str": "1560301488685350914",
+			"full_text": "Memes are memes and the internet is the internet, I get it. But when non-public figures have a picture they likely didn’t know was being taken go viral, that feels like really fuckin creepy territory. Especially when corporations start reusing it.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1560275481156456400,
+			"in_reply_to_status_id_str": "1560275481156456450",
+			"in_reply_to_user_id": 16649882,
+			"in_reply_to_user_id_str": "16649882",
+			"in_reply_to_screen_name": "stegan",
+			"user": {
+				"id": 16649882,
+				"id_str": "16649882",
+				"name": "Steve Ammidown",
+				"screen_name": "stegan",
+				"location": "Bowling Green, OH",
+				"description": "Archivist-For-Hire, sometimes freelancer. IG: romancehistorian. 2019 Cathie Linz Librarian of the Year. He/him/his.",
+				"url": "https://t.co/Evp7VJNi69",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Evp7VJNi69",
+								"expanded_url": "https://romancehistory.com/about/",
+								"display_url": "romancehistory.com/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4339,
+				"friends_count": 2265,
+				"listed_count": 123,
+				"created_at": "Wed Oct 08 15:04:45 +0000 2008",
+				"favourites_count": 46939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1527295475791310848/dQKDFnib_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527295475791310848/dQKDFnib_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16649882/1593106282",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 123,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know I RTd one of these earlier but I’ve been thinking about it more as this meme has taken over and, yeah. I’m with Steve on this. https://t.co/tL1TlM70Mu"
+	},
+	{
+		"created_at": "Thu Aug 18 21:11:47 +0000 2022",
+		"id": 1560275481156456400,
+		"id_str": "1560373918384459776",
+		"full_text": "BY LEAVING THE HOUSE YOU AGREE TO HAVING YOUR IMAGE AND LIKENESS COMMODIFIED AND USED IN WAYS YOU CANNOT ANTICIPATE OR PROFIT FROM. THAT'S LIFE, BRO. https://t.co/5OzIhP1WbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560275366698049500,
+					"id_str": "1560275366698049537",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Fac2LefUYAEzpZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fac2LefUYAEzpZ6.jpg",
+					"url": "https://t.co/5OzIhP1WbB",
+					"display_url": "pic.twitter.com/5OzIhP1WbB",
+					"expanded_url": "https://twitter.com/stegan/status/1560275481156456450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560275366698049500,
+					"id_str": "1560275366698049537",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Fac2LefUYAEzpZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fac2LefUYAEzpZ6.jpg",
+					"url": "https://t.co/5OzIhP1WbB",
+					"display_url": "pic.twitter.com/5OzIhP1WbB",
+					"expanded_url": "https://twitter.com/stegan/status/1560275481156456450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16649882,
+			"id_str": "16649882",
+			"name": "Steve Ammidown",
+			"screen_name": "stegan",
+			"location": "Bowling Green, OH",
+			"description": "Archivist-For-Hire, sometimes freelancer. IG: romancehistorian. 2019 Cathie Linz Librarian of the Year. He/him/his.",
+			"url": "https://t.co/Evp7VJNi69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Evp7VJNi69",
+							"expanded_url": "https://romancehistory.com/about/",
+							"display_url": "romancehistory.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4339,
+			"friends_count": 2265,
+			"listed_count": 123,
+			"created_at": "Wed Oct 08 15:04:45 +0000 2008",
+			"favourites_count": 46939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527295475791310848/dQKDFnib_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527295475791310848/dQKDFnib_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16649882/1593106282",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BY LEAVING THE HOUSE YOU AGREE TO HAVING YOUR IMAGE AND LIKENESS COMMODIFIED AND USED IN WAYS YOU CANNOT ANTICIPATE OR PROFIT FROM. THAT'S LIFE, BRO. https://t.co/5OzIhP1WbB"
+	},
+	{
+		"created_at": "Thu Aug 18 21:11:29 +0000 2022",
+		"id": 1560373843885162500,
+		"id_str": "1560373843885162496",
+		"full_text": "@stegan Yes!! I’ve been thinking about this exact thing all day",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stegan",
+					"name": "Steve Ammidown",
+					"id": 16649882,
+					"id_str": "16649882",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560301488685351000,
+		"in_reply_to_status_id_str": "1560301488685350914",
+		"in_reply_to_user_id": 16649882,
+		"in_reply_to_user_id_str": "16649882",
+		"in_reply_to_screen_name": "stegan",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10126,
+			"friends_count": 504,
+			"listed_count": 377,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stegan Yes!! I’ve been thinking about this exact thing all day"
+	},
+	{
+		"created_at": "Thu Aug 18 20:18:03 +0000 2022",
+		"id": 1560345701267144700,
+		"id_str": "1560360397491904516",
+		"full_text": "Now available (free! open-access!) the Special Issue of Nineteenth-Century Gender Studies on Women's Book History, edited by myself &amp; @JocHargrave. Some really amazing articles by the contributors. Be sure to check it out! #bookhistory #bibliography https://t.co/tWUeuJW9Rs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bookhistory",
+					"indices": [
+						227,
+						239
+					]
+				},
+				{
+					"text": "bibliography",
+					"indices": [
+						240,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JocHargrave",
+					"name": "Jocelyn Hargrave",
+					"id": 15672964,
+					"id_str": "15672964",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tWUeuJW9Rs",
+					"expanded_url": "http://ncgsjournal.com/issue182/index.html",
+					"display_url": "ncgsjournal.com/issue182/index…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 250674666,
+			"id_str": "250674666",
+			"name": "Dr. Megan Peiser",
+			"screen_name": "MeganPeiser",
+			"location": "Waawiyaataanong",
+			"description": "Oklahoma Chahta. 18C Lit, Women Writers, Bibliography, Periodicals, DH. Oakland University. Novels Reviewed Database 1790-1820 (NRD). she/her.",
+			"url": "https://t.co/I2TEYPt44X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I2TEYPt44X",
+							"expanded_url": "http://www.meganpeiser.com",
+							"display_url": "meganpeiser.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2934,
+			"friends_count": 1277,
+			"listed_count": 49,
+			"created_at": "Fri Feb 11 15:35:04 +0000 2011",
+			"favourites_count": 56797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "091304",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286834459753492480/RluNbSK3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286834459753492480/RluNbSK3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/250674666/1643979260",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "262626",
+			"profile_text_color": "7D7D7D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 78,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now available (free! open-access!) the Special Issue of Nineteenth-Century Gender Studies on Women's Book History, edited by myself &amp; @JocHargrave. Some really amazing articles by the contributors. Be sure to check it out! #bookhistory #bibliography https://t.co/tWUeuJW9Rs"
+	},
+	{
 		"created_at": "Thu Aug 18 01:41:37 +0000 2022",
 		"id": 1560079438838218800,
 		"id_str": "1560079438838218753",
@@ -153,7 +797,7 @@ Grailbird.data.tweets_2022_08 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
@@ -407,7 +1051,7 @@ Grailbird.data.tweets_2022_08 =
 				},
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
@@ -756,7 +1400,7 @@ Grailbird.data.tweets_2022_08 =
 		"user": {
 			"id": 3176124093,
 			"id_str": "3176124093",
-			"name": "Dr Elizabeth Savage 🏳️‍🌈",
+			"name": "Dr Elizabeth Savage 🏳️🌈",
 			"screen_name": "LEUSavage",
 			"location": "London, England",
 			"description": "Early Colour Printing: German Renaissance Woodcuts at the British Museum: https://t.co/kILReAn7wO. Image: https://t.co/XMo3YzfzAb",
@@ -862,7 +1506,7 @@ Grailbird.data.tweets_2022_08 =
 				"user_mentions": [
 					{
 						"screen_name": "LEUSavage",
-						"name": "Dr Elizabeth Savage 🏳️‍🌈",
+						"name": "Dr Elizabeth Savage 🏳️🌈",
 						"id": 3176124093,
 						"id_str": "3176124093",
 						"indices": [
@@ -1062,7 +1706,7 @@ Grailbird.data.tweets_2022_08 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
