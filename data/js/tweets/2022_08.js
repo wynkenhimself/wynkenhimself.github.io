@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 21 22:29:44 +0000 2022",
+		"id": 1561461513910632400,
+		"id_str": "1561480698866851842",
+		"full_text": "library-ish friends! i'm doing research on people/groups who set up non-traditional lending libraries of any kind. i'm thinking of infoshops, zine libraries, tool/tech lending libraries.. \n\nany narratives you would recommend? interviews, articles, books, things like that? 🙏🏼🙏🏼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 943852601266901000,
+			"id_str": "943852601266900992",
+			"name": "cass wilkinson saldaña",
+			"screen_name": "mxcatnap",
+			"location": "Providence, RI",
+			"description": "💾 analyst @DataSparkRI\ncollaborating + puzzling over data w/ #rstats !\n🏳️‍🌈🏳️‍⚧️ trans nb queerdo 💪🏼🌸\nwnba! birds! SF/F! Friend!\n\nviews mine. they/them",
+			"url": "https://t.co/YFyue1mKbU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YFyue1mKbU",
+							"expanded_url": "http://www.cassws.net/",
+							"display_url": "cassws.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1088,
+			"friends_count": 1332,
+			"listed_count": 24,
+			"created_at": "Thu Dec 21 14:36:10 +0000 2017",
+			"favourites_count": 9936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536860743643144192/AdJFsoOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536860743643144192/AdJFsoOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943852601266900992/1651672820",
+			"profile_link_color": "D831D8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "library-ish friends! i'm doing research on people/groups who set up non-traditional lending libraries of any kind. i'm thinking of infoshops, zine libraries, tool/tech lending libraries.. \n\nany narratives you would recommend? interviews, articles, books, things like that? 🙏🏼🙏🏼"
+	},
+	{
 		"created_at": "Sat Aug 20 22:09:18 +0000 2022",
 		"id": 1560748693149581300,
 		"id_str": "1561113171640946690",
