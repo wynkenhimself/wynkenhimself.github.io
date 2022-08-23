@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 22 14:48:24 +0000 2022",
+		"id": 1561724220949807000,
+		"id_str": "1561726988976521216",
+		"full_text": "Huh, the little Street View guy turns into the queen when you're over Windsor Castle.\n\nBeen flinging her around like a little rag doll. https://t.co/NUp1zqiMJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1561724091547242500,
+					"id_str": "1561724091547242496",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FaxbyXHX0AAH7xi.png",
+					"media_url_https": "https://pbs.twimg.com/media/FaxbyXHX0AAH7xi.png",
+					"url": "https://t.co/NUp1zqiMJT",
+					"display_url": "pic.twitter.com/NUp1zqiMJT",
+					"expanded_url": "https://twitter.com/AdamKoszary/status/1561724220949807105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561724091547242500,
+					"id_str": "1561724091547242496",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FaxbyXHX0AAH7xi.png",
+					"media_url_https": "https://pbs.twimg.com/media/FaxbyXHX0AAH7xi.png",
+					"url": "https://t.co/NUp1zqiMJT",
+					"display_url": "pic.twitter.com/NUp1zqiMJT",
+					"expanded_url": "https://twitter.com/AdamKoszary/status/1561724220949807105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 416318158,
+			"id_str": "416318158",
+			"name": "Adam Koszary",
+			"screen_name": "AdamKoszary",
+			"location": "Reading",
+			"description": "Made an absolute unit go viral for museums once. Head of Digital @audienceagents, but all views here are my own. Ask me about my dog, Keith. (he/him)",
+			"url": "https://t.co/qCGdajVNYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qCGdajVNYF",
+							"expanded_url": "https://adamkoszary.co.uk",
+							"display_url": "adamkoszary.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11683,
+			"friends_count": 1856,
+			"listed_count": 122,
+			"created_at": "Sat Nov 19 14:33:08 +0000 2011",
+			"favourites_count": 8848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253966083746418688/hw16PJaM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253966083746418688/hw16PJaM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/416318158/1473834114",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huh, the little Street View guy turns into the queen when you're over Windsor Castle.\n\nBeen flinging her around like a little rag doll. https://t.co/NUp1zqiMJT"
+	},
+	{
 		"created_at": "Sun Aug 21 22:29:44 +0000 2022",
 		"id": 1561461513910632400,
 		"id_str": "1561480698866851842",
@@ -28,7 +203,7 @@ Grailbird.data.tweets_2022_08 =
 			"name": "cass wilkinson saldaña",
 			"screen_name": "mxcatnap",
 			"location": "Providence, RI",
-			"description": "💾 analyst @DataSparkRI\ncollaborating + puzzling over data w/ #rstats !\n🏳️‍🌈🏳️‍⚧️ trans nb queerdo 💪🏼🌸\nwnba! birds! SF/F! Friend!\n\nviews mine. they/them",
+			"description": "💾 analyst @DataSparkRI\ncollaborating + puzzling over data w/ #rstats !\n🏳️🌈🏳️⚧️ trans nb queerdo 💪🏼🌸\nwnba! birds! SF/F! Friend!\n\nviews mine. they/them",
 			"url": "https://t.co/YFyue1mKbU",
 			"entities": {
 				"url": {
