@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 15:59:00 +0000 2022",
+		"id": 1562095764586782700,
+		"id_str": "1562107143674789891",
+		"full_text": "Thinking about applying for a #BSAFellowship? Follow the hashtag for a roundup of ALL the options right here on the bird app!\n\nOther deets on our website at: https://t.co/T3iLCOD4sk &amp;\nhttps://t.co/cxP5FeBTZ6\n\nDeadline October 3! Start early &amp; let recommenders know you need them! https://t.co/V9D5HLIQxK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BSAFellowship",
+					"indices": [
+						30,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T3iLCOD4sk",
+					"expanded_url": "https://bibsocamer.org/awards/fellowships/",
+					"display_url": "bibsocamer.org/awards/fellows…",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/cxP5FeBTZ6",
+					"expanded_url": "https://bibsocamer.org/awards/fellowships/apply/",
+					"display_url": "bibsocamer.org/awards/fellows…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1562095272402063400,
+					"id_str": "1562095272402063360",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa2tX7jXkAAYHOL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa2tX7jXkAAYHOL.jpg",
+					"url": "https://t.co/V9D5HLIQxK",
+					"display_url": "pic.twitter.com/V9D5HLIQxK",
+					"expanded_url": "https://twitter.com/BibSocAmer/status/1562095764586782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1562095272402063400,
+					"id_str": "1562095272402063360",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa2tX7jXkAAYHOL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa2tX7jXkAAYHOL.jpg",
+					"url": "https://t.co/V9D5HLIQxK",
+					"display_url": "pic.twitter.com/V9D5HLIQxK",
+					"expanded_url": "https://twitter.com/BibSocAmer/status/1562095764586782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1171414914730201000,
+			"id_str": "1171414914730201088",
+			"name": "The Bibliographical Society of America",
+			"screen_name": "BibSocAmer",
+			"location": "",
+			"description": "Dedicated to the study of material texts in traditional and emerging formats. Membership starts at $25/year for bibliographers 35 and under.",
+			"url": "https://t.co/q5qSGjjqBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q5qSGjjqBt",
+							"expanded_url": "https://bibsocamer.org/join-bsa/join-or-renew/",
+							"display_url": "bibsocamer.org/join-bsa/join-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2615,
+			"friends_count": 728,
+			"listed_count": 39,
+			"created_at": "Tue Sep 10 13:27:41 +0000 2019",
+			"favourites_count": 1201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295807152561557504/n-prwneg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295807152561557504/n-prwneg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171414914730201088/1597779475",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thinking about applying for a #BSAFellowship? Follow the hashtag for a roundup of ALL the options right here on the bird app!\n\nOther deets on our website at: https://t.co/T3iLCOD4sk &amp;\nhttps://t.co/cxP5FeBTZ6\n\nDeadline October 3! Start early &amp; let recommenders know you need them! https://t.co/V9D5HLIQxK"
+	},
+	{
 		"created_at": "Mon Aug 22 14:48:24 +0000 2022",
 		"id": 1561724220949807000,
 		"id_str": "1561726988976521216",
