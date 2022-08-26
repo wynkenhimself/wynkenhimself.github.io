@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 25 15:54:04 +0000 2022",
+		"id": 1562349518019956700,
+		"id_str": "1562830680085516288",
+		"full_text": "Don’t miss your chance to read new Cambridge Element The Trade in Rare Books and Manuscripts between Britain and America &lt;I&gt;c&lt;/I&gt;. 1890–1929 by @cultivate_mss and @LauraJCleaver! Free access available until 31 August #cambridgeelements #literature https://t.co/vQeCJ0z4SH https://t.co/1gHQHina1F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cambridgeelements",
+					"indices": [
+						229,
+						247
+					]
+				},
+				{
+					"text": "literature",
+					"indices": [
+						248,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cultivate_mss",
+					"name": "CULTIVATE MSS",
+					"id": 1219556753051963400,
+					"id_str": "1219556753051963392",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"screen_name": "LauraJCleaver",
+					"name": "Laura Cleaver",
+					"id": 4135430074,
+					"id_str": "4135430074",
+					"indices": [
+						175,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vQeCJ0z4SH",
+					"expanded_url": "http://ow.ly/yjCN50KlNvx",
+					"display_url": "ow.ly/yjCN50KlNvx",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1562349516493410300,
+					"id_str": "1562349516493410304",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa6Um4mX0AALti8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa6Um4mX0AALti8.jpg",
+					"url": "https://t.co/1gHQHina1F",
+					"display_url": "pic.twitter.com/1gHQHina1F",
+					"expanded_url": "https://twitter.com/CUP_LitPerform/status/1562349518019956738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 462,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 462,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1562349516493410300,
+					"id_str": "1562349516493410304",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa6Um4mX0AALti8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa6Um4mX0AALti8.jpg",
+					"url": "https://t.co/1gHQHina1F",
+					"display_url": "pic.twitter.com/1gHQHina1F",
+					"expanded_url": "https://twitter.com/CUP_LitPerform/status/1562349518019956738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 462,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 462,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 384393265,
+			"id_str": "384393265",
+			"name": "Cambridge Literature and Performance",
+			"screen_name": "CUP_LitPerform",
+			"location": "Cambridge & New York",
+			"description": "Sign up to https://t.co/Y9xG3yLLwq for the latest updates in Literature, Drama & Performance Studies from Cambridge University Press & Assessment.",
+			"url": "https://t.co/zQtNWM4rZp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zQtNWM4rZp",
+							"expanded_url": "https://www.cambridge.org/core/browse-subjects",
+							"display_url": "cambridge.org/core/browse-su…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Y9xG3yLLwq",
+							"expanded_url": "http://cambridge.org/alerts",
+							"display_url": "cambridge.org/alerts",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6485,
+			"friends_count": 2424,
+			"listed_count": 0,
+			"created_at": "Mon Oct 03 16:12:07 +0000 2011",
+			"favourites_count": 1073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8F6E99",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207666185912881152/7YpNTRB6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207666185912881152/7YpNTRB6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/384393265/1575994741",
+			"profile_link_color": "319EA3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t miss your chance to read new Cambridge Element The Trade in Rare Books and Manuscripts between Britain and America &lt;I&gt;c&lt;/I&gt;. 1890–1929 by @cultivate_mss and @LauraJCleaver! Free access available until 31 August #cambridgeelements #literature https://t.co/vQeCJ0z4SH https://t.co/1gHQHina1F"
+	},
+	{
 		"created_at": "Wed Aug 24 23:02:12 +0000 2022",
 		"id": 1562576033441730600,
 		"id_str": "1562576033441730561",
