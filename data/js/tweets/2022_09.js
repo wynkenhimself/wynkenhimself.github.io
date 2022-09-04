@@ -1,6 +1,905 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 21:24:35 +0000 2022",
+		"id": 1565795384210907100,
+		"id_str": "1566175346176802816",
+		"full_text": "99% of the Philadelphia Museum of Art's employee union has voted to authorize a strike. Let's talk about what a strike would mean, practically speaking. 🧵\n\n(Tl;dr: It's a real FAFO situation, as the kids say.)\n\nhttps://t.co/sJTWeHTXjm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sJTWeHTXjm",
+					"expanded_url": "https://twitter.com/PMA_Union/status/1564779387807039489?s=20&t=JLQtOxNd4bkWKKvZ1GjJ2w",
+					"display_url": "twitter.com/PMA_Union/stat…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20155140,
+			"id_str": "20155140",
+			"name": "Valerie Marlowe",
+			"screen_name": "ValerieGMarlowe",
+			"location": "Philadelphia, PA",
+			"description": "Thinking about how we think about disasters. 🌊\n\nLead @DisasterArchive, Asst Dir @UDELDRC. Risk, post-disaster cultural heritage, documentation. Tweets my own.",
+			"url": "https://t.co/a0ZkmkLnEO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a0ZkmkLnEO",
+							"expanded_url": "https://www.drc.udel.edu/elq-collection/research-tools",
+							"display_url": "drc.udel.edu/elq-collection…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1983,
+			"friends_count": 2911,
+			"listed_count": 48,
+			"created_at": "Thu Feb 05 15:11:54 +0000 2009",
+			"favourites_count": 9404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335369211712069632/KRH4ykOv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335369211712069632/KRH4ykOv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20155140/1633702449",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1564779387807039500,
+		"quoted_status_id_str": "1564779387807039489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sJTWeHTXjm",
+			"expanded": "https://twitter.com/PMA_Union/status/1564779387807039489?s=20&t=JLQtOxNd4bkWKKvZ1GjJ2w",
+			"display": "twitter.com/PMA_Union/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 31 00:57:32 +0000 2022",
+			"id": 1564779387807039500,
+			"id_str": "1564779387807039489",
+			"full_text": "At tonight's member meeting, the largest in our union's history, 99% voted to authorize a strike at the Philadelphia Museum of Art @philamuseum over museum management's Unfair Labor Practices and unreasonable bargaining positions. Management can avert a strike by... https://t.co/aZ9wQC33Vx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "philamuseum",
+						"name": "Philadelphia Museum of Art",
+						"id": 15625377,
+						"id_str": "15625377",
+						"indices": [
+							131,
+							143
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1564778769210122200,
+						"id_str": "1564778769210122241",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/Fbc2AALXoAEs8Jj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fbc2AALXoAEs8Jj.jpg",
+						"url": "https://t.co/aZ9wQC33Vx",
+						"display_url": "pic.twitter.com/aZ9wQC33Vx",
+						"expanded_url": "https://twitter.com/PMA_Union/status/1564779387807039489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1158,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1158,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1564778769210122200,
+						"id_str": "1564778769210122241",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/Fbc2AALXoAEs8Jj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fbc2AALXoAEs8Jj.jpg",
+						"url": "https://t.co/aZ9wQC33Vx",
+						"display_url": "pic.twitter.com/aZ9wQC33Vx",
+						"expanded_url": "https://twitter.com/PMA_Union/status/1564779387807039489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1158,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1158,
+								"h": 1158,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1263843466209038300,
+				"id_str": "1263843466209038337",
+				"name": "Philadelphia Museum of Art Union",
+				"screen_name": "PMA_Union",
+				"location": "",
+				"description": "The working people behind the Philadelphia Museum of Art. @PHLafscmeDC47 Local 397. Part of @CWUafscme. Logo: Nick Massarelli | Contact: solidarity@pmaunion.com",
+				"url": "https://t.co/pI6ofjy8BM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pI6ofjy8BM",
+								"expanded_url": "http://pmaunion.com",
+								"display_url": "pmaunion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3142,
+				"friends_count": 977,
+				"listed_count": 25,
+				"created_at": "Fri May 22 14:45:53 +0000 2020",
+				"favourites_count": 1155,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263843466209038337/1656019637",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 314,
+			"favorite_count": 1014,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "99% of the Philadelphia Museum of Art's employee union has voted to authorize a strike. Let's talk about what a strike would mean, practically speaking. 🧵\n\n(Tl;dr: It's a real FAFO situation, as the kids say.)\n\nhttps://t.co/sJTWeHTXjm"
+	},
+	{
+		"created_at": "Sat Sep 03 21:06:36 +0000 2022",
+		"id": 1566170821470584800,
+		"id_str": "1566170821470584832",
+		"full_text": "@maddiejeanne_15 that is perfect!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maddiejeanne_15",
+					"name": "Maddie",
+					"id": 747959289344516100,
+					"id_str": "747959289344516096",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566164236342120400,
+		"in_reply_to_status_id_str": "1566164236342120450",
+		"in_reply_to_user_id": 747959289344516100,
+		"in_reply_to_user_id_str": "747959289344516096",
+		"in_reply_to_screen_name": "maddiejeanne_15",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10139,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@maddiejeanne_15 that is perfect!"
+	},
+	{
+		"created_at": "Sat Sep 03 18:54:28 +0000 2022",
+		"id": 1566137569372508200,
+		"id_str": "1566137569372508166",
+		"full_text": "Quilting as art and activism! Listen to Vera Hall (who is also the mom of the amazing @ProfKFH, who also knows more than just a bit about activism and art and teaching) https://t.co/LQmWEkYQFa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfKFH",
+					"name": "Deranged Covid-Clinger",
+					"id": 117537175,
+					"id_str": "117537175",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LQmWEkYQFa",
+					"expanded_url": "https://twitter.com/newshour/status/1565440357093052418",
+					"display_url": "twitter.com/newshour/statu…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10139,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1565440357093052400,
+		"quoted_status_id_str": "1565440357093052418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LQmWEkYQFa",
+			"expanded": "https://twitter.com/newshour/status/1565440357093052418",
+			"display": "twitter.com/newshour/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 01 20:44:00 +0000 2022",
+			"id": 1565440357093052400,
+			"id_str": "1565440357093052418",
+			"full_text": "Vera Hall is combining her artistry with her desire to learn more about her ancestry by creating quilts depicting Black history.\n\nHear her #BriefButSpectacular take on \"piecing the past to the future.\" https://t.co/FIyIbs345F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BriefButSpectacular",
+						"indices": [
+							139,
+							159
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1565429978594001000,
+						"id_str": "1565429978594000897",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/FbmH06lX0AA6eb9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbmH06lX0AA6eb9.jpg",
+						"url": "https://t.co/FIyIbs345F",
+						"display_url": "pic.twitter.com/FIyIbs345F",
+						"expanded_url": "https://twitter.com/NewsHour/status/1565440357093052418/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1565429978594001000,
+						"id_str": "1565429978594000897",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/FbmH06lX0AA6eb9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FbmH06lX0AA6eb9.jpg",
+						"url": "https://t.co/FIyIbs345F",
+						"display_url": "pic.twitter.com/FIyIbs345F",
+						"expanded_url": "https://twitter.com/NewsHour/status/1565440357093052418/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 172053,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1565429978594000897/pl/wN_Tb0CF7jhs6dod.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1565429978594000897/vid/640x360/g849GZmONqEbnUba.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1565429978594000897/vid/480x270/maWsD9npbWHbe3xp.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1565429978594000897/vid/1280x720/Qn1Vcc5_P0kaxhxq.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.pbs.org/newshour/brief"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14437914,
+				"id_str": "14437914",
+				"name": "PBS NewsHour",
+				"screen_name": "NewsHour",
+				"location": "Arlington, VA | New York, NY",
+				"description": "PBS NewsHour is one of the most trusted news programs on TV and online.",
+				"url": "https://t.co/Qa9AP1WUEJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qa9AP1WUEJ",
+								"expanded_url": "https://www.pbs.org/newshour/",
+								"display_url": "pbs.org/newshour/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1220275,
+				"friends_count": 109069,
+				"listed_count": 15128,
+				"created_at": "Fri Apr 18 21:57:17 +0000 2008",
+				"favourites_count": 19388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 216037,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875456540450443265/W5yKx8um_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875456540450443265/W5yKx8um_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14437914/1662134262",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quilting as art and activism! Listen to Vera Hall (who is also the mom of the amazing @ProfKFH, who also knows more than just a bit about activism and art and teaching) https://t.co/LQmWEkYQFa"
+	},
+	{
+		"created_at": "Sat Sep 03 18:52:32 +0000 2022",
+		"id": 1566137082338332700,
+		"id_str": "1566137082338332672",
+		"full_text": "@ProfKFH @MorganStateU Kim, this was such a delight! I’m glad PBS recognized your mom’s incredible gift and gave a platform for more people to learn. And I’m so glad I got to see this!!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfKFH",
+					"name": "Deranged Covid-Clinger",
+					"id": 117537175,
+					"id_str": "117537175",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "MorganStateU",
+					"name": "Morgan State University",
+					"id": 75068011,
+					"id_str": "75068011",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566070310486659000,
+		"in_reply_to_status_id_str": "1566070310486659074",
+		"in_reply_to_user_id": 117537175,
+		"in_reply_to_user_id_str": "117537175",
+		"in_reply_to_screen_name": "ProfKFH",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10139,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfKFH @MorganStateU Kim, this was such a delight! I’m glad PBS recognized your mom’s incredible gift and gave a platform for more people to learn. And I’m so glad I got to see this!!"
+	},
+	{
 		"created_at": "Fri Sep 02 19:24:03 +0000 2022",
 		"id": 1565782625364631600,
 		"id_str": "1565782625364631554",
