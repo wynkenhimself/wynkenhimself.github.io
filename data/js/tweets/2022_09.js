@@ -1,6 +1,1651 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 00:35:11 +0000 2022",
+		"id": 1566944661654147000,
+		"id_str": "1566948090556436481",
+		"full_text": "many years ago, when I talked nyt editors into letting me help with Miss America coverage, part of my pitch was that I'd start by making a spreadsheet of Miss States &amp; Americas in politics. I remember editors were like, \"wait but how many could there possibly be?\" and well... https://t.co/44Iqvh0N2y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/44Iqvh0N2y",
+					"expanded_url": "https://twitter.com/amyargetsinger/status/1566937592234446851",
+					"display_url": "twitter.com/amyargetsinger…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 627909509,
+			"id_str": "627909509",
+			"name": "sara simon",
+			"screen_name": "sarambsimon",
+			"location": "",
+			"description": "phd student • former newsroom technologist • she/her",
+			"url": "https://t.co/fTZk1B9GzY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fTZk1B9GzY",
+							"expanded_url": "http://smbsimon.github.io",
+							"display_url": "smbsimon.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5396,
+			"friends_count": 2814,
+			"listed_count": 210,
+			"created_at": "Fri Jul 06 01:19:40 +0000 2012",
+			"favourites_count": 79783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E1DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372988716675915780/EJGqlNj7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372988716675915780/EJGqlNj7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/627909509/1507337299",
+			"profile_link_color": "7A6B5D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B7BF9B",
+			"profile_text_color": "D7C6A3",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1566937592234446800,
+		"quoted_status_id_str": "1566937592234446851",
+		"quoted_status_permalink": {
+			"url": "https://t.co/44Iqvh0N2y",
+			"expanded": "https://twitter.com/amyargetsinger/status/1566937592234446851",
+			"display": "twitter.com/amyargetsinger…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 05 23:53:28 +0000 2022",
+			"id": 1566937592234446800,
+			"id_str": "1566937592234446851",
+			"full_text": "A Miss America candidate + post-Roe politics seem to be upending the North Dakota congressional race, and I for one am going to be very interested to see what happens here. . . . https://t.co/1Ye67PN8wy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1Ye67PN8wy",
+						"expanded_url": "https://twitter.com/bistrib/status/1566822478474780674",
+						"display_url": "twitter.com/bistrib/status…",
+						"indices": [
+							179,
+							202
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35039244,
+				"id_str": "35039244",
+				"name": "Amy Argetsinger",
+				"screen_name": "AmyArgetsinger",
+				"location": "The Washington Post",
+				"description": "WashPost media-team editor; author THERE SHE WAS: THE SECRET HISTORY OF MISS AMERICA @simonschuster @OneSignalPub argetsinger@washpost.com https://t.co/5OYAgIviyZ",
+				"url": "https://t.co/fsn9oPYFYB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fsn9oPYFYB",
+								"expanded_url": "https://bit.ly/ThereSheWasBook",
+								"display_url": "bit.ly/ThereSheWasBook",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5OYAgIviyZ",
+								"expanded_url": "http://amyargetsinger.com",
+								"display_url": "amyargetsinger.com",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12748,
+				"friends_count": 674,
+				"listed_count": 557,
+				"created_at": "Fri Apr 24 21:01:59 +0000 2009",
+				"favourites_count": 17416,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19960,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407781877268856834/-iPNm5q__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407781877268856834/-iPNm5q__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35039244/1627052654",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1566822478474780700,
+			"quoted_status_id_str": "1566822478474780674",
+			"quoted_status_permalink": {
+				"url": "https://t.co/1Ye67PN8wy",
+				"expanded": "https://twitter.com/bistrib/status/1566822478474780674",
+				"display": "twitter.com/bistrib/status…"
+			},
+			"retweet_count": 22,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "many years ago, when I talked nyt editors into letting me help with Miss America coverage, part of my pitch was that I'd start by making a spreadsheet of Miss States &amp; Americas in politics. I remember editors were like, \"wait but how many could there possibly be?\" and well... https://t.co/44Iqvh0N2y"
+	},
+	{
+		"created_at": "Mon Sep 05 21:21:27 +0000 2022",
+		"id": 1566896186149245000,
+		"id_str": "1566899334762872832",
+		"full_text": "This is so funny I can’t even be offended. I just wish I could be a fly on the wall when the 24yo content creator who made this shows it to his 47yo mother https://t.co/4PuPTJO9Jf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4PuPTJO9Jf",
+					"expanded_url": "https://twitter.com/terrigerstein/status/1566468151155560449",
+					"display_url": "twitter.com/terrigerstein/…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18105922,
+			"id_str": "18105922",
+			"name": "Claire McGuire 🏳️‍🌈",
+			"screen_name": "vcmcguire",
+			"location": "PHL via SFO",
+			"description": "Writer, gardener, librarian & homesick Californian. GCT ovarian cancer patient since 1987. Disabled. She/her. \n\nProtect trans kids. Black lives matter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2669,
+			"friends_count": 1162,
+			"listed_count": 164,
+			"created_at": "Sat Dec 13 22:11:17 +0000 2008",
+			"favourites_count": 54576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1514685102839713810/PQEPg1Nv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514685102839713810/PQEPg1Nv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18105922/1454545442",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1566468151155560400,
+		"quoted_status_id_str": "1566468151155560449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4PuPTJO9Jf",
+			"expanded": "https://twitter.com/terrigerstein/status/1566468151155560449",
+			"display": "twitter.com/terrigerstein/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 04 16:48:05 +0000 2022",
+			"id": 1566468151155560400,
+			"id_str": "1566468151155560449",
+			"full_text": "Is this what they think women over 45 look like??? https://t.co/lBEqCgPn7K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1566468140413902800,
+						"id_str": "1566468140413902849",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/Fb02eWVWYAEysn0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fb02eWVWYAEysn0.jpg",
+						"url": "https://t.co/lBEqCgPn7K",
+						"display_url": "pic.twitter.com/lBEqCgPn7K",
+						"expanded_url": "https://twitter.com/TerriGerstein/status/1566468151155560449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 501,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1124,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1566468140413902800,
+						"id_str": "1566468140413902849",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/Fb02eWVWYAEysn0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fb02eWVWYAEysn0.jpg",
+						"url": "https://t.co/lBEqCgPn7K",
+						"display_url": "pic.twitter.com/lBEqCgPn7K",
+						"expanded_url": "https://twitter.com/TerriGerstein/status/1566468151155560449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 501,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 1124,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4183647317,
+				"id_str": "4183647317",
+				"name": "Terri Gerstein",
+				"screen_name": "TerriGerstein",
+				"location": "Brooklyn, NY",
+				"description": "Workers rights lawyer @LWPHarvard @EconomicPolicy Sometimes writer. Former @NewYorkStateAG enforcer (like Law & Order but pursuing abusive employers) Mom(teens)",
+				"url": "https://t.co/TQj8aqNk0E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TQj8aqNk0E",
+								"expanded_url": "http://www.terrigerstein.com",
+								"display_url": "terrigerstein.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6606,
+				"friends_count": 3313,
+				"listed_count": 94,
+				"created_at": "Sat Nov 14 04:16:58 +0000 2015",
+				"favourites_count": 23448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13190,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554552945567584257/ftoGveRs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554552945567584257/ftoGveRs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4183647317/1657896682",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 956,
+			"favorite_count": 11122,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is so funny I can’t even be offended. I just wish I could be a fly on the wall when the 24yo content creator who made this shows it to his 47yo mother https://t.co/4PuPTJO9Jf"
+	},
+	{
+		"created_at": "Mon Sep 05 21:19:56 +0000 2022",
+		"id": 1566898953622360000,
+		"id_str": "1566898953622360065",
+		"full_text": "@vcmcguire As a 53yo, I feel like my evolving aesthetic does actually match the age group listed for me, but why is the 50-55 demographic so much younger than the 45-50?!!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vcmcguire",
+					"name": "Claire McGuire 🏳️‍🌈",
+					"id": 18105922,
+					"id_str": "18105922",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566896186149245000,
+		"in_reply_to_status_id_str": "1566896186149244930",
+		"in_reply_to_user_id": 18105922,
+		"in_reply_to_user_id_str": "18105922",
+		"in_reply_to_screen_name": "vcmcguire",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10142,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vcmcguire As a 53yo, I feel like my evolving aesthetic does actually match the age group listed for me, but why is the 50-55 demographic so much younger than the 45-50?!!"
+	},
+	{
+		"created_at": "Mon Sep 05 16:33:56 +0000 2022",
+		"id": 1566826979365634000,
+		"id_str": "1566826979365634048",
+		"full_text": "@EthanWatrall Def believe that a lot of STEM folks don’t realize what it’s like for students in humanities and social sciences",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EthanWatrall",
+					"name": "Ethan Watrall",
+					"id": 12877652,
+					"id_str": "12877652",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566826340497629200,
+		"in_reply_to_status_id_str": "1566826340497629186",
+		"in_reply_to_user_id": 12877652,
+		"in_reply_to_user_id_str": "12877652",
+		"in_reply_to_screen_name": "EthanWatrall",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10142,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EthanWatrall Def believe that a lot of STEM folks don’t realize what it’s like for students in humanities and social sciences"
+	},
+	{
+		"created_at": "Mon Sep 05 15:40:13 +0000 2022",
+		"id": 1566489782821200000,
+		"id_str": "1566813459332866051",
+		"full_text": "In which @lisafdavis breaks down @wsid30's extraordinary find of a leaf from the 13th century Beauvais Missal at an estate sale in Waterville, a story in which I play a small but pivotal role. Manuscript people and Colby people alike, this thread's for you: https://t.co/eRrImnTOsx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisafdavis",
+					"name": "Lisa Fagin Davis",
+					"id": 31417996,
+					"id_str": "31417996",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "wsid30",
+					"name": "Skeleton Dad",
+					"id": 825845716929093600,
+					"id_str": "825845716929093635",
+					"indices": [
+						33,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eRrImnTOsx",
+					"expanded_url": "https://twitter.com/lisafdavis/status/1566472025409036288",
+					"display_url": "twitter.com/lisafdavis/sta…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10098362,
+			"id_str": "10098362",
+			"name": "Megan L. Cook",
+			"screen_name": "meganlcook",
+			"location": "Maine",
+			"description": "English prof @ColbyCollege, adventures with medieval literature and/in early modern books, scholarly editing, SLAC life. BRCA2+, she/her, views and typos my own",
+			"url": "https://t.co/Cdw0XvqcR6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cdw0XvqcR6",
+							"expanded_url": "http://www.upenn.edu/pennpress/book/15972.html",
+							"display_url": "upenn.edu/pennpress/book…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5521,
+			"friends_count": 1496,
+			"listed_count": 60,
+			"created_at": "Fri Nov 09 13:59:32 +0000 2007",
+			"favourites_count": 34192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1456412604923006984/iSNKwftU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456412604923006984/iSNKwftU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10098362/1493135528",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1566472025409036300,
+		"quoted_status_id_str": "1566472025409036288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eRrImnTOsx",
+			"expanded": "https://twitter.com/lisafdavis/status/1566472025409036288",
+			"display": "twitter.com/lisafdavis/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 04 17:03:29 +0000 2022",
+			"id": 1566472025409036300,
+			"id_str": "1566472025409036288",
+			"full_text": "Here are a few updates on yesterday's exciting Beauvais Missal news! Working backwards...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31417996,
+				"id_str": "31417996",
+				"name": "Lisa Fagin Davis",
+				"screen_name": "lisafdavis",
+				"location": "",
+				"description": "Executive Director, @medievalacademy; @simmonsslis prof; paleographer, codicologist, manuscript blogger; PhD; @brownuniversity @Yale alum",
+				"url": "https://t.co/ylHe6hloAk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ylHe6hloAk",
+								"expanded_url": "http://manuscriptroadtrip.wordpress.com",
+								"display_url": "manuscriptroadtrip.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12507,
+				"friends_count": 768,
+				"listed_count": 166,
+				"created_at": "Wed Apr 15 14:22:06 +0000 2009",
+				"favourites_count": 14316,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14242,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107802651092271104/o9ywrSc6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107802651092271104/o9ywrSc6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31417996/1640187999",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "67b98f17fdcf20be",
+				"url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+				"place_type": "city",
+				"name": "Boston",
+				"full_name": "Boston, MA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.191421,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.227797
+							],
+							[
+								-70.986004,
+								42.399542
+							],
+							[
+								-71.191421,
+								42.399542
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In which @lisafdavis breaks down @wsid30's extraordinary find of a leaf from the 13th century Beauvais Missal at an estate sale in Waterville, a story in which I play a small but pivotal role. Manuscript people and Colby people alike, this thread's for you: https://t.co/eRrImnTOsx"
+	},
+	{
+		"created_at": "Mon Sep 05 15:36:14 +0000 2022",
+		"id": 1566492436762972200,
+		"id_str": "1566812458203119616",
+		"full_text": "Admin's counter-proposal fails to account for inflation or the childcare &amp; healthcare needs of our members. We need your presence &amp; power to make them listen! Join the bargaining session Tues. 9/6, 4-6pm at Levis Faculty Center, room 300. Email officer1@uigeo.org to join online! https://t.co/j42WdlX4ix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566489863268057000,
+					"id_str": "1566489863268057090",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb1KOyRXwAIY7R4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb1KOyRXwAIY7R4.jpg",
+					"url": "https://t.co/j42WdlX4ix",
+					"display_url": "pic.twitter.com/j42WdlX4ix",
+					"expanded_url": "https://twitter.com/geo_uiuc/status/1566492436762972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566489863268057000,
+					"id_str": "1566489863268057090",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb1KOyRXwAIY7R4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb1KOyRXwAIY7R4.jpg",
+					"url": "https://t.co/j42WdlX4ix",
+					"display_url": "pic.twitter.com/j42WdlX4ix",
+					"expanded_url": "https://twitter.com/geo_uiuc/status/1566492436762972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3265548217,
+			"id_str": "3265548217",
+			"name": "GEO at UIUC #ILLatIllinois",
+			"screen_name": "geo_uiuc",
+			"location": "Champaign, IL",
+			"description": "Graduate Employees' Organization is a grad workers' union fighting for labor rights and social justice at UIUC. IFT/AFT Local 6300.",
+			"url": "https://t.co/3oud2AEW2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3oud2AEW2B",
+							"expanded_url": "http://uigeo.org",
+							"display_url": "uigeo.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3033,
+			"friends_count": 1249,
+			"listed_count": 45,
+			"created_at": "Wed Jul 01 23:36:17 +0000 2015",
+			"favourites_count": 3972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014622871514206213/udbHPTY7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014622871514206213/udbHPTY7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3265548217/1502992508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Admin's counter-proposal fails to account for inflation or the childcare &amp; healthcare needs of our members. We need your presence &amp; power to make them listen! Join the bargaining session Tues. 9/6, 4-6pm at Levis Faculty Center, room 300. Email officer1@uigeo.org to join online! https://t.co/j42WdlX4ix"
+	},
+	{
+		"created_at": "Mon Sep 05 15:27:29 +0000 2022",
+		"id": 1566810254679081000,
+		"id_str": "1566810254679080963",
+		"full_text": "Here’s the data that Weiskott collected for English PhD stipends. Get your unions on it—and faculty, understand that your causes are aligned and support your grad students! https://t.co/Sh0ebJUjfw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sh0ebJUjfw",
+					"expanded_url": "https://profession.mla.org/english-phd-stipends-in-the-united-states-statistical-report/",
+					"display_url": "profession.mla.org/english-phd-st…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566809838499336200,
+		"in_reply_to_status_id_str": "1566809838499336193",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10142,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s the data that Weiskott collected for English PhD stipends. Get your unions on it—and faculty, understand that your causes are aligned and support your grad students! https://t.co/Sh0ebJUjfw"
+	},
+	{
+		"created_at": "Mon Sep 05 15:25:50 +0000 2022",
+		"id": 1566809838499336200,
+		"id_str": "1566809838499336193",
+		"full_text": "Beyond the scope of this piece is the amount of money that unis make off of grad student labor—they teach a big portion of English lit &amp; writing courses, they are the TAs that make huge lecture courses possible. Without their underpaid labor, uni budgets would be v different",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566808912501903400,
+		"in_reply_to_status_id_str": "1566808912501903365",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10142,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Beyond the scope of this piece is the amount of money that unis make off of grad student labor—they teach a big portion of English lit &amp; writing courses, they are the TAs that make huge lecture courses possible. Without their underpaid labor, uni budgets would be v different"
+	},
+	{
+		"created_at": "Mon Sep 05 15:22:09 +0000 2022",
+		"id": 1566808912501903400,
+		"id_str": "1566808912501903365",
+		"full_text": "The state of graduate student stipends in the humanities is appalling: that money in theory enables you to devote yourself to your study, but in practice, it’s not enough to live on and schools punish you for studying on a slower pace because you’re also working. #LaborDay https://t.co/zZeNeS2mAp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LaborDay",
+					"indices": [
+						264,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZeNeS2mAp",
+					"expanded_url": "https://twitter.com/ericweiskott/status/1565816240274374657",
+					"display_url": "twitter.com/ericweiskott/s…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10142,
+			"friends_count": 507,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1565816240274374700,
+		"quoted_status_id_str": "1565816240274374657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zZeNeS2mAp",
+			"expanded": "https://twitter.com/ericweiskott/status/1565816240274374657",
+			"display": "twitter.com/ericweiskott/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 02 21:37:37 +0000 2022",
+			"id": 1565816240274374700,
+			"id_str": "1565816240274374657",
+			"full_text": "Wealthy universities could afford to pay more. Much more. And I have the data to back it up.\nhttps://t.co/CxBrlvKaQk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CxBrlvKaQk",
+						"expanded_url": "https://www.chronicle.com/article/who-can-live-on-a-ph-d-stipend",
+						"display_url": "chronicle.com/article/who-ca…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2987583095,
+				"id_str": "2987583095",
+				"name": "Eric Weiskott",
+				"screen_name": "ericweiskott",
+				"location": "Brookline, MA",
+				"description": "writer, teacher, literary historian, “artisanal philologist.” he / him. 🍞 / 🌹s",
+				"url": "https://t.co/HmdrkvJSeJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HmdrkvJSeJ",
+								"expanded_url": "http://sites.bc.edu/ericweiskott",
+								"display_url": "sites.bc.edu/ericweiskott",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7742,
+				"friends_count": 461,
+				"listed_count": 172,
+				"created_at": "Tue Jan 20 17:18:47 +0000 2015",
+				"favourites_count": 46084,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 322,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1565775106030284800/0n475KWb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565775106030284800/0n475KWb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2987583095/1604793392",
+				"profile_link_color": "8B681C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 472,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The state of graduate student stipends in the humanities is appalling: that money in theory enables you to devote yourself to your study, but in practice, it’s not enough to live on and schools punish you for studying on a slower pace because you’re also working. #LaborDay https://t.co/zZeNeS2mAp"
+	},
+	{
 		"created_at": "Sat Sep 03 21:24:35 +0000 2022",
 		"id": 1565795384210907100,
 		"id_str": "1566175346176802816",
