@@ -1,6 +1,1583 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 01:41:03 +0000 2022",
+		"id": 1567311428192768000,
+		"id_str": "1567327051736137731",
+		"full_text": "A spot of VERY GOOD NEWS: Per the Baltimore County Council's vote just now, the Baltimore County Public Library employees' FIRST UNION CONTRACT IS NOW FULLY FUNDED HELL EFFING YAAASSS!! @MachinistsUnion @BCPL_United @MDDCStateFed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MachinistsUnion",
+					"name": "Machinists Union",
+					"id": 74829020,
+					"id_str": "74829020",
+					"indices": [
+						186,
+						202
+					]
+				},
+				{
+					"screen_name": "BCPL_United",
+					"name": "BCPL United",
+					"id": 1366428873303486500,
+					"id_str": "1366428873303486468",
+					"indices": [
+						203,
+						215
+					]
+				},
+				{
+					"screen_name": "MDDCStateFed",
+					"name": "Maryland State and DC AFL-CIO",
+					"id": 1252252551019462700,
+					"id_str": "1252252551019462656",
+					"indices": [
+						216,
+						229
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 302917568,
+			"id_str": "302917568",
+			"name": "Nicole Dvorak",
+			"screen_name": "TheNicoleDvorak",
+			"location": "Piscataway, Nanticoke+ land",
+			"description": "Organizer & Necessary Disturbance (CB4-2019). Campaign finance reports are moral documents. BaltCo Public Library (BCPL) Union Contract Negotiating Committee",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436,
+			"friends_count": 1512,
+			"listed_count": 5,
+			"created_at": "Sun May 22 00:19:09 +0000 2011",
+			"favourites_count": 3534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039548681354190849/CX-CMshK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039548681354190849/CX-CMshK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/302917568/1526491760",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A spot of VERY GOOD NEWS: Per the Baltimore County Council's vote just now, the Baltimore County Public Library employees' FIRST UNION CONTRACT IS NOW FULLY FUNDED HELL EFFING YAAASSS!! @MachinistsUnion @BCPL_United @MDDCStateFed"
+	},
+	{
+		"created_at": "Tue Sep 06 23:47:23 +0000 2022",
+		"id": 1567298447031648300,
+		"id_str": "1567298447031648257",
+		"full_text": "@MedievalLitura @uaw2865 Thanks!!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MedievalLitura",
+					"name": "The Medievalest, PhD",
+					"id": 2849224400,
+					"id_str": "2849224400",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "uaw2865",
+					"name": "UC Student-Workers Union UAW 2865",
+					"id": 77308676,
+					"id_str": "77308676",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567297668308942800,
+		"in_reply_to_status_id_str": "1567297668308942848",
+		"in_reply_to_user_id": 2849224400,
+		"in_reply_to_user_id_str": "2849224400",
+		"in_reply_to_screen_name": "MedievalLitura",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10145,
+			"friends_count": 508,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MedievalLitura @uaw2865 Thanks!!"
+	},
+	{
+		"created_at": "Tue Sep 06 23:46:19 +0000 2022",
+		"id": 1567165749134622700,
+		"id_str": "1567298180160577536",
+		"full_text": "Re-upping this for this morning :) Please get in touch! https://t.co/BetoRCGpdc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BetoRCGpdc",
+					"expanded_url": "https://twitter.com/roseveleth/status/1566126379258613761",
+					"display_url": "twitter.com/roseveleth/sta…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44903491,
+			"id_str": "44903491",
+			"name": "Rose Eveleth",
+			"screen_name": "roseveleth",
+			"location": "",
+			"description": "👽 butch Ms. Frizzle 👽  〰 I make @flashforwardpod & more 〰 2022 @newamerica fellow 〰 they/she 〰 Tweets 🗑 〰 rose.eveleth@protonmail.com 〰 trying not to be here",
+			"url": "https://t.co/CtvHYD9lMy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CtvHYD9lMy",
+							"expanded_url": "https://www.roseveleth.com/",
+							"display_url": "roseveleth.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30128,
+			"friends_count": 2799,
+			"listed_count": 924,
+			"created_at": "Fri Jun 05 14:29:35 +0000 2009",
+			"favourites_count": 16871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1375278779128369159/rHuJrTRw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375278779128369159/rHuJrTRw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44903491/1615313127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1566126379258613800,
+		"quoted_status_id_str": "1566126379258613761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BetoRCGpdc",
+			"expanded": "https://twitter.com/roseveleth/status/1566126379258613761",
+			"display": "twitter.com/roseveleth/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 03 18:10:00 +0000 2022",
+			"id": 1566126379258613800,
+			"id_str": "1566126379258613761",
+			"full_text": "If you have ever ended a big, ongoing project (blog, podcast, newsletter) and are willing to answer a couple of questions for me about that decision &amp; process please DM/email me! (rose.eveleth@protonmail.com and I have open DM's) Working on a talk about this topic :)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44903491,
+				"id_str": "44903491",
+				"name": "Rose Eveleth",
+				"screen_name": "roseveleth",
+				"location": "",
+				"description": "👽 butch Ms. Frizzle 👽  〰 I make @flashforwardpod & more 〰 2022 @newamerica fellow 〰 they/she 〰 Tweets 🗑 〰 rose.eveleth@protonmail.com 〰 trying not to be here",
+				"url": "https://t.co/CtvHYD9lMy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CtvHYD9lMy",
+								"expanded_url": "https://www.roseveleth.com/",
+								"display_url": "roseveleth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30128,
+				"friends_count": 2799,
+				"listed_count": 924,
+				"created_at": "Fri Jun 05 14:29:35 +0000 2009",
+				"favourites_count": 16871,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 738,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1375278779128369159/rHuJrTRw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375278779128369159/rHuJrTRw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44903491/1615313127",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Re-upping this for this morning :) Please get in touch! https://t.co/BetoRCGpdc"
+	},
+	{
+		"created_at": "Tue Sep 06 23:36:01 +0000 2022",
+		"id": 1567295585257984000,
+		"id_str": "1567295585257984000",
+		"full_text": "@transbookhistry help? because now that I’m paying attention, I’m getting a lot of info from you; do you have a list?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1567290495595847700,
+		"in_reply_to_status_id_str": "1567290495595847680",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10145,
+			"friends_count": 508,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry help? because now that I’m paying attention, I’m getting a lot of info from you; do you have a list?"
+	},
+	{
+		"created_at": "Tue Sep 06 23:33:58 +0000 2022",
+		"id": 1567295070629466000,
+		"id_str": "1567295070629466112",
+		"full_text": "@roseveleth I would subscribe to a regular series of “PR pitches Rose gets that are against entire premise of their work”",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roseveleth",
+					"name": "Rose Eveleth",
+					"id": 44903491,
+					"id_str": "44903491",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1567291256375758800,
+		"in_reply_to_status_id_str": "1567291256375758849",
+		"in_reply_to_user_id": 44903491,
+		"in_reply_to_user_id_str": "44903491",
+		"in_reply_to_screen_name": "roseveleth",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10145,
+			"friends_count": 508,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@roseveleth I would subscribe to a regular series of “PR pitches Rose gets that are against entire premise of their work”"
+	},
+	{
+		"created_at": "Tue Sep 06 23:15:47 +0000 2022",
+		"id": 1567290495595847700,
+		"id_str": "1567290495595847680",
+		"full_text": "Hey all, I started a list of grad student and library unions and union drives. Please help me populate this? Or if someone else has this list, share so I can follow! (V academia focused, willing to add faculty and staff unions too) 🙌 https://t.co/fO5xFEPtqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fO5xFEPtqy",
+					"expanded_url": "https://twitter.com/i/lists/1566814949439053825",
+					"display_url": "twitter.com/i/lists/156681…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10145,
+			"friends_count": 508,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey all, I started a list of grad student and library unions and union drives. Please help me populate this? Or if someone else has this list, share so I can follow! (V academia focused, willing to add faculty and staff unions too) 🙌 https://t.co/fO5xFEPtqy"
+	},
+	{
+		"created_at": "Tue Sep 06 23:12:27 +0000 2022",
+		"id": 1567289654965162000,
+		"id_str": "1567289654965161986",
+		"full_text": "@wellreadnbread Flowers in the Attic and its sequels were my middle school &amp; high school cult reads, so…",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wellreadnbread",
+					"name": "Micaela Rodgers; M.Phil, M.L.I.S.",
+					"id": 1374512868020777000,
+					"id_str": "1374512868020776967",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567284880329031700,
+		"in_reply_to_status_id_str": "1567284880329031681",
+		"in_reply_to_user_id": 1374512868020777000,
+		"in_reply_to_user_id_str": "1374512868020776967",
+		"in_reply_to_screen_name": "wellreadnbread",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10145,
+			"friends_count": 508,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wellreadnbread Flowers in the Attic and its sequels were my middle school &amp; high school cult reads, so…"
+	},
+	{
+		"created_at": "Tue Sep 06 23:10:47 +0000 2022",
+		"id": 1567284555115118600,
+		"id_str": "1567289238550450176",
+		"full_text": "Listen, if day-glo risograph prints of extinct  (🐦and one recently un-extinct 🐦) are your jam, DO NOT SLEEP ON THIS DEAL!\n\n$40 will get you the print and a nice note from me and also some stickers.\n\nOh, and my undying gratitude for helping me pay my rent. https://t.co/xVgHyTRiw9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVgHyTRiw9",
+					"expanded_url": "https://twitter.com/blprnt/status/1567120966467162117",
+					"display_url": "twitter.com/blprnt/status/…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17013577,
+			"id_str": "17013577",
+			"name": "Jer Thorp",
+			"screen_name": "blprnt",
+			"location": "Brooklyn, NY",
+			"description": "Artist, writer, educator, birder & nudibranch enthusiast. Adjunct professor at ITP. He/Him. Author of Living in Data (MCDxFSG).\n\nHost of @UponAChecklist",
+			"url": "https://t.co/awCvFY8OKS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/awCvFY8OKS",
+							"expanded_url": "https://jerthorp.glitch.me/",
+							"display_url": "jerthorp.glitch.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30812,
+			"friends_count": 4832,
+			"listed_count": 1834,
+			"created_at": "Tue Oct 28 02:43:49 +0000 2008",
+			"favourites_count": 50947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/799698822284722177/8WqH0VO1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/799698822284722177/8WqH0VO1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17013577/1606583413",
+			"profile_link_color": "003366",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "7D7D7D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1567120966467162000,
+		"quoted_status_id_str": "1567120966467162117",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xVgHyTRiw9",
+			"expanded": "https://twitter.com/blprnt/status/1567120966467162117",
+			"display": "twitter.com/blprnt/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 06 12:02:08 +0000 2022",
+			"id": 1567120966467162000,
+			"id_str": "1567120966467162117",
+			"full_text": "Yesterday I walked over to a little studio in my neighbourhood, and picked up these risograph prints\n\nReader: I squeed when I got home and took them out of the bag. https://t.co/muTx1B0cjZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1567118885207285800,
+						"id_str": "1567118885207285760",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Fb-GUrmWIAA-1-r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fb-GUrmWIAA-1-r.jpg",
+						"url": "https://t.co/muTx1B0cjZ",
+						"display_url": "pic.twitter.com/muTx1B0cjZ",
+						"expanded_url": "https://twitter.com/blprnt/status/1567120966467162117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1567118885207285800,
+						"id_str": "1567118885207285760",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/Fb-GUrmWIAA-1-r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fb-GUrmWIAA-1-r.jpg",
+						"url": "https://t.co/muTx1B0cjZ",
+						"display_url": "pic.twitter.com/muTx1B0cjZ",
+						"expanded_url": "https://twitter.com/blprnt/status/1567120966467162117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17013577,
+				"id_str": "17013577",
+				"name": "Jer Thorp",
+				"screen_name": "blprnt",
+				"location": "Brooklyn, NY",
+				"description": "Artist, writer, educator, birder & nudibranch enthusiast. Adjunct professor at ITP. He/Him. Author of Living in Data (MCDxFSG).\n\nHost of @UponAChecklist",
+				"url": "https://t.co/awCvFY8OKS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/awCvFY8OKS",
+								"expanded_url": "https://jerthorp.glitch.me/",
+								"display_url": "jerthorp.glitch.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30812,
+				"friends_count": 4832,
+				"listed_count": 1834,
+				"created_at": "Tue Oct 28 02:43:49 +0000 2008",
+				"favourites_count": 50947,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44159,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799698822284722177/8WqH0VO1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799698822284722177/8WqH0VO1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17013577/1606583413",
+				"profile_link_color": "003366",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "7D7D7D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen, if day-glo risograph prints of extinct  (🐦and one recently un-extinct 🐦) are your jam, DO NOT SLEEP ON THIS DEAL!\n\n$40 will get you the print and a nice note from me and also some stickers.\n\nOh, and my undying gratitude for helping me pay my rent. https://t.co/xVgHyTRiw9"
+	},
+	{
+		"created_at": "Tue Sep 06 23:10:42 +0000 2022",
+		"id": 1567289215263678500,
+		"id_str": "1567289215263678470",
+		"full_text": "@blprnt @dansinker A) these are gorgeous and wow do I love the intersection of materiality and information and B) I love that I saw this through Dan, who I now associate with birds and not punk (birds are v punk)",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blprnt",
+					"name": "Jer Thorp",
+					"id": 17013577,
+					"id_str": "17013577",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "dansinker",
+					"name": "💀 damned sinker 💀",
+					"id": 8119452,
+					"id_str": "8119452",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567284555115118600,
+		"in_reply_to_status_id_str": "1567284555115118592",
+		"in_reply_to_user_id": 17013577,
+		"in_reply_to_user_id_str": "17013577",
+		"in_reply_to_screen_name": "blprnt",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10145,
+			"friends_count": 508,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@blprnt @dansinker A) these are gorgeous and wow do I love the intersection of materiality and information and B) I love that I saw this through Dan, who I now associate with birds and not punk (birds are v punk)"
+	},
+	{
+		"created_at": "Tue Sep 06 23:05:29 +0000 2022",
+		"id": 1566902884641415200,
+		"id_str": "1567287903398625281",
+		"full_text": "fuck quiet quitting, here comes quiet unionizing\n\nhttps://t.co/N0mnEj6SO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N0mnEj6SO8",
+					"expanded_url": "https://www.washingtonpost.com/technology/2022/09/05/google-union-pandemic/",
+					"display_url": "washingtonpost.com/technology/202…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871826161403396100,
+			"id_str": "871826161403396097",
+			"name": "Maria DiPasquale",
+			"screen_name": "Maria_DiP26",
+			"location": "just another jersey girl in bk",
+			"description": "union communicator (now @RWDSU; was @Local_802_AFM), writer, podcastress @leftyteendrama ✨ She/her. Opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1138,
+			"friends_count": 2311,
+			"listed_count": 5,
+			"created_at": "Mon Jun 05 20:28:49 +0000 2017",
+			"favourites_count": 90160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1406752136193585152/FN-DrjYL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406752136193585152/FN-DrjYL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871826161403396097/1552050922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011add077f4d2da3",
+			"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+			"place_type": "city",
+			"name": "Brooklyn",
+			"full_name": "Brooklyn, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.041878,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.739434
+						],
+						[
+							-74.041878,
+							40.739434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1460,
+		"favorite_count": 7016,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fuck quiet quitting, here comes quiet unionizing\n\nhttps://t.co/N0mnEj6SO8"
+	},
+	{
+		"created_at": "Tue Sep 06 18:17:35 +0000 2022",
+		"id": 1567215452039823400,
+		"id_str": "1567215452039823360",
+		"full_text": "@medrenliza So very excited about this!!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medrenliza",
+					"name": "Liza Blake",
+					"id": 3308868142,
+					"id_str": "3308868142",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567172301052936200,
+		"in_reply_to_status_id_str": "1567172301052936193",
+		"in_reply_to_user_id": 3308868142,
+		"in_reply_to_user_id_str": "3308868142",
+		"in_reply_to_screen_name": "medrenliza",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10145,
+			"friends_count": 508,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@medrenliza So very excited about this!!"
+	},
+	{
 		"created_at": "Tue Sep 06 00:35:11 +0000 2022",
 		"id": 1566944661654147000,
 		"id_str": "1566948090556436481",
@@ -272,7 +1849,7 @@ Grailbird.data.tweets_2022_09 =
 		"user": {
 			"id": 18105922,
 			"id_str": "18105922",
-			"name": "Claire McGuire 🏳️‍🌈",
+			"name": "Claire McGuire 🏳️🌈",
 			"screen_name": "vcmcguire",
 			"location": "PHL via SFO",
 			"description": "Writer, gardener, librarian & homesick Californian. GCT ovarian cancer patient since 1987. Disabled. She/her. \n\nProtect trans kids. Black lives matter.",
@@ -528,7 +2105,7 @@ Grailbird.data.tweets_2022_09 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
