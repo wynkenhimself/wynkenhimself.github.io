@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 01:11:00 +0000 2022",
+		"id": 1568406651748712400,
+		"id_str": "1568406651748712450",
+		"full_text": "@benwurgaft I was just out taking a crappy picture of my view of it! https://t.co/tyuMyclJMl",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benwurgaft",
+					"name": "benjamin aldes wurgaft",
+					"id": 45951318,
+					"id_str": "45951318",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568406646602211300,
+					"id_str": "1568406646602211329",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQZiQoWIAEyIz1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQZiQoWIAEyIz1.jpg",
+					"url": "https://t.co/tyuMyclJMl",
+					"display_url": "pic.twitter.com/tyuMyclJMl",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1568406651748712450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568406646602211300,
+					"id_str": "1568406646602211329",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQZiQoWIAEyIz1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQZiQoWIAEyIz1.jpg",
+					"url": "https://t.co/tyuMyclJMl",
+					"display_url": "pic.twitter.com/tyuMyclJMl",
+					"expanded_url": "https://twitter.com/wynkenhimself/status/1568406651748712450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568405449925345300,
+		"in_reply_to_status_id_str": "1568405449925345281",
+		"in_reply_to_user_id": 45951318,
+		"in_reply_to_user_id_str": "45951318",
+		"in_reply_to_screen_name": "benwurgaft",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10158,
+			"friends_count": 510,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@benwurgaft I was just out taking a crappy picture of my view of it! https://t.co/tyuMyclJMl"
+	},
+	{
+		"created_at": "Fri Sep 09 16:05:10 +0000 2022",
+		"id": 1568224332811206700,
+		"id_str": "1568269288208842754",
+		"full_text": "I gave a Black History Month talk at Carnegie Mellon in 2020, and I specifically implored the admin and university president who were in the audience to support Black faculty and administrators. This is the antithesis of  support. It constitutes an attack on academic freedom. https://t.co/ofHwkgbAFd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ofHwkgbAFd",
+					"expanded_url": "https://twitter.com/carnegiemellon/status/1567975991330615297",
+					"display_url": "twitter.com/carnegiemellon…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 470708968,
+			"id_str": "470708968",
+			"name": "Brittney Cooper",
+			"screen_name": "ProfessorCrunk",
+			"location": "",
+			"description": "Professor. Contributor @TheCut Books: Beyond Respectability| Eloquent Rage| The Crunk Feminist Collection| Feminist AF| Stand Up! (Aug. 2)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169773,
+			"friends_count": 2025,
+			"listed_count": 1546,
+			"created_at": "Sun Jan 22 02:17:35 +0000 2012",
+			"favourites_count": 25216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/704324554450075649/Jdv_x6OZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/704324554450075649/Jdv_x6OZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/470708968/1656845514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1567975991330615300,
+		"quoted_status_id_str": "1567975991330615297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ofHwkgbAFd",
+			"expanded": "https://twitter.com/carnegiemellon/status/1567975991330615297",
+			"display": "twitter.com/carnegiemellon…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 08 20:39:42 +0000 2022",
+			"id": 1567975991330615300,
+			"id_str": "1567975991330615297",
+			"full_text": "A statement regarding recent social media posts by Uju Anya. https://t.co/NinpPa4rZg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1567974245220638700,
+						"id_str": "1567974245220638720",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/FcKQRL9WYAA7mGi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcKQRL9WYAA7mGi.jpg",
+						"url": "https://t.co/NinpPa4rZg",
+						"display_url": "pic.twitter.com/NinpPa4rZg",
+						"expanded_url": "https://twitter.com/CarnegieMellon/status/1567975991330615297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1567974245220638700,
+						"id_str": "1567974245220638720",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/FcKQRL9WYAA7mGi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcKQRL9WYAA7mGi.jpg",
+						"url": "https://t.co/NinpPa4rZg",
+						"display_url": "pic.twitter.com/NinpPa4rZg",
+						"expanded_url": "https://twitter.com/CarnegieMellon/status/1567975991330615297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17631078,
+				"id_str": "17631078",
+				"name": "Carnegie Mellon University",
+				"screen_name": "CarnegieMellon",
+				"location": "Pittsburgh, PA",
+				"description": "United by curiosity and driven by passion, we reach across disciplines, forge new ground and deploy our expertise to make real change that benefits humankind.",
+				"url": "https://t.co/xODeaHJ4R2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xODeaHJ4R2",
+								"expanded_url": "http://www.cmu.edu",
+								"display_url": "cmu.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72294,
+				"friends_count": 2115,
+				"listed_count": 1388,
+				"created_at": "Tue Nov 25 20:51:11 +0000 2008",
+				"favourites_count": 15535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15259,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "990000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542813548799299587/Sl0y-aAL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542813548799299587/Sl0y-aAL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17631078/1648736465",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3942,
+			"favorite_count": 16387,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ca"
+		},
+		"retweet_count": 483,
+		"favorite_count": 2276,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I gave a Black History Month talk at Carnegie Mellon in 2020, and I specifically implored the admin and university president who were in the audience to support Black faculty and administrators. This is the antithesis of  support. It constitutes an attack on academic freedom. https://t.co/ofHwkgbAFd"
+	},
+	{
+		"created_at": "Fri Sep 09 15:28:41 +0000 2022",
+		"id": 1568225527852327000,
+		"id_str": "1568260107753951232",
+		"full_text": "51yrs ago today, a historic human right uprising began at Attica.\nNYState police then shot 128 of the men who dared to speak up (incldg guards &amp; civilians these men had kept safe). The state then covered up the crime. Prisons remain horrific #PrisonerRightsToday #AtticaIsAllOfUs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrisonerRightsToday",
+					"indices": [
+						246,
+						266
+					]
+				},
+				{
+					"text": "AtticaIsAllOfUs",
+					"indices": [
+						267,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41430206,
+			"id_str": "41430206",
+			"name": "Dr. Heather Ann Thompson",
+			"screen_name": "hthompsn",
+			"location": "",
+			"description": "Pulitzer Prize winning author, book on Attica, next on MOVE Bombing, & in NYT, WaPo, Time, Rolling Stone, etc. #Detroit #WestPhilly. WritersHouse & CAA repped",
+			"url": "https://t.co/21lb70Blxt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/21lb70Blxt",
+							"expanded_url": "http://www.heatherannthompson.com",
+							"display_url": "heatherannthompson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17697,
+			"friends_count": 5894,
+			"listed_count": 294,
+			"created_at": "Wed May 20 19:33:57 +0000 2009",
+			"favourites_count": 10868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/765645076647272452/IXg9mYvz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/765645076647272452/IXg9mYvz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41430206/1498017078",
+			"profile_link_color": "5E412F",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "CE7834",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 626,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "51yrs ago today, a historic human right uprising began at Attica.\nNYState police then shot 128 of the men who dared to speak up (incldg guards &amp; civilians these men had kept safe). The state then covered up the crime. Prisons remain horrific #PrisonerRightsToday #AtticaIsAllOfUs"
+	},
+	{
 		"created_at": "Fri Sep 09 01:36:35 +0000 2022",
 		"id": 1568050704450830300,
 		"id_str": "1568050704450830336",
@@ -1784,7 +2366,7 @@ Grailbird.data.tweets_2022_09 =
 				},
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
@@ -1921,7 +2503,7 @@ Grailbird.data.tweets_2022_09 =
 				},
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
@@ -2282,7 +2864,7 @@ Grailbird.data.tweets_2022_09 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
