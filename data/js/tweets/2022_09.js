@@ -1,6 +1,957 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 01:22:00 +0000 2022",
+		"id": 1570213758634717200,
+		"id_str": "1570221361230131201",
+		"full_text": "Personally, rather than forcing a strike that will destroy upwards of $2B/day in economic output, I would just allow railroad workers to get paid a fair wage and take a sick day now and then. https://t.co/TMkoihN5Hf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TMkoihN5Hf",
+					"expanded_url": "https://twitter.com/JStein_WaPo/status/1570125458309804033",
+					"display_url": "twitter.com/JStein_WaPo/st…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 711543,
+			"id_str": "711543",
+			"name": "Jacob Barss-Bailey 🌿",
+			"screen_name": "jacobbarssbailey",
+			"location": "The Mission, San Francisco",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 621,
+			"listed_count": 9,
+			"created_at": "Fri Jan 26 23:23:39 +0000 2007",
+			"favourites_count": 7407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5BEF7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979888136644784129/VXFMihOu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979888136644784129/VXFMihOu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/711543/1469465446",
+			"profile_link_color": "FC77FC",
+			"profile_sidebar_border_color": "E8E8E8",
+			"profile_sidebar_fill_color": "C9C6A6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570125458309804000,
+		"quoted_status_id_str": "1570125458309804033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TMkoihN5Hf",
+			"expanded": "https://twitter.com/JStein_WaPo/status/1570125458309804033",
+			"display": "twitter.com/JStein_WaPo/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 19:00:55 +0000 2022",
+			"id": 1570125458309804000,
+			"id_str": "1570125458309804033",
+			"full_text": "Union president to @LaurenKGurley: “The average American would not know that we get fired for going to the doctor. This one thing has our members most enraged. We have guys who were punished for taking time off for a heart attack and covid. It’s inhumane.”\nhttps://t.co/wtMyAfoQcV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LaurenKGurley",
+						"name": "Lauren Kaori Gurley",
+						"id": 2480691936,
+						"id_str": "2480691936",
+						"indices": [
+							19,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wtMyAfoQcV",
+						"expanded_url": "https://www.washingtonpost.com/business/2022/09/13/rail-strike-railroad-shutdown-biden/",
+						"display_url": "washingtonpost.com/business/2022/…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 334385278,
+				"id_str": "334385278",
+				"name": "Jeff Stein",
+				"screen_name": "JStein_WaPo",
+				"location": "Washington, DC",
+				"description": "White House economics reporter for The Washington Post. Founder of @IthacaVoice. NYR fan. Jeffrey.stein@washpost.com, Signal: 9178872891.",
+				"url": "https://t.co/3gBOKYiWw2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3gBOKYiWw2",
+								"expanded_url": "https://www.washingtonpost.com/people/jeff-stein/",
+								"display_url": "washingtonpost.com/people/jeff-st…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 138314,
+				"friends_count": 1891,
+				"listed_count": 2198,
+				"created_at": "Wed Jul 13 00:54:04 +0000 2011",
+				"favourites_count": 56098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23272,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487087329273651208/Qasqyoo1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487087329273651208/Qasqyoo1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/334385278/1659064103",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 971,
+			"favorite_count": 1919,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Personally, rather than forcing a strike that will destroy upwards of $2B/day in economic output, I would just allow railroad workers to get paid a fair wage and take a sick day now and then. https://t.co/TMkoihN5Hf"
+	},
+	{
+		"created_at": "Thu Sep 15 01:17:05 +0000 2022",
+		"id": 1570168281105051600,
+		"id_str": "1570220124002721792",
+		"full_text": "You might know that we're heading towards a possible rail strike.\n\nWhat most of the media might not tell you is why.\n\nRailroad workers have been working for 3 years without a contract, and now railroad companies are holding the economy hostage to deny them a single sick day. 🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321935792416149500,
+			"id_str": "1321935792416149505",
+			"name": "More Perfect Union",
+			"screen_name": "MorePerfectUS",
+			"location": "",
+			"description": "Media that builds power for working people. \n\nSend us stories/pitches: stories@perfectunion.us \nVoicemail/text: 202-505-4556\nWork with us: jobs@perfectunion.us",
+			"url": "https://t.co/KbN7om2YLJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KbN7om2YLJ",
+							"expanded_url": "http://perfectunion.us",
+							"display_url": "perfectunion.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136668,
+			"friends_count": 1460,
+			"listed_count": 851,
+			"created_at": "Thu Oct 29 22:04:04 +0000 2020",
+			"favourites_count": 2626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500885670524502016/ADeatm_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500885670524502016/ADeatm_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321935792416149505/1646674005",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3112,
+		"favorite_count": 7391,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "You might know that we're heading towards a possible rail strike.\n\nWhat most of the media might not tell you is why.\n\nRailroad workers have been working for 3 years without a contract, and now railroad companies are holding the economy hostage to deny them a single sick day. 🧵"
+	},
+	{
+		"created_at": "Wed Sep 14 21:00:46 +0000 2022",
+		"id": 1570084196768534500,
+		"id_str": "1570155619310784514",
+		"full_text": "Should a promising young law student take a job defending companies that are, in her words, “climate villains”? I wrote about it: https://t.co/n2LEV9L5hc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n2LEV9L5hc",
+					"expanded_url": "https://www.theatlantic.com/science/archive/2022/09/climate-villain-lawyers-work-ethics/671429/",
+					"display_url": "theatlantic.com/science/archiv…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400631,
+			"id_str": "2400631",
+			"name": "Robinson Meyer",
+			"screen_name": "robinsonmeyer",
+			"location": "Washington, DC",
+			"description": "Staff writer, @TheAtlantic, covering climate & energy.\nCofounder, @COVID19Tracking\nProud member, @theatlunion\nSubscribe to my free newsletter ⬇",
+			"url": "https://t.co/j2YdIPEmsR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2YdIPEmsR",
+							"expanded_url": "https://www.theatlantic.com/newsletters/sign-up/weekly-planet/",
+							"display_url": "theatlantic.com/newsletters/si…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53643,
+			"friends_count": 2384,
+			"listed_count": 1824,
+			"created_at": "Tue Mar 27 04:03:09 +0000 2007",
+			"favourites_count": 61343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1418306060407001088/dgORcwkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418306060407001088/dgORcwkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400631/1398432472",
+			"profile_link_color": "D59B40",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFC999",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 78,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Should a promising young law student take a job defending companies that are, in her words, “climate villains”? I wrote about it: https://t.co/n2LEV9L5hc"
+	},
+	{
+		"created_at": "Wed Sep 14 20:15:36 +0000 2022",
+		"id": 1570138551198843000,
+		"id_str": "1570144252784427011",
+		"full_text": "Having a state Comptroller who supports #AbortionRights is ESSENTIAL. Now more than ever. This stuff matters. Thank you @BrookeELierman https://t.co/WmrTGSUkSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AbortionRights",
+					"indices": [
+						40,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrookeELierman",
+					"name": "Brooke Lierman",
+					"id": 1270418690,
+					"id_str": "1270418690",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WmrTGSUkSK",
+					"expanded_url": "https://twitter.com/brookeelierman/status/1570137149504376833",
+					"display_url": "twitter.com/brookeelierman…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144987804,
+			"id_str": "144987804",
+			"name": "Ariana Kelly",
+			"screen_name": "DelArianaKelly",
+			"location": "Bethesda, MD",
+			"description": "State Delegate representing Maryland's District 16 | By Authority: Friends of Ariana Kelly. Rosalyn Levy Jonas, Chair. Jennifer R. Kefer, Treasurer.",
+			"url": "https://t.co/RQdM01MLV0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RQdM01MLV0",
+							"expanded_url": "http://delegatearianakelly.com",
+							"display_url": "delegatearianakelly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4729,
+			"friends_count": 2531,
+			"listed_count": 145,
+			"created_at": "Mon May 17 21:08:41 +0000 2010",
+			"favourites_count": 3025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144987804/1508791972",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570137149504376800,
+		"quoted_status_id_str": "1570137149504376833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WmrTGSUkSK",
+			"expanded": "https://twitter.com/brookeelierman/status/1570137149504376833",
+			"display": "twitter.com/brookeelierman…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 19:47:22 +0000 2022",
+			"id": 1570137149504376800,
+			"id_str": "1570137149504376833",
+			"full_text": "Not true.\n\nCase in point: State law currently requires the BPW to review contracts for abortion care through the Dept. of Health. The values we bring to making spending decisions have direct &amp; real-life consequences for Marylanders. That's exactly why I’m running for Comptroller. https://t.co/wwbtgQOKow",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wwbtgQOKow",
+						"expanded_url": "https://twitter.com/HarfordExec/status/1570101298560700416",
+						"display_url": "twitter.com/HarfordExec/st…",
+						"indices": [
+							285,
+							308
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1270418690,
+				"id_str": "1270418690",
+				"name": "Brooke Lierman",
+				"screen_name": "BrookeELierman",
+				"location": "Baltimore, Maryland",
+				"description": "Mom, State Delegate, Attorney. Democratic Nominee for MD Comptroller. Authorized by Brooke Lierman for Maryland; Candace Dodson-Reed, Treasurer.",
+				"url": "https://t.co/j6xyRioJmT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j6xyRioJmT",
+								"expanded_url": "http://www.brookelierman.com",
+								"display_url": "brookelierman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14491,
+				"friends_count": 4433,
+				"listed_count": 178,
+				"created_at": "Fri Mar 15 18:39:15 +0000 2013",
+				"favourites_count": 52981,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13675,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1539955147245330433/u_NANBD8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539955147245330433/u_NANBD8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1270418690/1638458683",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1570101298560700400,
+			"quoted_status_id_str": "1570101298560700416",
+			"quoted_status_permalink": {
+				"url": "https://t.co/wwbtgQOKow",
+				"expanded": "https://twitter.com/HarfordExec/status/1570101298560700416",
+				"display": "twitter.com/HarfordExec/st…"
+			},
+			"retweet_count": 81,
+			"favorite_count": 270,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Having a state Comptroller who supports #AbortionRights is ESSENTIAL. Now more than ever. This stuff matters. Thank you @BrookeELierman https://t.co/WmrTGSUkSK"
+	},
+	{
+		"created_at": "Wed Sep 14 13:44:57 +0000 2022",
+		"id": 1570045943273164800,
+		"id_str": "1570045943273164804",
+		"full_text": "@BiblioDeviant @eliza_audacis @FunkeBooks @yabseminar And this is actually very exciting to learn. The times might be changing!",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BiblioDeviant",
+					"name": "J. E. Kearns",
+					"id": 234028028,
+					"id_str": "234028028",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBold",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "FunkeBooks",
+					"name": "mark funke",
+					"id": 2317884752,
+					"id_str": "2317884752",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "yabseminar",
+					"name": "York Book Seminar",
+					"id": 1685366509,
+					"id_str": "1685366509",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569943605166456800,
+		"in_reply_to_status_id_str": "1569943605166456832",
+		"in_reply_to_user_id": 234028028,
+		"in_reply_to_user_id_str": "234028028",
+		"in_reply_to_screen_name": "BiblioDeviant",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10160,
+			"friends_count": 515,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BiblioDeviant @eliza_audacis @FunkeBooks @yabseminar And this is actually very exciting to learn. The times might be changing!"
+	},
+	{
+		"created_at": "Wed Sep 14 13:40:42 +0000 2022",
+		"id": 1570044874946388000,
+		"id_str": "1570044874946387968",
+		"full_text": "@FunkeBooks @eliza_audacis @BiblioDeviant Thanks! I’ll be in touch. One of the things I do in my FemBib teaching is try to talk about selling and catalogs in particular as a genre to be read in terms of gender, so contrasting examples of approaches to this topic are helpful for that",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FunkeBooks",
+					"name": "mark funke",
+					"id": 2317884752,
+					"id_str": "2317884752",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "eliza_audacis",
+					"name": "Beth DeBold",
+					"id": 18967025,
+					"id_str": "18967025",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "BiblioDeviant",
+					"name": "J. E. Kearns",
+					"id": 234028028,
+					"id_str": "234028028",
+					"indices": [
+						27,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569916521136390100,
+		"in_reply_to_status_id_str": "1569916521136390145",
+		"in_reply_to_user_id": 2317884752,
+		"in_reply_to_user_id_str": "2317884752",
+		"in_reply_to_screen_name": "FunkeBooks",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10160,
+			"friends_count": 515,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FunkeBooks @eliza_audacis @BiblioDeviant Thanks! I’ll be in touch. One of the things I do in my FemBib teaching is try to talk about selling and catalogs in particular as a genre to be read in terms of gender, so contrasting examples of approaches to this topic are helpful for that"
+	},
+	{
 		"created_at": "Wed Sep 14 00:40:35 +0000 2022",
 		"id": 1569848549290004500,
 		"id_str": "1569848549290004481",
@@ -2342,10 +3293,10 @@ Grailbird.data.tweets_2022_09 =
 		"user": {
 			"id": 14917056,
 			"id_str": "14917056",
-			"name": "Meredith Rose 🏳️‍🌈",
+			"name": "Meredith Rose 🏳️🌈",
 			"screen_name": "M_F_Rose",
 			"location": "Washington, DC",
-			"description": "Grumpy feminist lawyer. Giant nerd. Senior Policy Counsel @PublicKnowledge. ©, tech, music, gaming, fandom. I talk about stuff. she/her 🏳️‍🌈",
+			"description": "Grumpy feminist lawyer. Giant nerd. Senior Policy Counsel @PublicKnowledge. ©, tech, music, gaming, fandom. I talk about stuff. she/her 🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
