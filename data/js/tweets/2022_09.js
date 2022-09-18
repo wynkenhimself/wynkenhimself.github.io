@@ -1,6 +1,2029 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 19:15:17 +0000 2022",
+		"id": 1571194635741024300,
+		"id_str": "1571216237102784513",
+		"full_text": "Existential threats to the study of history\n\n1) Adjunctification \n2) Systematic defunding\n3) Fear-mongering Politics\n.\n.\n.\n.\n99) Professors wearing t-shirts\n.\n.\n.\n150) lack of cursive pedagogy\n\nhttps://t.co/QQd5t2QgQk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQd5t2QgQk",
+					"expanded_url": "https://www.theatlantic.com/magazine/archive/2022/10/gen-z-handwriting-teaching-cursive-history/671246/?utm_source=twitter&utm_medium=social&utm_campaign=share",
+					"display_url": "theatlantic.com/magazine/archi…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1201229932132786200,
+			"id_str": "1201229932132786177",
+			"name": "Omar D. Foda",
+			"screen_name": "EgyptsBeer",
+			"location": "",
+			"description": "Writer: Egypt, History, Beer\n\nMy book:https://t.co/SVBtA7QAdS",
+			"url": "https://t.co/C5RwA9P2Y0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C5RwA9P2Y0",
+							"expanded_url": "http://omar.foda.family",
+							"display_url": "omar.foda.family",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SVBtA7QAdS",
+							"expanded_url": "https://bookshop.org/books/egypt-s-beer-stella-identity-and-the-modern-state/9781477319543",
+							"display_url": "bookshop.org/books/egypt-s-…",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1377,
+			"friends_count": 656,
+			"listed_count": 4,
+			"created_at": "Sun Dec 01 20:02:22 +0000 2019",
+			"favourites_count": 14189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481392120904699911/j9cNo1Ea_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481392120904699911/j9cNo1Ea_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1201229932132786177/1575383902",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Existential threats to the study of history\n\n1) Adjunctification \n2) Systematic defunding\n3) Fear-mongering Politics\n.\n.\n.\n.\n99) Professors wearing t-shirts\n.\n.\n.\n150) lack of cursive pedagogy\n\nhttps://t.co/QQd5t2QgQk"
+	},
+	{
+		"created_at": "Sat Sep 17 18:47:50 +0000 2022",
+		"id": 1571194363799081000,
+		"id_str": "1571209329293889538",
+		"full_text": "I’m starting to think that maybe it wasn’t such a good idea to rely on the laundered fortunes of 19th-century robber barons to prop up 21st-century humanities?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 357916553,
+			"id_str": "357916553",
+			"name": "Shannon Mattern",
+			"screen_name": "shannonmattern",
+			"location": "NYC + Hudson, NY",
+			"description": "faculty @thenewschool for now; soon: @penn. architecture, archives, cities, infrastructure, libraries, maps, sound++ img:karelmartens",
+			"url": "https://t.co/Q3bzbiv85M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q3bzbiv85M",
+							"expanded_url": "https://wordsinspace.net/",
+							"display_url": "wordsinspace.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32325,
+			"friends_count": 17452,
+			"listed_count": 470,
+			"created_at": "Fri Aug 19 02:57:32 +0000 2011",
+			"favourites_count": 157656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185290562120884224/buHldf66_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185290562120884224/buHldf66_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357916553/1390800045",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 1378,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m starting to think that maybe it wasn’t such a good idea to rely on the laundered fortunes of 19th-century robber barons to prop up 21st-century humanities?"
+	},
+	{
+		"created_at": "Sat Sep 17 16:42:38 +0000 2022",
+		"id": 1571177820029599700,
+		"id_str": "1571177820029599751",
+		"full_text": "@ehkopin As a former player, I highly endorse this!!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehkopin",
+					"name": "Emily Higgs Kopin",
+					"id": 1543994892,
+					"id_str": "1543994892",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571176056656208000,
+		"in_reply_to_status_id_str": "1571176056656207876",
+		"in_reply_to_user_id": 1543994892,
+		"in_reply_to_user_id_str": "1543994892",
+		"in_reply_to_screen_name": "ehkopin",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10163,
+			"friends_count": 516,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ehkopin As a former player, I highly endorse this!!"
+	},
+	{
+		"created_at": "Sat Sep 17 16:42:16 +0000 2022",
+		"id": 1571137836186996700,
+		"id_str": "1571177731781496839",
+		"full_text": "The law of Virginia has been settled on this since 2020, @GovernorVA. ⬇️\n\nYou can’t use executive action to overturn § 2.2-3900, the Virginia Human Rights Act.\n\nIf you want a debate, then we’ll see you at a microphone.\n\nIf you want to break the law, then we’ll see you in court. https://t.co/rYbijHvC0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GovernorVA",
+					"name": "Governor Glenn Youngkin",
+					"id": 1481701998273650700,
+					"id_str": "1481701998273650692",
+					"indices": [
+						57,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rYbijHvC0S",
+					"expanded_url": "https://twitter.com/vademocrats/status/1225169624188231680",
+					"display_url": "twitter.com/vademocrats/st…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169586297,
+			"id_str": "169586297",
+			"name": "Del. Danica Roem",
+			"screen_name": "pwcdanica",
+			"location": "Manassas, VA",
+			"description": "Delegate: @VaHouse 13\nCandidate: @VaSenate 30\nED: @EmergeVirginia\n“Burn the Page”: @VikingBooks\nBest Public Servant/Politician: @InsideNoVA, @PWCtimes\n🤘🏳️‍⚧️",
+			"url": "https://t.co/09UWBSl9BJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/09UWBSl9BJ",
+							"expanded_url": "https://www.delegatedanicaroem.com",
+							"display_url": "delegatedanicaroem.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100387,
+			"friends_count": 1001,
+			"listed_count": 701,
+			"created_at": "Thu Jul 22 18:03:09 +0000 2010",
+			"favourites_count": 19510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530574256169426946/DvR5MWaQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530574256169426946/DvR5MWaQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169586297/1653752492",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225169624188231700,
+		"quoted_status_id_str": "1225169624188231680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rYbijHvC0S",
+			"expanded": "https://twitter.com/vademocrats/status/1225169624188231680",
+			"display": "twitter.com/vademocrats/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 05 21:29:35 +0000 2020",
+			"id": 1225169624188231700,
+			"id_str": "1225169624188231680",
+			"full_text": "Take three minutes and watch @pwcdanica give an AMAZING speech defending a bill to ban discrimination against LGBTQ+ Virginians. This is what Democratic leadership looks like. https://t.co/cpt1JgL91r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pwcdanica",
+						"name": "Del. Danica Roem",
+						"id": 169586297,
+						"id_str": "169586297",
+						"indices": [
+							29,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1225168183784628200,
+						"id_str": "1225168183784628233",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/EQCsYN7W4Acq8Km.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQCsYN7W4Acq8Km.jpg",
+						"url": "https://t.co/cpt1JgL91r",
+						"display_url": "pic.twitter.com/cpt1JgL91r",
+						"expanded_url": "https://twitter.com/vademocrats/status/1225169624188231680/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1225168183784628200,
+						"id_str": "1225168183784628233",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/EQCsYN7W4Acq8Km.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQCsYN7W4Acq8Km.jpg",
+						"url": "https://t.co/cpt1JgL91r",
+						"display_url": "pic.twitter.com/cpt1JgL91r",
+						"expanded_url": "https://twitter.com/vademocrats/status/1225169624188231680/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 196208,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1225168183784628233/vid/480x270/MSfUG7jZLciWNwWk.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1225168183784628233/vid/640x360/w45YaowzyoCgyHzQ.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1225168183784628233/pl/uK9WfWR8HuGqwHoz.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1225168183784628233/vid/1280x720/0NXLMGcd6sMajeiZ.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29363230,
+				"id_str": "29363230",
+				"name": "Virginia Democrats",
+				"screen_name": "vademocrats",
+				"location": "Richmond, VA",
+				"description": "Official Twitter feed for the Democratic Party of Virginia.",
+				"url": "https://t.co/xiSuG9dGbt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xiSuG9dGbt",
+								"expanded_url": "http://www.vademocrats.org",
+								"display_url": "vademocrats.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50210,
+				"friends_count": 2856,
+				"listed_count": 712,
+				"created_at": "Tue Apr 07 02:56:10 +0000 2009",
+				"favourites_count": 2428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25249,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080100",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871020415300374530/MZ-bny9D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871020415300374530/MZ-bny9D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29363230/1549122365",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1627,
+			"favorite_count": 5959,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 875,
+		"favorite_count": 2971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The law of Virginia has been settled on this since 2020, @GovernorVA. ⬇️\n\nYou can’t use executive action to overturn § 2.2-3900, the Virginia Human Rights Act.\n\nIf you want a debate, then we’ll see you at a microphone.\n\nIf you want to break the law, then we’ll see you in court. https://t.co/rYbijHvC0S"
+	},
+	{
+		"created_at": "Sat Sep 17 15:12:28 +0000 2022",
+		"id": 1571155131772575700,
+		"id_str": "1571155131772575746",
+		"full_text": "@vcmcguire What a long life and what a beautiful cat! I’m glad you and your mom were able to give her good care through the end. 💙",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vcmcguire",
+					"name": "Claire McGuire 🏳️‍🌈",
+					"id": 18105922,
+					"id_str": "18105922",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571154562282623000,
+		"in_reply_to_status_id_str": "1571154562282622979",
+		"in_reply_to_user_id": 18105922,
+		"in_reply_to_user_id_str": "18105922",
+		"in_reply_to_screen_name": "vcmcguire",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10163,
+			"friends_count": 516,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@vcmcguire What a long life and what a beautiful cat! I’m glad you and your mom were able to give her good care through the end. 💙"
+	},
+	{
+		"created_at": "Sat Sep 17 15:11:29 +0000 2022",
+		"id": 1570835503301423000,
+		"id_str": "1571154884065361927",
+		"full_text": "I think “the cruelty is the point.”is the defining phrase of our political era. It is at once true, and devastating. https://t.co/ivDf3xUOfK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ivDf3xUOfK",
+					"expanded_url": "https://twitter.com/goldietaylor/status/1570832243555463179",
+					"display_url": "twitter.com/goldietaylor/s…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1653477433,
+			"id_str": "1653477433",
+			"name": "Annette Gordon-Reed, FBA",
+			"screen_name": "agordonreed",
+			"location": "Manhattan, NY",
+			"description": "University Prof.,Harvard. Pulitzer,Nat’l Bk Award+14 for THOM., Mac “Genius”,SHEAR President,2018, Nat'l Humanities Medal, Hon.Fellow Queen's College, Oxford",
+			"url": "https://t.co/xkYZYTsmv6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xkYZYTsmv6",
+							"expanded_url": "http://hls.harvard.edu/faculty/directory/10329/Gordon-Reed",
+							"display_url": "hls.harvard.edu/faculty/direct…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58832,
+			"friends_count": 646,
+			"listed_count": 722,
+			"created_at": "Wed Aug 07 17:21:32 +0000 2013",
+			"favourites_count": 39121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/497747972738654209/qJ88qLiY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/497747972738654209/qJ88qLiY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1653477433/1542560801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570832243555463200,
+		"quoted_status_id_str": "1570832243555463179",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ivDf3xUOfK",
+			"expanded": "https://twitter.com/goldietaylor/status/1570832243555463179",
+			"display": "twitter.com/goldietaylor/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 17:49:26 +0000 2022",
+			"id": 1570832243555463200,
+			"id_str": "1570832243555463179",
+			"full_text": "Never forget: @AdamSerwer put two poignant, culturally-relevant phrases into the lexicon. \"Cruelty is the point\" and the \"Rice Rule.\" He is among the most thoughtful and brilliant writers of our age.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AdamSerwer",
+						"name": "Adam Serwer 🍝",
+						"id": 16326882,
+						"id_str": "16326882",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15862440,
+				"id_str": "15862440",
+				"name": "G O L D I E.",
+				"screen_name": "goldietaylor",
+				"location": "",
+				"description": "Writer, ex-cable newser, golf addict, + somebody's grandmama. Coming Jan '23: THE LOVE YOU SAVE: A MEMOIR @hanover_square Mentions are muted.",
+				"url": "https://t.co/FzmUegXOLJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FzmUegXOLJ",
+								"expanded_url": "http://www.goldietaylor.com",
+								"display_url": "goldietaylor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 176831,
+				"friends_count": 596,
+				"listed_count": 2044,
+				"created_at": "Fri Aug 15 12:42:11 +0000 2008",
+				"favourites_count": 257922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1566449596926230528/D8VdKqE0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566449596926230528/D8VdKqE0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15862440/1657153294",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 168,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think “the cruelty is the point.”is the defining phrase of our political era. It is at once true, and devastating. https://t.co/ivDf3xUOfK"
+	},
+	{
+		"created_at": "Sat Sep 17 14:58:42 +0000 2022",
+		"id": 1571123614312976400,
+		"id_str": "1571151665516146688",
+		"full_text": "It's a shame that this administration is using kids as political pawns. \n\nTo LGBTQ+ kids in Virginia: You are LOVED and SUPPORTED. Virginia is better because of YOU and our diversity of voices. Don't let anyone tell you otherwise.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571123612672991200,
+		"in_reply_to_status_id_str": "1571123612672991232",
+		"in_reply_to_user_id": 357634573,
+		"in_reply_to_user_id_str": "357634573",
+		"in_reply_to_screen_name": "ACLUVA",
+		"user": {
+			"id": 357634573,
+			"id_str": "357634573",
+			"name": "ACLU of Virginia",
+			"screen_name": "ACLUVA",
+			"location": "Virginia",
+			"description": "Email us at covid19@acluva.org to report civil rights violations related to the COVID-19 pandemic. Stay safe and stay vigilant. We'll get through this together.",
+			"url": "https://t.co/lVLpzprFu3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lVLpzprFu3",
+							"expanded_url": "http://www.acluva.org",
+							"display_url": "acluva.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24919,
+			"friends_count": 3297,
+			"listed_count": 356,
+			"created_at": "Thu Aug 18 17:34:41 +0000 2011",
+			"favourites_count": 30839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250440439540224005/ZZtR8FHo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250440439540224005/ZZtR8FHo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357634573/1636404305",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's a shame that this administration is using kids as political pawns. \n\nTo LGBTQ+ kids in Virginia: You are LOVED and SUPPORTED. Virginia is better because of YOU and our diversity of voices. Don't let anyone tell you otherwise."
+	},
+	{
+		"created_at": "Sat Sep 17 14:25:55 +0000 2022",
+		"id": 1571143414619730000,
+		"id_str": "1571143414619729921",
+		"full_text": "@kfitz Fuck. I know so many Ford fellows. This is going to make a white academy so much whiter",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kfitz",
+					"name": "Kathleen Fitzpatrick",
+					"id": 14308843,
+					"id_str": "14308843",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571141571063713800,
+		"in_reply_to_status_id_str": "1571141571063713793",
+		"in_reply_to_user_id": 14308843,
+		"in_reply_to_user_id_str": "14308843",
+		"in_reply_to_screen_name": "kfitz",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10163,
+			"friends_count": 516,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kfitz Fuck. I know so many Ford fellows. This is going to make a white academy so much whiter"
+	},
+	{
+		"created_at": "Sat Sep 17 13:52:14 +0000 2022",
+		"id": 1571134941156737000,
+		"id_str": "1571134941156737024",
+		"full_text": "Here’s a gifted WaPo article about the model policy that Youngkin’s administration released last night so you all can read it. There will be a legal challenge but the terror this will provoke in KIDS WHO ARE JUST TRYING TO LIVE is will continue https://t.co/mV3ZeFGWEe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mV3ZeFGWEe",
+					"expanded_url": "https://wapo.st/3Bj3Cou",
+					"display_url": "wapo.st/3Bj3Cou",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571132251450273800,
+		"in_reply_to_status_id_str": "1571132251450273793",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10163,
+			"friends_count": 516,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a gifted WaPo article about the model policy that Youngkin’s administration released last night so you all can read it. There will be a legal challenge but the terror this will provoke in KIDS WHO ARE JUST TRYING TO LIVE is will continue https://t.co/mV3ZeFGWEe"
+	},
+	{
+		"created_at": "Sat Sep 17 13:41:33 +0000 2022",
+		"id": 1571132251450273800,
+		"id_str": "1571132251450273793",
+		"full_text": "These are kids who are just trying to grow up. To stay alive, to even thrive. Schools should have the best interests of students at heart, not the excessive evil insistence that there’s only one way to be. https://t.co/3sN2PfmTKD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3sN2PfmTKD",
+					"expanded_url": "https://twitter.com/erininthemorn/status/1570907832693977088",
+					"display_url": "twitter.com/erininthemorn/…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10163,
+			"friends_count": 516,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570907832693977000,
+		"quoted_status_id_str": "1570907832693977088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3sN2PfmTKD",
+			"expanded": "https://twitter.com/erininthemorn/status/1570907832693977088",
+			"display": "twitter.com/erininthemorn/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 22:49:48 +0000 2022",
+			"id": 1570907832693977000,
+			"id_str": "1570907832693977088",
+			"full_text": "Virginia just released its 2022 model policies and says schools must comply.\n\nIt bans all transgender students in Virginia from bathrooms matching their gender.\n\nIt makes teachers deadname and misgender trans students unless they have parental consent.\n\nThis is horrifying. https://t.co/rtj63cQXPr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1570907824825286700,
+						"id_str": "1570907824825286658",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+						"url": "https://t.co/rtj63cQXPr",
+						"display_url": "pic.twitter.com/rtj63cQXPr",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1570907832693977088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570907824825286700,
+						"id_str": "1570907824825286658",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+						"url": "https://t.co/rtj63cQXPr",
+						"display_url": "pic.twitter.com/rtj63cQXPr",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1570907832693977088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1570907824980480000,
+						"id_str": "1570907824980480000",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Fcz8WALX0AAxX0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fcz8WALX0AAxX0j.jpg",
+						"url": "https://t.co/rtj63cQXPr",
+						"display_url": "pic.twitter.com/rtj63cQXPr",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1570907832693977088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115826452715511800,
+				"id_str": "1115826452715511809",
+				"name": "Erin Reed",
+				"screen_name": "ErinInTheMorn",
+				"location": "Maryland",
+				"description": "Activist, content creator, queer legislative researcher, mother, and D&D DM.\n\nLinktree: https://t.co/Clyfz4Iz3a\nShe/her. All opinions my own.\nVenmo erin888",
+				"url": "https://t.co/prq5Rku4Zl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/prq5Rku4Zl",
+								"expanded_url": "https://ko-fi.com/erininthemorn",
+								"display_url": "ko-fi.com/erininthemorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Clyfz4Iz3a",
+								"expanded_url": "http://linktr.ee/erininthemorn",
+								"display_url": "linktr.ee/erininthemorn",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 75113,
+				"friends_count": 1530,
+				"listed_count": 265,
+				"created_at": "Wed Apr 10 03:58:52 +0000 2019",
+				"favourites_count": 89051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23124,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115826452715511809/1637250612",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5147,
+			"favorite_count": 14073,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are kids who are just trying to grow up. To stay alive, to even thrive. Schools should have the best interests of students at heart, not the excessive evil insistence that there’s only one way to be. https://t.co/3sN2PfmTKD"
+	},
+	{
+		"created_at": "Sat Sep 17 13:35:50 +0000 2022",
+		"id": 1570911334950408200,
+		"id_str": "1571130811143032836",
+		"full_text": "30 day comment period. We need to organize around this NOW. If I can make it to a public hearing I will go. This is too close to home.\n\nhttps://t.co/yY3VKoqGmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yY3VKoqGmJ",
+					"expanded_url": "https://townhall.virginia.gov/L/GDocForum.cfm?GDocForumID=1953",
+					"display_url": "townhall.virginia.gov/L/GDocForum.cf…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570908428243185700,
+		"in_reply_to_status_id_str": "1570908428243185665",
+		"in_reply_to_user_id": 1115826452715511800,
+		"in_reply_to_user_id_str": "1115826452715511809",
+		"in_reply_to_screen_name": "ErinInTheMorn",
+		"user": {
+			"id": 1115826452715511800,
+			"id_str": "1115826452715511809",
+			"name": "Erin Reed",
+			"screen_name": "ErinInTheMorn",
+			"location": "Maryland",
+			"description": "Activist, content creator, queer legislative researcher, mother, and D&D DM.\n\nLinktree: https://t.co/Clyfz4Iz3a\nShe/her. All opinions my own.\nVenmo erin888",
+			"url": "https://t.co/prq5Rku4Zl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/prq5Rku4Zl",
+							"expanded_url": "https://ko-fi.com/erininthemorn",
+							"display_url": "ko-fi.com/erininthemorn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Clyfz4Iz3a",
+							"expanded_url": "http://linktr.ee/erininthemorn",
+							"display_url": "linktr.ee/erininthemorn",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 75113,
+			"friends_count": 1530,
+			"listed_count": 265,
+			"created_at": "Wed Apr 10 03:58:52 +0000 2019",
+			"favourites_count": 89051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115826452715511809/1637250612",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 728,
+		"favorite_count": 2107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "30 day comment period. We need to organize around this NOW. If I can make it to a public hearing I will go. This is too close to home.\n\nhttps://t.co/yY3VKoqGmJ"
+	},
+	{
+		"created_at": "Sat Sep 17 13:35:44 +0000 2022",
+		"id": 1570907832693977000,
+		"id_str": "1571130786186924037",
+		"full_text": "Virginia just released its 2022 model policies and says schools must comply.\n\nIt bans all transgender students in Virginia from bathrooms matching their gender.\n\nIt makes teachers deadname and misgender trans students unless they have parental consent.\n\nThis is horrifying. https://t.co/rtj63cQXPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570907824825286700,
+					"id_str": "1570907824825286658",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+					"url": "https://t.co/rtj63cQXPr",
+					"display_url": "pic.twitter.com/rtj63cQXPr",
+					"expanded_url": "https://twitter.com/ErinInTheMorn/status/1570907832693977088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570907824825286700,
+					"id_str": "1570907824825286658",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcz8V_mXwAIR8Wz.jpg",
+					"url": "https://t.co/rtj63cQXPr",
+					"display_url": "pic.twitter.com/rtj63cQXPr",
+					"expanded_url": "https://twitter.com/ErinInTheMorn/status/1570907832693977088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570907824980480000,
+					"id_str": "1570907824980480000",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcz8WALX0AAxX0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcz8WALX0AAxX0j.jpg",
+					"url": "https://t.co/rtj63cQXPr",
+					"display_url": "pic.twitter.com/rtj63cQXPr",
+					"expanded_url": "https://twitter.com/ErinInTheMorn/status/1570907832693977088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115826452715511800,
+			"id_str": "1115826452715511809",
+			"name": "Erin Reed",
+			"screen_name": "ErinInTheMorn",
+			"location": "Maryland",
+			"description": "Activist, content creator, queer legislative researcher, mother, and D&D DM.\n\nLinktree: https://t.co/Clyfz4Iz3a\nShe/her. All opinions my own.\nVenmo erin888",
+			"url": "https://t.co/prq5Rku4Zl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/prq5Rku4Zl",
+							"expanded_url": "https://ko-fi.com/erininthemorn",
+							"display_url": "ko-fi.com/erininthemorn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Clyfz4Iz3a",
+							"expanded_url": "http://linktr.ee/erininthemorn",
+							"display_url": "linktr.ee/erininthemorn",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 75113,
+			"friends_count": 1530,
+			"listed_count": 265,
+			"created_at": "Wed Apr 10 03:58:52 +0000 2019",
+			"favourites_count": 89051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115826452715511809/1637250612",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5147,
+		"favorite_count": 14073,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Virginia just released its 2022 model policies and says schools must comply.\n\nIt bans all transgender students in Virginia from bathrooms matching their gender.\n\nIt makes teachers deadname and misgender trans students unless they have parental consent.\n\nThis is horrifying. https://t.co/rtj63cQXPr"
+	},
+	{
 		"created_at": "Fri Sep 16 21:03:17 +0000 2022",
 		"id": 1570881030617444400,
 		"id_str": "1570881030617444352",
