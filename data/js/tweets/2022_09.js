@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 23:01:21 +0000 2022",
+		"id": 1571597527517896700,
+		"id_str": "1571635516713443330",
+		"full_text": "Structural Racism at Antiquarian Book Fairs-a thread\nI'll preface this thread by stating nothing that happened at today's London's Rare Book Fair came as a surprise. In fact this particular book fair presented a fair amount of BIPOC attendees &amp; materials-but the bigotry persisted https://t.co/cY1fVZpjqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571596688308985900,
+					"id_str": "1571596688308985856",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc9u3IDWYAAENiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc9u3IDWYAAENiF.jpg",
+					"url": "https://t.co/cY1fVZpjqS",
+					"display_url": "pic.twitter.com/cY1fVZpjqS",
+					"expanded_url": "https://twitter.com/evangelestia/status/1571597527517896710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571596688308985900,
+					"id_str": "1571596688308985856",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc9u3IDWYAAENiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc9u3IDWYAAENiF.jpg",
+					"url": "https://t.co/cY1fVZpjqS",
+					"display_url": "pic.twitter.com/cY1fVZpjqS",
+					"expanded_url": "https://twitter.com/evangelestia/status/1571597527517896710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571596688309067800,
+					"id_str": "1571596688309067778",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc9u3IDXoAIL1hC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc9u3IDXoAIL1hC.jpg",
+					"url": "https://t.co/cY1fVZpjqS",
+					"display_url": "pic.twitter.com/cY1fVZpjqS",
+					"expanded_url": "https://twitter.com/evangelestia/status/1571597527517896710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571596747146727400,
+					"id_str": "1571596747146727427",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc9u6jPXEAMauBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc9u6jPXEAMauBK.jpg",
+					"url": "https://t.co/cY1fVZpjqS",
+					"display_url": "pic.twitter.com/cY1fVZpjqS",
+					"expanded_url": "https://twitter.com/evangelestia/status/1571597527517896710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992462900643147800,
+			"id_str": "992462900643147777",
+			"name": "Tamar Evangelestia-Dougherty",
+			"screen_name": "evangelestia",
+			"location": "",
+			"description": "Director of the @SILibraries & @SmithsonianArch📚| Faculty @CalRBS | @SimmonsSLIS Alum | Native Chicagoan🌆 | Birder 🐦🪶| Cultural Heritage| Book Arts📘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10058,
+			"friends_count": 6238,
+			"listed_count": 107,
+			"created_at": "Fri May 04 17:56:09 +0000 2018",
+			"favourites_count": 13130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461866140477575169/PeCpBFcm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992462900643147777/1525586280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Structural Racism at Antiquarian Book Fairs-a thread\nI'll preface this thread by stating nothing that happened at today's London's Rare Book Fair came as a surprise. In fact this particular book fair presented a fair amount of BIPOC attendees &amp; materials-but the bigotry persisted https://t.co/cY1fVZpjqS"
+	},
+	{
+		"created_at": "Sun Sep 18 17:17:28 +0000 2022",
+		"id": 1571530101312954400,
+		"id_str": "1571548977429987329",
+		"full_text": "The Bingo card has been created! Thank you sooo much for the suggestions, ya’ll are hilarious &amp; awesome 😂😂 https://t.co/c7g5QNSYG4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571530096036413400,
+					"id_str": "1571530096036413440",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8yS8gWAAASpQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8yS8gWAAASpQB.jpg",
+					"url": "https://t.co/c7g5QNSYG4",
+					"display_url": "pic.twitter.com/c7g5QNSYG4",
+					"expanded_url": "https://twitter.com/kelseybogan/status/1571530101312954368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1548,
+							"h": 2001,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571530096036413400,
+					"id_str": "1571530096036413440",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8yS8gWAAASpQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8yS8gWAAASpQB.jpg",
+					"url": "https://t.co/c7g5QNSYG4",
+					"display_url": "pic.twitter.com/c7g5QNSYG4",
+					"expanded_url": "https://twitter.com/kelseybogan/status/1571530101312954368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1548,
+							"h": 2001,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2924325348,
+			"id_str": "2924325348",
+			"name": "Kelsey Bogan, MLIS supports inclusive books 4 kids",
+			"screen_name": "kelseybogan",
+			"location": "Pennsylvania, USA",
+			"description": "She/Her. Irreverent HS Librarian. MSLIS Professor. Presenter/Speaker. Blogger. Cat Lady. Neutrality serves only the oppressors. Views mine",
+			"url": "https://t.co/MbEGd5Kyvu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MbEGd5Kyvu",
+							"expanded_url": "https://dontyoushushme.com/",
+							"display_url": "dontyoushushme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7086,
+			"friends_count": 970,
+			"listed_count": 59,
+			"created_at": "Tue Dec 09 19:25:03 +0000 2014",
+			"favourites_count": 30235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1522042816960073738/QgxOBDMF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522042816960073738/QgxOBDMF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2924325348/1661123512",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Bingo card has been created! Thank you sooo much for the suggestions, ya’ll are hilarious &amp; awesome 😂😂 https://t.co/c7g5QNSYG4"
+	},
+	{
+		"created_at": "Sun Sep 18 15:38:30 +0000 2022",
+		"id": 1571524070901956600,
+		"id_str": "1571524070901956608",
+		"full_text": "@sheepeeh I actually loved Harrow a ton, and/but decided I had to reread it before diving into Nona. Almost literally devouring Harrow to get to it lol",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheepeeh",
+					"name": "Rachel Donahue",
+					"id": 35236404,
+					"id_str": "35236404",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571520709234667500,
+		"in_reply_to_status_id_str": "1571520709234667523",
+		"in_reply_to_user_id": 35236404,
+		"in_reply_to_user_id_str": "35236404",
+		"in_reply_to_screen_name": "sheepeeh",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10164,
+			"friends_count": 516,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sheepeeh I actually loved Harrow a ton, and/but decided I had to reread it before diving into Nona. Almost literally devouring Harrow to get to it lol"
+	},
+	{
 		"created_at": "Sat Sep 17 19:15:17 +0000 2022",
 		"id": 1571194635741024300,
 		"id_str": "1571216237102784513",
@@ -379,7 +905,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Del. Danica Roem",
 			"screen_name": "pwcdanica",
 			"location": "Manassas, VA",
-			"description": "Delegate: @VaHouse 13\nCandidate: @VaSenate 30\nED: @EmergeVirginia\n“Burn the Page”: @VikingBooks\nBest Public Servant/Politician: @InsideNoVA, @PWCtimes\n🤘🏳️‍⚧️",
+			"description": "Delegate: @VaHouse 13\nCandidate: @VaSenate 30\nED: @EmergeVirginia\n“Burn the Page”: @VikingBooks\nBest Public Servant/Politician: @InsideNoVA, @PWCtimes\n🤘🏳️⚧️",
 			"url": "https://t.co/09UWBSl9BJ",
 			"entities": {
 				"url": {
@@ -690,7 +1216,7 @@ Grailbird.data.tweets_2022_09 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
