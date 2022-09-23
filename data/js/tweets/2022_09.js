@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 01:19:41 +0000 2022",
+		"id": 1572924275769872400,
+		"id_str": "1573119879728828418",
+		"full_text": "MARY OLIVER: You do not have to walk on your knees for one hundred miles through the desert repenting. You only have to let the soft animal of your body love what it loves.\nME: What if it loves this [shows phone screen]\nMARY OLIVER: That's fine but do not show it to me again",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492172594,
+			"id_str": "492172594",
+			"name": "Jen's Fortress",
+			"screen_name": "lusc_j",
+			"location": "Manchester, England",
+			"description": "Jenny (she/her) // a rotten horn of plenty // cow fan 🌱",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 475,
+			"friends_count": 436,
+			"listed_count": 2,
+			"created_at": "Tue Feb 14 12:35:09 +0000 2012",
+			"favourites_count": 41562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550832426422833153/uLSPGDYo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550832426422833153/uLSPGDYo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492172594/1651592259",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1139,
+		"favorite_count": 4690,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "MARY OLIVER: You do not have to walk on your knees for one hundred miles through the desert repenting. You only have to let the soft animal of your body love what it loves.\nME: What if it loves this [shows phone screen]\nMARY OLIVER: That's fine but do not show it to me again"
+	},
+	{
+		"created_at": "Thu Sep 22 18:58:24 +0000 2022",
+		"id": 1573015720379973600,
+		"id_str": "1573023926850134017",
+		"full_text": "Returning to the One Body Model to own the libs https://t.co/ULZBfwDZjw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ULZBfwDZjw",
+					"expanded_url": "https://twitter.com/kenvogel/status/1572693098622222337",
+					"display_url": "twitter.com/kenvogel/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1120981437275103200,
+			"id_str": "1120981437275103232",
+			"name": "Sam J Bailey",
+			"screen_name": "VentiSamBailey",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "NuAct PhD student working on the erotic book trade 1660-1750 @NCL_English // Also: Pope and his contemporaries, trans studies, consumer culture, drugs// she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 748,
+			"listed_count": 1,
+			"created_at": "Wed Apr 24 09:22:56 +0000 2019",
+			"favourites_count": 2831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1557477906368045058/VNfjZTHV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557477906368045058/VNfjZTHV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1120981437275103232/1556098954",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1572693098622222300,
+		"quoted_status_id_str": "1572693098622222337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ULZBfwDZjw",
+			"expanded": "https://twitter.com/kenvogel/status/1572693098622222337",
+			"display": "twitter.com/kenvogel/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 21 21:03:48 +0000 2022",
+			"id": 1572693098622222300,
+			"id_str": "1572693098622222337",
+			"full_text": "🤔\nJOSH HAWLEY wants to stop schools from teaching \"transgender propaganda,\" like that \"there is more than one gender.\" https://t.co/KdKSQzqeew",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1572692171278409700,
+						"id_str": "1572692171278409730",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/FdNTMoIWYAIsH4Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdNTMoIWYAIsH4Q.jpg",
+						"url": "https://t.co/KdKSQzqeew",
+						"display_url": "pic.twitter.com/KdKSQzqeew",
+						"expanded_url": "https://twitter.com/kenvogel/status/1572693098622222337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1352,
+								"h": 902,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1572692171278409700,
+						"id_str": "1572692171278409730",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/FdNTMoIWYAIsH4Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdNTMoIWYAIsH4Q.jpg",
+						"url": "https://t.co/KdKSQzqeew",
+						"display_url": "pic.twitter.com/KdKSQzqeew",
+						"expanded_url": "https://twitter.com/kenvogel/status/1572693098622222337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1352,
+								"h": 902,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 112526560,
+				"id_str": "112526560",
+				"name": "Kenneth P. Vogel",
+				"screen_name": "kenvogel",
+				"location": "",
+				"description": "kenneth.vogel@nytimes.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120476,
+				"friends_count": 2528,
+				"listed_count": 2474,
+				"created_at": "Mon Feb 08 20:39:32 +0000 2010",
+				"favourites_count": 3076,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40220,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1525145255036723202/Q5HO5sGQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525145255036723202/Q5HO5sGQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/112526560/1592161609",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 708,
+			"favorite_count": 4494,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Returning to the One Body Model to own the libs https://t.co/ULZBfwDZjw"
+	},
+	{
 		"created_at": "Wed Sep 21 22:13:28 +0000 2022",
 		"id": 1572710629731111000,
 		"id_str": "1572710629731110912",
