@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 26 00:58:09 +0000 2022",
+		"id": 1574201625190830000,
+		"id_str": "1574201625190830080",
+		"full_text": "@book_historia Allie!! Congratulations! You look so happy and so gorgeous 💗",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "book_historia",
+					"name": "Allie Alvis 🚄🎃",
+					"id": 138620865,
+					"id_str": "138620865",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1574197440080760800,
+		"in_reply_to_status_id_str": "1574197440080760832",
+		"in_reply_to_user_id": 138620865,
+		"in_reply_to_user_id_str": "138620865",
+		"in_reply_to_screen_name": "book_historia",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10170,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@book_historia Allie!! Congratulations! You look so happy and so gorgeous 💗"
+	},
+	{
+		"created_at": "Sun Sep 25 17:00:19 +0000 2022",
+		"id": 1574051720358936600,
+		"id_str": "1574081373777928192",
+		"full_text": "\"I am driven to write, compelled by a constant longing to choreograph, to bring words together and patterns and configurations that move the spirit.\" (REMEMBERED RAPTURE, 1999). \n\nToday we honor bell hooks on her 70th birthday. We will never forget all that you have given us.❤️ https://t.co/ZjHKUMQbbQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1574050979930144800,
+					"id_str": "1574050979930144771",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FdgnBs0XgAMTEzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdgnBs0XgAMTEzU.jpg",
+					"url": "https://t.co/ZjHKUMQbbQ",
+					"display_url": "pic.twitter.com/ZjHKUMQbbQ",
+					"expanded_url": "https://twitter.com/citeblackwomen/status/1574051720358936576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2026,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1574050979930144800,
+					"id_str": "1574050979930144771",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FdgnBs0XgAMTEzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdgnBs0XgAMTEzU.jpg",
+					"url": "https://t.co/ZjHKUMQbbQ",
+					"display_url": "pic.twitter.com/ZjHKUMQbbQ",
+					"expanded_url": "https://twitter.com/citeblackwomen/status/1574051720358936576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2026,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941829517273944000,
+			"id_str": "941829517273944064",
+			"name": "Cite Black Women.",
+			"screen_name": "citeblackwomen",
+			"location": "The Diaspora",
+			"description": "The official account of the Cite Black Women collective and podcast! A global Black feminist initiative to cite & honor Black women’s work👏🏾📚✍🏾❤️!!",
+			"url": "https://t.co/VFNYrXFAwm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VFNYrXFAwm",
+							"expanded_url": "http://www.citeblackwomencollective.org",
+							"display_url": "citeblackwomencollective.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42893,
+			"friends_count": 359,
+			"listed_count": 326,
+			"created_at": "Sat Dec 16 00:37:10 +0000 2017",
+			"favourites_count": 18090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076083531418427392/Anv0epl__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076083531418427392/Anv0epl__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941829517273944064/1545381048",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 214,
+		"favorite_count": 704,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I am driven to write, compelled by a constant longing to choreograph, to bring words together and patterns and configurations that move the spirit.\" (REMEMBERED RAPTURE, 1999). \n\nToday we honor bell hooks on her 70th birthday. We will never forget all that you have given us.❤️ https://t.co/ZjHKUMQbbQ"
+	},
+	{
+		"created_at": "Sun Sep 25 15:40:36 +0000 2022",
+		"id": 1574061314053480400,
+		"id_str": "1574061314053480448",
+		"full_text": "@Sonja_Drimmer the day that you give the BSA keynote I will absolutely edit your piece to retain allllll of that, can’t wait",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sonja_Drimmer",
+					"name": "𝕊onja Drimmer",
+					"id": 29133,
+					"id_str": "29133",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1574054021488312300,
+		"in_reply_to_status_id_str": "1574054021488312331",
+		"in_reply_to_user_id": 29133,
+		"in_reply_to_user_id_str": "29133",
+		"in_reply_to_screen_name": "Sonja_Drimmer",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10170,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Sonja_Drimmer the day that you give the BSA keynote I will absolutely edit your piece to retain allllll of that, can’t wait"
+	},
+	{
+		"created_at": "Sun Sep 25 15:37:26 +0000 2022",
+		"id": 1574060515915096000,
+		"id_str": "1574060515915096065",
+		"full_text": "@MeganPeiser @the_embrarian @tressiemcphd and then when they do send you a calendar invite, they call it something like “meeting with Sarah Werner” and I’m just…. no that is not actually useful for me to see on my calendar!",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeganPeiser",
+					"name": "Dr. Megan Peiser",
+					"id": 250674666,
+					"id_str": "250674666",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "the_embrarian",
+					"name": "Emily Spunaugle",
+					"id": 762462920366170100,
+					"id_str": "762462920366170112",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "tressiemcphd",
+					"name": "Tressie McMillan Cottom",
+					"id": 148593548,
+					"id_str": "148593548",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1574050960108036000,
+		"in_reply_to_status_id_str": "1574050960108036098",
+		"in_reply_to_user_id": 250674666,
+		"in_reply_to_user_id_str": "250674666",
+		"in_reply_to_screen_name": "MeganPeiser",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10170,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MeganPeiser @the_embrarian @tressiemcphd and then when they do send you a calendar invite, they call it something like “meeting with Sarah Werner” and I’m just…. no that is not actually useful for me to see on my calendar!"
+	},
+	{
 		"created_at": "Sat Sep 24 02:03:30 +0000 2022",
 		"id": 1573493297934385200,
 		"id_str": "1573493297934385163",
