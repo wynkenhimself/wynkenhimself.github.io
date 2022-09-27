@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 26 17:14:03 +0000 2022",
+		"id": 1574416402236440600,
+		"id_str": "1574447220082053122",
+		"full_text": "The framing of this is just so, so dumb it's freaking unbelievable.\n\nBANNING BOOKS is not \"a culture war\" but literally what Nazis do.\nLENDING BOOKS is literally what LIBRARIES do.\n\nAdopting fascist framing is, apparently, what Politico does. https://t.co/Top8Cz8B6U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Top8Cz8B6U",
+					"expanded_url": "https://twitter.com/politicony/status/1574370447906439172",
+					"display_url": "twitter.com/politicony/sta…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40353407,
+			"id_str": "40353407",
+			"name": "Elie Mystal",
+			"screen_name": "ElieNYC",
+			"location": "NY",
+			"description": "Justice Correspondent: @thenation. Alfred Knobler Fellow: @typemediacenter Str:12 Dex:8 Con:15 Int:13 Wis:10 Char:14 Author: Allow Me To Retort",
+			"url": "https://t.co/aTX8jX5TCg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aTX8jX5TCg",
+							"expanded_url": "https://www.thenation.com/authors/elie-mystal/",
+							"display_url": "thenation.com/authors/elie-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476040,
+			"friends_count": 5039,
+			"listed_count": 3328,
+			"created_at": "Fri May 15 22:47:11 +0000 2009",
+			"favourites_count": 84808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F2323",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554595874071789571/d43D1SfX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554595874071789571/d43D1SfX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40353407/1641835778",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574370447906439200,
+		"quoted_status_id_str": "1574370447906439172",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Top8Cz8B6U",
+			"expanded": "https://twitter.com/politicony/status/1574370447906439172",
+			"display": "twitter.com/politicony/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 26 12:08:59 +0000 2022",
+			"id": 1574370447906439200,
+			"id_str": "1574370447906439172",
+			"full_text": "New York libraries have waded into America’s culture wars by directly lending 25,000 books to non-residents since spring, including thousands of students living under the bans https://t.co/bcvVxZOOF6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bcvVxZOOF6",
+						"expanded_url": "https://www.politico.com/news/2022/09/24/conservative-districts-banned-books-brooklyns-library-00057828",
+						"display_url": "politico.com/news/2022/09/2…",
+						"indices": [
+							176,
+							199
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 140928543,
+				"id_str": "140928543",
+				"name": "POLITICO New York",
+				"screen_name": "politicony",
+				"location": "New York, NY",
+				"description": "This is how New York works.",
+				"url": "https://t.co/ceddJ5XIzZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ceddJ5XIzZ",
+								"expanded_url": "https://www.politico.com/news/new-york",
+								"display_url": "politico.com/news/new-york",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39998,
+				"friends_count": 2570,
+				"listed_count": 1459,
+				"created_at": "Thu May 06 18:42:25 +0000 2010",
+				"favourites_count": 531,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46784,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030303",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677223429062451210/PANw1TVh_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677223429062451210/PANw1TVh_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/140928543/1438831448",
+				"profile_link_color": "BD1000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "6B6B6B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 158,
+			"favorite_count": 743,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3197,
+		"favorite_count": 12265,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The framing of this is just so, so dumb it's freaking unbelievable.\n\nBANNING BOOKS is not \"a culture war\" but literally what Nazis do.\nLENDING BOOKS is literally what LIBRARIES do.\n\nAdopting fascist framing is, apparently, what Politico does. https://t.co/Top8Cz8B6U"
+	},
+	{
+		"created_at": "Mon Sep 26 17:10:22 +0000 2022",
+		"id": 1574441726944608300,
+		"id_str": "1574446291874095104",
+		"full_text": "💷 Bursary announced! From @WSGUK to support research across *any aspect* of women’s studies, 1558-1837; application terms and details at the link ⤵️ https://t.co/daBLBdHt1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSGUK",
+					"name": "Women's Studies Group 1558-1837",
+					"id": 218555735,
+					"id_str": "218555735",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/daBLBdHt1Z",
+					"expanded_url": "https://twitter.com/wsguk/status/1574438756836577280",
+					"display_url": "twitter.com/wsguk/status/1…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232473565536100400,
+			"id_str": "1232473565536100355",
+			"name": "The Anne Lister Society",
+			"screen_name": "AnneListerSoc",
+			"location": "",
+			"description": "🪶 Fostering knowledge of Anne Lister’s extraordinary life & writing; working to sustain & interpret her legacy; Prof Laurie Shannon (@shanonical) tweeting.",
+			"url": "https://t.co/Ow5Kcqc6oE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ow5Kcqc6oE",
+							"expanded_url": "https://english.northwestern.edu/about/anne-lister-society/index.html",
+							"display_url": "english.northwestern.edu/about/anne-lis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2400,
+			"friends_count": 167,
+			"listed_count": 15,
+			"created_at": "Wed Feb 26 01:13:25 +0000 2020",
+			"favourites_count": 6166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300107986665439232/TX1Q41pW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300107986665439232/TX1Q41pW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232473565536100355/1596476594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574438756836577300,
+		"quoted_status_id_str": "1574438756836577280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/daBLBdHt1Z",
+			"expanded": "https://twitter.com/wsguk/status/1574438756836577280",
+			"display": "twitter.com/wsguk/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 26 16:40:25 +0000 2022",
+			"id": 1574438756836577300,
+			"id_str": "1574438756836577280",
+			"full_text": "We are offering a bursary of £750 to an early career researcher, independent scholar or PhD student to support research in any aspect of women's studies in the period 1558-1837. Deadline: 30 Nov 2022. Terms/details: https://t.co/EtjobeLOCQ\n#funding #research #womenhist #PhD #ECRs https://t.co/OWN0TOFiOS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "funding",
+						"indices": [
+							240,
+							248
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							249,
+							258
+						]
+					},
+					{
+						"text": "womenhist",
+						"indices": [
+							259,
+							269
+						]
+					},
+					{
+						"text": "PhD",
+						"indices": [
+							270,
+							274
+						]
+					},
+					{
+						"text": "ECRs",
+						"indices": [
+							275,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EtjobeLOCQ",
+						"expanded_url": "https://womensstudiesgroup.org/bursary/",
+						"display_url": "womensstudiesgroup.org/bursary/",
+						"indices": [
+							216,
+							239
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1574434665594863600,
+						"id_str": "1574434665594863616",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FdmD_JTXwAAT8Ga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdmD_JTXwAAT8Ga.jpg",
+						"url": "https://t.co/OWN0TOFiOS",
+						"display_url": "pic.twitter.com/OWN0TOFiOS",
+						"expanded_url": "https://twitter.com/WSGUK/status/1574438756836577280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 760,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 963,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1574434665594863600,
+						"id_str": "1574434665594863616",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FdmD_JTXwAAT8Ga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdmD_JTXwAAT8Ga.jpg",
+						"url": "https://t.co/OWN0TOFiOS",
+						"display_url": "pic.twitter.com/OWN0TOFiOS",
+						"expanded_url": "https://twitter.com/WSGUK/status/1574438756836577280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 760,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 963,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 218555735,
+				"id_str": "218555735",
+				"name": "Women's Studies Group 1558-1837",
+				"screen_name": "WSGUK",
+				"location": "London, United Kingdom",
+				"description": "A multi-disciplinary group promoting the study of women between 1558-1837. See website for member benefits, inc. newsletter, seminars, annual workshop & outing.",
+				"url": "https://t.co/tYDjepPxJF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tYDjepPxJF",
+								"expanded_url": "http://www.womensstudiesgroup.org",
+								"display_url": "womensstudiesgroup.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3254,
+				"friends_count": 2575,
+				"listed_count": 54,
+				"created_at": "Mon Nov 22 17:13:52 +0000 2010",
+				"favourites_count": 2018,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3934,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1153367538262257665/hkAY_LWx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153367538262257665/hkAY_LWx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/218555735/1563817938",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 285,
+			"favorite_count": 264,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💷 Bursary announced! From @WSGUK to support research across *any aspect* of women’s studies, 1558-1837; application terms and details at the link ⤵️ https://t.co/daBLBdHt1Z"
+	},
+	{
 		"created_at": "Mon Sep 26 00:58:09 +0000 2022",
 		"id": 1574201625190830000,
 		"id_str": "1574201625190830080",
