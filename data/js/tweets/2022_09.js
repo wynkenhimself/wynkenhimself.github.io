@@ -1,6 +1,987 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 16:16:57 +0000 2022",
+		"id": 1574790806799540200,
+		"id_str": "1574795236185890820",
+		"full_text": "Grown adults being very upset the students of Virginia aren't going along with their plan to bully the students of Virginia https://t.co/gPVA6P3KBM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1574790665019474000,
+					"id_str": "1574790665019473921",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FdrHxCgWQAEHN39.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdrHxCgWQAEHN39.png",
+					"url": "https://t.co/gPVA6P3KBM",
+					"display_url": "pic.twitter.com/gPVA6P3KBM",
+					"expanded_url": "https://twitter.com/GBBranstetter/status/1574790806799540225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 885,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 885,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1574790665019474000,
+					"id_str": "1574790665019473921",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FdrHxCgWQAEHN39.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdrHxCgWQAEHN39.png",
+					"url": "https://t.co/gPVA6P3KBM",
+					"display_url": "pic.twitter.com/gPVA6P3KBM",
+					"expanded_url": "https://twitter.com/GBBranstetter/status/1574790806799540225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 885,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 885,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1574790670413357000,
+					"id_str": "1574790670413357064",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FdrHxWmWYAgByBH.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdrHxWmWYAgByBH.png",
+					"url": "https://t.co/gPVA6P3KBM",
+					"display_url": "pic.twitter.com/gPVA6P3KBM",
+					"expanded_url": "https://twitter.com/GBBranstetter/status/1574790806799540225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 888,
+							"h": 751,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 751,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1574790676851658800,
+					"id_str": "1574790676851658756",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FdrHxulXEAQCM1A.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdrHxulXEAQCM1A.png",
+					"url": "https://t.co/gPVA6P3KBM",
+					"display_url": "pic.twitter.com/gPVA6P3KBM",
+					"expanded_url": "https://twitter.com/GBBranstetter/status/1574790806799540225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 876,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366290725,
+			"id_str": "366290725",
+			"name": "Gillian Branstetter",
+			"screen_name": "GBBranstetter",
+			"location": "District of Columbia",
+			"description": "Comms Strategy @ACLU // Opinions are my own // She/Her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35232,
+			"friends_count": 3358,
+			"listed_count": 218,
+			"created_at": "Thu Sep 01 22:37:03 +0000 2011",
+			"favourites_count": 28820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1558123751132241920/aPEzsrgC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1558123751132241920/aPEzsrgC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366290725/1661450132",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 929,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grown adults being very upset the students of Virginia aren't going along with their plan to bully the students of Virginia https://t.co/gPVA6P3KBM"
+	},
+	{
+		"created_at": "Tue Sep 27 15:23:02 +0000 2022",
+		"id": 1574781667956367400,
+		"id_str": "1574781667956367361",
+		"full_text": "Yes!!! Virginia students protesting in support of trans students!! 🏳️‍⚧️💗 https://t.co/7DQq4gvXqw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7DQq4gvXqw",
+					"expanded_url": "https://twitter.com/erininthemorn/status/1574751934627692544",
+					"display_url": "twitter.com/erininthemorn/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10172,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574751934627692500,
+		"quoted_status_id_str": "1574751934627692544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7DQq4gvXqw",
+			"expanded": "https://twitter.com/erininthemorn/status/1574751934627692544",
+			"display": "twitter.com/erininthemorn/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 27 13:24:53 +0000 2022",
+			"id": 1574751934627692500,
+			"id_str": "1574751934627692544",
+			"full_text": "I stand in solidarity with the students walking out in protest of Glen Youngkin's policy to force teachers to misgender trans teens, ban them from bathrooms, and more.\n\nStudents, send me video and pictures today! https://t.co/wPzCiFfjbM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1574751864192745500,
+						"id_str": "1574751864192745475",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FdqkeiKXwAM2Q1s.png",
+						"media_url_https": "https://pbs.twimg.com/media/FdqkeiKXwAM2Q1s.png",
+						"url": "https://t.co/wPzCiFfjbM",
+						"display_url": "pic.twitter.com/wPzCiFfjbM",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1574751934627692544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 641,
+								"h": 695,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 627,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 641,
+								"h": 695,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1574751864192745500,
+						"id_str": "1574751864192745475",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FdqkeiKXwAM2Q1s.png",
+						"media_url_https": "https://pbs.twimg.com/media/FdqkeiKXwAM2Q1s.png",
+						"url": "https://t.co/wPzCiFfjbM",
+						"display_url": "pic.twitter.com/wPzCiFfjbM",
+						"expanded_url": "https://twitter.com/ErinInTheMorn/status/1574751934627692544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 641,
+								"h": 695,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 627,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 641,
+								"h": 695,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115826452715511800,
+				"id_str": "1115826452715511809",
+				"name": "Erin Reed",
+				"screen_name": "ErinInTheMorn",
+				"location": "Maryland",
+				"description": "Activist, content creator, queer legislative researcher, mother, and D&D DM.\n\nLinktree: https://t.co/Clyfz4Iz3a\nShe/her. All opinions my own.\nVenmo erin888",
+				"url": "https://t.co/prq5Rku4Zl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/prq5Rku4Zl",
+								"expanded_url": "https://ko-fi.com/erininthemorn",
+								"display_url": "ko-fi.com/erininthemorn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Clyfz4Iz3a",
+								"expanded_url": "http://linktr.ee/erininthemorn",
+								"display_url": "linktr.ee/erininthemorn",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 77624,
+				"friends_count": 1548,
+				"listed_count": 266,
+				"created_at": "Wed Apr 10 03:58:52 +0000 2019",
+				"favourites_count": 89757,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23411,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483827754076454914/Qf4oP6Ht_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115826452715511809/1637250612",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1557,
+			"favorite_count": 7708,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes!!! Virginia students protesting in support of trans students!! 🏳️‍⚧️💗 https://t.co/7DQq4gvXqw"
+	},
+	{
+		"created_at": "Tue Sep 27 13:39:48 +0000 2022",
+		"id": 1574748684696588300,
+		"id_str": "1574755687804149761",
+		"full_text": "For all those asking, just how low is pay at the Philadelphia Museum of Art?? From July: https://t.co/6jnMZLjXSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6jnMZLjXSD",
+					"expanded_url": "https://twitter.com/pma_union/status/1544721522971086848",
+					"display_url": "twitter.com/pma_union/stat…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1263843466209038300,
+			"id_str": "1263843466209038337",
+			"name": "#ONSTRIKE Philadelphia Museum of Art Union",
+			"screen_name": "PMA_Union",
+			"location": "",
+			"description": "The working people behind the Philadelphia Museum of Art. @PHLafscmeDC47 Local 397. Part of @CWUafscme. Logo: Nick Massarelli | Contact: solidarity@pmaunion.com",
+			"url": "https://t.co/pI6ofjy8BM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pI6ofjy8BM",
+							"expanded_url": "http://pmaunion.com",
+							"display_url": "pmaunion.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4220,
+			"friends_count": 975,
+			"listed_count": 28,
+			"created_at": "Fri May 22 14:45:53 +0000 2020",
+			"favourites_count": 1250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263843466209038337/1656019637",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544721522971086800,
+		"quoted_status_id_str": "1544721522971086848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6jnMZLjXSD",
+			"expanded": "https://twitter.com/pma_union/status/1544721522971086848",
+			"display": "twitter.com/pma_union/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 06 16:34:45 +0000 2022",
+			"id": 1544721522971086800,
+			"id_str": "1544721522971086848",
+			"full_text": "The same dataset shows we're paid on avg:\n\n31% less than at other art museums in our region (Mid-Atlantic)\n\n29% less than at other art museums in our budget class ($20m or more)\n\nAnd yet our executives' pay is *quite* competitive. COO's pay exceeds the budget class median by 48%.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1544707185892024300,
+			"in_reply_to_status_id_str": "1544707185892024320",
+			"in_reply_to_user_id": 1263843466209038300,
+			"in_reply_to_user_id_str": "1263843466209038337",
+			"in_reply_to_screen_name": "PMA_Union",
+			"user": {
+				"id": 1263843466209038300,
+				"id_str": "1263843466209038337",
+				"name": "#ONSTRIKE Philadelphia Museum of Art Union",
+				"screen_name": "PMA_Union",
+				"location": "",
+				"description": "The working people behind the Philadelphia Museum of Art. @PHLafscmeDC47 Local 397. Part of @CWUafscme. Logo: Nick Massarelli | Contact: solidarity@pmaunion.com",
+				"url": "https://t.co/pI6ofjy8BM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pI6ofjy8BM",
+								"expanded_url": "http://pmaunion.com",
+								"display_url": "pmaunion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4220,
+				"friends_count": 975,
+				"listed_count": 28,
+				"created_at": "Fri May 22 14:45:53 +0000 2020",
+				"favourites_count": 1250,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1802,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263843466209038337/1656019637",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 33,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For all those asking, just how low is pay at the Philadelphia Museum of Art?? From July: https://t.co/6jnMZLjXSD"
+	},
+	{
+		"created_at": "Tue Sep 27 13:39:32 +0000 2022",
+		"id": 1574755620431057000,
+		"id_str": "1574755620431056897",
+		"full_text": "hi fellow Montgomery County MD voters--school board elections matter! Super helpful info on LGBTQ+ stances and the anti-stance of two candidates: https://t.co/wpQ1lylqSs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wpQ1lylqSs",
+					"expanded_url": "https://twitter.com/justupthepike/status/1574734416567492608",
+					"display_url": "twitter.com/justupthepike/…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10172,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 42979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574734416567492600,
+		"quoted_status_id_str": "1574734416567492608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wpQ1lylqSs",
+			"expanded": "https://twitter.com/justupthepike/status/1574734416567492608",
+			"display": "twitter.com/justupthepike/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 27 12:15:16 +0000 2022",
+			"id": 1574734416567492600,
+			"id_str": "1574734416567492608",
+			"full_text": "if you haven't been paying attention to Montgomery County school board, one reason you should start are these candidates' troubling (and in one case, largely hidden) views on LGBTQ+ people https://t.co/PbsL7jRJO8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PbsL7jRJO8",
+						"expanded_url": "https://davidfishback.blogspot.com/2022/09/two-problematic-montgomery-county-md.html",
+						"display_url": "davidfishback.blogspot.com/2022/09/two-pr…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15999017,
+				"id_str": "15999017",
+				"name": "dan reed 🦀🏳️‍🌈👋🏾",
+				"screen_name": "justupthepike",
+				"location": "silver spring",
+				"description": "(mostly) MD housing policy @ggwash; also ice cream, pit bulls, and emo. just out here getting cuter. he/they. COMING SOON: @montgomerymall2",
+				"url": "https://t.co/8R5WeIYFCb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8R5WeIYFCb",
+								"expanded_url": "https://linktr.ee/justupthepike",
+								"display_url": "linktr.ee/justupthepike",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14449,
+				"friends_count": 1979,
+				"listed_count": 331,
+				"created_at": "Tue Aug 26 16:48:20 +0000 2008",
+				"favourites_count": 66139,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27048,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2FDAE4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1462888782135545860/UXMypLKC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462888782135545860/UXMypLKC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15999017/1659040138",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 184,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hi fellow Montgomery County MD voters--school board elections matter! Super helpful info on LGBTQ+ stances and the anti-stance of two candidates: https://t.co/wpQ1lylqSs"
+	},
+	{
 		"created_at": "Mon Sep 26 17:14:03 +0000 2022",
 		"id": 1574416402236440600,
 		"id_str": "1574447220082053122",
