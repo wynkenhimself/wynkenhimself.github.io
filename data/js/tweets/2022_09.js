@@ -1,6 +1,1261 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 22:34:40 +0000 2022",
+		"id": 1575615068779483100,
+		"id_str": "1575615068779483136",
+		"full_text": "@KamillaAslaksen @transbookhistry I’m one of a handful of bibiliographers working on what we have been calling feminist bibliography, centering both the work done by women and the ways in which bibliographical work is gendered female, so conversations about how gender works in book history are of interest",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KamillaAslaksen",
+					"name": "Kamilla Aslaksen",
+					"id": 1300792592481874000,
+					"id_str": "1300792592481873922",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1575614679376076800,
+		"in_reply_to_status_id_str": "1575614679376076800",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KamillaAslaksen @transbookhistry I’m one of a handful of bibiliographers working on what we have been calling feminist bibliography, centering both the work done by women and the ways in which bibliographical work is gendered female, so conversations about how gender works in book history are of interest"
+	},
+	{
+		"created_at": "Thu Sep 29 22:33:07 +0000 2022",
+		"id": 1575614679376076800,
+		"id_str": "1575614679376076800",
+		"full_text": "@KamillaAslaksen @transbookhistry Can you explain a bit more? I’m not sure what the difference would be between sex stereotypes (assumptions that, eg, men are bad at emotions and women are bad at math) and gender (which I’ve always understood at the systems that cultures use to differentiate between sexes) +",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			309
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KamillaAslaksen",
+					"name": "Kamilla Aslaksen",
+					"id": 1300792592481874000,
+					"id_str": "1300792592481873922",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1575561541260189700,
+		"in_reply_to_status_id_str": "1575561541260189697",
+		"in_reply_to_user_id": 1300792592481874000,
+		"in_reply_to_user_id_str": "1300792592481873922",
+		"in_reply_to_screen_name": "KamillaAslaksen",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KamillaAslaksen @transbookhistry Can you explain a bit more? I’m not sure what the difference would be between sex stereotypes (assumptions that, eg, men are bad at emotions and women are bad at math) and gender (which I’ve always understood at the systems that cultures use to differentiate between sexes) +"
+	},
+	{
+		"created_at": "Thu Sep 29 21:49:41 +0000 2022",
+		"id": 1575602471354847200,
+		"id_str": "1575603749111754753",
+		"full_text": "Boosting for the library crew-- https://t.co/iF1CtuY6ZR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iF1CtuY6ZR",
+					"expanded_url": "https://twitter.com/melissagira/status/1575575560742666241",
+					"display_url": "twitter.com/melissagira/st…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277617280,
+			"id_str": "277617280",
+			"name": "Kelly Boo-ten",
+			"screen_name": "kellywooten",
+			"location": "The Moon",
+			"description": "Angela Lansbury is my co-pilot. Archives, feminism, zines, and stuff. she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 1010,
+			"listed_count": 71,
+			"created_at": "Tue Apr 05 18:42:20 +0000 2011",
+			"favourites_count": 32494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1575528432066101249/GvnH_MOo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575528432066101249/GvnH_MOo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/277617280/1664470225",
+			"profile_link_color": "FF6F00",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575575560742666200,
+		"quoted_status_id_str": "1575575560742666241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iF1CtuY6ZR",
+			"expanded": "https://twitter.com/melissagira/status/1575575560742666241",
+			"display": "twitter.com/melissagira/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 19:57:41 +0000 2022",
+			"id": 1575575560742666200,
+			"id_str": "1575575560742666241",
+			"full_text": "For a story, I'd love to hear from anyone in the US who has been involved in community defense of LGBTQ+ events/spaces that have been targeted by the far right. Email is &lt;mggrant@tnr.com&gt; and please spread the word.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76093,
+				"id_str": "76093",
+				"name": "Melissa Gira Grant",
+				"screen_name": "melissagira",
+				"location": "New York, NY",
+				"description": "writer @newrepublic » A WOMAN IS AGAINST THE LAW (@littlebrown 2024) » PLAYING THE WHORE (@versobooks) » rep: @sarahburnes » @nyguild // melissa@melissagira.com",
+				"url": "https://t.co/W9eIiKWTo3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W9eIiKWTo3",
+								"expanded_url": "http://melissagiragrant.com",
+								"display_url": "melissagiragrant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61799,
+				"friends_count": 7044,
+				"listed_count": 1169,
+				"created_at": "Sun Dec 17 22:00:46 +0000 2006",
+				"favourites_count": 57952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 79143,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487455787328888836/5EAWTPae_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487455787328888836/5EAWTPae_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76093/1643472152",
+				"profile_link_color": "806D76",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "8B8E99",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 306,
+			"favorite_count": 353,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boosting for the library crew-- https://t.co/iF1CtuY6ZR"
+	},
+	{
+		"created_at": "Thu Sep 29 21:02:40 +0000 2022",
+		"id": 1575551782624919600,
+		"id_str": "1575591916745654272",
+		"full_text": "This is happening, in person and virtually, one week from today! https://t.co/3q6WDYP7j5 Grateful to the @ransomcenter and @aarontpratt for inviting me to share this work on #MarCav's books and how it might help us rethink early modern book history.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarCav",
+					"indices": [
+						174,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ransomcenter",
+					"name": "ransomcenter",
+					"id": 33538043,
+					"id_str": "33538043",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"screen_name": "aarontpratt",
+					"name": "Aaron T. Pratt",
+					"id": 65746809,
+					"id_str": "65746809",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3q6WDYP7j5",
+					"expanded_url": "https://www.eventbrite.com/e/pforzheimer-lecture-series-featuring-dr-liza-blake-tickets-415409640417",
+					"display_url": "eventbrite.com/e/pforzheimer-…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308868142,
+			"id_str": "3308868142",
+			"name": "Liza Blake",
+			"screen_name": "medrenliza",
+			"location": "",
+			"description": "U of Toronto Associate Prof. | early modern lit-sci-phil | women writers, esp. Margaret Cavendish | editing, esp. M. Cavendish | She/her. Views my own. 💚♠️💜",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2464,
+			"friends_count": 1669,
+			"listed_count": 11,
+			"created_at": "Fri Jun 05 01:09:11 +0000 2015",
+			"favourites_count": 35790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095431449640095750/DVk1AS9K_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095431449640095750/DVk1AS9K_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308868142/1655141888",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is happening, in person and virtually, one week from today! https://t.co/3q6WDYP7j5 Grateful to the @ransomcenter and @aarontpratt for inviting me to share this work on #MarCav's books and how it might help us rethink early modern book history."
+	},
+	{
+		"created_at": "Thu Sep 29 17:02:33 +0000 2022",
+		"id": 1575487915924148200,
+		"id_str": "1575531488908611585",
+		"full_text": "American politicians who insist this situation is reasonable are some of the worst people in the world. The physical travails described here *alone* are an indictment of our system. This feature is beautiful &amp; so sad &amp; will be triggering for some people. https://t.co/MMJK2LzULh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MMJK2LzULh",
+					"expanded_url": "https://www.glamour.com/story/why-national-paid-family-leave-matters-glamour-28-days",
+					"display_url": "glamour.com/story/why-nati…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 220706863,
+			"id_str": "220706863",
+			"name": "Lydia Kiesling",
+			"screen_name": "lydiakiesling",
+			"location": "PDX",
+			"description": "Author of novels THE GOLDEN STATE (2018) & MOBILITY (August 2023). Writing in NYTMag, The Cut, etc. Preorder MOBILITY: https://t.co/fMMgz4vCsB",
+			"url": "https://t.co/3q4Mv55Cy6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3q4Mv55Cy6",
+							"expanded_url": "http://www.lydiakiesling.com",
+							"display_url": "lydiakiesling.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fMMgz4vCsB",
+							"expanded_url": "https://zandoprojects.com/books/mobility/",
+							"display_url": "zandoprojects.com/books/mobility/",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12835,
+			"friends_count": 9858,
+			"listed_count": 160,
+			"created_at": "Sun Nov 28 16:12:43 +0000 2010",
+			"favourites_count": 68960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537239943264645120/7z0519Nk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537239943264645120/7z0519Nk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220706863/1611866916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "American politicians who insist this situation is reasonable are some of the worst people in the world. The physical travails described here *alone* are an indictment of our system. This feature is beautiful &amp; so sad &amp; will be triggering for some people. https://t.co/MMJK2LzULh"
+	},
+	{
+		"created_at": "Thu Sep 29 16:06:15 +0000 2022",
+		"id": 1575517319224336400,
+		"id_str": "1575517319224336385",
+		"full_text": "@the_embrarian I think @stampedinblind is tenured? She def does book history stuff.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "the_embrarian",
+					"name": "Emily Spunaugle",
+					"id": 762462920366170100,
+					"id_str": "762462920366170112",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "stampedinblind",
+					"name": "Sarah Burke Cahalan",
+					"id": 267867336,
+					"id_str": "267867336",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1575502444314132500,
+		"in_reply_to_status_id_str": "1575502444314132482",
+		"in_reply_to_user_id": 762462920366170100,
+		"in_reply_to_user_id_str": "762462920366170112",
+		"in_reply_to_screen_name": "the_embrarian",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@the_embrarian I think @stampedinblind is tenured? She def does book history stuff."
+	},
+	{
+		"created_at": "Thu Sep 29 16:04:38 +0000 2022",
+		"id": 1575513053164093400,
+		"id_str": "1575516911429095427",
+		"full_text": "I've always understood print as masculine and manuscript as feminine (at least in the early modern period) but am struggling to find sources to help me flesh this out as it applies to 19C America.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1575513050379161600,
+		"in_reply_to_status_id_str": "1575513050379161602",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 1261415036033081300,
+			"id_str": "1261415036033081345",
+			"name": "Kadin Henningsen",
+			"screen_name": "transbookhistry",
+			"location": "Central Illinois",
+			"description": "PhD Candidate | Trans Book History & 19C Am. Lit. | former sub-sub-librarian | Owner of Meanwhile...Letterpress(@meanwhilelette1) | he/him | Opinions my own.",
+			"url": "https://t.co/jKS7dAtEKE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jKS7dAtEKE",
+							"expanded_url": "https://english.illinois.edu/directory/profile/kjh3",
+							"display_url": "english.illinois.edu/directory/prof…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1336,
+			"friends_count": 1403,
+			"listed_count": 6,
+			"created_at": "Fri May 15 21:56:03 +0000 2020",
+			"favourites_count": 27121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261415036033081345/1636931261",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I've always understood print as masculine and manuscript as feminine (at least in the early modern period) but am struggling to find sources to help me flesh this out as it applies to 19C America."
+	},
+	{
+		"created_at": "Thu Sep 29 16:04:35 +0000 2022",
+		"id": 1575513050379161600,
+		"id_str": "1575516902729867264",
+		"full_text": "Book History Folks: I know of work on the gender of print in the early modern period (Margreta de Grazia's work comes to mind). I'm looking for work on the gendering of print and manuscript into the 19C (esp. in America). Any recommendations?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1261415036033081300,
+			"id_str": "1261415036033081345",
+			"name": "Kadin Henningsen",
+			"screen_name": "transbookhistry",
+			"location": "Central Illinois",
+			"description": "PhD Candidate | Trans Book History & 19C Am. Lit. | former sub-sub-librarian | Owner of Meanwhile...Letterpress(@meanwhilelette1) | he/him | Opinions my own.",
+			"url": "https://t.co/jKS7dAtEKE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jKS7dAtEKE",
+							"expanded_url": "https://english.illinois.edu/directory/profile/kjh3",
+							"display_url": "english.illinois.edu/directory/prof…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1336,
+			"friends_count": 1403,
+			"listed_count": 6,
+			"created_at": "Fri May 15 21:56:03 +0000 2020",
+			"favourites_count": 27121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460020714929594373/y5-dJ_BY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261415036033081345/1636931261",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Book History Folks: I know of work on the gender of print in the early modern period (Margreta de Grazia's work comes to mind). I'm looking for work on the gendering of print and manuscript into the 19C (esp. in America). Any recommendations?"
+	},
+	{
+		"created_at": "Thu Sep 29 16:03:38 +0000 2022",
+		"id": 1575516663247782000,
+		"id_str": "1575516663247781890",
+		"full_text": "Hey #FemBib and paper making! So exciting to see more work building on @heidicraig’s research! https://t.co/jSAB0tNQqQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FemBib",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heidicraig",
+					"name": "Heidi Craig",
+					"id": 186750795,
+					"id_str": "186750795",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jSAB0tNQqQ",
+					"expanded_url": "https://twitter.com/oxbibsoc/status/1575507422197735427",
+					"display_url": "twitter.com/oxbibsoc/statu…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575507422197735400,
+		"quoted_status_id_str": "1575507422197735427",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jSAB0tNQqQ",
+			"expanded": "https://twitter.com/oxbibsoc/status/1575507422197735427",
+			"display": "twitter.com/oxbibsoc/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 15:26:55 +0000 2022",
+			"id": 1575507422197735400,
+			"id_str": "1575507422197735427",
+			"full_text": "Some great rare evidence of named female raggathers &amp; servants attempting to disrupt the rag trade from the ground up on behalf of Spilman! Fits with their depiction as marginalised but also humanises these important figures in the paper trade  #OxBibSoc100",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OxBibSoc100",
+						"indices": [
+							249,
+							261
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1575504626463690800,
+			"in_reply_to_status_id_str": "1575504626463690756",
+			"in_reply_to_user_id": 1083718353447985200,
+			"in_reply_to_user_id_str": "1083718353447985152",
+			"in_reply_to_screen_name": "OxBibSoc",
+			"user": {
+				"id": 1083718353447985200,
+				"id_str": "1083718353447985152",
+				"name": "Oxford Bibliographical Society",
+				"screen_name": "OxBibSoc",
+				"location": "Oxford, England",
+				"description": "📚Founded 100 years ago, the OBS celebrates the collection, care, and enjoyment of libraries, books, and archives of all sizes📚",
+				"url": "https://t.co/yXvw0YAAD8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yXvw0YAAD8",
+								"expanded_url": "https://www.oxbibsoc.org.uk/",
+								"display_url": "oxbibsoc.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1316,
+				"friends_count": 100,
+				"listed_count": 19,
+				"created_at": "Fri Jan 11 13:32:44 +0000 2019",
+				"favourites_count": 78,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 315,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1376527410527617026/ubJnaVy5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376527410527617026/ubJnaVy5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1083718353447985152/1616404100",
+				"profile_link_color": "900C3F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey #FemBib and paper making! So exciting to see more work building on @heidicraig’s research! https://t.co/jSAB0tNQqQ"
+	},
+	{
 		"created_at": "Thu Sep 29 00:17:08 +0000 2022",
 		"id": 1575278468140515300,
 		"id_str": "1575278468140515335",
@@ -1439,7 +2694,7 @@ Grailbird.data.tweets_2022_09 =
 			"user_mentions": [
 				{
 					"screen_name": "vcmcguire",
-					"name": "Claire McGuire 🏳️‍🌈",
+					"name": "Claire McGuire 🏳️🌈",
 					"id": 18105922,
 					"id_str": "18105922",
 					"indices": [
