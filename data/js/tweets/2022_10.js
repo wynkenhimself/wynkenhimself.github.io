@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 02:59:06 +0000 2022",
+		"id": 1578488017370906600,
+		"id_str": "1578580716249812993",
+		"full_text": "If this isn't going against loan agreements, we need to rewrite them! Everything about installing during a strike seems to me to go against art safety, my humble opinion as a conservator. https://t.co/tGfJFEIXOu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tGfJFEIXOu",
+					"expanded_url": "https://twitter.com/PMA_Union/status/1578416601241878529",
+					"display_url": "twitter.com/PMA_Union/stat…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2562232958,
+			"id_str": "2562232958",
+			"name": "Anisha Gupta",
+			"screen_name": "anishagupta_",
+			"location": "",
+			"description": "Art conservator, PhD student @UDelaware. Bringing community-based practice and decolonization to collections care of cultural heritage. she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 947,
+			"friends_count": 1334,
+			"listed_count": 17,
+			"created_at": "Wed Jun 11 22:58:16 +0000 2014",
+			"favourites_count": 3924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/835287834630094849/zIcJaxY8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/835287834630094849/zIcJaxY8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2562232958/1565276827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578416601241878500,
+		"quoted_status_id_str": "1578416601241878529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tGfJFEIXOu",
+			"expanded": "https://twitter.com/PMA_Union/status/1578416601241878529",
+			"display": "twitter.com/PMA_Union/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 07 16:06:57 +0000 2022",
+			"id": 1578416601241878500,
+			"id_str": "1578416601241878529",
+			"full_text": "Still can’t believe this is actually happening but here are the photographs to confirm: scabs are hanging Matisse. \n\nNone of these people are @philamuseum installers. \n\nCredit to insta:Malkia for finding a courier’s instagram posts. https://t.co/AKZO8UU1uP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "philamuseum",
+						"name": "Philadelphia Museum of Art",
+						"id": 15625377,
+						"id_str": "15625377",
+						"indices": [
+							142,
+							154
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1578416597236154400,
+						"id_str": "1578416597236154370",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/FeepiEnXgAIZJCq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeepiEnXgAIZJCq.jpg",
+						"url": "https://t.co/AKZO8UU1uP",
+						"display_url": "pic.twitter.com/AKZO8UU1uP",
+						"expanded_url": "https://twitter.com/PMA_Union/status/1578416601241878529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1483,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 380,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1578416597236154400,
+						"id_str": "1578416597236154370",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/FeepiEnXgAIZJCq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeepiEnXgAIZJCq.jpg",
+						"url": "https://t.co/AKZO8UU1uP",
+						"display_url": "pic.twitter.com/AKZO8UU1uP",
+						"expanded_url": "https://twitter.com/PMA_Union/status/1578416601241878529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1483,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 380,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1578416597223481300,
+						"id_str": "1578416597223481344",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/FeepiEkWIAAQLNH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeepiEkWIAAQLNH.jpg",
+						"url": "https://t.co/AKZO8UU1uP",
+						"display_url": "pic.twitter.com/AKZO8UU1uP",
+						"expanded_url": "https://twitter.com/PMA_Union/status/1578416601241878529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 828,
+								"h": 1478,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 672,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 381,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1263843466209038300,
+				"id_str": "1263843466209038337",
+				"name": "Philadelphia Museum of Art Union #ONSTRIKE",
+				"screen_name": "PMA_Union",
+				"location": "",
+				"description": "The working people behind the Philadelphia Museum of Art. @PHLafscmeDC47 Local 397. Part of @CWUafscme. Logo: Nick Massarelli | Contact: solidarity@pmaunion.com",
+				"url": "https://t.co/pI6ofjy8BM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pI6ofjy8BM",
+								"expanded_url": "http://pmaunion.com",
+								"display_url": "pmaunion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5417,
+				"friends_count": 983,
+				"listed_count": 31,
+				"created_at": "Fri May 22 14:45:53 +0000 2020",
+				"favourites_count": 1358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263843466209038337/1656019637",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 457,
+			"favorite_count": 1462,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 39,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If this isn't going against loan agreements, we need to rewrite them! Everything about installing during a strike seems to me to go against art safety, my humble opinion as a conservator. https://t.co/tGfJFEIXOu"
+	},
+	{
 		"created_at": "Fri Oct 07 15:09:01 +0000 2022",
 		"id": 1577624826134642700,
 		"id_str": "1578402021606031361",
