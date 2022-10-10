@@ -1,6 +1,1079 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 20:09:46 +0000 2022",
+		"id": 1578794745345630200,
+		"id_str": "1579202482949230592",
+		"full_text": "I think it’s actually weird that I don’t see this point made more often. It’s true that IA does a lot of public good; it’s also true that they aren’t really accountable to the public in the way a public library is, and that’s a reason to adopt some skepticism. https://t.co/aNfBCVu2nb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aNfBCVu2nb",
+					"expanded_url": "https://twitter.com/nmamatas/status/1578792458300772353",
+					"display_url": "twitter.com/nmamatas/statu…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65569424,
+			"id_str": "65569424",
+			"name": "Dr. Spooky Moraine PhD in scary things",
+			"screen_name": "dynamicsymmetry",
+			"location": "lurking behind the sun",
+			"description": "Writer of the horrific & weird. Creator of the GONE podcast. Repped by @dreamoforgonon. Eyes that burn like cigarettes. Voice dark like tinted glass. They/them.",
+			"url": "https://t.co/Ccc9aqea6l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ccc9aqea6l",
+							"expanded_url": "http://sunnymoraine.com",
+							"display_url": "sunnymoraine.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11667,
+			"friends_count": 926,
+			"listed_count": 230,
+			"created_at": "Fri Aug 14 05:19:42 +0000 2009",
+			"favourites_count": 108214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502347015287619587/FPrrWEuO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502347015287619587/FPrrWEuO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65569424/1645207922",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "eac9405683a07098",
+			"url": "https://api.twitter.com/1.1/geo/id/eac9405683a07098.json",
+			"place_type": "city",
+			"name": "Beltsville",
+			"full_name": "Beltsville, MD",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-76.9620787,
+							39.0147581
+						],
+						[
+							-76.8776192,
+							39.0147581
+						],
+						[
+							-76.8776192,
+							39.065391
+						],
+						[
+							-76.9620787,
+							39.065391
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578792458300772400,
+		"quoted_status_id_str": "1578792458300772353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aNfBCVu2nb",
+			"expanded": "https://twitter.com/nmamatas/status/1578792458300772353",
+			"display": "twitter.com/nmamatas/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 08 17:00:29 +0000 2022",
+			"id": 1578792458300772400,
+			"id_str": "1578792458300772353",
+			"full_text": "IA does a lot of good things and is a valuable resource, but that doesn't make everything it does good, nor does it make IA a public library administered by government. I can vote for or against a library budget, I can either elect a library board or a mayor to appoint one.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1578791889183989800,
+			"in_reply_to_status_id_str": "1578791889183989760",
+			"in_reply_to_user_id": 54976483,
+			"in_reply_to_user_id_str": "54976483",
+			"in_reply_to_screen_name": "NMamatas",
+			"user": {
+				"id": 54976483,
+				"id_str": "54976483",
+				"name": "Nick Buy My Book Mamatas 🤼‍♂️🏴🧭",
+				"screen_name": "NMamatas",
+				"location": "",
+				"description": "New novel THE SECOND SHOOTER\n\nhttps://t.co/Ykp6IUC7uW",
+				"url": "https://t.co/VUxxvW8skn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VUxxvW8skn",
+								"expanded_url": "http://www.nick-mamatas.com",
+								"display_url": "nick-mamatas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ykp6IUC7uW",
+								"expanded_url": "http://bit.ly/3hzY5ku",
+								"display_url": "bit.ly/3hzY5ku",
+								"indices": [
+									30,
+									53
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9155,
+				"friends_count": 6417,
+				"listed_count": 283,
+				"created_at": "Wed Jul 08 18:10:49 +0000 2009",
+				"favourites_count": 83518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1528782194264580096/0PuFcu12_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528782194264580096/0PuFcu12_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54976483/1533167851",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 45,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think it’s actually weird that I don’t see this point made more often. It’s true that IA does a lot of public good; it’s also true that they aren’t really accountable to the public in the way a public library is, and that’s a reason to adopt some skepticism. https://t.co/aNfBCVu2nb"
+	},
+	{
+		"created_at": "Sun Oct 09 16:52:18 +0000 2022",
+		"id": 1579152787812003800,
+		"id_str": "1579152787812003841",
+		"full_text": "@prisonculture I’m pretty sure books replicate when we’re not looking. It’s the only explanation for the state of my house",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prisonculture",
+					"name": "The original & frequently unfollowed",
+					"id": 162436508,
+					"id_str": "162436508",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579148404571066400,
+		"in_reply_to_status_id_str": "1579148404571066370",
+		"in_reply_to_user_id": 162436508,
+		"in_reply_to_user_id_str": "162436508",
+		"in_reply_to_screen_name": "prisonculture",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@prisonculture I’m pretty sure books replicate when we’re not looking. It’s the only explanation for the state of my house"
+	},
+	{
+		"created_at": "Sun Oct 09 16:40:03 +0000 2022",
+		"id": 1579149705321144300,
+		"id_str": "1579149705321144321",
+		"full_text": "I know Lynne Thomas through libraryland, but some of you might know the Thomases through Uncanny Magazine. They’ve done so much for their communities—can you help now when they need it? https://t.co/CHS7wblZe0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CHS7wblZe0",
+					"expanded_url": "https://twitter.com/jimchines/status/1578825796898414595",
+					"display_url": "twitter.com/jimchines/stat…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578825796898414600,
+		"quoted_status_id_str": "1578825796898414595",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CHS7wblZe0",
+			"expanded": "https://twitter.com/jimchines/status/1578825796898414595",
+			"display": "twitter.com/jimchines/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 08 19:12:57 +0000 2022",
+			"id": 1578825796898414600,
+			"id_str": "1578825796898414595",
+			"full_text": "Fundraiser for Michael and Lynne Thomas, to help with end-of-life care for their daughter Caitlin and for everything that follows.\n\nhttps://t.co/5QWPLRGW8h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5QWPLRGW8h",
+						"expanded_url": "https://www.gofundme.com/f/lynne-and-michael-thomas",
+						"display_url": "gofundme.com/f/lynne-and-mi…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67427757,
+				"id_str": "67427757",
+				"name": "Jim C. Hines",
+				"screen_name": "jimchines",
+				"location": "Michigan",
+				"description": "Author of TERMINAL ALLIANCE, LIBRIOMANCER, GOBLIN QUEST, THE STEPSISTER SCHEME, and other fun stuff. Knows where his towel is. He/him.",
+				"url": "https://t.co/3vzZ4ttThe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3vzZ4ttThe",
+								"expanded_url": "http://www.jimchines.com",
+								"display_url": "jimchines.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16293,
+				"friends_count": 922,
+				"listed_count": 759,
+				"created_at": "Thu Aug 20 21:19:16 +0000 2009",
+				"favourites_count": 6834,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28306,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1528742840662167554/6Ta6qdeW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528742840662167554/6Ta6qdeW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67427757/1600462562",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 733,
+			"favorite_count": 1003,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know Lynne Thomas through libraryland, but some of you might know the Thomases through Uncanny Magazine. They’ve done so much for their communities—can you help now when they need it? https://t.co/CHS7wblZe0"
+	},
+	{
+		"created_at": "Sun Oct 09 16:32:18 +0000 2022",
+		"id": 1578747921096286200,
+		"id_str": "1579147755762569216",
+		"full_text": "Damage to the Philadelphia Museum of Art's reputation will be far more expensive than the $300,000 separating union and management. Contract negotiations began two years ago. Two years. https://t.co/cmM9yhegDT via @phillyinquirer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhillyInquirer",
+					"name": "The Philadelphia Inquirer",
+					"id": 14221917,
+					"id_str": "14221917",
+					"indices": [
+						214,
+						229
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cmM9yhegDT",
+					"expanded_url": "https://www.inquirer.com/news/philadelphia/philadelphia-museum-of-art-strike-matisse-20221008.html?utm_source=t.co&utm_campaign=edit_social_share_twitter_traffic&utm_medium=social&utm_content=&utm_term=&int_promo=",
+					"display_url": "inquirer.com/news/philadelp…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46744965,
+			"id_str": "46744965",
+			"name": "Christopher Knight",
+			"screen_name": "KnightLAT",
+			"location": "Los Angeles",
+			"description": "Knight, recipient of the Pulitzer Prize in criticism and the Rabkin Lifetime Achievement Award for Art Journalism, is Los Angeles Times art critic",
+			"url": "https://t.co/v8J7nygHJE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v8J7nygHJE",
+							"expanded_url": "http://www.latimes.com/entertainment/arts/",
+							"display_url": "latimes.com/entertainment/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36846,
+			"friends_count": 2475,
+			"listed_count": 867,
+			"created_at": "Fri Jun 12 20:47:53 +0000 2009",
+			"favourites_count": 22200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000208837910/6e478b44b3a2bf667f981950ed780894_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000208837910/6e478b44b3a2bf667f981950ed780894_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Damage to the Philadelphia Museum of Art's reputation will be far more expensive than the $300,000 separating union and management. Contract negotiations began two years ago. Two years. https://t.co/cmM9yhegDT via @phillyinquirer"
+	},
+	{
+		"created_at": "Sun Oct 09 16:25:00 +0000 2022",
+		"id": 1579145919488196600,
+		"id_str": "1579145919488196609",
+		"full_text": "I unsurprisingly loved this deep dive into the microfilming of rare books and think many of you will, too. 🎞️ https://t.co/JyafGgOHSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JyafGgOHSu",
+					"expanded_url": "https://twitter.com/folgerresearch/status/1577316361386315776",
+					"display_url": "twitter.com/folgerresearch…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577316361386315800,
+		"quoted_status_id_str": "1577316361386315776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JyafGgOHSu",
+			"expanded": "https://twitter.com/folgerresearch/status/1577316361386315776",
+			"display": "twitter.com/folgerresearch…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 04 15:15:00 +0000 2022",
+			"id": 1577316361386315800,
+			"id_str": "1577316361386315776",
+			"full_text": "Good grief! If you ever wanted to know why microfilm (or digital images of microfilm—lookin' at you, EEBO!) has some really odd features, wonder no more! Folger photographer William Davis has answers to all of the questions you never knew to ask: https://t.co/bBspiijX4I",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bBspiijX4I",
+						"expanded_url": "https://collation.folger.edu/2022/10/good-grief/",
+						"display_url": "collation.folger.edu/2022/10/good-g…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245457986,
+				"id_str": "245457986",
+				"name": "Folger Research",
+				"screen_name": "FolgerResearch",
+				"location": "Folger Shakespeare Library",
+				"description": "Research, collections, and scholarly events from the Folger Shakespeare Library.",
+				"url": "https://t.co/85xMCz8EpO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/85xMCz8EpO",
+								"expanded_url": "http://collation.folger.edu",
+								"display_url": "collation.folger.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10537,
+				"friends_count": 188,
+				"listed_count": 238,
+				"created_at": "Mon Jan 31 18:58:56 +0000 2011",
+				"favourites_count": 2548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6610,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCD083",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1578390402285051904/Iif7iplU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578390402285051904/Iif7iplU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245457986/1409944581",
+				"profile_link_color": "B35516",
+				"profile_sidebar_border_color": "CC8A6C",
+				"profile_sidebar_fill_color": "FCD083",
+				"profile_text_color": "1A1714",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I unsurprisingly loved this deep dive into the microfilming of rare books and think many of you will, too. 🎞️ https://t.co/JyafGgOHSu"
+	},
+	{
+		"created_at": "Sun Oct 09 15:02:01 +0000 2022",
+		"id": 1579125035629179000,
+		"id_str": "1579125035629178880",
+		"full_text": "as always, if you want to join us but aren’t already on our discord, ping me or @internetstine or @aravahshifra for an invite",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "internetstine",
+					"name": "Christine Bride of Frankenstein Jacobson 🇺🇦",
+					"id": 326660319,
+					"id_str": "326660319",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"screen_name": "aravahshifra",
+					"name": "Cassia @ NYFF",
+					"id": 145893323,
+					"id_str": "145893323",
+					"indices": [
+						98,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1579124715213688800,
+		"in_reply_to_status_id_str": "1579124715213688832",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "as always, if you want to join us but aren’t already on our discord, ping me or @internetstine or @aravahshifra for an invite"
+	},
+	{
 		"created_at": "Sat Oct 08 02:59:06 +0000 2022",
 		"id": 1578488017370906600,
 		"id_str": "1578580716249812993",
