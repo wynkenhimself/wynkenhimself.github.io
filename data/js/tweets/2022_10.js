@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 16:41:54 +0000 2022",
+		"id": 1579512556846485500,
+		"id_str": "1579512556846485504",
+		"full_text": "@greenesghost yeah, love thinking about its histories and uses and also very glad not to be spending time working with it!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greenesghost",
+					"name": "Lori Newcomb",
+					"id": 2840926877,
+					"id_str": "2840926877",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1579289660282798000,
+		"in_reply_to_status_id_str": "1579289660282798082",
+		"in_reply_to_user_id": 2840926877,
+		"in_reply_to_user_id_str": "2840926877",
+		"in_reply_to_screen_name": "greenesghost",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@greenesghost yeah, love thinking about its histories and uses and also very glad not to be spending time working with it!"
+	},
+	{
+		"created_at": "Mon Oct 10 16:16:57 +0000 2022",
+		"id": 1579499408450027500,
+		"id_str": "1579506277591699456",
+		"full_text": "It's #IndigenousPeoplesDay.\n\nHere's a reminder for all of you data people that the @nativelandnet API will take any lat/lon point and return indigenous territories, languages, and treaties.\n\nhttps://t.co/vlm0XmX0vX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndigenousPeoplesDay",
+					"indices": [
+						5,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nativelandnet",
+					"name": "Native Land Digital Map",
+					"id": 3818277261,
+					"id_str": "3818277261",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vlm0XmX0vX",
+					"expanded_url": "https://native-land.ca/resources/api-docs/",
+					"display_url": "native-land.ca/resources/api-…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17013577,
+			"id_str": "17013577",
+			"name": "Jer Thorp",
+			"screen_name": "blprnt",
+			"location": "Brooklyn, NY",
+			"description": "Artist, writer, educator, birder & nudibranch enthusiast. Adjunct professor at ITP. He/Him. Author of Living in Data (MCDxFSG).\n\nHost of @UponAChecklist",
+			"url": "https://t.co/awCvFY8OKS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/awCvFY8OKS",
+							"expanded_url": "https://jerthorp.glitch.me/",
+							"display_url": "jerthorp.glitch.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30847,
+			"friends_count": 4851,
+			"listed_count": 1824,
+			"created_at": "Tue Oct 28 02:43:49 +0000 2008",
+			"favourites_count": 51345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/799698822284722177/8WqH0VO1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/799698822284722177/8WqH0VO1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17013577/1606583413",
+			"profile_link_color": "003366",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "7D7D7D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's #IndigenousPeoplesDay.\n\nHere's a reminder for all of you data people that the @nativelandnet API will take any lat/lon point and return indigenous territories, languages, and treaties.\n\nhttps://t.co/vlm0XmX0vX"
+	},
+	{
+		"created_at": "Mon Oct 10 16:15:57 +0000 2022",
+		"id": 1579506027971907600,
+		"id_str": "1579506027971907586",
+		"full_text": "@shandyist ugh, I’m sorry.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shandyist",
+					"name": "Dr. K",
+					"id": 16935873,
+					"id_str": "16935873",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1579504669520711700,
+		"in_reply_to_status_id_str": "1579504669520711683",
+		"in_reply_to_user_id": 16935873,
+		"in_reply_to_user_id_str": "16935873",
+		"in_reply_to_screen_name": "shandyist",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10175,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shandyist ugh, I’m sorry."
+	},
+	{
+		"created_at": "Mon Oct 10 13:50:43 +0000 2022",
+		"id": 1579459640282476500,
+		"id_str": "1579469479486291969",
+		"full_text": "The Nacotchtank people were this region's main residents when Europeans arrived. Later Anglicized to “Anacostia,” Nacotchtank meant “town of traders.” The confluence of the Anacostia &amp; Potomac rivers provided an abundance of resources for this community. #IndigenousPeoplesDay https://t.co/DDJ3oQIwJQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndigenousPeoplesDay",
+					"indices": [
+						259,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579459401458618400,
+					"id_str": "1579459401458618368",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fetd9REXkAA9Nb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fetd9REXkAA9Nb9.jpg",
+					"url": "https://t.co/DDJ3oQIwJQ",
+					"display_url": "pic.twitter.com/DDJ3oQIwJQ",
+					"expanded_url": "https://twitter.com/NationalMallNPS/status/1579459640282476546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579459401458618400,
+					"id_str": "1579459401458618368",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fetd9REXkAA9Nb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fetd9REXkAA9Nb9.jpg",
+					"url": "https://t.co/DDJ3oQIwJQ",
+					"display_url": "pic.twitter.com/DDJ3oQIwJQ",
+					"expanded_url": "https://twitter.com/NationalMallNPS/status/1579459640282476546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 495149176,
+			"id_str": "495149176",
+			"name": "National Mall NPS",
+			"screen_name": "NationalMallNPS",
+			"location": "Washington, D.C.",
+			"description": "Official feed for National Mall and Memorial Parks, National Park Service - caretakers of the Washington Monument, Lincoln Memorial & more!",
+			"url": "https://t.co/xaaLo75tnP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xaaLo75tnP",
+							"expanded_url": "http://www.nps.gov/nama",
+							"display_url": "nps.gov/nama",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53863,
+			"friends_count": 392,
+			"listed_count": 658,
+			"created_at": "Fri Feb 17 17:08:44 +0000 2012",
+			"favourites_count": 1910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "958F8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588290633405571073/_DsiNShc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588290633405571073/_DsiNShc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/495149176/1404933664",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Nacotchtank people were this region's main residents when Europeans arrived. Later Anglicized to “Anacostia,” Nacotchtank meant “town of traders.” The confluence of the Anacostia &amp; Potomac rivers provided an abundance of resources for this community. #IndigenousPeoplesDay https://t.co/DDJ3oQIwJQ"
+	},
+	{
+		"created_at": "Mon Oct 10 13:34:06 +0000 2022",
+		"id": 1578883099638669300,
+		"id_str": "1579465296100089856",
+		"full_text": "An ongoing strike at the Philadelphia Museum of Art is emblematic of a growing tension at cultural institutions: working along priceless pieces of art while struggling to pay your bills: \"You can't eat prestige.\"\nhttps://t.co/cb9dr07hiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cb9dr07hiM",
+					"expanded_url": "https://n.pr/3EqiZP0",
+					"display_url": "n.pr/3EqiZP0",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5392522,
+			"id_str": "5392522",
+			"name": "NPR",
+			"screen_name": "NPR",
+			"location": "",
+			"description": "News. Arts & Life. Music & more. This is NPR. 🕵️ Securely send us news tips: https://t.co/qfEoMDe1Hw",
+			"url": "https://t.co/NacrixPEkp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NacrixPEkp",
+							"expanded_url": "http://www.npr.org",
+							"display_url": "npr.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qfEoMDe1Hw",
+							"expanded_url": "http://securedrop.npr.org",
+							"display_url": "securedrop.npr.org",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9010809,
+			"friends_count": 67497,
+			"listed_count": 70621,
+			"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+			"favourites_count": 2884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 237334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419704144026296333/ms3D5ipo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419704144026296333/ms3D5ipo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1575653448",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An ongoing strike at the Philadelphia Museum of Art is emblematic of a growing tension at cultural institutions: working along priceless pieces of art while struggling to pay your bills: \"You can't eat prestige.\"\nhttps://t.co/cb9dr07hiM"
+	},
+	{
 		"created_at": "Sun Oct 09 20:09:46 +0000 2022",
 		"id": 1578794745345630200,
 		"id_str": "1579202482949230592",
@@ -164,7 +824,7 @@ Grailbird.data.tweets_2022_10 =
 			"user": {
 				"id": 54976483,
 				"id_str": "54976483",
-				"name": "Nick Buy My Book Mamatas 🤼‍♂️🏴🧭",
+				"name": "Nick Buy My Book Mamatas 🤼♂️🏴🧭",
 				"screen_name": "NMamatas",
 				"location": "",
 				"description": "New novel THE SECOND SHOOTER\n\nhttps://t.co/Ykp6IUC7uW",
