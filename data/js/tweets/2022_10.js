@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 01:29:34 +0000 2022",
+		"id": 1580212588436418600,
+		"id_str": "1580370124607197184",
+		"full_text": "Scholars: did you (or will you) publish a journal article in 2022 that concerns Black intellectually history, broadly defined? If so: submit for the @AAIHS Maria Stewart Prize! Nominations are open, self-nominations welcome. Deadline is 12/1. \n\nDetails:\n\nhttps://t.co/Cx9SAmOO8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AAIHS",
+					"name": "AAIHS",
+					"id": 2477017982,
+					"id_str": "2477017982",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cx9SAmOO8h",
+					"expanded_url": "https://www.aaihs.org/aaihs-awards/maria-stewart-journal-article-prize/",
+					"display_url": "aaihs.org/aaihs-awards/m…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 931382041,
+			"id_str": "931382041",
+			"name": "Simon Balto",
+			"screen_name": "SimonBalto",
+			"location": "Midwest, Riding/Dying",
+			"description": "Writer, historian, teacher, abolitionist.\n\nAccount is personal, opinions are personal and not those of any institution, and you already knew all of that.",
+			"url": "https://t.co/jGArmen6yq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jGArmen6yq",
+							"expanded_url": "http://www.simonbalto.com",
+							"display_url": "simonbalto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8011,
+			"friends_count": 3921,
+			"listed_count": 84,
+			"created_at": "Wed Nov 07 06:15:47 +0000 2012",
+			"favourites_count": 24947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1386070297770606592/ST3Eenyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1386070297770606592/ST3Eenyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/931382041/1392999397",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scholars: did you (or will you) publish a journal article in 2022 that concerns Black intellectually history, broadly defined? If so: submit for the @AAIHS Maria Stewart Prize! Nominations are open, self-nominations welcome. Deadline is 12/1. \n\nDetails:\n\nhttps://t.co/Cx9SAmOO8h"
+	},
+	{
+		"created_at": "Wed Oct 12 23:05:30 +0000 2022",
+		"id": 1580333869676445700,
+		"id_str": "1580333869676445697",
+		"full_text": "@Sacrobosco2013 You’ve clearly been raising that child right! Hope you’re doing well—",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sacrobosco2013",
+					"name": "Kathleen Crowther",
+					"id": 1416414104,
+					"id_str": "1416414104",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579989312967524400,
+		"in_reply_to_status_id_str": "1579989312967524352",
+		"in_reply_to_user_id": 1416414104,
+		"in_reply_to_user_id_str": "1416414104",
+		"in_reply_to_screen_name": "Sacrobosco2013",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10176,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Sacrobosco2013 You’ve clearly been raising that child right! Hope you’re doing well—"
+	},
+	{
+		"created_at": "Wed Oct 12 21:59:39 +0000 2022",
+		"id": 1580231911435227100,
+		"id_str": "1580317298216181761",
+		"full_text": "the first digital book, published ca. 1886? kinda! join us for a 30 minute virtual meet-n-greet with this remarkable object 👇🏻 https://t.co/0Rt3qEBdaz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Rt3qEBdaz",
+					"expanded_url": "https://twitter.com/sims_mss/status/1580184764069183489",
+					"display_url": "twitter.com/sims_mss/statu…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91844423,
+			"id_str": "91844423",
+			"name": "whitney trettien",
+			"screen_name": "whitneytrettien",
+			"location": "Philadelphia, PA",
+			"description": "professor of old books & new technologies @Penn. author, #CutCopyPasteBook. currently working on weird histories of computing. still a pointy-nosed punk.",
+			"url": "https://t.co/x4yjjADVlR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4yjjADVlR",
+							"expanded_url": "http://whitneyannetrettien.com",
+							"display_url": "whitneyannetrettien.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5610,
+			"friends_count": 1575,
+			"listed_count": 232,
+			"created_at": "Sun Nov 22 18:51:02 +0000 2009",
+			"favourites_count": 14438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E2E2E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488583024979677188/6PFONf3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488583024979677188/6PFONf3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91844423/1480895575",
+			"profile_link_color": "7F0CAD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "B3B2B8",
+			"profile_text_color": "474747",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580184764069183500,
+		"quoted_status_id_str": "1580184764069183489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0Rt3qEBdaz",
+			"expanded": "https://twitter.com/sims_mss/status/1580184764069183489",
+			"display": "twitter.com/sims_mss/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 12 13:13:00 +0000 2022",
+			"id": 1580184764069183500,
+			"id_str": "1580184764069183489",
+			"full_text": "For #CoffeeWithACodex on October 17, @herman_nick_ and @whitneytrettien will introduce @upennlib's new Jacquard prayer book, woven on a loom in the late 19th century. Register to attend: https://t.co/LgmTqGpGqU https://t.co/WldQ1rTIiK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoffeeWithACodex",
+						"indices": [
+							4,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "herman_nick_",
+						"name": "Nick Herman",
+						"id": 947534527286702100,
+						"id_str": "947534527286702080",
+						"indices": [
+							37,
+							50
+						]
+					},
+					{
+						"screen_name": "whitneytrettien",
+						"name": "whitney trettien",
+						"id": 91844423,
+						"id_str": "91844423",
+						"indices": [
+							55,
+							71
+						]
+					},
+					{
+						"screen_name": "upennlib",
+						"name": "The Penn Libraries",
+						"id": 26785044,
+						"id_str": "26785044",
+						"indices": [
+							87,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LgmTqGpGqU",
+						"expanded_url": "https://libcal.library.upenn.edu/event/9711894",
+						"display_url": "libcal.library.upenn.edu/event/9711894",
+						"indices": [
+							187,
+							210
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1580184725100060700,
+						"id_str": "1580184725100060673",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/Fe3xoqMWYAEFGle.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fe3xoqMWYAEFGle.jpg",
+						"url": "https://t.co/WldQ1rTIiK",
+						"display_url": "pic.twitter.com/WldQ1rTIiK",
+						"expanded_url": "https://twitter.com/sims_mss/status/1580184764069183489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 1480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1580184725100060700,
+						"id_str": "1580184725100060673",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/Fe3xoqMWYAEFGle.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fe3xoqMWYAEFGle.jpg",
+						"url": "https://t.co/WldQ1rTIiK",
+						"display_url": "pic.twitter.com/WldQ1rTIiK",
+						"expanded_url": "https://twitter.com/sims_mss/status/1580184764069183489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1020,
+								"h": 1480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1577342407074463700,
+			"in_reply_to_status_id_str": "1577342407074463744",
+			"in_reply_to_user_id": 1364755034,
+			"in_reply_to_user_id_str": "1364755034",
+			"in_reply_to_screen_name": "sims_mss",
+			"user": {
+				"id": 1364755034,
+				"id_str": "1364755034",
+				"name": "Schoenberg Institute for Manuscript Studies",
+				"screen_name": "sims_mss",
+				"location": "University of Pennsylvania",
+				"description": "We tweet about manuscripts, mostly from the collections @upennlib. Tweets by @leoba. SIMS brings manuscript culture, modern technology and people together.",
+				"url": "https://t.co/9fi8c7vl77",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9fi8c7vl77",
+								"expanded_url": "https://schoenberginstitute.org/",
+								"display_url": "schoenberginstitute.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6117,
+				"friends_count": 291,
+				"listed_count": 0,
+				"created_at": "Fri Apr 19 15:54:41 +0000 2013",
+				"favourites_count": 3297,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10094,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/594137660735758336/3sIYpyOO_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/594137660735758336/3sIYpyOO_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1364755034/1399494095",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the first digital book, published ca. 1886? kinda! join us for a 30 minute virtual meet-n-greet with this remarkable object 👇🏻 https://t.co/0Rt3qEBdaz"
+	},
+	{
+		"created_at": "Wed Oct 12 21:56:22 +0000 2022",
+		"id": 1579989312967524400,
+		"id_str": "1580316471313727488",
+		"full_text": "I don’t know what answer my kid’s history teacher wants, but this is the correct one. https://t.co/z6JtCMRaaC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579989307741307000,
+					"id_str": "1579989307741306882",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe0_53zWAAIr4ms.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe0_53zWAAIr4ms.jpg",
+					"url": "https://t.co/z6JtCMRaaC",
+					"display_url": "pic.twitter.com/z6JtCMRaaC",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/1579989312967524352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 175,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579989307741307000,
+					"id_str": "1579989307741306882",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe0_53zWAAIr4ms.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe0_53zWAAIr4ms.jpg",
+					"url": "https://t.co/z6JtCMRaaC",
+					"display_url": "pic.twitter.com/z6JtCMRaaC",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/1579989312967524352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 175,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1416414104,
+			"id_str": "1416414104",
+			"name": "Kathleen Crowther",
+			"screen_name": "Sacrobosco2013",
+			"location": "Norman, OK",
+			"description": "U of Oklahoma prof interested in medieval/early modern history of the book, history of science, history of medicine, digital history #historyteacher she/her",
+			"url": "https://t.co/rjeY1I29Tn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rjeY1I29Tn",
+							"expanded_url": "https://sacroboscoblog.wordpress.com/",
+							"display_url": "sacroboscoblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3394,
+			"friends_count": 2938,
+			"listed_count": 123,
+			"created_at": "Thu May 09 20:37:42 +0000 2013",
+			"favourites_count": 11179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432383772280958983/J7BDBPMd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432383772280958983/J7BDBPMd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1416414104/1607725459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 873,
+		"favorite_count": 10974,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t know what answer my kid’s history teacher wants, but this is the correct one. https://t.co/z6JtCMRaaC"
+	},
+	{
 		"created_at": "Wed Oct 12 01:55:46 +0000 2022",
 		"id": 1579969021990310000,
 		"id_str": "1580014330967658497",
@@ -200,7 +947,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Dan Tracy",
 			"screen_name": "dtracy2",
 			"location": "",
-			"description": "Head, Schol Comm and Publishing, UIUC Library incl our press @iopn_uiuc UX + Digital Publishing, DH, 🌈, 🕺, 🛫,🏃‍♂️,📖. Personal tweets here.",
+			"description": "Head, Schol Comm and Publishing, UIUC Library incl our press @iopn_uiuc UX + Digital Publishing, DH, 🌈, 🕺, 🛫,🏃♂️,📖. Personal tweets here.",
 			"url": "https://t.co/FLbdHNBoRd",
 			"entities": {
 				"url": {
@@ -1205,7 +1952,7 @@ Grailbird.data.tweets_2022_10 =
 				"name": "Anthony Bale",
 				"screen_name": "RealMandeville",
 				"location": "Global citizen via Vauxhall",
-				"description": "Professor of Medieval Studies @Birkbeck_ETC. Travel, medieval lit, cats📚🏳️‍🌈Travel Guide to the Middle Ages @vikingbooksuk 2023. Views mine/Margery Kempe’s",
+				"description": "Professor of Medieval Studies @Birkbeck_ETC. Travel, medieval lit, cats📚🏳️🌈Travel Guide to the Middle Ages @vikingbooksuk 2023. Views mine/Margery Kempe’s",
 				"url": "https://t.co/0kTVa9krzj",
 				"entities": {
 					"url": {
