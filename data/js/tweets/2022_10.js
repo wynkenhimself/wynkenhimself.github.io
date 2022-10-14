@@ -1,6 +1,1688 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 01:51:53 +0000 2022",
+		"id": 1580738129954476000,
+		"id_str": "1580738129954476034",
+		"full_text": "@brimwats There is another Sarah Werner who uses my pharmacy and it was a confusion there for a moment. Sorry about your ankle!!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brimwats",
+					"name": "bri watson 🐝",
+					"id": 3131663476,
+					"id_str": "3131663476",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580736439783805000,
+		"in_reply_to_status_id_str": "1580736439783804929",
+		"in_reply_to_user_id": 3131663476,
+		"in_reply_to_user_id_str": "3131663476",
+		"in_reply_to_screen_name": "brimwats",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brimwats There is another Sarah Werner who uses my pharmacy and it was a confusion there for a moment. Sorry about your ankle!!"
+	},
+	{
+		"created_at": "Thu Oct 13 23:58:11 +0000 2022",
+		"id": 1580709516353581000,
+		"id_str": "1580709516353581056",
+		"full_text": "@Exhaust_Fumes @matthewharrison @avoiding_bears @OliveFSmith I otoh am glad that this tweet brought this convo to my attention because as a breast-haver, I also have many bra/bralette thoughts and most of them are “if you want something with no support than don’t pay for a bra, going bare is free”",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			298
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Exhaust_Fumes",
+					"name": "Vimpire, Ph.Die",
+					"id": 479673005,
+					"id_str": "479673005",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "matthewharrison",
+					"name": "Matthew Scare-ison",
+					"id": 15462844,
+					"id_str": "15462844",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "avoiding_bears",
+					"name": "stamppot met SPOOKjes en anDIEvie",
+					"id": 354306240,
+					"id_str": "354306240",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "OliveFSmith",
+					"name": "Olivia Smith",
+					"id": 2615405743,
+					"id_str": "2615405743",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580678171174715400,
+		"in_reply_to_status_id_str": "1580678171174715392",
+		"in_reply_to_user_id": 479673005,
+		"in_reply_to_user_id_str": "479673005",
+		"in_reply_to_screen_name": "Exhaust_Fumes",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Exhaust_Fumes @matthewharrison @avoiding_bears @OliveFSmith I otoh am glad that this tweet brought this convo to my attention because as a breast-haver, I also have many bra/bralette thoughts and most of them are “if you want something with no support than don’t pay for a bra, going bare is free”"
+	},
+	{
+		"created_at": "Thu Oct 13 22:00:08 +0000 2022",
+		"id": 1580631802267717600,
+		"id_str": "1580679808442257408",
+		"full_text": "UW Library &amp; Press Staff are striking today for fair pay, racial justice, and workplace protections. We've been bargaining with @UW for a year. UW has stalled, come to bargaining unprepared, or simply not responded to proposals. ENOUGH IS ENOUGH!\n\n#UWlibrarySTRIKE @UWLibUnion https://t.co/hmFaqAv6N2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UWlibrarySTRIKE",
+					"indices": [
+						252,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UW",
+					"name": "University of Washington",
+					"id": 27103822,
+					"id_str": "27103822",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"screen_name": "UWLibUnion",
+					"name": "UW Libraries Union",
+					"id": 1309528322691313700,
+					"id_str": "1309528322691313665",
+					"indices": [
+						269,
+						280
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580631695048732700,
+					"id_str": "1580631695048732673",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe-IJvAacAEqQYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe-IJvAacAEqQYY.jpg",
+					"url": "https://t.co/hmFaqAv6N2",
+					"display_url": "pic.twitter.com/hmFaqAv6N2",
+					"expanded_url": "https://twitter.com/SEIU925/status/1580631802267717633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580631695048732700,
+					"id_str": "1580631695048732673",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe-IJvAacAEqQYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe-IJvAacAEqQYY.jpg",
+					"url": "https://t.co/hmFaqAv6N2",
+					"display_url": "pic.twitter.com/hmFaqAv6N2",
+					"expanded_url": "https://twitter.com/SEIU925/status/1580631802267717633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580631695052923000,
+					"id_str": "1580631695052922880",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe-IJvBaYAAjVKE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe-IJvBaYAAjVKE.jpg",
+					"url": "https://t.co/hmFaqAv6N2",
+					"display_url": "pic.twitter.com/hmFaqAv6N2",
+					"expanded_url": "https://twitter.com/SEIU925/status/1580631802267717633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580631695073894400,
+					"id_str": "1580631695073894400",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe-IJvGaYAAHNA_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe-IJvGaYAAHNA_.jpg",
+					"url": "https://t.co/hmFaqAv6N2",
+					"display_url": "pic.twitter.com/hmFaqAv6N2",
+					"expanded_url": "https://twitter.com/SEIU925/status/1580631802267717633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580631695065518000,
+					"id_str": "1580631695065518080",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe-IJvEakAAdScA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe-IJvEakAAdScA.jpg",
+					"url": "https://t.co/hmFaqAv6N2",
+					"display_url": "pic.twitter.com/hmFaqAv6N2",
+					"expanded_url": "https://twitter.com/SEIU925/status/1580631802267717633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69115306,
+			"id_str": "69115306",
+			"name": "SEIU Local 925",
+			"screen_name": "SEIU925",
+			"location": "Washington State",
+			"description": "Working together to provide quality education for children & students, ensure that education remains a state priority, & provide quality public services.",
+			"url": "https://t.co/l2xpAfog9s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l2xpAfog9s",
+							"expanded_url": "http://www.seiu925.org",
+							"display_url": "seiu925.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3168,
+			"friends_count": 1266,
+			"listed_count": 71,
+			"created_at": "Wed Aug 26 22:24:17 +0000 2009",
+			"favourites_count": 6488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/789176584695521280/YqlGvsEn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/789176584695521280/YqlGvsEn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69115306/1629404657",
+			"profile_link_color": "5A0F8C",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UW Library &amp; Press Staff are striking today for fair pay, racial justice, and workplace protections. We've been bargaining with @UW for a year. UW has stalled, come to bargaining unprepared, or simply not responded to proposals. ENOUGH IS ENOUGH!\n\n#UWlibrarySTRIKE @UWLibUnion https://t.co/hmFaqAv6N2"
+	},
+	{
+		"created_at": "Thu Oct 13 21:59:21 +0000 2022",
+		"id": 1580600118255812600,
+		"id_str": "1580679611926515713",
+		"full_text": "I’m writing an essay on trans comics, 1980s-present. Who are your fave comics scholars writing about trans cartoonists? What interviews with trans cartoonists do you love where the artists talk about their process? Thx in advance for any thoughts!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28635393,
+			"id_str": "28635393",
+			"name": "Dr. Margaret Galvan",
+			"screen_name": "magdor",
+			"location": "LA x Bklyn x Gainesville x SF",
+			"description": "@UF Asst Prof in visual rhetoric; 2021-22 faculty fellow @HumanAtStanford researching LGBTQ cartoonists. Future @ManifoldScholar @UMinnPress author. She/her.",
+			"url": "https://t.co/pRb9Hmnjdr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pRb9Hmnjdr",
+							"expanded_url": "http://www.margaretgalvan.org",
+							"display_url": "margaretgalvan.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1794,
+			"friends_count": 2448,
+			"listed_count": 26,
+			"created_at": "Fri Apr 03 19:40:23 +0000 2009",
+			"favourites_count": 9107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118945316231876608/jwuEDupN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118945316231876608/jwuEDupN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28635393/1358836684",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m writing an essay on trans comics, 1980s-present. Who are your fave comics scholars writing about trans cartoonists? What interviews with trans cartoonists do you love where the artists talk about their process? Thx in advance for any thoughts!"
+	},
+	{
+		"created_at": "Thu Oct 13 19:09:36 +0000 2022",
+		"id": 1580635664701223000,
+		"id_str": "1580636891753615361",
+		"full_text": "Stay strong, @UWLibUnion. We’re rooting for you to get a good deal. Fair pay for your librarians is a step toward fair pay for ALL librarians. 💪🏽 https://t.co/4yqsgXbVO2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UWLibUnion",
+					"name": "UW Libraries Union",
+					"id": 1309528322691313700,
+					"id_str": "1309528322691313665",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4yqsgXbVO2",
+					"expanded_url": "https://twitter.com/UWLibUnion/status/1580312931887374336",
+					"display_url": "twitter.com/UWLibUnion/sta…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2448732866,
+			"id_str": "2448732866",
+			"name": "Snowden Becker",
+			"screen_name": "snowdenbecker",
+			"location": "Los Angeles, CA",
+			"description": "audiovisual archivist and educator - all opinions my own",
+			"url": "https://t.co/SWBWaU7knw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SWBWaU7knw",
+							"expanded_url": "http://snowdenbecker.com",
+							"display_url": "snowdenbecker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2699,
+			"friends_count": 862,
+			"listed_count": 59,
+			"created_at": "Thu Apr 17 03:36:26 +0000 2014",
+			"favourites_count": 56725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/489066190967296001/fmskInEY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/489066190967296001/fmskInEY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2448732866/1605505128",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580312931887374300,
+		"quoted_status_id_str": "1580312931887374336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4yqsgXbVO2",
+			"expanded": "https://twitter.com/UWLibUnion/status/1580312931887374336",
+			"display": "twitter.com/UWLibUnion/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 12 21:42:18 +0000 2022",
+			"id": 1580312931887374300,
+			"id_str": "1580312931887374336",
+			"full_text": "We strike tomorrow,demanding UW stop games&amp; delay tactics;comes to table prepared to bargain.Fair pay is essential for us to continue supporting UW academic community. Demonstrate support by signing our community petition &amp; picket with us! https://t.co/dUhbqZRCdn @SEIU925 @UW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SEIU925",
+						"name": "SEIU Local 925",
+						"id": 69115306,
+						"id_str": "69115306",
+						"indices": [
+							272,
+							280
+						]
+					},
+					{
+						"screen_name": "UW",
+						"name": "University of Washington",
+						"id": 27103822,
+						"id_str": "27103822",
+						"indices": [
+							281,
+							284
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dUhbqZRCdn",
+						"expanded_url": "https://www.research.net/r/uwlu-community",
+						"display_url": "research.net/r/uwlu-communi…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1309528322691313700,
+				"id_str": "1309528322691313665",
+				"name": "UW Libraries Union",
+				"screen_name": "UWLibUnion",
+				"location": "Washington State",
+				"description": "Union for University of Washington Libraries Professional Staff, Librarians, and UW Press staff - a project of SEIU 925. FB & IG:@UWLibUnion",
+				"url": "https://t.co/iiMGAZuYdy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iiMGAZuYdy",
+								"expanded_url": "https://linktr.ee/UWLibUnion",
+								"display_url": "linktr.ee/UWLibUnion",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1154,
+				"friends_count": 883,
+				"listed_count": 11,
+				"created_at": "Fri Sep 25 16:21:11 +0000 2020",
+				"favourites_count": 608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 311,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1309528701642530817/bs14FCP-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309528701642530817/bs14FCP-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309528322691313665/1619890853",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "300bcc6e23a88361",
+				"url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+				"place_type": "city",
+				"name": "Seattle",
+				"full_name": "Seattle, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.436232,
+								47.4953154
+							],
+							[
+								-122.2249728,
+								47.4953154
+							],
+							[
+								-122.2249728,
+								47.734319
+							],
+							[
+								-122.436232,
+								47.734319
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 150,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stay strong, @UWLibUnion. We’re rooting for you to get a good deal. Fair pay for your librarians is a step toward fair pay for ALL librarians. 💪🏽 https://t.co/4yqsgXbVO2"
+	},
+	{
+		"created_at": "Thu Oct 13 18:30:08 +0000 2022",
+		"id": 1580607818381480000,
+		"id_str": "1580626958102429696",
+		"full_text": "Every single word Tucker Carlson says in this clip was read off of a prompter. https://t.co/FjtqUXsMrF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FjtqUXsMrF",
+					"expanded_url": "https://twitter.com/abughazalehkat/status/1580349740784398337",
+					"display_url": "twitter.com/abughazalehkat…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 634734888,
+			"id_str": "634734888",
+			"name": "Parker Molloy",
+			"screen_name": "ParkerMolloy",
+			"location": "Chicago, IL",
+			"description": "wife of @KaylaPekkala, writer of things, please subscribe to my newsletter: https://t.co/iXtcU97ZDn",
+			"url": "https://t.co/FCAN38rBAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FCAN38rBAI",
+							"expanded_url": "https://linktr.ee/parkermolloy",
+							"display_url": "linktr.ee/parkermolloy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iXtcU97ZDn",
+							"expanded_url": "http://readtpa.com",
+							"display_url": "readtpa.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253255,
+			"friends_count": 2635,
+			"listed_count": 2633,
+			"created_at": "Fri Jul 13 15:32:43 +0000 2012",
+			"favourites_count": 245564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578729206514679808/xniwfKTM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578729206514679808/xniwfKTM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/634734888/1665233935",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580349740784398300,
+		"quoted_status_id_str": "1580349740784398337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FjtqUXsMrF",
+			"expanded": "https://twitter.com/abughazalehkat/status/1580349740784398337",
+			"display": "twitter.com/abughazalehkat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 13 00:08:34 +0000 2022",
+			"id": 1580349740784398300,
+			"id_str": "1580349740784398337",
+			"full_text": "Tucker Carlson is talking about John Fetterman like he's a cyborg:\n\n\"Where exactly does the software end and John Fetterman's consciousness begin? We don't know. We can't know.\" https://t.co/hKcSxLOF2o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1580349645997445000,
+						"id_str": "1580349645997445121",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580349645997445121/pu/img/3m8ZMWCISn1MRmMA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580349645997445121/pu/img/3m8ZMWCISn1MRmMA.jpg",
+						"url": "https://t.co/hKcSxLOF2o",
+						"display_url": "pic.twitter.com/hKcSxLOF2o",
+						"expanded_url": "https://twitter.com/abughazalehkat/status/1580349740784398337/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1580349645997445000,
+						"id_str": "1580349645997445121",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580349645997445121/pu/img/3m8ZMWCISn1MRmMA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580349645997445121/pu/img/3m8ZMWCISn1MRmMA.jpg",
+						"url": "https://t.co/hKcSxLOF2o",
+						"display_url": "pic.twitter.com/hKcSxLOF2o",
+						"expanded_url": "https://twitter.com/abughazalehkat/status/1580349740784398337/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 77244,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1580349645997445121/pu/vid/1280x720/WeA-ed_Isa0bVAvm.mp4?tag=14"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1580349645997445121/pu/vid/480x270/WL41BzAxmYM3JJth.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1580349645997445121/pu/pl/Xzs8FJxRRa4nu6Pe.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1580349645997445121/pu/vid/640x360/KbJ9hJ3Q8SN0D9p4.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2868329501,
+				"id_str": "2868329501",
+				"name": "Kat Abu",
+				"screen_name": "abughazalehkat",
+				"location": "Washington, DC",
+				"description": "I watch Tucker Carlson so you don’t have to. | @mmfa | 🇵🇸 | views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25280,
+				"friends_count": 690,
+				"listed_count": 226,
+				"created_at": "Sun Nov 09 02:26:02 +0000 2014",
+				"favourites_count": 28757,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1317472524318494722/WV3syXeV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317472524318494722/WV3syXeV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2868329501/1613700454",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 113,
+			"favorite_count": 800,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 51,
+		"favorite_count": 401,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every single word Tucker Carlson says in this clip was read off of a prompter. https://t.co/FjtqUXsMrF"
+	},
+	{
+		"created_at": "Thu Oct 13 15:48:46 +0000 2022",
+		"id": 1580586350914723800,
+		"id_str": "1580586350914723844",
+		"full_text": "@transbookhistry lol he really does live the all-carrot life then! What a good boy",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580583009644073000,
+		"in_reply_to_status_id_str": "1580583009644072964",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry lol he really does live the all-carrot life then! What a good boy"
+	},
+	{
+		"created_at": "Thu Oct 13 15:14:43 +0000 2022",
+		"id": 1580392443031089200,
+		"id_str": "1580577779598655494",
+		"full_text": "Today, ClarkU Graduate Workers United (CUGWU—Teamsters) UNANIMOUSLY ratified our first contract, locking-in up to 90% wage increases and deep subsidies for health insurance after a decisive 5-day strike. Here’s how we did it 🧵 https://t.co/BkLY3vYslX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580392225229398000,
+					"id_str": "1580392225229398017",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6uWwaWYAEN15J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6uWwaWYAEN15J.jpg",
+					"url": "https://t.co/BkLY3vYslX",
+					"display_url": "pic.twitter.com/BkLY3vYslX",
+					"expanded_url": "https://twitter.com/CUGWU_Teamsters/status/1580392443031089152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580392225229398000,
+					"id_str": "1580392225229398017",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6uWwaWYAEN15J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6uWwaWYAEN15J.jpg",
+					"url": "https://t.co/BkLY3vYslX",
+					"display_url": "pic.twitter.com/BkLY3vYslX",
+					"expanded_url": "https://twitter.com/CUGWU_Teamsters/status/1580392443031089152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1372555282950262800,
+			"id_str": "1372555282950262786",
+			"name": "ClarkU Graduate Workers United (CUGWU) - Teamsters",
+			"screen_name": "CUGWU_Teamsters",
+			"location": "Worcester, MA",
+			"description": "A union of graduate workers across Clark University. Teachers, researchers, and proud members of @Teamsters Local 170!",
+			"url": "https://t.co/ARkJIkAs02",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ARkJIkAs02",
+							"expanded_url": "https://linktr.ee/CUGWU",
+							"display_url": "linktr.ee/CUGWU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 855,
+			"friends_count": 220,
+			"listed_count": 8,
+			"created_at": "Thu Mar 18 14:28:27 +0000 2021",
+			"favourites_count": 343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491512783753691140/bTu8ZIAd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491512783753691140/bTu8ZIAd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372555282950262786/1665283467",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 241,
+		"favorite_count": 1329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, ClarkU Graduate Workers United (CUGWU—Teamsters) UNANIMOUSLY ratified our first contract, locking-in up to 90% wage increases and deep subsidies for health insurance after a decisive 5-day strike. Here’s how we did it 🧵 https://t.co/BkLY3vYslX"
+	},
+	{
+		"created_at": "Thu Oct 13 15:13:47 +0000 2022",
+		"id": 1580577547506499600,
+		"id_str": "1580577547506499588",
+		"full_text": "@transbookhistry to live a life of carrots and no sticks! (although I'm guessing Arlo likes chasing sticks which makes my stupid joke work less well)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1580573177507299300,
+		"in_reply_to_status_id_str": "1580573177507299329",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 520,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry to live a life of carrots and no sticks! (although I'm guessing Arlo likes chasing sticks which makes my stupid joke work less well)"
+	},
+	{
 		"created_at": "Thu Oct 13 01:29:34 +0000 2022",
 		"id": 1580212588436418600,
 		"id_str": "1580370124607197184",
