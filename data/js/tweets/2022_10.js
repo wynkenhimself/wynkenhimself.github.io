@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 20:21:55 +0000 2022",
+		"id": 1581075264213115000,
+		"id_str": "1581379866674724864",
+		"full_text": "Incredible organizing by the Philadelphia Museum of Art workers. What they’ve pulled off at PMA is going to serve as a model for workers at museums and cultural institutions across the country. ✨ https://t.co/shOXE7mwQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/shOXE7mwQb",
+					"expanded_url": "https://twitter.com/pma_union/status/1581001140161781760",
+					"display_url": "twitter.com/pma_union/stat…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16227216,
+			"id_str": "16227216",
+			"name": "Smaran Dayal",
+			"screen_name": "smaran",
+			"location": "New Jersey",
+			"description": "(he/him) Asst Prof of Literature | PhD @nyuniversity | Sci-Fi & Colonialism | Fictions of America: https://t.co/lOPWJqL0ga | 🏳️‍🌈👨🏽‍🚀🌹",
+			"url": "https://t.co/iOsGHTyK61",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iOsGHTyK61",
+							"expanded_url": "http://smaran.info",
+							"display_url": "smaran.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lOPWJqL0ga",
+							"expanded_url": "http://bit.ly/FoA-anthology",
+							"display_url": "bit.ly/FoA-anthology",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5517,
+			"friends_count": 5570,
+			"listed_count": 26,
+			"created_at": "Wed Sep 10 19:54:04 +0000 2008",
+			"favourites_count": 75294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "231709",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1430735397441658886/7BhgTkN0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430735397441658886/7BhgTkN0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16227216/1612389255",
+			"profile_link_color": "555555",
+			"profile_sidebar_border_color": "A5A5A5",
+			"profile_sidebar_fill_color": "E7EEF8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581001140161781800,
+		"quoted_status_id_str": "1581001140161781760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/shOXE7mwQb",
+			"expanded": "https://twitter.com/pma_union/status/1581001140161781760",
+			"display": "twitter.com/pma_union/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 19:17:00 +0000 2022",
+			"id": 1581001140161781800,
+			"id_str": "1581001140161781760",
+			"full_text": "19th day of our historic strike: @PMA_Union has reached a tentative agreement with @philamuseum management!! There were 5 issues going into the strike. We got all 5. Management claimed they wouldn’t move. They did. Say it with us: UNITED WE FIGHT UNITED WE WIN https://t.co/yKvCXykZBJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PMA_Union",
+						"name": "Philadelphia Museum of Art Union #ONSTRIKE",
+						"id": 1263843466209038300,
+						"id_str": "1263843466209038337",
+						"indices": [
+							33,
+							43
+						]
+					},
+					{
+						"screen_name": "philamuseum",
+						"name": "Philadelphia Museum of Art",
+						"id": 15625377,
+						"id_str": "15625377",
+						"indices": [
+							83,
+							95
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1581001089314332700,
+						"id_str": "1581001089314332673",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581001089314332673/pu/img/qwMSelVKG0qNVOTb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581001089314332673/pu/img/qwMSelVKG0qNVOTb.jpg",
+						"url": "https://t.co/yKvCXykZBJ",
+						"display_url": "pic.twitter.com/yKvCXykZBJ",
+						"expanded_url": "https://twitter.com/PMA_Union/status/1581001140161781760/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581001089314332700,
+						"id_str": "1581001089314332673",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581001089314332673/pu/img/qwMSelVKG0qNVOTb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581001089314332673/pu/img/qwMSelVKG0qNVOTb.jpg",
+						"url": "https://t.co/yKvCXykZBJ",
+						"display_url": "pic.twitter.com/yKvCXykZBJ",
+						"expanded_url": "https://twitter.com/PMA_Union/status/1581001140161781760/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 8140,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581001089314332673/pu/vid/480x270/SV-Q3Hhhd46QMBvr.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581001089314332673/pu/vid/640x360/HxFn_W0-L5MF_4hP.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581001089314332673/pu/vid/960x540/U-tpNoBRQ4m0I2RZ.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1581001089314332673/pu/pl/0xvq_Hqutgj3-3Xy.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1263843466209038300,
+				"id_str": "1263843466209038337",
+				"name": "Philadelphia Museum of Art Union #ONSTRIKE",
+				"screen_name": "PMA_Union",
+				"location": "",
+				"description": "The working people behind the Philadelphia Museum of Art. @PHLafscmeDC47 Local 397. Part of @CWUafscme. Logo: Nick Massarelli | Contact: solidarity@pmaunion.com",
+				"url": "https://t.co/pI6ofjy8BM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pI6ofjy8BM",
+								"expanded_url": "http://pmaunion.com",
+								"display_url": "pmaunion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6024,
+				"friends_count": 982,
+				"listed_count": 37,
+				"created_at": "Fri May 22 14:45:53 +0000 2020",
+				"favourites_count": 1366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2484,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263906293435322368/xhCyJQbU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263843466209038337/1656019637",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1258,
+			"favorite_count": 4184,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incredible organizing by the Philadelphia Museum of Art workers. What they’ve pulled off at PMA is going to serve as a model for workers at museums and cultural institutions across the country. ✨ https://t.co/shOXE7mwQb"
+	},
+	{
+		"created_at": "Sat Oct 15 17:17:20 +0000 2022",
+		"id": 1581333414661480400,
+		"id_str": "1581333414661480448",
+		"full_text": "@JackLynch000 Hmm, depends on the circles one moves in?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackLynch000",
+					"name": "Jack Lynch",
+					"id": 605721235,
+					"id_str": "605721235",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1581332015122501600,
+		"in_reply_to_status_id_str": "1581332015122501633",
+		"in_reply_to_user_id": 605721235,
+		"in_reply_to_user_id_str": "605721235",
+		"in_reply_to_screen_name": "JackLynch000",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackLynch000 Hmm, depends on the circles one moves in?"
+	},
+	{
 		"created_at": "Fri Oct 14 18:26:03 +0000 2022",
 		"id": 1580988318938189800,
 		"id_str": "1580988318938189824",
@@ -2063,7 +2530,7 @@ Grailbird.data.tweets_2022_10 =
 				"name": "Rana Rahimpour",
 				"screen_name": "ranarahimpour",
 				"location": "London, England",
-				"description": "BBC World Service Lead Presenter, Iran specialist   رعنا رحیم‌پور، مجری و خبرنگار بی‌بی‌سی جهانی",
+				"description": "BBC World Service Lead Presenter, Iran specialist   رعنا رحیمپور، مجری و خبرنگار بیبیسی جهانی",
 				"url": "https://t.co/1kCmX59zU6",
 				"entities": {
 					"url": {
