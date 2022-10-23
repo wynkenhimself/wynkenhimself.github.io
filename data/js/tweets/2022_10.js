@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 17:37:08 +0000 2022",
+		"id": 1583806405089276000,
+		"id_str": "1583875113782771712",
+		"full_text": "CSPAN filmed in my classroom a few weeks ago, and the lecture first aired this morning. I received this message not even an hour after. \n\nAn instant classic of the genre. https://t.co/lw8pi86yFj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583806400492355600,
+					"id_str": "1583806400492355584",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FfrPh6ZWQAAzw5e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfrPh6ZWQAAzw5e.jpg",
+					"url": "https://t.co/lw8pi86yFj",
+					"display_url": "pic.twitter.com/lw8pi86yFj",
+					"expanded_url": "https://twitter.com/jm_beatty/status/1583806405089275904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 2028,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583806400492355600,
+					"id_str": "1583806400492355584",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FfrPh6ZWQAAzw5e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfrPh6ZWQAAzw5e.jpg",
+					"url": "https://t.co/lw8pi86yFj",
+					"display_url": "pic.twitter.com/lw8pi86yFj",
+					"expanded_url": "https://twitter.com/jm_beatty/status/1583806405089275904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 2028,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 178907782,
+			"id_str": "178907782",
+			"name": "Jacqueline Beatty, Ph.D.",
+			"screen_name": "jm_beatty",
+			"location": "The Red Rose City",
+			"description": "History professor studying early American women & gender. Runner; baker; list maker. Never met a cheese I didn’t like. I should be writing. Views mine.",
+			"url": "https://t.co/u1guXTZIW0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u1guXTZIW0",
+							"expanded_url": "http://www.jacquelinebeatty.com",
+							"display_url": "jacquelinebeatty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1737,
+			"friends_count": 734,
+			"listed_count": 28,
+			"created_at": "Mon Aug 16 00:47:23 +0000 2010",
+			"favourites_count": 8505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109158990909526018/A92SZc4u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109158990909526018/A92SZc4u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/178907782/1583891599",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 6767,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CSPAN filmed in my classroom a few weeks ago, and the lecture first aired this morning. I received this message not even an hour after. \n\nAn instant classic of the genre. https://t.co/lw8pi86yFj"
+	},
+	{
+		"created_at": "Sat Oct 22 16:27:29 +0000 2022",
+		"id": 1583829665692516400,
+		"id_str": "1583857584679030784",
+		"full_text": "\"I also said that many people want literature to be like a woman: comfortable, submissive, and pleasing to the eye. I am not interested in that sort of expectation—either as a writer or as a woman.\" - Daria Serenko on being a Russian poet against the war \nhttps://t.co/fY8dARkqkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fY8dARkqkC",
+					"expanded_url": "https://www.nybooks.com/online/2022/10/22/fighting-words-daria-serenko/",
+					"display_url": "nybooks.com/online/2022/10…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3180799929,
+			"id_str": "3180799929",
+			"name": "Jennifer Wilson",
+			"screen_name": "JenLouiseWilson",
+			"location": "NYC",
+			"description": "contributing essayist @nytimesbooks | contributing writer @BooksandtheArts | adjunct prof CUNY @newmarkjschool",
+			"url": "https://t.co/5hCHZtKWXQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5hCHZtKWXQ",
+							"expanded_url": "http://www.jennyfromthebloc.com",
+							"display_url": "jennyfromthebloc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8021,
+			"friends_count": 1155,
+			"listed_count": 106,
+			"created_at": "Sat Apr 18 21:09:42 +0000 2015",
+			"favourites_count": 8122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334545356458221570/bU8idGNO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334545356458221570/bU8idGNO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3180799929/1607089844",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I also said that many people want literature to be like a woman: comfortable, submissive, and pleasing to the eye. I am not interested in that sort of expectation—either as a writer or as a woman.\" - Daria Serenko on being a Russian poet against the war \nhttps://t.co/fY8dARkqkC"
+	},
+	{
 		"created_at": "Sat Oct 22 01:01:04 +0000 2022",
 		"id": 1583624445834711000,
 		"id_str": "1583624445834711041",
