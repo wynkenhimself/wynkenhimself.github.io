@@ -1,6 +1,974 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 15:49:00 +0000 2022",
+		"id": 1584210286155743200,
+		"id_str": "1584210286155743232",
+		"full_text": "@prisonculture Pinging @richendabrim who if she’s checking twitter might be able to help! (I know other conservators who don’t seem to follow you, but I can try to connect you with them if it’d be useful)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prisonculture",
+					"name": "The original & frequently unfollowed",
+					"id": 162436508,
+					"id_str": "162436508",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "richendabrim",
+					"name": "Richenda Brim",
+					"id": 14229353,
+					"id_str": "14229353",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584207210720026600,
+		"in_reply_to_status_id_str": "1584207210720026624",
+		"in_reply_to_user_id": 162436508,
+		"in_reply_to_user_id_str": "162436508",
+		"in_reply_to_screen_name": "prisonculture",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10179,
+			"friends_count": 521,
+			"listed_count": 374,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@prisonculture Pinging @richendabrim who if she’s checking twitter might be able to help! (I know other conservators who don’t seem to follow you, but I can try to connect you with them if it’d be useful)"
+	},
+	{
+		"created_at": "Sun Oct 23 13:09:21 +0000 2022",
+		"id": 1584170110998048800,
+		"id_str": "1584170110998048768",
+		"full_text": "@ouinne It really is! Such care and deliberation!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ouinne",
+					"name": "ouinne, through the healing power of Christ",
+					"id": 842648402,
+					"id_str": "842648402",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584169793372196900,
+		"in_reply_to_status_id_str": "1584169793372196865",
+		"in_reply_to_user_id": 842648402,
+		"in_reply_to_user_id_str": "842648402",
+		"in_reply_to_screen_name": "ouinne",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10179,
+			"friends_count": 521,
+			"listed_count": 374,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ouinne It really is! Such care and deliberation!"
+	},
+	{
+		"created_at": "Sun Oct 23 13:07:38 +0000 2022",
+		"id": 1584169680088236000,
+		"id_str": "1584169680088236033",
+		"full_text": "2) Book hoarding and insisting there’s only one way to be worthy of knowledge (be white) (account locked, didn’t realize, here’s a screenshot of the series of these) https://t.co/N2HSCZ5meh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N2HSCZ5meh",
+					"expanded_url": "https://twitter.com/aimjonesmovip1/status/1584023671269576705",
+					"display_url": "twitter.com/aimjonesmovip1…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584169087642394600,
+		"in_reply_to_status_id_str": "1584169087642394624",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10179,
+			"friends_count": 521,
+			"listed_count": 374,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584023671269576700,
+		"quoted_status_id_str": "1584023671269576705",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N2HSCZ5meh",
+			"expanded": "https://twitter.com/aimjonesmovip1/status/1584023671269576705",
+			"display": "twitter.com/aimjonesmovip1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 23 03:27:27 +0000 2022",
+			"id": 1584023671269576700,
+			"id_str": "1584023671269576705",
+			"full_text": "@DrFrankRoberts @MissKilahMarie He thinks going private is doing something. Here’s a screenshot of the tweet: https://t.co/2psikO8uO3",
+			"truncated": false,
+			"display_text_range": [
+				32,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrFrankRoberts",
+						"name": "Dr. Frank Leon Roberts",
+						"id": 47778060,
+						"id_str": "47778060",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "MissKilahMarie",
+						"name": "slim.",
+						"id": 46446398,
+						"id_str": "46446398",
+						"indices": [
+							16,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1584023666639216600,
+						"id_str": "1584023666639216640",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/FfuVId3XoAAX54H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfuVId3XoAAX54H.jpg",
+						"url": "https://t.co/2psikO8uO3",
+						"display_url": "pic.twitter.com/2psikO8uO3",
+						"expanded_url": "https://twitter.com/aimjonesmovip1/status/1584023671269576705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 457,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 556,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 556,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584023666639216600,
+						"id_str": "1584023666639216640",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/FfuVId3XoAAX54H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfuVId3XoAAX54H.jpg",
+						"url": "https://t.co/2psikO8uO3",
+						"display_url": "pic.twitter.com/2psikO8uO3",
+						"expanded_url": "https://twitter.com/aimjonesmovip1/status/1584023671269576705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 457,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 556,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 556,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1583950453590458400,
+			"in_reply_to_status_id_str": "1583950453590458368",
+			"in_reply_to_user_id": 47778060,
+			"in_reply_to_user_id_str": "47778060",
+			"in_reply_to_screen_name": "DrFrankRoberts",
+			"user": {
+				"id": 2846892378,
+				"id_str": "2846892378",
+				"name": "AJ",
+				"screen_name": "aimjonesmovip1",
+				"location": "Missouri, USA",
+				"description": "Aspiring Super Woman.",
+				"url": "https://t.co/naZXK368po",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/naZXK368po",
+								"expanded_url": "https://www.linkedin.com/in/aimeejoneskansascity/",
+								"display_url": "linkedin.com/in/aimeejonesk…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 146,
+				"friends_count": 240,
+				"listed_count": 0,
+				"created_at": "Wed Oct 08 09:31:16 +0000 2014",
+				"favourites_count": 39158,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5288,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047668876308361216/a63oV96z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047668876308361216/a63oV96z_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2) Book hoarding and insisting there’s only one way to be worthy of knowledge (be white) (account locked, didn’t realize, here’s a screenshot of the series of these) https://t.co/N2HSCZ5meh"
+	},
+	{
+		"created_at": "Sun Oct 23 13:05:17 +0000 2022",
+		"id": 1584169087642394600,
+		"id_str": "1584169087642394624",
+		"full_text": "1) Book gifting as radically welcoming work (enjoy that Amherst purple!!) https://t.co/bHVMuWkD8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bHVMuWkD8K",
+					"expanded_url": "https://twitter.com/drfrankroberts/status/1583549751756480517",
+					"display_url": "twitter.com/drfrankroberts…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584168563115323400,
+		"in_reply_to_status_id_str": "1584168563115323393",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10179,
+			"friends_count": 521,
+			"listed_count": 374,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583549751756480500,
+		"quoted_status_id_str": "1583549751756480517",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bHVMuWkD8K",
+			"expanded": "https://twitter.com/drfrankroberts/status/1583549751756480517",
+			"display": "twitter.com/drfrankroberts…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 21 20:04:16 +0000 2022",
+			"id": 1583549751756480500,
+			"id_str": "1583549751756480517",
+			"full_text": "my rule: any student who comes to my office hours can keep any book on my shelf that they like. all they need do is ask. i had a prof who used to do this back in college &amp; ive always remembered how special it made the student-teacher relationship. lets continue this tradition. https://t.co/xaQE9Gmv24",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1583548198005645300,
+						"id_str": "1583548198005645315",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/FfnksjLWIAMPtDQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfnksjLWIAMPtDQ.jpg",
+						"url": "https://t.co/xaQE9Gmv24",
+						"display_url": "pic.twitter.com/xaQE9Gmv24",
+						"expanded_url": "https://twitter.com/DrFrankRoberts/status/1583549751756480517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1583548198005645300,
+						"id_str": "1583548198005645315",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/FfnksjLWIAMPtDQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfnksjLWIAMPtDQ.jpg",
+						"url": "https://t.co/xaQE9Gmv24",
+						"display_url": "pic.twitter.com/xaQE9Gmv24",
+						"expanded_url": "https://twitter.com/DrFrankRoberts/status/1583549751756480517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1583548198009839600,
+						"id_str": "1583548198009839628",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/FfnksjMWIAwQGZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfnksjMWIAwQGZR.jpg",
+						"url": "https://t.co/xaQE9Gmv24",
+						"display_url": "pic.twitter.com/xaQE9Gmv24",
+						"expanded_url": "https://twitter.com/DrFrankRoberts/status/1583549751756480517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1583548198018289700,
+						"id_str": "1583548198018289665",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/FfnksjOXEAElNQs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfnksjOXEAElNQs.jpg",
+						"url": "https://t.co/xaQE9Gmv24",
+						"display_url": "pic.twitter.com/xaQE9Gmv24",
+						"expanded_url": "https://twitter.com/DrFrankRoberts/status/1583549751756480517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1583548198018326500,
+						"id_str": "1583548198018326529",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/FfnksjOXoAEwXv9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfnksjOXoAEwXv9.jpg",
+						"url": "https://t.co/xaQE9Gmv24",
+						"display_url": "pic.twitter.com/xaQE9Gmv24",
+						"expanded_url": "https://twitter.com/DrFrankRoberts/status/1583549751756480517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47778060,
+				"id_str": "47778060",
+				"name": "Dr. Frank Leon Roberts",
+				"screen_name": "DrFrankRoberts",
+				"location": "Harlem, New York City",
+				"description": "English Professor at Amherst College. Co-Founder of The National Black Justice Coalition & Executive Director of The Baldwin Hansberry Project. NYC Native.",
+				"url": "https://t.co/NOPlyDWwJ8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NOPlyDWwJ8",
+								"expanded_url": "https://www.kepplerspeakers.com/speakers/frank-leon-roberts",
+								"display_url": "kepplerspeakers.com/speakers/frank…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4945,
+				"friends_count": 1618,
+				"listed_count": 55,
+				"created_at": "Tue Jun 16 23:42:57 +0000 2009",
+				"favourites_count": 534,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11476,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1530917828961910784/2G4DrPgm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530917828961910784/2G4DrPgm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47778060/1413197323",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1453,
+			"favorite_count": 16994,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1) Book gifting as radically welcoming work (enjoy that Amherst purple!!) https://t.co/bHVMuWkD8K"
+	},
+	{
 		"created_at": "Sat Oct 22 17:37:08 +0000 2022",
 		"id": 1583806405089276000,
 		"id_str": "1583875113782771712",
