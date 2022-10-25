@@ -1,6 +1,2510 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 00:00:53 +0000 2022",
+		"id": 1584696463900442600,
+		"id_str": "1584696463900442624",
+		"full_text": "@jessamyn I love thinking about the material features of books and that definitely includes book lights!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jessamyn",
+					"name": "Jessamyn West",
+					"id": 75913,
+					"id_str": "75913",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584695941625675800,
+		"in_reply_to_status_id_str": "1584695941625675776",
+		"in_reply_to_user_id": 75913,
+		"in_reply_to_user_id_str": "75913",
+		"in_reply_to_screen_name": "jessamyn",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jessamyn I love thinking about the material features of books and that definitely includes book lights!"
+	},
+	{
+		"created_at": "Tue Oct 25 00:00:01 +0000 2022",
+		"id": 1584695941625675800,
+		"id_str": "1584696244529602561",
+		"full_text": "Librarians (and other bookish nerdy folks) this look into where book lights came from is a great read. https://t.co/PiINmp2o33",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PiINmp2o33",
+					"expanded_url": "https://twitter.com/AndrewLiptak/status/1584642995189469184",
+					"display_url": "twitter.com/AndrewLiptak/s…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75913,
+			"id_str": "75913",
+			"name": "Jessamyn West",
+			"screen_name": "jessamyn",
+			"location": "VT (unceded Abenaki territory)",
+			"description": "Rural tech geek. Researcher. Member of the librarian resistance. Moss collector. Postcard enjoyer. I technically own MetaFilter. She/her.  ✉️ box 345 05060 ✉️",
+			"url": "https://t.co/EFwfsJCaD3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EFwfsJCaD3",
+							"expanded_url": "http://tinyletter.com/jessamyn",
+							"display_url": "tinyletter.com/jessamyn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28070,
+			"friends_count": 2019,
+			"listed_count": 1457,
+			"created_at": "Sun Dec 17 19:27:43 +0000 2006",
+			"favourites_count": 54014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 50988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F3FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1382385351965212687/uy_q1iZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382385351965212687/uy_q1iZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75913/1664652261",
+			"profile_link_color": "6E818A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E2F0EA",
+			"profile_text_color": "263663",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584642995189469200,
+		"quoted_status_id_str": "1584642995189469184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PiINmp2o33",
+			"expanded": "https://twitter.com/AndrewLiptak/status/1584642995189469184",
+			"display": "twitter.com/AndrewLiptak/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 24 20:28:25 +0000 2022",
+			"id": 1584642995189469200,
+			"id_str": "1584642995189469184",
+			"full_text": "I’ve been thinking about where book lights came from, and did some digging: the earliest patent that I found was from 1937: the Electrical Pocket Writing and Reading Lamp. The form has remained pretty consistent ever since. https://t.co/R3uxKnSGTS https://t.co/2XFIt5bCyM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R3uxKnSGTS",
+						"expanded_url": "https://transfer-orbit.ghost.io/bowio-book-reading-light-tech-review/",
+						"display_url": "transfer-orbit.ghost.io/bowio-book-rea…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1584642989896437800,
+						"id_str": "1584642989896437764",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff3IZ0yXEAQ5GC_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff3IZ0yXEAQ5GC_.jpg",
+						"url": "https://t.co/2XFIt5bCyM",
+						"display_url": "pic.twitter.com/2XFIt5bCyM",
+						"expanded_url": "https://twitter.com/AndrewLiptak/status/1584642995189469184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 463,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 817,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1394,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584642989896437800,
+						"id_str": "1584642989896437764",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff3IZ0yXEAQ5GC_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff3IZ0yXEAQ5GC_.jpg",
+						"url": "https://t.co/2XFIt5bCyM",
+						"display_url": "pic.twitter.com/2XFIt5bCyM",
+						"expanded_url": "https://twitter.com/AndrewLiptak/status/1584642995189469184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 463,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 817,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1394,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1584575068394631200,
+			"in_reply_to_status_id_str": "1584575068394631168",
+			"in_reply_to_user_id": 16742847,
+			"in_reply_to_user_id_str": "16742847",
+			"in_reply_to_screen_name": "AndrewLiptak",
+			"user": {
+				"id": 16742847,
+				"id_str": "16742847",
+				"name": "Aɴᴅʀᴇᴡ Lɪᴘᴛᴀᴋ",
+				"screen_name": "AndrewLiptak",
+				"location": "Abenaki land (Vermont)",
+				"description": "Nerd writer. Cosplay: A History now out! Newsletter: https://t.co/DAyJWKvaxp he / him / his",
+				"url": "https://t.co/xxMXOzQE0x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xxMXOzQE0x",
+								"expanded_url": "https://linktr.ee/AndrewLiptak",
+								"display_url": "linktr.ee/AndrewLiptak",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DAyJWKvaxp",
+								"expanded_url": "http://transfer-orbit.ghost.io",
+								"display_url": "transfer-orbit.ghost.io",
+								"indices": [
+									53,
+									76
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5730,
+				"friends_count": 160,
+				"listed_count": 236,
+				"created_at": "Tue Oct 14 18:09:39 +0000 2008",
+				"favourites_count": 1862,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1140,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1543660703550259202/dEBmKJuW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543660703550259202/dEBmKJuW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16742847/1652116056",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Librarians (and other bookish nerdy folks) this look into where book lights came from is a great read. https://t.co/PiINmp2o33"
+	},
+	{
+		"created_at": "Mon Oct 24 23:10:07 +0000 2022",
+		"id": 1584683685110218800,
+		"id_str": "1584683685110218752",
+		"full_text": "@kzwa Right? The feet are just dangling there and that’s a crick in the neck if I know anything about neck pain which is a fair amount. I do like the cozy sleeping hat though",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kzwa",
+					"name": "Kate Zwaard",
+					"id": 74541831,
+					"id_str": "74541831",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584681628684603400,
+		"in_reply_to_status_id_str": "1584681628684603392",
+		"in_reply_to_user_id": 74541831,
+		"in_reply_to_user_id_str": "74541831",
+		"in_reply_to_screen_name": "kzwa",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kzwa Right? The feet are just dangling there and that’s a crick in the neck if I know anything about neck pain which is a fair amount. I do like the cozy sleeping hat though"
+	},
+	{
+		"created_at": "Mon Oct 24 23:03:25 +0000 2022",
+		"id": 1584567356373708800,
+		"id_str": "1584681999197167618",
+		"full_text": "kids these days never run away to art museums and hide out for weeks solving art mysteries, and that's definitely the biggest generational shift that no one ever talks about.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15059001,
+			"id_str": "15059001",
+			"name": "winston the third",
+			"screen_name": "suchwinston",
+			"location": "Chattanooga, TN",
+			"description": "weird in mundane ways. always learning about disability theory, climate change, & race theory. he/they. tweets delete. || SR PM, DevEx, @honeycombio",
+			"url": "https://t.co/NopFdNVRus",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NopFdNVRus",
+							"expanded_url": "http://winstonhearn.com",
+							"display_url": "winstonhearn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 1038,
+			"listed_count": 124,
+			"created_at": "Mon Jun 09 14:26:42 +0000 2008",
+			"favourites_count": 17975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504090379091591169/rCzlCFx2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504090379091591169/rCzlCFx2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15059001/1420153611",
+			"profile_link_color": "51AF7D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "kids these days never run away to art museums and hide out for weeks solving art mysteries, and that's definitely the biggest generational shift that no one ever talks about."
+	},
+	{
+		"created_at": "Mon Oct 24 22:50:32 +0000 2022",
+		"id": 1584678757750624300,
+		"id_str": "1584678757750624262",
+		"full_text": "@IAmDylanLewis Ooooh I can come see fountain pens, say hi to you and Lab pals, and give my kid his mail-in ballot and a bear hug! Win-win-win",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IAmDylanLewis",
+					"name": "Dylan Lewis",
+					"id": 168566657,
+					"id_str": "168566657",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584675522323550200,
+		"in_reply_to_status_id_str": "1584675522323550208",
+		"in_reply_to_user_id": 168566657,
+		"in_reply_to_user_id_str": "168566657",
+		"in_reply_to_screen_name": "IAmDylanLewis",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IAmDylanLewis Ooooh I can come see fountain pens, say hi to you and Lab pals, and give my kid his mail-in ballot and a bear hug! Win-win-win"
+	},
+	{
+		"created_at": "Mon Oct 24 22:47:36 +0000 2022",
+		"id": 1584600210978017300,
+		"id_str": "1584678021650591744",
+		"full_text": "Join us next week for this wonderful showcase from campus colleague and collector @OddLetters! No sign up, open to all. More info here: https://t.co/6utAC7AkCs https://t.co/WNFy1ipqle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OddLetters",
+					"name": "💀 Mauls Slaughter 💀",
+					"id": 17789751,
+					"id_str": "17789751",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6utAC7AkCs",
+					"expanded_url": "https://english.umd.edu/events/fountain-pen-showcase",
+					"display_url": "english.umd.edu/events/fountai…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584600206041129000,
+					"id_str": "1584600206041128960",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2hfegXoAAhX_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2hfegXoAAhX_6.jpg",
+					"url": "https://t.co/WNFy1ipqle",
+					"display_url": "pic.twitter.com/WNFy1ipqle",
+					"expanded_url": "https://twitter.com/umd_BookLab/status/1584600210978017281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584600206041129000,
+					"id_str": "1584600206041128960",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2hfegXoAAhX_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2hfegXoAAhX_6.jpg",
+					"url": "https://t.co/WNFy1ipqle",
+					"display_url": "pic.twitter.com/WNFy1ipqle",
+					"expanded_url": "https://twitter.com/umd_BookLab/status/1584600210978017281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1039256136959094800,
+			"id_str": "1039256136959094785",
+			"name": "BooLab 👻 at UMD English",
+			"screen_name": "umd_BookLab",
+			"location": "College Park, MD",
+			"description": "BookLab is @umdenglish's hands-on space for teaching, study, and experimentation with our discipline's most iconic artifact: the codex book. 3248 Tawes Hall.",
+			"url": "https://t.co/eqjTjdPJZw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqjTjdPJZw",
+							"expanded_url": "http://linktr.ee/booklab",
+							"display_url": "linktr.ee/booklab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1184,
+			"friends_count": 703,
+			"listed_count": 13,
+			"created_at": "Mon Sep 10 20:55:46 +0000 2018",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536461097552715782/Ra3VMdSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536461097552715782/Ra3VMdSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039256136959094785/1664921623",
+			"profile_link_color": "8B0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us next week for this wonderful showcase from campus colleague and collector @OddLetters! No sign up, open to all. More info here: https://t.co/6utAC7AkCs https://t.co/WNFy1ipqle"
+	},
+	{
+		"created_at": "Mon Oct 24 21:28:16 +0000 2022",
+		"id": 1584658053168648200,
+		"id_str": "1584658053168648192",
+		"full_text": "@typepunchmatrix I am VERY excited that I smashed that buy button successfully",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "typepunchmatrix",
+					"name": "typepunchmatrix",
+					"id": 1112379679888105500,
+					"id_str": "1112379679888105472",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584657735668277200,
+		"in_reply_to_status_id_str": "1584657735668277248",
+		"in_reply_to_user_id": 1112379679888105500,
+		"in_reply_to_user_id_str": "1112379679888105472",
+		"in_reply_to_screen_name": "typepunchmatrix",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@typepunchmatrix I am VERY excited that I smashed that buy button successfully"
+	},
+	{
+		"created_at": "Mon Oct 24 21:26:24 +0000 2022",
+		"id": 1584657583990005800,
+		"id_str": "1584657583990005760",
+		"full_text": "Did I just buy this?? I took approximately 30 seconds to consider it, and then of course I did. They should’ve just called me directly lolll https://t.co/x9rSJA4tQD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x9rSJA4tQD",
+					"expanded_url": "https://twitter.com/typepunchmatrix/status/1584651427145986048",
+					"display_url": "twitter.com/typepunchmatri…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584651427145986000,
+		"quoted_status_id_str": "1584651427145986048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x9rSJA4tQD",
+			"expanded": "https://twitter.com/typepunchmatrix/status/1584651427145986048",
+			"display": "twitter.com/typepunchmatri…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 24 21:01:56 +0000 2022",
+			"id": 1584651427145986000,
+			"id_str": "1584651427145986048",
+			"full_text": "The past was not black and white! 🌈 This fab wallpaper sample book was produced at the height of the roaring 20s, and encouraged people to make their homes vibrant 🏡 https://t.co/6Yd2oentHK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1584651264972963800,
+						"id_str": "1584651264972963853",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584651264972963853/pu/img/-b7D8smhJwm2Y82Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584651264972963853/pu/img/-b7D8smhJwm2Y82Q.jpg",
+						"url": "https://t.co/6Yd2oentHK",
+						"display_url": "pic.twitter.com/6Yd2oentHK",
+						"expanded_url": "https://twitter.com/typepunchmatrix/status/1584651427145986048/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584651264972963800,
+						"id_str": "1584651264972963853",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584651264972963853/pu/img/-b7D8smhJwm2Y82Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584651264972963853/pu/img/-b7D8smhJwm2Y82Q.jpg",
+						"url": "https://t.co/6Yd2oentHK",
+						"display_url": "pic.twitter.com/6Yd2oentHK",
+						"expanded_url": "https://twitter.com/typepunchmatrix/status/1584651427145986048/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 49400,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1584651264972963853/pu/vid/720x1280/cnBgHSQlDlMyyV09.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1584651264972963853/pu/vid/480x852/8qLHNIuFofkAmpYC.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1584651264972963853/pu/vid/320x568/BL1gWtwuVeTS4a2D.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1584651264972963853/pu/pl/VJWZoKzTuom9U0HB.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1112379679888105500,
+				"id_str": "1112379679888105472",
+				"name": "typepunchmatrix",
+				"screen_name": "typepunchmatrix",
+				"location": "Washington, DC",
+				"description": "A rare book firm by @rebeccaromney & @briancassidy. Buy/sell: info@typepunchmatrix.com. Mailing List: https://t.co/3y0T6XOENb",
+				"url": "https://t.co/L16cK6UowD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L16cK6UowD",
+								"expanded_url": "http://www.typepunchmatrix.com",
+								"display_url": "typepunchmatrix.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3y0T6XOENb",
+								"expanded_url": "http://eepurl.com/gutfU5",
+								"display_url": "eepurl.com/gutfU5",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4007,
+				"friends_count": 260,
+				"listed_count": 39,
+				"created_at": "Sun Mar 31 15:42:37 +0000 2019",
+				"favourites_count": 1642,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1177,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136919917322809346/z7KW5gAs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136919917322809346/z7KW5gAs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112379679888105472/1561900903",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did I just buy this?? I took approximately 30 seconds to consider it, and then of course I did. They should’ve just called me directly lolll https://t.co/x9rSJA4tQD"
+	},
+	{
+		"created_at": "Mon Oct 24 21:22:13 +0000 2022",
+		"id": 1584656531983073300,
+		"id_str": "1584656531983073280",
+		"full_text": "@typepunchmatrix Oh no oh no oh no I think I might need this",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "typepunchmatrix",
+					"name": "typepunchmatrix",
+					"id": 1112379679888105500,
+					"id_str": "1112379679888105472",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584651427145986000,
+		"in_reply_to_status_id_str": "1584651427145986048",
+		"in_reply_to_user_id": 1112379679888105500,
+		"in_reply_to_user_id_str": "1112379679888105472",
+		"in_reply_to_screen_name": "typepunchmatrix",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@typepunchmatrix Oh no oh no oh no I think I might need this"
+	},
+	{
+		"created_at": "Mon Oct 24 21:18:24 +0000 2022",
+		"id": 1584655571680366600,
+		"id_str": "1584655571680366592",
+		"full_text": "@Exhaust_Fumes Happy birthday!! So glad I got to see you this summer after too many years 😘🎉",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Exhaust_Fumes",
+					"name": "Vimpire, Ph.Die",
+					"id": 479673005,
+					"id_str": "479673005",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584642316882497500,
+		"in_reply_to_status_id_str": "1584642316882497536",
+		"in_reply_to_user_id": 479673005,
+		"in_reply_to_user_id_str": "479673005",
+		"in_reply_to_screen_name": "Exhaust_Fumes",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Exhaust_Fumes Happy birthday!! So glad I got to see you this summer after too many years 😘🎉"
+	},
+	{
+		"created_at": "Mon Oct 24 19:21:24 +0000 2022",
+		"id": 1584564587856175000,
+		"id_str": "1584626129876692994",
+		"full_text": "Thread on #archives and generative AI: As an historical film archivist and (by necessity) a seller of stock footage, I'm glued to the emergence of #generativeAI. Like all new media, it promises a deep dish of ordinariness topped by a crust of creativity.  /1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "archives",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"text": "generativeAI",
+					"indices": [
+						147,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 774838,
+			"id_str": "774838",
+			"name": "Rick Prelinger",
+			"screen_name": "footage",
+			"location": "unceded Ohlone land ",
+			"description": "Meta-archivist; library experimenter; \nEmeritProf Film&DigMedia @UCSC; bd mbr @internetarchive; W6XBE. Makes live archival events for noisy audiences.",
+			"url": "https://t.co/a0WJwGUHMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a0WJwGUHMw",
+							"expanded_url": "https://linktr.ee/usefulradio",
+							"display_url": "linktr.ee/usefulradio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13213,
+			"friends_count": 7605,
+			"listed_count": 503,
+			"created_at": "Fri Feb 16 02:25:04 +0000 2007",
+			"favourites_count": 2732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1454622098610012166/WWy84X9o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1454622098610012166/WWy84X9o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/774838/1438562373",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thread on #archives and generative AI: As an historical film archivist and (by necessity) a seller of stock footage, I'm glued to the emergence of #generativeAI. Like all new media, it promises a deep dish of ordinariness topped by a crust of creativity.  /1"
+	},
+	{
+		"created_at": "Mon Oct 24 19:08:40 +0000 2022",
+		"id": 1584199257661198300,
+		"id_str": "1584622923385479168",
+		"full_text": "In case you were wondering if celebrity statements had impact on hate in the real world. \n\nAntisemitism is real. It exists. \n\nWhen we talk about it, and the tropes that it comprises—mostly subtle, shadowy, by design—we can begin to do the work of combatting hate. 1/x https://t.co/ZidhGJB3dG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZidhGJB3dG",
+					"expanded_url": "https://twitter.com/orensegal/status/1584132843285794816",
+					"display_url": "twitter.com/orensegal/stat…",
+					"indices": [
+						268,
+						291
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61802282,
+			"id_str": "61802282",
+			"name": "Rabbi Danya Ruttenberg",
+			"screen_name": "TheRaDR",
+			"location": "http://danyaruttenberg.net",
+			"description": "Rabbi & author. Newest📚ON REPENTANCE & REPAIR. Scholar in Residence @NCJW. Bylines NYT, WaPo etc. Bible/justice newsletter👇Opinions mine. she/her",
+			"url": "https://t.co/Cd1j7wc1zA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cd1j7wc1zA",
+							"expanded_url": "https://lifeisasacredtext.substack.com/",
+							"display_url": "lifeisasacredtext.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164756,
+			"friends_count": 1554,
+			"listed_count": 1249,
+			"created_at": "Fri Jul 31 15:58:03 +0000 2009",
+			"favourites_count": 153578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 159964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544807851507474433/6EOTQp9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544807851507474433/6EOTQp9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61802282/1647296085",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584132843285794800,
+		"quoted_status_id_str": "1584132843285794816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZidhGJB3dG",
+			"expanded": "https://twitter.com/orensegal/status/1584132843285794816",
+			"display": "twitter.com/orensegal/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 23 10:41:16 +0000 2022",
+			"id": 1584132843285794800,
+			"id_str": "1584132843285794816",
+			"full_text": "Hate in America:\n\nYesterday, the head of an antisemitic and white supremacist group (and his supporters) dropped banners over the 405 in Los Angeles. One banner read, \"Kanye is right about the Jews.” https://t.co/FQBFIm0WLX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1584132838516990000,
+						"id_str": "1584132838516989953",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/Ffv4bGzWIAE5ucI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ffv4bGzWIAE5ucI.jpg",
+						"url": "https://t.co/FQBFIm0WLX",
+						"display_url": "pic.twitter.com/FQBFIm0WLX",
+						"expanded_url": "https://twitter.com/orensegal/status/1584132843285794816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1613,
+								"h": 780,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584132838516990000,
+						"id_str": "1584132838516989953",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/Ffv4bGzWIAE5ucI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ffv4bGzWIAE5ucI.jpg",
+						"url": "https://t.co/FQBFIm0WLX",
+						"display_url": "pic.twitter.com/FQBFIm0WLX",
+						"expanded_url": "https://twitter.com/orensegal/status/1584132843285794816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1613,
+								"h": 780,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18311642,
+				"id_str": "18311642",
+				"name": "Oren Segal",
+				"screen_name": "orensegal",
+				"location": "New York City",
+				"description": "Vice President, ADL Center on Extremism. Host, extremely podcast. 60% of my body is coffee. Basketball junkie. Views my own.",
+				"url": "https://t.co/yuQPi0be3M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yuQPi0be3M",
+								"expanded_url": "https://open.spotify.com/show/19KuS0zNvErFBOctfERGvx",
+								"display_url": "open.spotify.com/show/19KuS0zNv…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8935,
+				"friends_count": 2372,
+				"listed_count": 198,
+				"created_at": "Mon Dec 22 17:41:19 +0000 2008",
+				"favourites_count": 5206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8886,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1406038527587065856/E06oJscm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406038527587065856/E06oJscm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18311642/1424481710",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2621,
+			"favorite_count": 6595,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2398,
+		"favorite_count": 6180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you were wondering if celebrity statements had impact on hate in the real world. \n\nAntisemitism is real. It exists. \n\nWhen we talk about it, and the tropes that it comprises—mostly subtle, shadowy, by design—we can begin to do the work of combatting hate. 1/x https://t.co/ZidhGJB3dG"
+	},
+	{
+		"created_at": "Mon Oct 24 18:19:40 +0000 2022",
+		"id": 1584605670866821000,
+		"id_str": "1584610590823223321",
+		"full_text": "I don't know why the President states that this regulation has been \"on the books for at least two decades\" when the regulation was clearly enacted in 1969 at the height of the civil rights protests. https://t.co/WwP8JVfMad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WwP8JVfMad",
+					"expanded_url": "https://twitter.com/TheAlligator/status/1584553237490716672",
+					"display_url": "twitter.com/TheAlligator/s…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50510658,
+			"id_str": "50510658",
+			"name": "Fletcher Durant",
+			"screen_name": "fletcherdurant",
+			"location": "Gainesville, FL",
+			"description": "Head of Conservation and Preservation @UFLib. Preservation is access. Once accurately referred to as an \"associate conservator\" in the NY Times 📚 He/Him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2790,
+			"friends_count": 1373,
+			"listed_count": 82,
+			"created_at": "Thu Jun 25 01:36:37 +0000 2009",
+			"favourites_count": 103602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661666344753111040/RqxrrlLE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661666344753111040/RqxrrlLE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50510658/1523625262",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584553237490716700,
+		"quoted_status_id_str": "1584553237490716672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WwP8JVfMad",
+			"expanded": "https://twitter.com/TheAlligator/status/1584553237490716672",
+			"display": "twitter.com/TheAlligator/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 24 14:31:46 +0000 2022",
+			"id": 1584553237490716700,
+			"id_str": "1584553237490716672",
+			"full_text": "NEW: In an email, @PresidentFuchs said the university won’t allow protesters inside campus buildings at Sasse’s Nov. 1 visit. \n\n“We have not enforced this policy in recent years because in the rare cases that protesters entered buildings, they were respectful,” Fuchs wrote. https://t.co/yNPcAXJryp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PresidentFuchs",
+						"name": "W. Kent Fuchs",
+						"id": 2830389057,
+						"id_str": "2830389057",
+						"indices": [
+							18,
+							33
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1584553231862169600,
+						"id_str": "1584553231862169600",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff12xODXgAAm5VP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff12xODXgAAm5VP.jpg",
+						"url": "https://t.co/yNPcAXJryp",
+						"display_url": "pic.twitter.com/yNPcAXJryp",
+						"expanded_url": "https://twitter.com/TheAlligator/status/1584553237490716672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1179,
+								"h": 1855,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 432,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 763,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584553231862169600,
+						"id_str": "1584553231862169600",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff12xODXgAAm5VP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff12xODXgAAm5VP.jpg",
+						"url": "https://t.co/yNPcAXJryp",
+						"display_url": "pic.twitter.com/yNPcAXJryp",
+						"expanded_url": "https://twitter.com/TheAlligator/status/1584553237490716672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1179,
+								"h": 1855,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 432,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 763,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1584553231883051000,
+						"id_str": "1584553231883051008",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff12xOIWIAA_-vA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff12xOIWIAA_-vA.jpg",
+						"url": "https://t.co/yNPcAXJryp",
+						"display_url": "pic.twitter.com/yNPcAXJryp",
+						"expanded_url": "https://twitter.com/TheAlligator/status/1584553237490716672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1179,
+								"h": 1847,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 434,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 766,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1584553231891501000,
+						"id_str": "1584553231891501058",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ff12xOKXEAIWmiV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ff12xOKXEAIWmiV.jpg",
+						"url": "https://t.co/yNPcAXJryp",
+						"display_url": "pic.twitter.com/yNPcAXJryp",
+						"expanded_url": "https://twitter.com/TheAlligator/status/1584553237490716672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 436,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1179,
+								"h": 1838,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 770,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8737662,
+				"id_str": "8737662",
+				"name": "The Alligator",
+				"screen_name": "TheAlligator",
+				"location": "Gainesville, FL",
+				"description": "Bringing UF and Gainesville the latest since 1906. @TheFloridaAve @alligatorSports",
+				"url": "https://t.co/LERjNUJuWO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LERjNUJuWO",
+								"expanded_url": "http://www.alligator.org",
+								"display_url": "alligator.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39610,
+				"friends_count": 800,
+				"listed_count": 511,
+				"created_at": "Sat Sep 08 01:35:57 +0000 2007",
+				"favourites_count": 3138,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33673,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1522249667806961664/yBgC1nb9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522249667806961664/yBgC1nb9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8737662/1665506274",
+				"profile_link_color": "008C44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "BABABA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 110,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don't know why the President states that this regulation has been \"on the books for at least two decades\" when the regulation was clearly enacted in 1969 at the height of the civil rights protests. https://t.co/WwP8JVfMad"
+	},
+	{
+		"created_at": "Mon Oct 24 12:47:15 +0000 2022",
+		"id": 1584526937896075300,
+		"id_str": "1584526937896075264",
+		"full_text": "This is not actually a subtweet of the white guys mad at the professor giving away books to students, but that works here too",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584526705670369300,
+		"in_reply_to_status_id_str": "1584526705670369283",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/8XCCv74x1h | #Emily4ALA | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8XCCv74x1h",
+							"expanded_url": "https://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 521,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This is not actually a subtweet of the white guys mad at the professor giving away books to students, but that works here too"
+	},
+	{
 		"created_at": "Sun Oct 23 15:49:00 +0000 2022",
 		"id": 1584210286155743200,
 		"id_str": "1584210286155743232",
