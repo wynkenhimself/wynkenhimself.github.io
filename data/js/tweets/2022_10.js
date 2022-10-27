@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 00:00:46 +0000 2022",
+		"id": 1585360564003475500,
+		"id_str": "1585421210673872899",
+		"full_text": "“If there was ever a time for fire in the belly and a radical politics of hope, it is now.”\n\nAs we grieve and honor the legacy of Mike Davis, we've made his classic book, City of Quartz, free to download.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23187207,
+			"id_str": "23187207",
+			"name": "Verso Books",
+			"screen_name": "VersoBooks",
+			"location": "London & New York",
+			"description": "Verso Books is the largest independent, radical publishing house in the English speaking world.",
+			"url": "https://t.co/1s4PzM1MGm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1s4PzM1MGm",
+							"expanded_url": "http://www.versobooks.com",
+							"display_url": "versobooks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130424,
+			"friends_count": 5627,
+			"listed_count": 2402,
+			"created_at": "Sat Mar 07 12:05:47 +0000 2009",
+			"favourites_count": 26152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889515094572486657/xtlkvZ7__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889515094572486657/xtlkvZ7__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23187207/1465828991",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 725,
+		"favorite_count": 1254,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“If there was ever a time for fire in the belly and a radical politics of hope, it is now.”\n\nAs we grieve and honor the legacy of Mike Davis, we've made his classic book, City of Quartz, free to download."
+	},
+	{
+		"created_at": "Wed Oct 26 22:58:12 +0000 2022",
+		"id": 1585318576768323600,
+		"id_str": "1585405463579033600",
+		"full_text": "oh my goodness, superstars @DrKarrSchmidt and @julietsperling are leading a session at the newberry on interactive books and tweeple, thee have to hie thee to the application, which is due Nov. 8\nhttps://t.co/Bb0JsXXfL2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrKarrSchmidt",
+					"name": "Suzanne Karr Schmidt",
+					"id": 941444380036083700,
+					"id_str": "941444380036083713",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "julietsperling",
+					"name": "Juliet Sperling",
+					"id": 1223658701766250500,
+					"id_str": "1223658701766250496",
+					"indices": [
+						46,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bb0JsXXfL2",
+					"expanded_url": "https://www.newberry.org/calendar/hands-on-with-interactive-books?bblinkid=263961737&bbemailid=43078177&bbejrid=-1807508216",
+					"display_url": "newberry.org/calendar/hands…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6151412,
+			"id_str": "6151412",
+			"name": "Matthew P. Brown",
+			"screen_name": "mpbrown",
+			"location": "iowa / city",
+			"description": "faculty / english and the center for the book, u of iowa / series ed, ui press / opinions about drink are, in a certain sense, from my employer",
+			"url": "https://t.co/RWfZKJ0kBo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RWfZKJ0kBo",
+							"expanded_url": "https://english.uiowa.edu/people/matthew-brown",
+							"display_url": "english.uiowa.edu/people/matthew…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 200,
+			"listed_count": 3,
+			"created_at": "Sat May 19 01:47:22 +0000 2007",
+			"favourites_count": 1430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398660126312108037/zfguN7RF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398660126312108037/zfguN7RF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6151412/1499380135",
+			"profile_link_color": "CC9900",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "oh my goodness, superstars @DrKarrSchmidt and @julietsperling are leading a session at the newberry on interactive books and tweeple, thee have to hie thee to the application, which is due Nov. 8\nhttps://t.co/Bb0JsXXfL2"
+	},
+	{
+		"created_at": "Wed Oct 26 19:44:58 +0000 2022",
+		"id": 1585264070667767800,
+		"id_str": "1585356836378533888",
+		"full_text": "Amid all the frenzy and hate over trans and queer children, one group founded by Christian moms is trying to help parents advocate for their LGBTQ+ kids -- and it's working. Check out my piece for @wpmagazine \nhttps://t.co/4OUOASRlMN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wpmagazine",
+					"name": "The Washington Post Magazine",
+					"id": 219343808,
+					"id_str": "219343808",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4OUOASRlMN",
+					"expanded_url": "https://www.washingtonpost.com/magazine/2022/10/26/mama-bears-lgbtq-children/",
+					"display_url": "washingtonpost.com/magazine/2022/…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69691120,
+			"id_str": "69691120",
+			"name": "Britt Peterson",
+			"screen_name": "brittkpeterson",
+			"location": "",
+			"description": "Freelancer for @nytimes, @washingtonpost, @washingtonian etc. Journalism instructor @georgetown. Image by @baynepeterson. She/they 🌈 Repped by @jlkardon",
+			"url": "https://t.co/TOF5Hp9Whk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TOF5Hp9Whk",
+							"expanded_url": "http://brittkpeterson.com",
+							"display_url": "brittkpeterson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 3202,
+			"listed_count": 42,
+			"created_at": "Fri Aug 28 20:48:51 +0000 2009",
+			"favourites_count": 4682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DB12FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/585912102185000960/j339F-07_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/585912102185000960/j339F-07_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69691120/1621261660",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amid all the frenzy and hate over trans and queer children, one group founded by Christian moms is trying to help parents advocate for their LGBTQ+ kids -- and it's working. Check out my piece for @wpmagazine \nhttps://t.co/4OUOASRlMN"
+	},
+	{
+		"created_at": "Wed Oct 26 17:21:14 +0000 2022",
+		"id": 1585093564379566000,
+		"id_str": "1585320662721241088",
+		"full_text": "....the Ohio Supreme Court just said that someone should be EXECUTED despite evidence that proved them conclusively INNOCENT \n\nWhy? \n\nBecause there was a procedural hurdle that wasn't met\n\nThink about that and the idea that we have a \"justice system\" for a few minutes https://t.co/92cX68LX2m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/92cX68LX2m",
+					"expanded_url": "https://twitter.com/radleybalko/status/1585001224197509120",
+					"display_url": "twitter.com/radleybalko/st…",
+					"indices": [
+						269,
+						292
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3931283419,
+			"id_str": "3931283419",
+			"name": "Joshua B. Hoe",
+			"screen_name": "JoshuaBHoe",
+			"location": "Michigan, USA",
+			"description": "Sr. Policy Analyst, Host of Decarceration Nation, Social Media Consultant, Christian, formerly incarcerated, registrant, He/Him/His. 2022 Impact Award Winner.",
+			"url": "https://t.co/SBwZMlefAb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SBwZMlefAb",
+							"expanded_url": "http://DecarcerationNation.com",
+							"display_url": "DecarcerationNation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14569,
+			"friends_count": 5453,
+			"listed_count": 148,
+			"created_at": "Sun Oct 18 02:27:48 +0000 2015",
+			"favourites_count": 132990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 186710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986604913537904640/xurGqjE8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986604913537904640/xurGqjE8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3931283419/1556039667",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1585001224197509000,
+		"quoted_status_id_str": "1585001224197509120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/92cX68LX2m",
+			"expanded": "https://twitter.com/radleybalko/status/1585001224197509120",
+			"display": "twitter.com/radleybalko/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 25 20:11:54 +0000 2022",
+			"id": 1585001224197509000,
+			"id_str": "1585001224197509120",
+			"full_text": "This is one of the more alarming opinions I've read in a while. DNA testing excluded Ohio death row prisoner as source of sperm. \n\nOhio SC: OH law requires *prisoner* to request testing. B/c request came from prosecutors, conviction/death sentence stand.\n\nhttps://t.co/bFFQnFzHYZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bFFQnFzHYZ",
+						"expanded_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2018/2018-Ohio-4744.pdf",
+						"display_url": "supremecourt.ohio.gov/rod/docs/pdf/0…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15816595,
+				"id_str": "15816595",
+				"name": "Radley Balko",
+				"screen_name": "radleybalko",
+				"location": "Nashville, TN",
+				"description": "Journalist and investigative reporter. Author: Rise of the Warrior Cop. Co-author: The Cadaver King and the Country Dentist. Honorary Duckmaster",
+				"url": "https://t.co/ZdZlkJnyg1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZdZlkJnyg1",
+								"expanded_url": "http://radleybalko.substack.com",
+								"display_url": "radleybalko.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121544,
+				"friends_count": 2885,
+				"listed_count": 2794,
+				"created_at": "Tue Aug 12 01:08:06 +0000 2008",
+				"favourites_count": 21901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 59741,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "745354",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343328837246054400/ATz6bLic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343328837246054400/ATz6bLic_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15816595/1613582474",
+				"profile_link_color": "A0ADB0",
+				"profile_sidebar_border_color": "0E1A1B",
+				"profile_sidebar_fill_color": "6C8BB2",
+				"profile_text_color": "2D2438",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1282,
+			"favorite_count": 3419,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 128,
+		"favorite_count": 254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "....the Ohio Supreme Court just said that someone should be EXECUTED despite evidence that proved them conclusively INNOCENT \n\nWhy? \n\nBecause there was a procedural hurdle that wasn't met\n\nThink about that and the idea that we have a \"justice system\" for a few minutes https://t.co/92cX68LX2m"
+	},
+	{
 		"created_at": "Tue Oct 25 17:45:37 +0000 2022",
 		"id": 1584318220193800200,
 		"id_str": "1584964411935969281",
