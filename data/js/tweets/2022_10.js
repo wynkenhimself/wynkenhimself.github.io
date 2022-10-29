@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 13:03:38 +0000 2022",
+		"id": 1585720713628987400,
+		"id_str": "1585980610300055558",
+		"full_text": "It’s really wild reading how US news outlets report on prison conditions elsewhere, as if solitary confinement,  prison labor, psychological torment, and *checks notes* death by firing squads don’t exist here https://t.co/PZ4t0vPanP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PZ4t0vPanP",
+					"expanded_url": "https://twitter.com/nbcnews/status/1585457774124752897",
+					"display_url": "twitter.com/nbcnews/status…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305377439,
+			"id_str": "305377439",
+			"name": "derecka",
+			"screen_name": "dereckapurnell",
+			"location": "STL || DC + NYC",
+			"description": "rooting for everybody resisting oppression | human rights lawyer | author, Becoming Abolitionists | Guardian Columnist | law fellow | angry NBA takes",
+			"url": "https://t.co/qfDEIzVZcT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qfDEIzVZcT",
+							"expanded_url": "https://www.derecka.com",
+							"display_url": "derecka.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89454,
+			"friends_count": 2217,
+			"listed_count": 517,
+			"created_at": "Thu May 26 03:19:29 +0000 2011",
+			"favourites_count": 7930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275467834878017538/1vmQU5Yq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275467834878017538/1vmQU5Yq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305377439/1658408605",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1585457774124753000,
+		"quoted_status_id_str": "1585457774124752897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PZ4t0vPanP",
+			"expanded": "https://twitter.com/nbcnews/status/1585457774124752897",
+			"display": "twitter.com/nbcnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 27 02:26:04 +0000 2022",
+			"id": 1585457774124753000,
+			"id_str": "1585457774124752897",
+			"full_text": "Brittney Griner will enter a system of isolation, grueling labor and psychological torment when she is transferred to a penal colony, the successor to the infamous Russian gulag, to fulfill a nine-year sentence, former prisoners and advocates say. https://t.co/uEAjF1UcRn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uEAjF1UcRn",
+						"expanded_url": "https://nbcnews.to/3DfzXxg",
+						"display_url": "nbcnews.to/3DfzXxg",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14173315,
+				"id_str": "14173315",
+				"name": "NBC News",
+				"screen_name": "NBCNews",
+				"location": "New York, NY",
+				"description": "News updates from around the 🌎, all day, every day.",
+				"url": "https://t.co/2f2PctyT1n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2f2PctyT1n",
+								"expanded_url": "http://NBCNews.com",
+								"display_url": "NBCNews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9325071,
+				"friends_count": 1867,
+				"listed_count": 51495,
+				"created_at": "Tue Mar 18 23:19:17 +0000 2008",
+				"favourites_count": 784,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 353107,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "062131",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1338497918387572736/DXHbTEJG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338497918387572736/DXHbTEJG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14173315/1662676823",
+				"profile_link_color": "5172A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 501,
+			"favorite_count": 863,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6757,
+		"favorite_count": 23376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s really wild reading how US news outlets report on prison conditions elsewhere, as if solitary confinement,  prison labor, psychological torment, and *checks notes* death by firing squads don’t exist here https://t.co/PZ4t0vPanP"
+	},
+	{
 		"created_at": "Fri Oct 28 00:01:07 +0000 2022",
 		"id": 1585783686385238000,
 		"id_str": "1585783686385238016",
