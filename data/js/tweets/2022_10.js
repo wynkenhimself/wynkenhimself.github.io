@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 22:19:32 +0000 2022",
+		"id": 1587205947814027300,
+		"id_str": "1587207671454879744",
+		"full_text": "THIS FRIDAY (Nov. 4) proposals are due for the virtual conference \"Item Not Found\": Accounting for Loss in Libraries, Archives and Other Heritage and Memory Institutions! https://t.co/9CEIED0dcM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9CEIED0dcM",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSdwPaGAvSh8aC3ZlT-iXGem6PXJHzZUZe3tLZDrPVRGdLtTsA/viewform",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762462920366170100,
+			"id_str": "762462920366170112",
+			"name": "Emily Spunaugle",
+			"screen_name": "the_embrarian",
+			"location": "Detroit, MI",
+			"description": "humanities & rare bks lbn at oakland u // chair of @LibraryRound // associate editor at @SHARPorgNews // she/hers.",
+			"url": "https://t.co/fGuWbFbEmU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fGuWbFbEmU",
+							"expanded_url": "https://margueritehickspro.wixsite.com/home",
+							"display_url": "margueritehickspro.wixsite.com/home",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 925,
+			"friends_count": 1378,
+			"listed_count": 15,
+			"created_at": "Mon Aug 08 01:38:20 +0000 2016",
+			"favourites_count": 16940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336141071928135682/RJni4v3X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336141071928135682/RJni4v3X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762462920366170112/1563489905",
+			"profile_link_color": "76C45D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIS FRIDAY (Nov. 4) proposals are due for the virtual conference \"Item Not Found\": Accounting for Loss in Libraries, Archives and Other Heritage and Memory Institutions! https://t.co/9CEIED0dcM"
+	},
+	{
+		"created_at": "Mon Oct 31 21:50:34 +0000 2022",
+		"id": 1587149002574807000,
+		"id_str": "1587200380794011648",
+		"full_text": "I'm so excited to be speaking with Kojo Nnamdi on @wamu885 about the future of abortion access. Tune in at 3 PM tomorrow! https://t.co/xV4DNJ9Hr5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wamu885",
+					"name": "WAMU 88.5",
+					"id": 14425965,
+					"id_str": "14425965",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xV4DNJ9Hr5",
+					"expanded_url": "https://twitter.com/wamu885/status/1585315674699845633",
+					"display_url": "twitter.com/wamu885/status…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144987804,
+			"id_str": "144987804",
+			"name": "Ariana Kelly",
+			"screen_name": "DelArianaKelly",
+			"location": "Bethesda, MD",
+			"description": "State Delegate representing Maryland's District 16 | By Authority: Friends of Ariana Kelly. Rosalyn Levy Jonas, Chair. Jennifer R. Kefer, Treasurer.",
+			"url": "https://t.co/RQdM01MLV0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RQdM01MLV0",
+							"expanded_url": "http://delegatearianakelly.com",
+							"display_url": "delegatearianakelly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4711,
+			"friends_count": 2531,
+			"listed_count": 145,
+			"created_at": "Mon May 17 21:08:41 +0000 2010",
+			"favourites_count": 3099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060281870750023681/1XbG-em5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144987804/1508791972",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1585315674699845600,
+		"quoted_status_id_str": "1585315674699845633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xV4DNJ9Hr5",
+			"expanded": "https://twitter.com/wamu885/status/1585315674699845633",
+			"display": "twitter.com/wamu885/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 26 17:01:25 +0000 2022",
+			"id": 1585315674699845600,
+			"id_str": "1585315674699845633",
+			"full_text": "Has the Supreme Court’s decision to overturn Roe affected you? What do you think it will mean for the future of abortion access?\n\nOn Nov. 1, Kojo Nnamdi will host a live show about how abortion care is changing, and how local residents have been affected.\nhttps://t.co/wKQ1EeCUin",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wKQ1EeCUin",
+						"expanded_url": "https://wamu.fm/3VUfiYd",
+						"display_url": "wamu.fm/3VUfiYd",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14425965,
+				"id_str": "14425965",
+				"name": "WAMU 88.5",
+				"screen_name": "wamu885",
+				"location": "Washington, DC",
+				"description": "WAMU 88.5 - American University Radio. Home of @1A, @drshow, @politicshour and @dishcity. Want to share your thoughts? Reach out to us at feedback@wamu.org.",
+				"url": "https://t.co/hIsAf8h9ii",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hIsAf8h9ii",
+								"expanded_url": "http://wamu.org/",
+								"display_url": "wamu.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45295,
+				"friends_count": 883,
+				"listed_count": 1249,
+				"created_at": "Thu Apr 17 21:23:35 +0000 2008",
+				"favourites_count": 5938,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43364,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081268534397800448/31ZFfG_I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081268534397800448/31ZFfG_I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14425965/1605190502",
+				"profile_link_color": "CD3300",
+				"profile_sidebar_border_color": "DCDCDC",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "171717",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm so excited to be speaking with Kojo Nnamdi on @wamu885 about the future of abortion access. Tune in at 3 PM tomorrow! https://t.co/xV4DNJ9Hr5"
+	},
+	{
+		"created_at": "Mon Oct 31 15:14:49 +0000 2022",
+		"id": 1587100787628548000,
+		"id_str": "1587100787628548097",
+		"full_text": "Happy Halloween, my bibliographical friends!!! https://t.co/zRS56uSIHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zRS56uSIHE",
+					"expanded_url": "https://twitter.com/elisewatson_/status/1587077062606602240",
+					"display_url": "twitter.com/elisewatson_/s…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/gFrU3VrKJz | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gFrU3VrKJz",
+							"expanded_url": "http://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10143,
+			"friends_count": 518,
+			"listed_count": 376,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1587077062606602200,
+		"quoted_status_id_str": "1587077062606602240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zRS56uSIHE",
+			"expanded": "https://twitter.com/elisewatson_/status/1587077062606602240",
+			"display": "twitter.com/elisewatson_/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 31 13:40:32 +0000 2022",
+			"id": 1587077062606602200,
+			"id_str": "1587077062606602240",
+			"full_text": "I wanted to properly scare everyone in the department for Halloween this year (especially my bibliography students), so I wore the most spine-chilling thing I could think of… https://t.co/E6ui7PCyO7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1587077058089328600,
+						"id_str": "1587077058089328643",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/FgZuLPaWIAMFUaS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgZuLPaWIAMFUaS.jpg",
+						"url": "https://t.co/E6ui7PCyO7",
+						"display_url": "pic.twitter.com/E6ui7PCyO7",
+						"expanded_url": "https://twitter.com/elisewatson_/status/1587077062606602240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1587077058089328600,
+						"id_str": "1587077058089328643",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/FgZuLPaWIAMFUaS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgZuLPaWIAMFUaS.jpg",
+						"url": "https://t.co/E6ui7PCyO7",
+						"display_url": "pic.twitter.com/E6ui7PCyO7",
+						"expanded_url": "https://twitter.com/elisewatson_/status/1587077062606602240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985906200473669600,
+				"id_str": "985906200473669633",
+				"name": "Dr Elise Watson",
+				"screen_name": "elisewatson_",
+				"location": "Saint Andrews, Scotland",
+				"description": "Postdoc @universalstc at @univofstandrews ☞ Catholic print, religious minorities, gender, ephemera, all things #earlymodern #bookhistory ☞ she/her 🌈",
+				"url": "https://t.co/7vOOBpZP9B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7vOOBpZP9B",
+								"expanded_url": "https://elise-watson.com/",
+								"display_url": "elise-watson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 850,
+				"friends_count": 468,
+				"listed_count": 8,
+				"created_at": "Mon Apr 16 15:42:10 +0000 2018",
+				"favourites_count": 2281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 392,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366743508426641410/zJYe_2c3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366743508426641410/zJYe_2c3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985906200473669633/1561051758",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 299,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Halloween, my bibliographical friends!!! https://t.co/zRS56uSIHE"
+	},
+	{
 		"created_at": "Sun Oct 30 17:49:55 +0000 2022",
 		"id": 1586777431364493300,
 		"id_str": "1586777431364493313",
