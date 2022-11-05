@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 17:30:17 +0000 2022",
+		"id": 1588584430398230500,
+		"id_str": "1588584430398230529",
+		"full_text": "Do please feel free to join #BookishBookClub! Our Discord community is chatty and kind and bookish, plus we read books and watch movies and do crafts! https://t.co/2WDTw8ebkt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BookishBookClub",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2WDTw8ebkt",
+					"expanded_url": "https://twitter.com/internetstine/status/1588559097095688192",
+					"display_url": "twitter.com/internetstine/…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/gFrU3VrKJz | she/her ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gFrU3VrKJz",
+							"expanded_url": "http://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10115,
+			"friends_count": 518,
+			"listed_count": 375,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1588559097095688200,
+		"quoted_status_id_str": "1588559097095688192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2WDTw8ebkt",
+			"expanded": "https://twitter.com/internetstine/status/1588559097095688192",
+			"display": "twitter.com/internetstine/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 04 15:49:37 +0000 2022",
+			"id": 1588559097095688200,
+			"id_str": "1588559097095688192",
+			"full_text": "if you are looking for community with bookish pals, please feel free to join many of us on the Bookish Book Club discord--you do not need to attend book club meetings to be a part of our community. dm me, @wynkenhimself or @aravahshifra for an invite.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wynkenhimself",
+						"name": "Sarah Werner",
+						"id": 35384223,
+						"id_str": "35384223",
+						"indices": [
+							205,
+							219
+						]
+					},
+					{
+						"screen_name": "aravahshifra",
+						"name": "Cassia 👻",
+						"id": 145893323,
+						"id_str": "145893323",
+						"indices": [
+							223,
+							236
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1588557787373908000,
+			"in_reply_to_status_id_str": "1588557787373907968",
+			"in_reply_to_user_id": 326660319,
+			"in_reply_to_user_id_str": "326660319",
+			"in_reply_to_screen_name": "internetstine",
+			"user": {
+				"id": 326660319,
+				"id_str": "326660319",
+				"name": "Christine Jacobson 🇺🇦",
+				"screen_name": "internetstine",
+				"location": "Cambridge, MA",
+				"description": "Assistant Curator of Modern Books & Manuscripts @houghtonlib \n✍️ about cultural heritage, material culture, slavica, sundry | she/она",
+				"url": "https://t.co/nZNYxLOio8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nZNYxLOio8",
+								"expanded_url": "https://linktr.ee/cejacobson",
+								"display_url": "linktr.ee/cejacobson",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4338,
+				"friends_count": 2543,
+				"listed_count": 32,
+				"created_at": "Thu Jun 30 08:27:18 +0000 2011",
+				"favourites_count": 52811,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11130,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1587894288943263744/juNnv7oD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587894288943263744/juNnv7oD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326660319/1659874272",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FEFFF7",
+				"profile_text_color": "0F0E0F",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do please feel free to join #BookishBookClub! Our Discord community is chatty and kind and bookish, plus we read books and watch movies and do crafts! https://t.co/2WDTw8ebkt"
+	},
+	{
 		"created_at": "Thu Nov 03 23:06:02 +0000 2022",
 		"id": 1588306538866905000,
 		"id_str": "1588306538866905088",
@@ -607,7 +855,7 @@ Grailbird.data.tweets_2022_11 =
 			"user_mentions": [
 				{
 					"screen_name": "jentalleydesign",
-					"name": "Jen Talley 🏳️‍🌈 🏴‍☠️",
+					"name": "Jen Talley 🏳️🌈 🏴☠️",
 					"id": 8822562,
 					"id_str": "8822562",
 					"indices": [
@@ -743,7 +991,7 @@ Grailbird.data.tweets_2022_11 =
 		"user": {
 			"id": 18105922,
 			"id_str": "18105922",
-			"name": "Claire McGuire 🏳️‍🌈",
+			"name": "Claire McGuire 🏳️🌈",
 			"screen_name": "vcmcguire",
 			"location": "PHL via SFO",
 			"description": "Writer, gardener, librarian & homesick Californian. GCT ovarian cancer patient since 1987. Disabled. She/her. \n\nProtect trans kids. Black lives matter.",
@@ -1218,7 +1466,7 @@ Grailbird.data.tweets_2022_11 =
 			"user_mentions": [
 				{
 					"screen_name": "jentalleydesign",
-					"name": "Jen Talley 🏳️‍🌈 🏴‍☠️",
+					"name": "Jen Talley 🏳️🌈 🏴☠️",
 					"id": 8822562,
 					"id_str": "8822562",
 					"indices": [
