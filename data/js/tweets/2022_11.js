@@ -1,6 +1,832 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 20:26:44 +0000 2022",
+		"id": 1590762188532109300,
+		"id_str": "1590803164462460928",
+		"full_text": "With today's AP call in Montana, it's official: In every state where voters were asked directly about abortion or an abortion-related issue, they backed the pro-abortion-rights side. That includes blue (CA, VT), swing (MI), and red states (KY, MT). https://t.co/vgJwDO1yGV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vgJwDO1yGV",
+					"expanded_url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-abortion.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326562333,
+			"id_str": "326562333",
+			"name": "Maggie Astor",
+			"screen_name": "MaggieAstor",
+			"location": "New York, N.Y.",
+			"description": "Reporter @nytimes. Now: politics, live news. Then: climate, covid. Always: cats, gymnastics. Proud member @nytimesguild. She/her, maggie.astor@nytimes.com.",
+			"url": "https://t.co/u61fWp6hCq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u61fWp6hCq",
+							"expanded_url": "https://www.nytimes.com/by/maggie-astor",
+							"display_url": "nytimes.com/by/maggie-astor",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22714,
+			"friends_count": 1640,
+			"listed_count": 430,
+			"created_at": "Thu Jun 30 03:36:13 +0000 2011",
+			"favourites_count": 4539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280172404506087424/qmeNwwMm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280172404506087424/qmeNwwMm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326562333/1547161725",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 401,
+		"favorite_count": 1153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With today's AP call in Montana, it's official: In every state where voters were asked directly about abortion or an abortion-related issue, they backed the pro-abortion-rights side. That includes blue (CA, VT), swing (MI), and red states (KY, MT). https://t.co/vgJwDO1yGV"
+	},
+	{
+		"created_at": "Thu Nov 10 17:20:00 +0000 2022",
+		"id": 1590756172147167200,
+		"id_str": "1590756172147167235",
+		"full_text": "I'm not saying there's a 1:1 correlation, but I am saying that we have been around for millennium and we have folks trying to kill us off by literally and figuratively destroying us, and I am distressed watching it play out again in 2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1590755836975947800,
+		"in_reply_to_status_id_str": "1590755836975947776",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/gFrU3VrKJz | she/her | @wynkenhimself@glammr.us ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gFrU3VrKJz",
+							"expanded_url": "http://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 520,
+			"listed_count": 372,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I'm not saying there's a 1:1 correlation, but I am saying that we have been around for millennium and we have folks trying to kill us off by literally and figuratively destroying us, and I am distressed watching it play out again in 2022"
+	},
+	{
+		"created_at": "Thu Nov 10 17:18:41 +0000 2022",
+		"id": 1590755836975947800,
+		"id_str": "1590755836975947776",
+		"full_text": "I've been thinking a lot about how antisemitism plays out and having an entire culture wiped out just 80 years ago--and thinking in tandem about how the Indian Child Welfare Act is key to Native sovereignty in keeping peoples and cultures alive. #ProtectICWA https://t.co/ZxDmNPdNLv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ProtectICWA",
+					"indices": [
+						246,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZxDmNPdNLv",
+					"expanded_url": "https://twitter.com/bowdowntoChi/status/1590740025104543745",
+					"display_url": "twitter.com/bowdowntoChi/s…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/gFrU3VrKJz | she/her | @wynkenhimself@glammr.us ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gFrU3VrKJz",
+							"expanded_url": "http://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 520,
+			"listed_count": 372,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1590740025104543700,
+		"quoted_status_id_str": "1590740025104543745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZxDmNPdNLv",
+			"expanded": "https://twitter.com/bowdowntoChi/status/1590740025104543745",
+			"display": "twitter.com/bowdowntoChi/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 10 16:15:51 +0000 2022",
+			"id": 1590740025104543700,
+			"id_str": "1590740025104543745",
+			"full_text": "as a reconnecting indigenous person i understand how it feels and what it does to be raised without your culture and the way it makes you feel like dying because you can’t relate to anyone around you.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1590738914431893500,
+			"in_reply_to_status_id_str": "1590738914431893506",
+			"in_reply_to_user_id": 451966258,
+			"in_reply_to_user_id_str": "451966258",
+			"in_reply_to_screen_name": "bowdowntoChi",
+			"user": {
+				"id": 451966258,
+				"id_str": "451966258",
+				"name": "PROTECT ICWA",
+				"screen_name": "bowdowntoChi",
+				"location": "Anahuac",
+				"description": "*indigenous & detribalized* feeding my brain useless facts, and information about historical events at any given time she/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250,
+				"friends_count": 168,
+				"listed_count": 1,
+				"created_at": "Sun Jan 01 07:35:56 +0000 2012",
+				"favourites_count": 14747,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21507,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1457932256887123970/YeZA9NGP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457932256887123970/YeZA9NGP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/451966258/1638914858",
+				"profile_link_color": "8C1DCC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've been thinking a lot about how antisemitism plays out and having an entire culture wiped out just 80 years ago--and thinking in tandem about how the Indian Child Welfare Act is key to Native sovereignty in keeping peoples and cultures alive. #ProtectICWA https://t.co/ZxDmNPdNLv"
+	},
+	{
+		"created_at": "Thu Nov 10 16:19:14 +0000 2022",
+		"id": 1590730683345170400,
+		"id_str": "1590740879396204544",
+		"full_text": "I'm going to be genuinely very sad when this site finally implodes in a pile of buggy code, but also what a ride it's going to be.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1590730072889360400,
+		"in_reply_to_status_id_str": "1590730072889360385",
+		"in_reply_to_user_id": 8119452,
+		"in_reply_to_user_id_str": "8119452",
+		"in_reply_to_screen_name": "dansinker",
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "Chicago, IL",
+			"description": "I write things and make stuff. Cohost of @sayswhopodcast, did https://t.co/04UGuYfGYv, formerly @opennews, made @MayorEmanuel, founder of Punk Planet (RIP).",
+			"url": "https://t.co/0GCDJhFZEC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0GCDJhFZEC",
+							"expanded_url": "http://dansinker.com/links",
+							"display_url": "dansinker.com/links",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/04UGuYfGYv",
+							"expanded_url": "http://impeachment.fyi",
+							"display_url": "impeachment.fyi",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31677,
+			"friends_count": 4352,
+			"listed_count": 1234,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 128682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 145367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm going to be genuinely very sad when this site finally implodes in a pile of buggy code, but also what a ride it's going to be."
+	},
+	{
+		"created_at": "Thu Nov 10 16:18:50 +0000 2022",
+		"id": 1590696859869536300,
+		"id_str": "1590740777537196035",
+		"full_text": "Okay twitter blue has been such a success I need to do a thread. Feel free to add to the 🧵on the great launch of this product https://t.co/cx1bEFp9Yn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590696854496452600,
+					"id_str": "1590696854496452610",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FhNKXH2XoAInDRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhNKXH2XoAInDRo.jpg",
+					"url": "https://t.co/cx1bEFp9Yn",
+					"display_url": "pic.twitter.com/cx1bEFp9Yn",
+					"expanded_url": "https://twitter.com/JoshuaPHilll/status/1590696859869536256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 851,
+							"h": 1285,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590696854496452600,
+					"id_str": "1590696854496452610",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FhNKXH2XoAInDRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhNKXH2XoAInDRo.jpg",
+					"url": "https://t.co/cx1bEFp9Yn",
+					"display_url": "pic.twitter.com/cx1bEFp9Yn",
+					"expanded_url": "https://twitter.com/JoshuaPHilll/status/1590696859869536256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 851,
+							"h": 1285,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090715513586679800,
+			"id_str": "1090715513586679813",
+			"name": "Read Jackson Rising by @CooperationJXN",
+			"screen_name": "JoshuaPHilll",
+			"location": "Lenapehoking (NYC)",
+			"description": "Earthseed | Abolition | Anti-capitalism | (he/him) Paid stuff @theslowfactory Unpaid stuff @wspmutualaid Backup: @jpbackitup",
+			"url": "https://t.co/yZ6EzyWljb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yZ6EzyWljb",
+							"expanded_url": "https://instagram.com/joshuaphillll",
+							"display_url": "instagram.com/joshuaphillll",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245667,
+			"friends_count": 1313,
+			"listed_count": 1576,
+			"created_at": "Wed Jan 30 20:56:57 +0000 2019",
+			"favourites_count": 239285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267117596542930949/ja591xA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267117596542930949/ja591xA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090715513586679813/1549834444",
+			"profile_link_color": "14171A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23072,
+		"favorite_count": 179525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okay twitter blue has been such a success I need to do a thread. Feel free to add to the 🧵on the great launch of this product https://t.co/cx1bEFp9Yn"
+	},
+	{
+		"created_at": "Thu Nov 10 13:35:03 +0000 2022",
+		"id": 1590682897509339100,
+		"id_str": "1590699560388939777",
+		"full_text": "Climate change &amp; cultural heritage expert Eira Tansey is drafting a green new deal for archives, to be published by @CLIRnews in spring 2023. She focuses on climate change &amp; our destabilized workforce. You can read the preview on her website now!\n\nhttps://t.co/n6kXiUcV9O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CLIRnews",
+					"name": "CLIR",
+					"id": 516708506,
+					"id_str": "516708506",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n6kXiUcV9O",
+					"expanded_url": "https://eiratansey.com/2022/11/07/a-green-new-deal-for-archives-preview/",
+					"display_url": "eiratansey.com/2022/11/07/a-g…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14307108,
+			"id_str": "14307108",
+			"name": "Shannon K. Supple ✨ (https://glammr.us/@mazarine)",
+			"screen_name": "mazarines",
+			"location": "Massachusetts, USA",
+			"description": "Imaginaria, libraries, archives, history of science, book history, social/environmental justice, music, trees, birds, coffee, funny things | Water creature",
+			"url": "https://t.co/YvAl8f3aoC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YvAl8f3aoC",
+							"expanded_url": "http://pronoun.is/she",
+							"display_url": "pronoun.is/she",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3808,
+			"friends_count": 1142,
+			"listed_count": 138,
+			"created_at": "Fri Apr 04 23:25:18 +0000 2008",
+			"favourites_count": 92589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006573389853745152/VTuwWonm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006573389853745152/VTuwWonm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14307108/1612227481",
+			"profile_link_color": "A64C07",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "AAC2AC",
+			"profile_text_color": "254F0F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Climate change &amp; cultural heritage expert Eira Tansey is drafting a green new deal for archives, to be published by @CLIRnews in spring 2023. She focuses on climate change &amp; our destabilized workforce. You can read the preview on her website now!\n\nhttps://t.co/n6kXiUcV9O"
+	},
+	{
 		"created_at": "Wed Nov 09 23:18:59 +0000 2022",
 		"id": 1590467958597619700,
 		"id_str": "1590484123919212544",
@@ -106,7 +932,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Representative-elect Zooey Zephyr",
 			"screen_name": "ZoAndBehold",
 			"location": "Missoula, Montana, USA",
-			"description": "Representative-elect for Montana's 100th House District\n\nProgressive✨  Bi🏳️‍🌈   Trans🏳️‍⚧️   she/her♀️",
+			"description": "Representative-elect for Montana's 100th House District\n\nProgressive✨  Bi🏳️🌈   Trans🏳️⚧️   she/her♀️",
 			"url": "https://t.co/s9191HrFGe",
 			"entities": {
 				"url": {
