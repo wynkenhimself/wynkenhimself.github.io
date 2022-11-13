@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 19:42:33 +0000 2022",
+		"id": 1591044208143773700,
+		"id_str": "1591516821621981184",
+		"full_text": "Americans are drowning in medical debt. It’s a burden for more than 100 million people and harms the physical, mental, and financial health of our families. Washington doesn’t have a plan for medical debt relief. Toledo, Ohio does. https://t.co/jtlQLVVX2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jtlQLVVX2K",
+					"expanded_url": "https://www.toledoblade.com/opinion/editorials/2022/11/11/editorial-debt-program-a-model/stories/20221111016/",
+					"display_url": "toledoblade.com/opinion/editor…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23316890,
+			"id_str": "23316890",
+			"name": "Michele Grim",
+			"screen_name": "michelegrim",
+			"location": "Toledo, OH",
+			"description": "State Representative-Elect, Ohio House District 43. Health Promotion & Access Chair, Toledo City Council. Abolish medical debt. She/her",
+			"url": "https://t.co/avSm39sPen",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/avSm39sPen",
+							"expanded_url": "http://www.michelegrim.com",
+							"display_url": "michelegrim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1326,
+			"friends_count": 809,
+			"listed_count": 14,
+			"created_at": "Sun Mar 08 15:17:57 +0000 2009",
+			"favourites_count": 2732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555970298784219138/L9FLJ5Be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555970298784219138/L9FLJ5Be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23316890/1654307802",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 511,
+		"favorite_count": 1648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Americans are drowning in medical debt. It’s a burden for more than 100 million people and harms the physical, mental, and financial health of our families. Washington doesn’t have a plan for medical debt relief. Toledo, Ohio does. https://t.co/jtlQLVVX2K"
+	},
+	{
+		"created_at": "Sat Nov 12 14:43:09 +0000 2022",
+		"id": 1591441471949140000,
+		"id_str": "1591441471949139968",
+		"full_text": "@GrubStreetWomen Oops here https://t.co/HMrOwlD9sS",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrubStreetWomen",
+					"name": "Dr. Kate Ozment",
+					"id": 724376123665043500,
+					"id_str": "724376123665043456",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HMrOwlD9sS",
+					"expanded_url": "https://twitter.com/dansinker/status/1590472313237274625",
+					"display_url": "twitter.com/dansinker/stat…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1591441315622969300,
+		"in_reply_to_status_id_str": "1591441315622969351",
+		"in_reply_to_user_id": 35384223,
+		"in_reply_to_user_id_str": "35384223",
+		"in_reply_to_screen_name": "wynkenhimself",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/gFrU3VrKJz | she/her | @wynkenhimself@glammr.us ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gFrU3VrKJz",
+							"expanded_url": "http://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10049,
+			"friends_count": 519,
+			"listed_count": 372,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1590472313237274600,
+		"quoted_status_id_str": "1590472313237274625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HMrOwlD9sS",
+			"expanded": "https://twitter.com/dansinker/status/1590472313237274625",
+			"display": "twitter.com/dansinker/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 09 22:32:03 +0000 2022",
+			"id": 1590472313237274600,
+			"id_str": "1590472313237274625",
+			"full_text": "OK, I'm starting a thread of paid bluecheck accounts that impersonate actual verified bluecheck accounts.\n\nMay as well start with the account pretending to be Twitter itself to get access to crypto wallets. https://t.co/YhadxMx0Nn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YhadxMx0Nn",
+						"expanded_url": "https://twitter.com/AGoldmund/status/1590386510003867648?s=20&t=TQq7BOFASWJ11jN_s10DOg",
+						"display_url": "twitter.com/AGoldmund/stat…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8119452,
+				"id_str": "8119452",
+				"name": "💀 damned sinker 💀",
+				"screen_name": "dansinker",
+				"location": "Chicago, IL",
+				"description": "I write things and make stuff. Cohost of @sayswhopodcast, did https://t.co/04UGuYfGYv, formerly @opennews, made @MayorEmanuel, founder of Punk Planet (RIP).",
+				"url": "https://t.co/0GCDJhFZEC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0GCDJhFZEC",
+								"expanded_url": "http://dansinker.com/links",
+								"display_url": "dansinker.com/links",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/04UGuYfGYv",
+								"expanded_url": "http://impeachment.fyi",
+								"display_url": "impeachment.fyi",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 31753,
+				"friends_count": 4349,
+				"listed_count": 1236,
+				"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+				"favourites_count": 128899,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 145539,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1590386510003867600,
+			"quoted_status_id_str": "1590386510003867648",
+			"quoted_status_permalink": {
+				"url": "https://t.co/YhadxMx0Nn",
+				"expanded": "https://twitter.com/AGoldmund/status/1590386510003867648?s=20&t=TQq7BOFASWJ11jN_s10DOg",
+				"display": "twitter.com/AGoldmund/stat…"
+			},
+			"retweet_count": 316,
+			"favorite_count": 570,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GrubStreetWomen Oops here https://t.co/HMrOwlD9sS"
+	},
+	{
 		"created_at": "Fri Nov 11 16:44:53 +0000 2022",
 		"id": 1591109718990282800,
 		"id_str": "1591109718990282753",
