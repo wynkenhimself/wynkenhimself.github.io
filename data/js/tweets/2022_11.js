@@ -1,6 +1,1947 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 18:27:56 +0000 2022",
+		"id": 1592584219649532000,
+		"id_str": "1592585204354650114",
+		"full_text": "I saw this circulating a lot via a Newsweek article. It’s important to know that Newsweek is no longer any kind of reputable outlet; it’s now owned by fringe right-wingers, a “zombie magazine.” https://t.co/RlmiNC4Nvr https://t.co/3uO9XCYSSj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RlmiNC4Nvr",
+					"expanded_url": "https://newrepublic.com/article/158968/newsweek-rise-zombie-magazine",
+					"display_url": "newrepublic.com/article/158968…",
+					"indices": [
+						194,
+						217
+					]
+				},
+				{
+					"url": "https://t.co/3uO9XCYSSj",
+					"expanded_url": "https://twitter.com/ctvnews/status/1592575910447910918",
+					"display_url": "twitter.com/ctvnews/status…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56812711,
+			"id_str": "56812711",
+			"name": "Miriam Posner",
+			"screen_name": "miriamkp",
+			"location": "Los Angeles, California",
+			"description": "https://t.co/7BFDURvlbf Asst prof, @UCLAIS, own opinions haver, fighter. Supply chain enthusiast. https://t.co/pT8BTqWoSs",
+			"url": "https://t.co/HkzFM6GAof",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkzFM6GAof",
+							"expanded_url": "http://miriamposner.com/blog/about/",
+							"display_url": "miriamposner.com/blog/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7BFDURvlbf",
+							"expanded_url": "https://dair-community.social/@miriamkp",
+							"display_url": "dair-community.social/@miriamkp",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/pT8BTqWoSs",
+							"expanded_url": "http://pronoun.is/she",
+							"display_url": "pronoun.is/she",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20761,
+			"friends_count": 3722,
+			"listed_count": 627,
+			"created_at": "Tue Jul 14 20:52:27 +0000 2009",
+			"favourites_count": 74485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1552417061522944000/RHakwyPj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1552417061522944000/RHakwyPj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56812711/1553737269",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1592575910447911000,
+		"quoted_status_id_str": "1592575910447910918",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3uO9XCYSSj",
+			"expanded": "https://twitter.com/ctvnews/status/1592575910447910918",
+			"display": "twitter.com/ctvnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 15 17:51:00 +0000 2022",
+			"id": 1592575910447911000,
+			"id_str": "1592575910447910918",
+			"full_text": "Trudeau deletes tweet falsely claiming Iran has sentenced 15,000 protesters to death https://t.co/DNk3G1KRg9 https://t.co/VhI7cF9caA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DNk3G1KRg9",
+						"expanded_url": "https://www.ctvnews.ca/politics/trudeau-deletes-tweet-falsely-claiming-iran-has-sentenced-15-000-protesters-to-death-1.6153727?cid=sm%3Atrueanthem%3A%7B%7Bcampaignname%7D%7D%3Atwitterpost%E2%80%8B&taid=6373d14cdddb9b00014aeec9&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+						"display_url": "ctvnews.ca/politics/trude…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1592575907616678000,
+						"id_str": "1592575907616677891",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/Fhn3WaNWYAMKyC1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fhn3WaNWYAMKyC1.jpg",
+						"url": "https://t.co/VhI7cF9caA",
+						"display_url": "pic.twitter.com/VhI7cF9caA",
+						"expanded_url": "https://twitter.com/CTVNews/status/1592575910447910918/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1020,
+								"h": 573,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1020,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1592575907616678000,
+						"id_str": "1592575907616677891",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/Fhn3WaNWYAMKyC1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fhn3WaNWYAMKyC1.jpg",
+						"url": "https://t.co/VhI7cF9caA",
+						"display_url": "pic.twitter.com/VhI7cF9caA",
+						"expanded_url": "https://twitter.com/CTVNews/status/1592575910447910918/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1020,
+								"h": 573,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1020,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://trueanthem.com/\" rel=\"nofollow\">True Anthem</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203123011,
+				"id_str": "203123011",
+				"name": "CTV News",
+				"screen_name": "CTVNews",
+				"location": "",
+				"description": "Tweeting breaking news from https://t.co/EY6mIddx44 in the CTV National newsroom. RTs do not constitute endorsement of views.",
+				"url": "https://t.co/fp5NHZ4P4g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fp5NHZ4P4g",
+								"expanded_url": "http://www.ctvnews.ca",
+								"display_url": "ctvnews.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EY6mIddx44",
+								"expanded_url": "http://www.CTVNews.ca",
+								"display_url": "CTVNews.ca",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1678914,
+				"friends_count": 351,
+				"listed_count": 5623,
+				"created_at": "Fri Oct 15 15:48:42 +0000 2010",
+				"favourites_count": 129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 340433,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113055141761073153/9gjeEtmz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113055141761073153/9gjeEtmz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203123011/1498059584",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 348,
+			"favorite_count": 882,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I saw this circulating a lot via a Newsweek article. It’s important to know that Newsweek is no longer any kind of reputable outlet; it’s now owned by fringe right-wingers, a “zombie magazine.” https://t.co/RlmiNC4Nvr https://t.co/3uO9XCYSSj"
+	},
+	{
+		"created_at": "Tue Nov 15 18:10:33 +0000 2022",
+		"id": 1592580829720592400,
+		"id_str": "1592580829720592384",
+		"full_text": "@transbookhistry i mean, colored conventions project is the first one that comes to mind; not explicitly bookhist but very very adjacent",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transbookhistry",
+					"name": "Kadin Henningsen",
+					"id": 1261415036033081300,
+					"id_str": "1261415036033081345",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1592578764890075100,
+		"in_reply_to_status_id_str": "1592578764890075136",
+		"in_reply_to_user_id": 1261415036033081300,
+		"in_reply_to_user_id_str": "1261415036033081345",
+		"in_reply_to_screen_name": "transbookhistry",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "feminist bibliography, libraries, old books | Studying Early Printed Books 1450-1800 | https://t.co/gFrU3VrKJz | she/her | @wynkenhimself@glammr.us ✡️ 🌈 ♑️",
+			"url": "https://t.co/w7y36FGg9I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w7y36FGg9I",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gFrU3VrKJz",
+							"expanded_url": "http://linktr.ee/wynkenhimself",
+							"display_url": "linktr.ee/wynkenhimself",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10049,
+			"friends_count": 519,
+			"listed_count": 373,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 43557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@transbookhistry i mean, colored conventions project is the first one that comes to mind; not explicitly bookhist but very very adjacent"
+	},
+	{
+		"created_at": "Tue Nov 15 18:08:18 +0000 2022",
+		"id": 1592564511633862700,
+		"id_str": "1592580263380365314",
+		"full_text": "Does preservation of authentic artifacts become more or less important in a world where generative AI can create something almost indistinguishable from the original? https://t.co/oYAPeifSQJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oYAPeifSQJ",
+					"expanded_url": "https://twitter.com/waxpancake/status/1592553291824910336",
+					"display_url": "twitter.com/waxpancake/sta…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50510658,
+			"id_str": "50510658",
+			"name": "Fletcher Durant",
+			"screen_name": "fletcherdurant",
+			"location": "Gainesville, FL",
+			"description": "Head of Conservation and Preservation @UFLib. Preservation is access. Once accurately referred to as an \"associate conservator\" in the NY Times 📚 He/Him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746,
+			"friends_count": 1352,
+			"listed_count": 80,
+			"created_at": "Thu Jun 25 01:36:37 +0000 2009",
+			"favourites_count": 103382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661666344753111040/RqxrrlLE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661666344753111040/RqxrrlLE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50510658/1523625262",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1592553291824910300,
+		"quoted_status_id_str": "1592553291824910336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oYAPeifSQJ",
+			"expanded": "https://twitter.com/waxpancake/status/1592553291824910336",
+			"display": "twitter.com/waxpancake/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 15 16:21:07 +0000 2022",
+			"id": 1592553291824910300,
+			"id_str": "1592553291824910336",
+			"full_text": "I talked to the The Verge’s @jjvincent for this deep dive into the muddy waters of generative AI and copyright. https://t.co/anAqgipXfX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jjvincent",
+						"name": "James Vincent",
+						"id": 237920763,
+						"id_str": "237920763",
+						"indices": [
+							28,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/anAqgipXfX",
+						"expanded_url": "https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data",
+						"display_url": "theverge.com/23444685/gener…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13461,
+				"id_str": "13461",
+				"name": "Andy Baio",
+				"screen_name": "waxpancake",
+				"location": "Portland, OR",
+				"description": "I made @waxy, @xoxo, @skittishHQ, @upcomingorg, https://t.co/smCJO4M0NH, @playfic, @supercutorg, https://t.co/AeYHp22iCL. Helped build @kickstarter. https://t.co/tL5G9nm0qF (he/him)",
+				"url": "https://t.co/RQvlGK3gQj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RQvlGK3gQj",
+								"expanded_url": "https://waxy.org/",
+								"display_url": "waxy.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/smCJO4M0NH",
+								"expanded_url": "http://belong.io",
+								"display_url": "belong.io",
+								"indices": [
+									48,
+									71
+								]
+							},
+							{
+								"url": "https://t.co/AeYHp22iCL",
+								"expanded_url": "http://kindofbloop.com",
+								"display_url": "kindofbloop.com",
+								"indices": [
+									97,
+									120
+								]
+							},
+							{
+								"url": "https://t.co/tL5G9nm0qF",
+								"expanded_url": "http://xoxo.zone/@andybaio",
+								"display_url": "xoxo.zone/@andybaio",
+								"indices": [
+									149,
+									172
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 47008,
+				"friends_count": 2166,
+				"listed_count": 1939,
+				"created_at": "Tue Nov 21 08:18:02 +0000 2006",
+				"favourites_count": 29643,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43514,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFF2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1547688320951390208/b5b_mUK5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1547688320951390208/b5b_mUK5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13461/1444437281",
+				"profile_link_color": "E77946",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFF2",
+				"profile_text_color": "404040",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does preservation of authentic artifacts become more or less important in a world where generative AI can create something almost indistinguishable from the original? https://t.co/oYAPeifSQJ"
+	},
+	{
+		"created_at": "Tue Nov 15 18:06:41 +0000 2022",
+		"id": 1592570720445689900,
+		"id_str": "1592579857749143552",
+		"full_text": "https://t.co/uSea3b1zsA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uSea3b1zsA",
+					"expanded_url": "https://twitter.com/jack_turban/status/1571718475810508801",
+					"display_url": "twitter.com/jack_turban/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1592570674438340600,
+		"in_reply_to_status_id_str": "1592570674438340608",
+		"in_reply_to_user_id": 634734888,
+		"in_reply_to_user_id_str": "634734888",
+		"in_reply_to_screen_name": "ParkerMolloy",
+		"user": {
+			"id": 634734888,
+			"id_str": "634734888",
+			"name": "Parker Molloy",
+			"screen_name": "ParkerMolloy",
+			"location": "Chicago, IL",
+			"description": "wife of @KaylaPekkala, writer, https://t.co/FsJGmMwE3I; https://t.co/ifsLO6Bma6; 2022 NYU American Journalism Online Award winner: Best Media Criticism",
+			"url": "https://t.co/YghQyFF5us",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YghQyFF5us",
+							"expanded_url": "https://bio.site/parkermolloy",
+							"display_url": "bio.site/parkermolloy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FsJGmMwE3I",
+							"expanded_url": "https://www.readtpa.com",
+							"display_url": "readtpa.com",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/ifsLO6Bma6",
+							"expanded_url": "http://journa.host/web/@parker",
+							"display_url": "journa.host/web/@parker",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248576,
+			"friends_count": 2634,
+			"listed_count": 2650,
+			"created_at": "Fri Jul 13 15:32:43 +0000 2012",
+			"favourites_count": 242934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587451206833766402/xllU9wMH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587451206833766402/xllU9wMH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/634734888/1667581947",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1571718475810508800,
+		"quoted_status_id_str": "1571718475810508801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uSea3b1zsA",
+			"expanded": "https://twitter.com/jack_turban/status/1571718475810508801",
+			"display": "twitter.com/jack_turban/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 19 04:31:00 +0000 2022",
+			"id": 1571718475810508800,
+			"id_str": "1571718475810508801",
+			"full_text": "🚨New study results presented at WPATH🚨 \n\nA large NIH-funded study of 316 #trans youth who received gender-affirming medical care found improvements in anxiety, depression, positive affect, and life satisfaction over the 2-year follow up period. https://t.co/amdmLGnJx9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "trans",
+						"indices": [
+							73,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1571718472647966700,
+						"id_str": "1571718472647966720",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/Fc_dn6EaAAAtfqv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fc_dn6EaAAAtfqv.jpg",
+						"url": "https://t.co/amdmLGnJx9",
+						"display_url": "pic.twitter.com/amdmLGnJx9",
+						"expanded_url": "https://twitter.com/jack_turban/status/1571718475810508801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1046,
+								"h": 593,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1046,
+								"h": 593,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1571718472647966700,
+						"id_str": "1571718472647966720",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/Fc_dn6EaAAAtfqv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fc_dn6EaAAAtfqv.jpg",
+						"url": "https://t.co/amdmLGnJx9",
+						"display_url": "pic.twitter.com/amdmLGnJx9",
+						"expanded_url": "https://twitter.com/jack_turban/status/1571718475810508801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1046,
+								"h": 593,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1046,
+								"h": 593,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1571718472664748000,
+						"id_str": "1571718472664748033",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/Fc_dn6IaEAE8PCA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fc_dn6IaEAE8PCA.jpg",
+						"url": "https://t.co/amdmLGnJx9",
+						"display_url": "pic.twitter.com/amdmLGnJx9",
+						"expanded_url": "https://twitter.com/jack_turban/status/1571718475810508801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1035,
+								"h": 580,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1035,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 802622679287205900,
+				"id_str": "802622679287205888",
+				"name": "Jack Turban MD 🏳️‍⚧️🧠🏳️‍🌈",
+				"screen_name": "jack_turban",
+				"location": "",
+				"description": "Assistant Prof @UCSFPsychiatry & @UCSF_IHPS | #Trans Youth Mental Health Researcher | Opinions in @NYTopinion & Others | Views Mine & Not Med Advice",
+				"url": "https://t.co/loPb6C2gQ8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/loPb6C2gQ8",
+								"expanded_url": "http://www.jackturban.com",
+								"display_url": "jackturban.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50606,
+				"friends_count": 3246,
+				"listed_count": 408,
+				"created_at": "Sat Nov 26 21:18:53 +0000 2016",
+				"favourites_count": 59667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28653,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244007200588279810/xffRhOIL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244007200588279810/xffRhOIL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/802622679287205888/1658548486",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 366,
+			"favorite_count": 1513,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/uSea3b1zsA"
+	},
+	{
+		"created_at": "Tue Nov 15 18:06:31 +0000 2022",
+		"id": 1592569876690133000,
+		"id_str": "1592579818025107456",
+		"full_text": "I once again want to recommend that everyone check out this @e_urq article to understand just how much NYT screwed up with its anti-trans story yesterday. Just total failures on the paper's part. Incorrect info, omissions, lies, all of it: https://t.co/TSmcWSMkEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "e_urq",
+					"name": "Evan Urquhart",
+					"id": 24280596,
+					"id_str": "24280596",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TSmcWSMkEE",
+					"expanded_url": "https://www.assignedmedia.org/breaking-news/nyt-investigation-finds-concerns-about-puberty-blockers-for-trans-youth",
+					"display_url": "assignedmedia.org/breaking-news/…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1592336617762861000,
+		"in_reply_to_status_id_str": "1592336617762861056",
+		"in_reply_to_user_id": 634734888,
+		"in_reply_to_user_id_str": "634734888",
+		"in_reply_to_screen_name": "ParkerMolloy",
+		"user": {
+			"id": 634734888,
+			"id_str": "634734888",
+			"name": "Parker Molloy",
+			"screen_name": "ParkerMolloy",
+			"location": "Chicago, IL",
+			"description": "wife of @KaylaPekkala, writer, https://t.co/FsJGmMwE3I; https://t.co/ifsLO6Bma6; 2022 NYU American Journalism Online Award winner: Best Media Criticism",
+			"url": "https://t.co/YghQyFF5us",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YghQyFF5us",
+							"expanded_url": "https://bio.site/parkermolloy",
+							"display_url": "bio.site/parkermolloy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FsJGmMwE3I",
+							"expanded_url": "https://www.readtpa.com",
+							"display_url": "readtpa.com",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/ifsLO6Bma6",
+							"expanded_url": "http://journa.host/web/@parker",
+							"display_url": "journa.host/web/@parker",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248576,
+			"friends_count": 2634,
+			"listed_count": 2650,
+			"created_at": "Fri Jul 13 15:32:43 +0000 2012",
+			"favourites_count": 242934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587451206833766402/xllU9wMH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587451206833766402/xllU9wMH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/634734888/1667581947",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I once again want to recommend that everyone check out this @e_urq article to understand just how much NYT screwed up with its anti-trans story yesterday. Just total failures on the paper's part. Incorrect info, omissions, lies, all of it: https://t.co/TSmcWSMkEE"
+	},
+	{
+		"created_at": "Tue Nov 15 16:42:27 +0000 2022",
+		"id": 1592365739230761000,
+		"id_str": "1592558661444186114",
+		"full_text": "This is astounding in a state where Republicans have run successful campaigns based on scorched-earth anti-immigrant xenophobia. I am very happy to see this making my case that the future of Democrats is partly in the Southwest. https://t.co/dikG978quH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dikG978quH",
+					"expanded_url": "https://twitter.com/erikaandiola/status/1592348504923734016",
+					"display_url": "twitter.com/erikaandiola/s…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100158078,
+			"id_str": "100158078",
+			"name": "Ignacio M. Sánchez Prado",
+			"screen_name": "isanchezprado",
+			"location": "St. Louis, MO",
+			"description": "Scholar of Mexico, Literature, Cinema, Food. Faculty @WUSTL. Life in STL, heart in CDMX. Husband of Abby, hooman of Luna. My tweets are purely personal.",
+			"url": "https://t.co/jQxCY89m2u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jQxCY89m2u",
+							"expanded_url": "https://ignaciosanchezprado.com",
+							"display_url": "ignaciosanchezprado.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7340,
+			"friends_count": 3587,
+			"listed_count": 75,
+			"created_at": "Tue Dec 29 06:44:38 +0000 2009",
+			"favourites_count": 23028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587841029650137089/OtO3NdHM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587841029650137089/OtO3NdHM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100158078/1534350601",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1592348504923734000,
+		"quoted_status_id_str": "1592348504923734016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dikG978quH",
+			"expanded": "https://twitter.com/erikaandiola/status/1592348504923734016",
+			"display": "twitter.com/erikaandiola/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 15 02:47:22 +0000 2022",
+			"id": 1592348504923734000,
+			"id_str": "1592348504923734016",
+			"full_text": "BREAKING: It’s official. YES ON #Prop308 JUST WON!!! We have won in-state tuition for undocumented youth in Arizona.\n\nMy heart is so filled with joy. 😭\n\n@AlientoAZ team, THANK YOU. Your work made this happen. \n\nArizona voters, THANK YOU. \n\nLet me tell you why this is personal 👇🏾 https://t.co/twPTOqY67k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Prop308",
+						"indices": [
+							32,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AlientoAZ",
+						"name": "Aliento",
+						"id": 741347215197638700,
+						"id_str": "741347215197638656",
+						"indices": [
+							153,
+							163
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1592348323179962400,
+						"id_str": "1592348323179962371",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1592348323179962371/pu/img/VUnUWaI8jOtRoCRj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1592348323179962371/pu/img/VUnUWaI8jOtRoCRj.jpg",
+						"url": "https://t.co/twPTOqY67k",
+						"display_url": "pic.twitter.com/twPTOqY67k",
+						"expanded_url": "https://twitter.com/ErikaAndiola/status/1592348504923734016/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1592348323179962400,
+						"id_str": "1592348323179962371",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1592348323179962371/pu/img/VUnUWaI8jOtRoCRj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1592348323179962371/pu/img/VUnUWaI8jOtRoCRj.jpg",
+						"url": "https://t.co/twPTOqY67k",
+						"display_url": "pic.twitter.com/twPTOqY67k",
+						"expanded_url": "https://twitter.com/ErikaAndiola/status/1592348504923734016/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 29293,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1592348323179962371/pu/pl/fmhVfq4KAOr4EiXN.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1592348323179962371/pu/vid/480x852/lWWCRLabJJImQcZC.mp4?tag=14"
+								},
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1592348323179962371/pu/vid/1080x1920/N_IKe4q9yQrmZoO5.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1592348323179962371/pu/vid/320x568/-YJNk7IYcNQ2yJ3b.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1592348323179962371/pu/vid/720x1280/5T3wFsAO2wNsQ7hZ.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150135224,
+				"id_str": "150135224",
+				"name": "Erika Andiola",
+				"screen_name": "ErikaAndiola",
+				"location": "Tempe, AZ",
+				"description": "Immigrant Rights & Progressive Advocate | Comms Director for @TheYoungCenter | Former Press Sec for Bernie 2016 | ❤️ @Kai_Newkirk 🐾 Luna | Opinions are my own",
+				"url": "https://t.co/lvaPZ0UgKC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lvaPZ0UgKC",
+								"expanded_url": "http://www.erikaandiola.net/",
+								"display_url": "erikaandiola.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53944,
+				"friends_count": 3821,
+				"listed_count": 681,
+				"created_at": "Mon May 31 05:07:35 +0000 2010",
+				"favourites_count": 13235,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30882,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1573015210474217472/YfAFFNgq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1573015210474217472/YfAFFNgq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150135224/1658343771",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1214,
+			"favorite_count": 6740,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is astounding in a state where Republicans have run successful campaigns based on scorched-earth anti-immigrant xenophobia. I am very happy to see this making my case that the future of Democrats is partly in the Southwest. https://t.co/dikG978quH"
+	},
+	{
+		"created_at": "Tue Nov 15 16:13:29 +0000 2022",
+		"id": 1592319578742608000,
+		"id_str": "1592551370380300293",
+		"full_text": "6yo: I cried at school today, but only twice, and only a little bit. The tears did not come all the way down.\n\nMe: oh, gosh, buddy, I’m sorry. Did something bad happen?\n\n6: No, I just drew a turkey in my writing notebook, and he was so beautiful. I was so proud of him. 🥺",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107632869780975600,
+			"id_str": "1107632869780975621",
+			"name": "Audrey Burges",
+			"screen_name": "Audrey_Burges",
+			"location": "",
+			"description": "Author, THE MINUSCULE MANSION OF MYRA MALONE (2023, @BerkleyPub); scribbler of humor, flash, & pretty flowers; wearer of Costco pants; rep'd by @mariarwhelan",
+			"url": "https://t.co/e98vj9GW30",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e98vj9GW30",
+							"expanded_url": "https://linktr.ee/audreyburges",
+							"display_url": "linktr.ee/audreyburges",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7391,
+			"friends_count": 5270,
+			"listed_count": 35,
+			"created_at": "Mon Mar 18 13:20:29 +0000 2019",
+			"favourites_count": 77448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559322627130408960/kNtJoaFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559322627130408960/kNtJoaFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107632869780975621/1660000188",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1251,
+		"favorite_count": 30283,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "6yo: I cried at school today, but only twice, and only a little bit. The tears did not come all the way down.\n\nMe: oh, gosh, buddy, I’m sorry. Did something bad happen?\n\n6: No, I just drew a turkey in my writing notebook, and he was so beautiful. I was so proud of him. 🥺"
+	},
+	{
+		"created_at": "Tue Nov 15 16:13:00 +0000 2022",
+		"id": 1592499837408510000,
+		"id_str": "1592551250205151232",
+		"full_text": "Extraordinary lack of basic fact checking. Iran has not sentenced 15,000 protesters to death, as a number of celebrities and political leaders are saying. Here are the facts as we know them: #IranProtests https://t.co/8PvK7slYBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IranProtests",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1592499833574662100,
+					"id_str": "1592499833574662145",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FhmyKUUWIAEEBdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhmyKUUWIAEEBdW.jpg",
+					"url": "https://t.co/8PvK7slYBd",
+					"display_url": "pic.twitter.com/8PvK7slYBd",
+					"expanded_url": "https://twitter.com/SuneEngel/status/1592499837408509952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 491,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592499833574662100,
+					"id_str": "1592499833574662145",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FhmyKUUWIAEEBdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhmyKUUWIAEEBdW.jpg",
+					"url": "https://t.co/8PvK7slYBd",
+					"display_url": "pic.twitter.com/8PvK7slYBd",
+					"expanded_url": "https://twitter.com/SuneEngel/status/1592499837408509952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 491,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1592499833587351600,
+					"id_str": "1592499833587351553",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FhmyKUXXwAESh8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhmyKUXXwAESh8v.jpg",
+					"url": "https://t.co/8PvK7slYBd",
+					"display_url": "pic.twitter.com/8PvK7slYBd",
+					"expanded_url": "https://twitter.com/SuneEngel/status/1592499837408509952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49586895,
+			"id_str": "49586895",
+			"name": "Sune Engel Rasmussen",
+			"screen_name": "SuneEngel",
+			"location": "London, England",
+			"description": "Foreign correspondent for @WSJ covering mostly #Afghanistan & #Iran. Author (in Danish) of \"Nyt Blod\" about the Afghan war. He/him",
+			"url": "https://t.co/hikFJjUHiF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hikFJjUHiF",
+							"expanded_url": "https://www.wsj.com/news/author/8697",
+							"display_url": "wsj.com/news/author/86…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27478,
+			"friends_count": 2787,
+			"listed_count": 570,
+			"created_at": "Mon Jun 22 09:55:10 +0000 2009",
+			"favourites_count": 1777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999347180631605249/5m4XROhJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999347180631605249/5m4XROhJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49586895/1418491961",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1498,
+		"favorite_count": 4384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Extraordinary lack of basic fact checking. Iran has not sentenced 15,000 protesters to death, as a number of celebrities and political leaders are saying. Here are the facts as we know them: #IranProtests https://t.co/8PvK7slYBd"
+	},
+	{
+		"created_at": "Tue Nov 15 16:11:23 +0000 2022",
+		"id": 1592262105503502300,
+		"id_str": "1592550840102961152",
+		"full_text": "I was skeptical before, but after seeing his management skills in action I think letting Elon Musk oversee the migration of Earth's wealthiest people to Mars is a great idea.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7774822,
+			"id_str": "7774822",
+			"name": "Jesse von Doom",
+			"screen_name": "jessevondoom",
+			"location": "Newport, RI",
+			"description": "Product stuff @glitch (@fastly). @ShuttleworthFdn fellow. Formerly @cashmusic, @Mozilla. Also: @jessevondoom@mastodon.social (maybe?) Ⓥ",
+			"url": "https://t.co/AD0WzkDe2E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AD0WzkDe2E",
+							"expanded_url": "https://jessevondoom.glitch.me/",
+							"display_url": "jessevondoom.glitch.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5616,
+			"friends_count": 775,
+			"listed_count": 267,
+			"created_at": "Sat Jul 28 01:03:03 +0000 2007",
+			"favourites_count": 77735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225970643105206276/8TcJIJJI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225970643105206276/8TcJIJJI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7774822/1409099669",
+			"profile_link_color": "FF11AA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "7D7D7D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19486,
+		"favorite_count": 123028,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I was skeptical before, but after seeing his management skills in action I think letting Elon Musk oversee the migration of Earth's wealthiest people to Mars is a great idea."
+	},
+	{
 		"created_at": "Tue Nov 15 01:42:00 +0000 2022",
 		"id": 1592332052690784300,
 		"id_str": "1592332052690784256",
@@ -949,7 +2890,7 @@ Grailbird.data.tweets_2022_11 =
 				"name": "S. Mirk",
 				"screen_name": "sarahmirk",
 				"location": "Portland, OR",
-				"description": "Comics + journalism. Digital producer @reveal & contributing editor @thenib / Obsessive zine-maker & author of Guantanamo Voices. She/they 🏳️‍🌈🌯🔥",
+				"description": "Comics + journalism. Digital producer @reveal & contributing editor @thenib / Obsessive zine-maker & author of Guantanamo Voices. She/they 🏳️🌈🌯🔥",
 				"url": "https://t.co/gQNDgw6PUM",
 				"entities": {
 					"url": {
@@ -1296,7 +3237,7 @@ Grailbird.data.tweets_2022_11 =
 				"name": "S. Mirk",
 				"screen_name": "sarahmirk",
 				"location": "Portland, OR",
-				"description": "Comics + journalism. Digital producer @reveal & contributing editor @thenib / Obsessive zine-maker & author of Guantanamo Voices. She/they 🏳️‍🌈🌯🔥",
+				"description": "Comics + journalism. Digital producer @reveal & contributing editor @thenib / Obsessive zine-maker & author of Guantanamo Voices. She/they 🏳️🌈🌯🔥",
 				"url": "https://t.co/gQNDgw6PUM",
 				"entities": {
 					"url": {
