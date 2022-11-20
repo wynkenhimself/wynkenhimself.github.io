@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 19 15:15:31 +0000 2022",
+		"id": 1593972029153214500,
+		"id_str": "1593986334061826048",
+		"full_text": "oh wow i wonder who the dobbs leaker could be https://t.co/MFUBAQP3k8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MFUBAQP3k8",
+					"expanded_url": "https://www.nytimes.com/2022/11/19/us/supreme-court-leak-abortion-roe-wade.html",
+					"display_url": "nytimes.com/2022/11/19/us/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14190948,
+			"id_str": "14190948",
+			"name": "b-boy bouiebaisse",
+			"screen_name": "jbouie",
+			"location": "Charlottesville, VA",
+			"description": "My name is Jamelle Bouie. @nytopinion columnist. Co-host of @UnclearPod. Upgrade your grey matter, ‘cuz one day it may matter.",
+			"url": "https://t.co/AGDEkOL167",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AGDEkOL167",
+							"expanded_url": "https://www.nytimes.com/column/jamelle-bouie",
+							"display_url": "nytimes.com/column/jamelle…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460605,
+			"friends_count": 1309,
+			"listed_count": 6583,
+			"created_at": "Fri Mar 21 12:46:26 +0000 2008",
+			"favourites_count": 38768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 70212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549145195987537926/Ql_4fV8Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549145195987537926/Ql_4fV8Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14190948/1518145233",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 459,
+		"favorite_count": 5057,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "oh wow i wonder who the dobbs leaker could be https://t.co/MFUBAQP3k8"
+	},
+	{
 		"created_at": "Fri Nov 18 21:36:27 +0000 2022",
 		"id": 1593719811888013300,
 		"id_str": "1593719811888013312",
