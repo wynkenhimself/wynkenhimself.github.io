@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 14:03:34 +0000 2022",
+		"id": 1596139940617851000,
+		"id_str": "1596142552419270657",
+		"full_text": "1/ I’m not well, but oh I wish I could be picketing #ucuRISING \n\n- Academic salaries are 25% down since 2009\n\n- My pension provider USS decimated my pension with absurd cuts based on an apocalypse scenario. It projects it will plunge me into pension poverty, at £9k per year https://t.co/a26iiG1GhE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ucuRISING",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a26iiG1GhE",
+					"expanded_url": "https://twitter.com/ucusenatehouse/status/1595795416951713792",
+					"display_url": "twitter.com/ucusenatehouse…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3176124093,
+			"id_str": "3176124093",
+			"name": "Dr Elizabeth Savage",
+			"screen_name": "LEUSavage",
+			"location": "London, England",
+			"description": "Early Colour Printing: German Renaissance Woodcuts at the British Museum: https://t.co/kILReAn7wO. Image: https://t.co/jnFkFxAPbA…",
+			"url": "https://t.co/UBdjlY87LL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UBdjlY87LL",
+							"expanded_url": "https://research.sas.ac.uk/institute-ies/staff/1026/dr-elizabeth-savage/",
+							"display_url": "research.sas.ac.uk/institute-ies/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kILReAn7wO",
+							"expanded_url": "http://bit.ly/SavageBMPrints",
+							"display_url": "bit.ly/SavageBMPrints",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/jnFkFxAPbA",
+							"expanded_url": "http://rijksmuseum.nl/en/collection/",
+							"display_url": "rijksmuseum.nl/en/collection/",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4781,
+			"friends_count": 5268,
+			"listed_count": 64,
+			"created_at": "Fri Apr 17 10:47:27 +0000 2015",
+			"favourites_count": 9662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524429978577907712/WNpijM_v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524429978577907712/WNpijM_v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3176124093/1567168829",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1595795416951713800,
+		"quoted_status_id_str": "1595795416951713792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a26iiG1GhE",
+			"expanded": "https://twitter.com/ucusenatehouse/status/1595795416951713792",
+			"display": "twitter.com/ucusenatehouse…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 24 15:04:10 +0000 2022",
+			"id": 1595795416951713800,
+			"id_str": "1595795416951713792",
+			"full_text": "Senate House UCU members keeping the picket joyful 🪧 ☀️ #ucuRISING https://t.co/u2Qbt66XMV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ucuRISING",
+						"indices": [
+							56,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1595793429455413200,
+						"id_str": "1595793429455413251",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/FiVlq1GXoAMxPVc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FiVlq1GXoAMxPVc.jpg",
+						"url": "https://t.co/u2Qbt66XMV",
+						"display_url": "pic.twitter.com/u2Qbt66XMV",
+						"expanded_url": "https://twitter.com/UCUSenateHouse/status/1595795416951713792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1595793429455413200,
+						"id_str": "1595793429455413251",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/FiVlq1GXoAMxPVc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FiVlq1GXoAMxPVc.jpg",
+						"url": "https://t.co/u2Qbt66XMV",
+						"display_url": "pic.twitter.com/u2Qbt66XMV",
+						"expanded_url": "https://twitter.com/UCUSenateHouse/status/1595795416951713792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1595793477228437500,
+						"id_str": "1595793477228437504",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/FiVltnEWIAADBDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FiVltnEWIAADBDn.jpg",
+						"url": "https://t.co/u2Qbt66XMV",
+						"display_url": "pic.twitter.com/u2Qbt66XMV",
+						"expanded_url": "https://twitter.com/UCUSenateHouse/status/1595795416951713792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1595793526188548000,
+						"id_str": "1595793526188548103",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/FiVlwddWIAcV_em.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FiVlwddWIAcV_em.jpg",
+						"url": "https://t.co/u2Qbt66XMV",
+						"display_url": "pic.twitter.com/u2Qbt66XMV",
+						"expanded_url": "https://twitter.com/UCUSenateHouse/status/1595795416951713792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 735411068055507000,
+				"id_str": "735411068055506944",
+				"name": "Senate House UCU (University of London)",
+				"screen_name": "UCUSenateHouse",
+				"location": "Bloomsbury, London",
+				"description": "We represent members across @LondonU @UoLondon @CareersGroup @SASNews @SenateHouseLib @CoSector_UoL and more \nWant to know branch policies and info? 👇",
+				"url": "https://t.co/KtuZMRDtAf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KtuZMRDtAf",
+								"expanded_url": "https://ucu.london.ac.uk/",
+								"display_url": "ucu.london.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 988,
+				"friends_count": 576,
+				"listed_count": 14,
+				"created_at": "Wed May 25 10:03:56 +0000 2016",
+				"favourites_count": 1397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295999719240617986/D0YDMqMj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295999719240617986/D0YDMqMj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/735411068055506944/1574714560",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/ I’m not well, but oh I wish I could be picketing #ucuRISING \n\n- Academic salaries are 25% down since 2009\n\n- My pension provider USS decimated my pension with absurd cuts based on an apocalypse scenario. It projects it will plunge me into pension poverty, at £9k per year https://t.co/a26iiG1GhE"
+	},
+	{
 		"created_at": "Mon Nov 21 15:27:45 +0000 2022",
 		"id": 1594714189112565800,
 		"id_str": "1594714189112565760",
