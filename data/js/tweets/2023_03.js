@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 23:59:41 +0000 2023",
+		"id": 1640866278377242600,
+		"id_str": "1640866278377242624",
+		"full_text": "@Literature_Geek So excited you’ll be joining the course!!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Literature_Geek",
+					"name": "Amanda Visconti @literature_geek@mstdn.social",
+					"id": 89312744,
+					"id_str": "89312744",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1640733079600873500,
+		"in_reply_to_status_id_str": "1640733079600873472",
+		"in_reply_to_user_id": 89312744,
+		"in_reply_to_user_id_str": "89312744",
+		"in_reply_to_screen_name": "Literature_Geek",
+		"user": {
+			"id": 35384223,
+			"id_str": "35384223",
+			"name": "Sarah Werner",
+			"screen_name": "wynkenhimself",
+			"location": "Washington, DC",
+			"description": "not here anymore | @wynkenhimself@glammr.us ✡️ 🌈 ♑️",
+			"url": "https://t.co/cwZjQb5axE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cwZjQb5axE",
+							"expanded_url": "http://sarahwerner.net",
+							"display_url": "sarahwerner.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9763,
+			"friends_count": 444,
+			"listed_count": 366,
+			"created_at": "Sun Apr 26 02:57:49 +0000 2009",
+			"favourites_count": 41976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B2B18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839810650230632449/aWo5oO-A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35384223/1551722011",
+			"profile_link_color": "2F7BED",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Literature_Geek So excited you’ll be joining the course!!"
+	},
+	{
 		"created_at": "Sat Mar 25 14:45:07 +0000 2023",
 		"id": 1639639553785970700,
 		"id_str": "1639639553785970689",
